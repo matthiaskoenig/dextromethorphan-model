@@ -17,11 +17,11 @@
   "access_right": "open",
   "license": "LGPL-3.0",
   "keywords": [
-    "SBML",
-    "modeling",
+    "model",
     "dextromethorphan",
     "pharmacokinetics",
-    "PBPK"
+    "PBPK",
+    "physiologically based pharamacokinetic model"
   ],
   "contributors": [],
   "communities": [],
