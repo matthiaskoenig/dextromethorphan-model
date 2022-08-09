@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6420970.svg)](https://doi.org/10.5281/zenodo.6420970)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6976102.svg)](https://doi.org/10.5281/zenodo.6976102)
 
 # Dextromethorphan model
 This repository provides the dextromethorphan physiologically based pharmacokinetics (PBPK) model.
@@ -21,11 +21,11 @@ The whole-body submodel is available from [`dextromethorphan_body.xml`](./models
 [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/dextromethorphan_body.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/dextromethorphan_body.xml)
 
 ## How to cite
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6420970.svg)](https://doi.org/10.5281/zenodo.6420970)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6976103.svg)](https://doi.org/10.5281/zenodo.6976103)
 
-> Grzegorzewski, Jan &  König, Matthias. (2022).  
-> *Physiologically based pharmacokinetics (PBPK) model of dextromethorphan*   
-> Zenodo. [https://doi.org/10.5281/zenodo.6420970](https://doi.org/10.5281/zenodo.6420970)
+> Grzegorzewski, Jan, & König, Matthias. (2022). 
+> *Physiologically based pharmacokinetic (PBPK) model of dextromethorphan (v0.9.0).*   
+> Zenodo. [https://doi.org/10.5281/zenodo.6976103](https://doi.org/10.5281/zenodo.6976103)
 
 ## License
 
