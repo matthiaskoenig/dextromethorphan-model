@@ -8,6 +8,9 @@ The model is distributed as [SBML](http://sbml.org) available from [`dextrometho
 corresponding SBML4humans model report at [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/dextromethorphan_body_flat.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/dextromethorphan_body_flat.xml)
 
 ### Comp submodels
+The CYP2D6 submodel is available from [`cyp2d6.xml`](./models/cyp2d6.xml) with corresponding SBML4humans report at
+[https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/cyp2d6.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/cyp2d6.xml)
+
 The liver submodel is available from [`dextromethorphan_liver.xml`](./models/dextromethorphan_liver.xml) with corresponding SBML4humans report at
 [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/dextromethorphan_liver.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/dextromethorphan_liver.xml)
 

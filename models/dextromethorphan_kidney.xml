@@ -7,12 +7,12 @@
         <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5525390.svg" alt="DOI"/></a></p>
       </body>
     </notes>
-  <model metaid="meta_dextromethorphan_kidney" id="dextromethorphan_kidney" name="Dextromethorphan (DEX) kidney model" substanceUnits="mmole" timeUnits="min" volumeUnits="litre" areaUnits="m2" lengthUnits="metre" extentUnits="mmole">
+  <model metaid="meta_dextromethorphan_kidney" id="dextromethorphan_kidney" name="Dextromethorphan (DXM) kidney model" substanceUnits="mmole" timeUnits="min" volumeUnits="litre" areaUnits="m2" lengthUnits="metre" extentUnits="mmole">
     <notes>
       <body xmlns="http://www.w3.org/1999/xhtml">
-        <h1>Dextromethorphan (DEX) kidney model</h1>
+        <h1>Dextromethorphan (DXM) kidney model</h1>
         <img src="dex_kidney.png" width="200"/>
-        <p>DEX and DOR can be excreted in the urine via the kidneys. The renal filtration
+        <p>DXM, DXO, DXO_GLU can be excreted in the urine via the kidneys. The renal filtration
 and excretion processes are not modeled in detail, but first order irreversible
 mass-action kinetics are used.&quot;,</p>
         <h2>Terms of use</h2>
@@ -44,16 +44,6 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Bag>
               <rdf:li rdf:parseType="Resource">
                 <vCard:N rdf:parseType="Resource">
-                  <vCard:Family>Grzegorzewski</vCard:Family>
-                  <vCard:Given>Jan</vCard:Given>
-                </vCard:N>
-                <vCard:EMAIL>janekG89@hotmail.de</vCard:EMAIL>
-                <vCard:ORG rdf:parseType="Resource">
-                  <vCard:Orgname>Humboldt-University Berlin, Institute for Theoretical Biology</vCard:Orgname>
-                </vCard:ORG>
-              </rdf:li>
-              <rdf:li rdf:parseType="Resource">
-                <vCard:N rdf:parseType="Resource">
                   <vCard:Family>Janosch</vCard:Family>
                   <vCard:Given>Brandhorst</vCard:Given>
                 </vCard:N>
@@ -68,6 +58,16 @@ FOR A PARTICULAR PURPOSE.</p></body>
                   <vCard:Given>Matthias</vCard:Given>
                 </vCard:N>
                 <vCard:EMAIL>koenigmx@hu-berlin.de</vCard:EMAIL>
+                <vCard:ORG rdf:parseType="Resource">
+                  <vCard:Orgname>Humboldt-University Berlin, Institute for Theoretical Biology</vCard:Orgname>
+                </vCard:ORG>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <vCard:N rdf:parseType="Resource">
+                  <vCard:Family>Grzegorzewski</vCard:Family>
+                  <vCard:Given>Jan</vCard:Given>
+                </vCard:N>
+                <vCard:EMAIL>janekG89@hotmail.de</vCard:EMAIL>
                 <vCard:ORG rdf:parseType="Resource">
                   <vCard:Orgname>Humboldt-University Berlin, Institute for Theoretical Biology</vCard:Orgname>
                 </vCard:ORG>
@@ -198,26 +198,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
       </compartment>
     </listOfCompartments>
     <listOfSpecies>
-      <species metaid="meta_dex" sboTerm="SBO:0000247" id="dex" name="dextromethorphan (kidney)" compartment="Vki" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+      <species metaid="meta_dxm" sboTerm="SBO:0000247" id="dxm" name="dextromethorphan (kidney)" compartment="Vki" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_dex">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
-                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:4470"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ncit/C62022"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/MKXZASYAUGDDCJ-NJAFHUGGSA-N"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_dor" sboTerm="SBO:0000247" id="dor" name="dextrorphan (kidney)" compartment="Vki" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_dor">
+            <rdf:Description rdf:about="#meta_dxm">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
@@ -230,10 +214,26 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_dor_glu" sboTerm="SBO:0000247" id="dor_glu" name="dextrorphan glucuronide (kidney)" compartment="Vki" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+      <species metaid="meta_dxo" sboTerm="SBO:0000247" id="dxo" name="dextrorphan (kidney)" compartment="Vki" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_dor_glu">
+            <rdf:Description rdf:about="#meta_dxo">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:29133"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit/C171857"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey/JAQUASYNZVUNQP-PVAVHDDUSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_dxo_glu" sboTerm="SBO:0000247" id="dxo_glu" name="dextrorphan glucuronide (kidney)" compartment="Vki" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_dxo_glu">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
@@ -246,10 +246,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_dex_urine" sboTerm="SBO:0000247" id="dex_urine" name="dextromethorphan (urine)" compartment="Vurine" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
+      <species metaid="meta_dxm_urine" sboTerm="SBO:0000247" id="dxm_urine" name="dextromethorphan (urine)" compartment="Vurine" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_dex_urine">
+            <rdf:Description rdf:about="#meta_dxm_urine">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
@@ -262,10 +262,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_dor_urine" sboTerm="SBO:0000247" id="dor_urine" name="dextrorphan (urine)" compartment="Vurine" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
+      <species metaid="meta_dxo_urine" sboTerm="SBO:0000247" id="dxo_urine" name="dextrorphan (urine)" compartment="Vurine" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_dor_urine">
+            <rdf:Description rdf:about="#meta_dxo_urine">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
@@ -278,10 +278,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_dor_glu_urine" sboTerm="SBO:0000247" id="dor_glu_urine" name="dextrorphan glucuronide (urine)" compartment="Vurine" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
+      <species metaid="meta_dxo_glu_urine" sboTerm="SBO:0000247" id="dxo_glu_urine" name="dextrorphan glucuronide (urine)" compartment="Vurine" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_dor_glu_urine">
+            <rdf:Description rdf:about="#meta_dxo_glu_urine">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
@@ -296,10 +296,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
       </species>
     </listOfSpecies>
     <listOfParameters>
-      <parameter metaid="meta_DEXEX_k" sboTerm="SBO:0000009" id="DEXEX_k" name="DEX urinary excretion rate" value="0.017" units="per_min" constant="true">
+      <parameter metaid="meta_DXMEX_k" sboTerm="SBO:0000009" id="DXMEX_k" name="DXM urinary excretion rate" value="0.017" units="per_min" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_DEXEX_k">
+            <rdf:Description rdf:about="#meta_DXMEX_k">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000009"/>
@@ -309,10 +309,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="meta_DOREX_k" sboTerm="SBO:0000009" id="DOREX_k" name="DOR urinary excretion rate" value="0.3" units="per_min" constant="true">
+      <parameter metaid="meta_DXOEX_k" sboTerm="SBO:0000009" id="DXOEX_k" name="DXO urinary excretion rate" value="0.3" units="per_min" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_DOREX_k">
+            <rdf:Description rdf:about="#meta_DXOEX_k">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000009"/>
@@ -322,10 +322,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="meta_DORGLUEX_k" sboTerm="SBO:0000009" id="DORGLUEX_k" name="DOR glucuronide urinary excretion rate" value="10" units="per_min" constant="true">
+      <parameter metaid="meta_DXOGLUEX_k" sboTerm="SBO:0000009" id="DXOGLUEX_k" name="DXO glucuronide urinary excretion rate" value="10" units="per_min" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_DORGLUEX_k">
+            <rdf:Description rdf:about="#meta_DXOGLUEX_k">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000009"/>
@@ -337,10 +337,10 @@ FOR A PARTICULAR PURPOSE.</p></body>
       </parameter>
     </listOfParameters>
     <listOfReactions>
-      <reaction metaid="meta_DEXEX" sboTerm="SBO:0000655" id="DEXEX" name="DEX urinary excretion" reversible="false" fast="false" compartment="Vmem">
+      <reaction metaid="meta_DXMEX" sboTerm="SBO:0000655" id="DXMEX" name="DXM urinary excretion" reversible="false" fast="false" compartment="Vmem">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_DEXEX">
+            <rdf:Description rdf:about="#meta_DXMEX">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000655"/>
@@ -350,26 +350,26 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="dex" stoichiometry="1" constant="true"/>
+          <speciesReference species="dxm" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="dex_urine" stoichiometry="1" constant="true"/>
+          <speciesReference species="dxm_urine" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
             <apply>
               <times/>
-              <ci> DEXEX_k </ci>
+              <ci> DXMEX_k </ci>
               <ci> Vki </ci>
-              <ci> dex </ci>
+              <ci> dxm </ci>
             </apply>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_DOREX" sboTerm="SBO:0000655" id="DOREX" name="DOR urinary excretion" reversible="false" fast="false" compartment="Vmem">
+      <reaction metaid="meta_DXOEX" sboTerm="SBO:0000655" id="DXOEX" name="DXO urinary excretion" reversible="false" fast="false" compartment="Vmem">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_DOREX">
+            <rdf:Description rdf:about="#meta_DXOEX">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000655"/>
@@ -379,26 +379,26 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="dor" stoichiometry="1" constant="true"/>
+          <speciesReference species="dxo" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="dor_urine" stoichiometry="1" constant="true"/>
+          <speciesReference species="dxo_urine" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
             <apply>
               <times/>
-              <ci> DOREX_k </ci>
+              <ci> DXOEX_k </ci>
               <ci> Vki </ci>
-              <ci> dor </ci>
+              <ci> dxo </ci>
             </apply>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="meta_DORGLUEX" sboTerm="SBO:0000655" id="DORGLUEX" name="DOR glucuronide urinary excretion" reversible="false" fast="false" compartment="Vmem">
+      <reaction metaid="meta_DXOGLUEX" sboTerm="SBO:0000655" id="DXOGLUEX" name="DXO glucuronide urinary excretion" reversible="false" fast="false" compartment="Vmem">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_DORGLUEX">
+            <rdf:Description rdf:about="#meta_DXOGLUEX">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="https://identifiers.org/SBO:0000655"/>
@@ -408,18 +408,18 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="dor_glu" stoichiometry="1" constant="true"/>
+          <speciesReference species="dxo_glu" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="dor_glu_urine" stoichiometry="1" constant="true"/>
+          <speciesReference species="dxo_glu_urine" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
             <apply>
               <times/>
-              <ci> DORGLUEX_k </ci>
+              <ci> DXOGLUEX_k </ci>
               <ci> Vki </ci>
-              <ci> dor_glu </ci>
+              <ci> dxo_glu </ci>
             </apply>
           </math>
         </kineticLaw>
@@ -428,12 +428,12 @@ FOR A PARTICULAR PURPOSE.</p></body>
     <comp:listOfPorts>
       <comp:port metaid="Vki_port" sboTerm="SBO:0000599" comp:idRef="Vki" comp:id="Vki_port" comp:name="Port of Vki"/>
       <comp:port metaid="Vurine_port" sboTerm="SBO:0000599" comp:idRef="Vurine" comp:id="Vurine_port" comp:name="Port of Vurine"/>
-      <comp:port metaid="dex_port" sboTerm="SBO:0000599" comp:idRef="dex" comp:id="dex_port" comp:name="Port of dex"/>
-      <comp:port metaid="dor_port" sboTerm="SBO:0000599" comp:idRef="dor" comp:id="dor_port" comp:name="Port of dor"/>
-      <comp:port metaid="dor_glu_port" sboTerm="SBO:0000599" comp:idRef="dor_glu" comp:id="dor_glu_port" comp:name="Port of dor_glu"/>
-      <comp:port metaid="dex_urine_port" sboTerm="SBO:0000599" comp:idRef="dex_urine" comp:id="dex_urine_port" comp:name="Port of dex_urine"/>
-      <comp:port metaid="dor_urine_port" sboTerm="SBO:0000599" comp:idRef="dor_urine" comp:id="dor_urine_port" comp:name="Port of dor_urine"/>
-      <comp:port metaid="dor_glu_urine_port" sboTerm="SBO:0000599" comp:idRef="dor_glu_urine" comp:id="dor_glu_urine_port" comp:name="Port of dor_glu_urine"/>
+      <comp:port metaid="dxm_port" sboTerm="SBO:0000599" comp:idRef="dxm" comp:id="dxm_port" comp:name="Port of dxm"/>
+      <comp:port metaid="dxo_port" sboTerm="SBO:0000599" comp:idRef="dxo" comp:id="dxo_port" comp:name="Port of dxo"/>
+      <comp:port metaid="dxo_glu_port" sboTerm="SBO:0000599" comp:idRef="dxo_glu" comp:id="dxo_glu_port" comp:name="Port of dxo_glu"/>
+      <comp:port metaid="dxm_urine_port" sboTerm="SBO:0000599" comp:idRef="dxm_urine" comp:id="dxm_urine_port" comp:name="Port of dxm_urine"/>
+      <comp:port metaid="dxo_urine_port" sboTerm="SBO:0000599" comp:idRef="dxo_urine" comp:id="dxo_urine_port" comp:name="Port of dxo_urine"/>
+      <comp:port metaid="dxo_glu_urine_port" sboTerm="SBO:0000599" comp:idRef="dxo_glu_urine" comp:id="dxo_glu_urine_port" comp:name="Port of dxo_glu_urine"/>
     </comp:listOfPorts>
   </model>
 </sbml>
