@@ -24,11 +24,11 @@ The whole-body submodel is available from [`dextromethorphan_body.xml`](./models
 [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/dextromethorphan_body.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/dextromethorphan_body.xml)
 
 ## How to cite
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6976103.svg)](https://doi.org/10.5281/zenodo.6976103)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7025683.svg)](https://doi.org/10.5281/zenodo.7025683)
 
 > Grzegorzewski, Jan, & König, Matthias. (2022). 
-> *Physiologically based pharmacokinetic (PBPK) model of dextromethorphan (v0.9.0).*   
-> Zenodo. [https://doi.org/10.5281/zenodo.6976103](https://doi.org/10.5281/zenodo.6976103)
+> *Physiologically based pharmacokinetic (PBPK) model of dextromethorphan (v0.9.5).*   
+> Zenodo. [https://doi.org/10.5281/zenodo.7025683](https://doi.org/10.5281/zenodo.7025683)
 
 ## License
 
