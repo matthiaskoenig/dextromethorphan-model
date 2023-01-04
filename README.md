@@ -1,8 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6976102.svg)](https://doi.org/10.5281/zenodo.6976102)
 
 # Dextromethorphan model
-This repository provides the dextromethorphan physiologically based pharmacokinetics (PBPK) model.
+This repository provides the dextromethorphan physiologically based pharmacokinetics (PBPK) model described in
 
+> Grzegorzewski J, Brandhorst J, König M. Physiologically based pharmacokinetic (PBPK) modeling of the role of CYP2D6 polymorphism for metabolic phenotyping with dextromethorphan. Front Pharmacol. 2022 Oct 24;13:1029073. doi: https://doi.org/10.3389/fphar.2022.1029073. PMID: 36353484; PMCID: PMC9637881.
 
 The model is distributed as [SBML](http://sbml.org) available from [`dextromethorphan_body_flat.xml`](./models/dextromethorphan_body_flat.xml) with 
 corresponding SBML4humans model report at [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/dextromethorphan_body_flat.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/dextromethorphan-model/main/models/dextromethorphan_body_flat.xml)
