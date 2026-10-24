@@ -1,0 +1,3364 @@
+{
+  "experiment_id": "Sensitivity",
+  "base_path": "/home/mkoenig/git/dextromethorphan-model/src/pkdb_models/models/dextromethorphan",
+  "data_path": [
+    "/home/mkoenig/git/dextromethorphan-model/src/pkdb_models/models/dextromethorphan/data/dextromethorphan",
+    "/home/mkoenig/git/dextromethorphan-model/src/pkdb_models/models/dextromethorphan/data/caffeine"
+  ],
+  "models": {
+    "model": {
+      "sid": null,
+      "name": null,
+      "language": "SBML",
+      "language_type": "SBML",
+      "source": {
+        "source": "/home/mkoenig/git/dextromethorphan-model/src/pkdb_models/models/dextromethorphan/models/output/models/dextromethorphan_body_flat.xml",
+        "path": "/home/mkoenig/git/dextromethorphan-model/src/pkdb_models/models/dextromethorphan/models/output/models/dextromethorphan_body_flat.xml",
+        "content": null
+      },
+      "base_path": null,
+      "changes": {},
+      "selections": [
+        "dxm_dxo_total_urine",
+        "time"
+      ],
+      "parameters": {}
+    }
+  },
+  "tasks": {
+    "task_sample_ac_0p0_fvli": {
+      "sid": "model__sample_ac_0p0_fvli",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p0_fvli",
+      "observables": []
+    },
+    "task_sample_ac_0p0_cobw": {
+      "sid": "model__sample_ac_0p0_cobw",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p0_cobw",
+      "observables": []
+    },
+    "task_sample_ac_0p0_kpdex": {
+      "sid": "model__sample_ac_0p0_kpdex",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p0_kpdex",
+      "observables": []
+    },
+    "task_sample_ac_0p0_dose": {
+      "sid": "model__sample_ac_0p0_dose",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p0_dose",
+      "observables": []
+    },
+    "task_sample_ac_0p25_fvli": {
+      "sid": "model__sample_ac_0p25_fvli",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p25_fvli",
+      "observables": []
+    },
+    "task_sample_ac_0p25_cobw": {
+      "sid": "model__sample_ac_0p25_cobw",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p25_cobw",
+      "observables": []
+    },
+    "task_sample_ac_0p25_kpdex": {
+      "sid": "model__sample_ac_0p25_kpdex",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p25_kpdex",
+      "observables": []
+    },
+    "task_sample_ac_0p25_dose": {
+      "sid": "model__sample_ac_0p25_dose",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p25_dose",
+      "observables": []
+    },
+    "task_sample_ac_0p5_fvli": {
+      "sid": "model__sample_ac_0p5_fvli",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p5_fvli",
+      "observables": []
+    },
+    "task_sample_ac_0p5_cobw": {
+      "sid": "model__sample_ac_0p5_cobw",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p5_cobw",
+      "observables": []
+    },
+    "task_sample_ac_0p5_kpdex": {
+      "sid": "model__sample_ac_0p5_kpdex",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p5_kpdex",
+      "observables": []
+    },
+    "task_sample_ac_0p5_dose": {
+      "sid": "model__sample_ac_0p5_dose",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_0p5_dose",
+      "observables": []
+    },
+    "task_sample_ac_1p0_fvli": {
+      "sid": "model__sample_ac_1p0_fvli",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p0_fvli",
+      "observables": []
+    },
+    "task_sample_ac_1p0_cobw": {
+      "sid": "model__sample_ac_1p0_cobw",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p0_cobw",
+      "observables": []
+    },
+    "task_sample_ac_1p0_kpdex": {
+      "sid": "model__sample_ac_1p0_kpdex",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p0_kpdex",
+      "observables": []
+    },
+    "task_sample_ac_1p0_dose": {
+      "sid": "model__sample_ac_1p0_dose",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p0_dose",
+      "observables": []
+    },
+    "task_sample_ac_1p25_fvli": {
+      "sid": "model__sample_ac_1p25_fvli",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p25_fvli",
+      "observables": []
+    },
+    "task_sample_ac_1p25_cobw": {
+      "sid": "model__sample_ac_1p25_cobw",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p25_cobw",
+      "observables": []
+    },
+    "task_sample_ac_1p25_kpdex": {
+      "sid": "model__sample_ac_1p25_kpdex",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p25_kpdex",
+      "observables": []
+    },
+    "task_sample_ac_1p25_dose": {
+      "sid": "model__sample_ac_1p25_dose",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p25_dose",
+      "observables": []
+    },
+    "task_sample_ac_1p5_fvli": {
+      "sid": "model__sample_ac_1p5_fvli",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p5_fvli",
+      "observables": []
+    },
+    "task_sample_ac_1p5_cobw": {
+      "sid": "model__sample_ac_1p5_cobw",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p5_cobw",
+      "observables": []
+    },
+    "task_sample_ac_1p5_kpdex": {
+      "sid": "model__sample_ac_1p5_kpdex",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p5_kpdex",
+      "observables": []
+    },
+    "task_sample_ac_1p5_dose": {
+      "sid": "model__sample_ac_1p5_dose",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_1p5_dose",
+      "observables": []
+    },
+    "task_sample_ac_2p0_fvli": {
+      "sid": "model__sample_ac_2p0_fvli",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_2p0_fvli",
+      "observables": []
+    },
+    "task_sample_ac_2p0_cobw": {
+      "sid": "model__sample_ac_2p0_cobw",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_2p0_cobw",
+      "observables": []
+    },
+    "task_sample_ac_2p0_kpdex": {
+      "sid": "model__sample_ac_2p0_kpdex",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_2p0_kpdex",
+      "observables": []
+    },
+    "task_sample_ac_2p0_dose": {
+      "sid": "model__sample_ac_2p0_dose",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_2p0_dose",
+      "observables": []
+    },
+    "task_sample_ac_3p0_fvli": {
+      "sid": "model__sample_ac_3p0_fvli",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_3p0_fvli",
+      "observables": []
+    },
+    "task_sample_ac_3p0_cobw": {
+      "sid": "model__sample_ac_3p0_cobw",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_3p0_cobw",
+      "observables": []
+    },
+    "task_sample_ac_3p0_kpdex": {
+      "sid": "model__sample_ac_3p0_kpdex",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_3p0_kpdex",
+      "observables": []
+    },
+    "task_sample_ac_3p0_dose": {
+      "sid": "model__sample_ac_3p0_dose",
+      "name": null,
+      "model": "model",
+      "simulation": "sample_ac_3p0_dose",
+      "observables": []
+    }
+  },
+  "observables": {},
+  "simulations": {
+    "sample_ac_0p0_fvli": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_FVli",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "FVli": {
+              "value": [
+                0.0021000000000000003,
+                0.006533333333333334,
+                0.010966666666666668,
+                0.0154,
+                0.019833333333333335,
+                0.02426666666666667,
+                0.028700000000000003,
+                0.03313333333333334,
+                0.03756666666666667,
+                0.042
+              ],
+              "unit": "liter / kilogram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p0_cobw": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_COBW",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "COBW": {
+              "value": [
+                0.2,
+                0.6222222222222222,
+                1.0444444444444445,
+                1.4666666666666666,
+                1.8888888888888888,
+                2.3111111111111113,
+                2.7333333333333334,
+                3.155555555555556,
+                3.577777777777778,
+                4.0
+              ],
+              "unit": "milliliter / kilogram / second"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p0_kpdex": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_Kp_dex",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "Kp_dxm": {
+              "value": [
+                4.744028774390735,
+                6.325371699187646,
+                7.906714623984557,
+                9.48805754878147,
+                11.06940047357838,
+                12.650743398375292,
+                14.232086323172204,
+                15.813429247969115,
+                17.394772172766025,
+                18.97611509756294
+              ],
+              "unit": "dimensionless"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p0_dose": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.0,
+            "unit": "dimensionless"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_dosage",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "PODOSE_dxm": {
+              "value": [
+                0.3,
+                33.599999999999994,
+                66.89999999999999,
+                100.19999999999999,
+                133.5,
+                166.8,
+                200.1,
+                233.39999999999998,
+                266.7,
+                300.0
+              ],
+              "unit": "milligram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p25_fvli": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.25,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_FVli",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "FVli": {
+              "value": [
+                0.0021000000000000003,
+                0.006533333333333334,
+                0.010966666666666668,
+                0.0154,
+                0.019833333333333335,
+                0.02426666666666667,
+                0.028700000000000003,
+                0.03313333333333334,
+                0.03756666666666667,
+                0.042
+              ],
+              "unit": "liter / kilogram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p25_cobw": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.25,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_COBW",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "COBW": {
+              "value": [
+                0.2,
+                0.6222222222222222,
+                1.0444444444444445,
+                1.4666666666666666,
+                1.8888888888888888,
+                2.3111111111111113,
+                2.7333333333333334,
+                3.155555555555556,
+                3.577777777777778,
+                4.0
+              ],
+              "unit": "milliliter / kilogram / second"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p25_kpdex": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.25,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_Kp_dex",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "Kp_dxm": {
+              "value": [
+                4.744028774390735,
+                6.325371699187646,
+                7.906714623984557,
+                9.48805754878147,
+                11.06940047357838,
+                12.650743398375292,
+                14.232086323172204,
+                15.813429247969115,
+                17.394772172766025,
+                18.97611509756294
+              ],
+              "unit": "dimensionless"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p25_dose": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.25,
+            "unit": "dimensionless"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_dosage",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "PODOSE_dxm": {
+              "value": [
+                0.3,
+                33.599999999999994,
+                66.89999999999999,
+                100.19999999999999,
+                133.5,
+                166.8,
+                200.1,
+                233.39999999999998,
+                266.7,
+                300.0
+              ],
+              "unit": "milligram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p5_fvli": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.5,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_FVli",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "FVli": {
+              "value": [
+                0.0021000000000000003,
+                0.006533333333333334,
+                0.010966666666666668,
+                0.0154,
+                0.019833333333333335,
+                0.02426666666666667,
+                0.028700000000000003,
+                0.03313333333333334,
+                0.03756666666666667,
+                0.042
+              ],
+              "unit": "liter / kilogram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p5_cobw": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.5,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_COBW",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "COBW": {
+              "value": [
+                0.2,
+                0.6222222222222222,
+                1.0444444444444445,
+                1.4666666666666666,
+                1.8888888888888888,
+                2.3111111111111113,
+                2.7333333333333334,
+                3.155555555555556,
+                3.577777777777778,
+                4.0
+              ],
+              "unit": "milliliter / kilogram / second"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p5_kpdex": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.5,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_Kp_dex",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "Kp_dxm": {
+              "value": [
+                4.744028774390735,
+                6.325371699187646,
+                7.906714623984557,
+                9.48805754878147,
+                11.06940047357838,
+                12.650743398375292,
+                14.232086323172204,
+                15.813429247969115,
+                17.394772172766025,
+                18.97611509756294
+              ],
+              "unit": "dimensionless"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_0p5_dose": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 0.5,
+            "unit": "dimensionless"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_dosage",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "PODOSE_dxm": {
+              "value": [
+                0.3,
+                33.599999999999994,
+                66.89999999999999,
+                100.19999999999999,
+                133.5,
+                166.8,
+                200.1,
+                233.39999999999998,
+                266.7,
+                300.0
+              ],
+              "unit": "milligram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p0_fvli": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_FVli",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "FVli": {
+              "value": [
+                0.0021000000000000003,
+                0.006533333333333334,
+                0.010966666666666668,
+                0.0154,
+                0.019833333333333335,
+                0.02426666666666667,
+                0.028700000000000003,
+                0.03313333333333334,
+                0.03756666666666667,
+                0.042
+              ],
+              "unit": "liter / kilogram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p0_cobw": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_COBW",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "COBW": {
+              "value": [
+                0.2,
+                0.6222222222222222,
+                1.0444444444444445,
+                1.4666666666666666,
+                1.8888888888888888,
+                2.3111111111111113,
+                2.7333333333333334,
+                3.155555555555556,
+                3.577777777777778,
+                4.0
+              ],
+              "unit": "milliliter / kilogram / second"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p0_kpdex": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_Kp_dex",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "Kp_dxm": {
+              "value": [
+                4.744028774390735,
+                6.325371699187646,
+                7.906714623984557,
+                9.48805754878147,
+                11.06940047357838,
+                12.650743398375292,
+                14.232086323172204,
+                15.813429247969115,
+                17.394772172766025,
+                18.97611509756294
+              ],
+              "unit": "dimensionless"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p0_dose": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.0,
+            "unit": "dimensionless"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_dosage",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "PODOSE_dxm": {
+              "value": [
+                0.3,
+                33.599999999999994,
+                66.89999999999999,
+                100.19999999999999,
+                133.5,
+                166.8,
+                200.1,
+                233.39999999999998,
+                266.7,
+                300.0
+              ],
+              "unit": "milligram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p25_fvli": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.25,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_FVli",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "FVli": {
+              "value": [
+                0.0021000000000000003,
+                0.006533333333333334,
+                0.010966666666666668,
+                0.0154,
+                0.019833333333333335,
+                0.02426666666666667,
+                0.028700000000000003,
+                0.03313333333333334,
+                0.03756666666666667,
+                0.042
+              ],
+              "unit": "liter / kilogram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p25_cobw": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.25,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_COBW",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "COBW": {
+              "value": [
+                0.2,
+                0.6222222222222222,
+                1.0444444444444445,
+                1.4666666666666666,
+                1.8888888888888888,
+                2.3111111111111113,
+                2.7333333333333334,
+                3.155555555555556,
+                3.577777777777778,
+                4.0
+              ],
+              "unit": "milliliter / kilogram / second"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p25_kpdex": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.25,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_Kp_dex",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "Kp_dxm": {
+              "value": [
+                4.744028774390735,
+                6.325371699187646,
+                7.906714623984557,
+                9.48805754878147,
+                11.06940047357838,
+                12.650743398375292,
+                14.232086323172204,
+                15.813429247969115,
+                17.394772172766025,
+                18.97611509756294
+              ],
+              "unit": "dimensionless"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p25_dose": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.25,
+            "unit": "dimensionless"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_dosage",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "PODOSE_dxm": {
+              "value": [
+                0.3,
+                33.599999999999994,
+                66.89999999999999,
+                100.19999999999999,
+                133.5,
+                166.8,
+                200.1,
+                233.39999999999998,
+                266.7,
+                300.0
+              ],
+              "unit": "milligram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p5_fvli": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.5,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_FVli",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "FVli": {
+              "value": [
+                0.0021000000000000003,
+                0.006533333333333334,
+                0.010966666666666668,
+                0.0154,
+                0.019833333333333335,
+                0.02426666666666667,
+                0.028700000000000003,
+                0.03313333333333334,
+                0.03756666666666667,
+                0.042
+              ],
+              "unit": "liter / kilogram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p5_cobw": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.5,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_COBW",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "COBW": {
+              "value": [
+                0.2,
+                0.6222222222222222,
+                1.0444444444444445,
+                1.4666666666666666,
+                1.8888888888888888,
+                2.3111111111111113,
+                2.7333333333333334,
+                3.155555555555556,
+                3.577777777777778,
+                4.0
+              ],
+              "unit": "milliliter / kilogram / second"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p5_kpdex": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.5,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_Kp_dex",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "Kp_dxm": {
+              "value": [
+                4.744028774390735,
+                6.325371699187646,
+                7.906714623984557,
+                9.48805754878147,
+                11.06940047357838,
+                12.650743398375292,
+                14.232086323172204,
+                15.813429247969115,
+                17.394772172766025,
+                18.97611509756294
+              ],
+              "unit": "dimensionless"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_1p5_dose": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 1.5,
+            "unit": "dimensionless"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_dosage",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "PODOSE_dxm": {
+              "value": [
+                0.3,
+                33.599999999999994,
+                66.89999999999999,
+                100.19999999999999,
+                133.5,
+                166.8,
+                200.1,
+                233.39999999999998,
+                266.7,
+                300.0
+              ],
+              "unit": "milligram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_2p0_fvli": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 2.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_FVli",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "FVli": {
+              "value": [
+                0.0021000000000000003,
+                0.006533333333333334,
+                0.010966666666666668,
+                0.0154,
+                0.019833333333333335,
+                0.02426666666666667,
+                0.028700000000000003,
+                0.03313333333333334,
+                0.03756666666666667,
+                0.042
+              ],
+              "unit": "liter / kilogram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_2p0_cobw": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 2.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_COBW",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "COBW": {
+              "value": [
+                0.2,
+                0.6222222222222222,
+                1.0444444444444445,
+                1.4666666666666666,
+                1.8888888888888888,
+                2.3111111111111113,
+                2.7333333333333334,
+                3.155555555555556,
+                3.577777777777778,
+                4.0
+              ],
+              "unit": "milliliter / kilogram / second"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_2p0_kpdex": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 2.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_Kp_dex",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "Kp_dxm": {
+              "value": [
+                4.744028774390735,
+                6.325371699187646,
+                7.906714623984557,
+                9.48805754878147,
+                11.06940047357838,
+                12.650743398375292,
+                14.232086323172204,
+                15.813429247969115,
+                17.394772172766025,
+                18.97611509756294
+              ],
+              "unit": "dimensionless"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_2p0_dose": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 2.0,
+            "unit": "dimensionless"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_dosage",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "PODOSE_dxm": {
+              "value": [
+                0.3,
+                33.599999999999994,
+                66.89999999999999,
+                100.19999999999999,
+                133.5,
+                166.8,
+                200.1,
+                233.39999999999998,
+                266.7,
+                300.0
+              ],
+              "unit": "milligram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_3p0_fvli": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 3.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_FVli",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "FVli": {
+              "value": [
+                0.0021000000000000003,
+                0.006533333333333334,
+                0.010966666666666668,
+                0.0154,
+                0.019833333333333335,
+                0.02426666666666667,
+                0.028700000000000003,
+                0.03313333333333334,
+                0.03756666666666667,
+                0.042
+              ],
+              "unit": "liter / kilogram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_3p0_cobw": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 3.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_COBW",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "COBW": {
+              "value": [
+                0.2,
+                0.6222222222222222,
+                1.0444444444444445,
+                1.4666666666666666,
+                1.8888888888888888,
+                2.3111111111111113,
+                2.7333333333333334,
+                3.155555555555556,
+                3.577777777777778,
+                4.0
+              ],
+              "unit": "milliliter / kilogram / second"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_3p0_kpdex": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 3.0,
+            "unit": "dimensionless"
+          },
+          "PODOSE_dxm": {
+            "value": 30,
+            "unit": "milligram"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_Kp_dex",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "Kp_dxm": {
+              "value": [
+                4.744028774390735,
+                6.325371699187646,
+                7.906714623984557,
+                9.48805754878147,
+                11.06940047357838,
+                12.650743398375292,
+                14.232086323172204,
+                15.813429247969115,
+                17.394772172766025,
+                18.97611509756294
+              ],
+              "unit": "dimensionless"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    },
+    "sample_ac_3p0_dose": {
+      "type": "Scan",
+      "simulation": {
+        "type": "Simulation",
+        "time_unit": "hr",
+        "start": 0.0,
+        "end": 8,
+        "preinit_changes": {
+          "LI__cyp2d6_allele1": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_allele2": {
+            "value": -1,
+            "unit": "dimensionless"
+          },
+          "LI__cyp2d6_ac": {
+            "value": 3.0,
+            "unit": "dimensionless"
+          }
+        },
+        "changes": [],
+        "presimulation": null,
+        "times": null,
+        "steps": null,
+        "time_shift": 0.0
+      },
+      "dimensions": [
+        {
+          "id": "dim_dosage",
+          "kind": "values",
+          "labels": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "values": {
+            "PODOSE_dxm": {
+              "value": [
+                0.3,
+                33.599999999999994,
+                66.89999999999999,
+                100.19999999999999,
+                133.5,
+                166.8,
+                200.1,
+                233.39999999999998,
+                266.7,
+                300.0
+              ],
+              "unit": "milligram"
+            }
+          },
+          "simulations": {},
+          "models": {},
+          "at": null,
+          "design": null,
+          "coordinates": {}
+        }
+      ]
+    }
+  },
+  "data": {
+    "task_sample_ac_0p0_fvli__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p0_fvli__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p0_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p0_fvli__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p0_fvli__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p0_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p0_cobw__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p0_cobw__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p0_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p0_cobw__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p0_cobw__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p0_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p0_kpdex__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p0_kpdex__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p0_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p0_kpdex__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p0_kpdex__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p0_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p0_dose__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p0_dose__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p0_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p0_dose__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p0_dose__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p0_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p25_fvli__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p25_fvli__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p25_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p25_fvli__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p25_fvli__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p25_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p25_cobw__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p25_cobw__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p25_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p25_cobw__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p25_cobw__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p25_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p25_kpdex__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p25_kpdex__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p25_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p25_kpdex__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p25_kpdex__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p25_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p25_dose__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p25_dose__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p25_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p25_dose__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p25_dose__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p25_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p5_fvli__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p5_fvli__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p5_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p5_fvli__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p5_fvli__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p5_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p5_cobw__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p5_cobw__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p5_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p5_cobw__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p5_cobw__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p5_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p5_kpdex__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p5_kpdex__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p5_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p5_kpdex__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p5_kpdex__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p5_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p5_dose__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p5_dose__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_0p5_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_0p5_dose__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_0p5_dose__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_0p5_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p0_fvli__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p0_fvli__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p0_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p0_fvli__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p0_fvli__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p0_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p0_cobw__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p0_cobw__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p0_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p0_cobw__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p0_cobw__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p0_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p0_kpdex__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p0_kpdex__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p0_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p0_kpdex__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p0_kpdex__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p0_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p0_dose__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p0_dose__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p0_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p0_dose__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p0_dose__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p0_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p25_fvli__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p25_fvli__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p25_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p25_fvli__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p25_fvli__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p25_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p25_cobw__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p25_cobw__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p25_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p25_cobw__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p25_cobw__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p25_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p25_kpdex__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p25_kpdex__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p25_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p25_kpdex__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p25_kpdex__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p25_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p25_dose__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p25_dose__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p25_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p25_dose__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p25_dose__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p25_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p5_fvli__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p5_fvli__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p5_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p5_fvli__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p5_fvli__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p5_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p5_cobw__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p5_cobw__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p5_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p5_cobw__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p5_cobw__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p5_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p5_kpdex__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p5_kpdex__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p5_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p5_kpdex__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p5_kpdex__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p5_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p5_dose__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p5_dose__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_1p5_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_1p5_dose__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_1p5_dose__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_1p5_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_2p0_fvli__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_2p0_fvli__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_2p0_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_2p0_fvli__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_2p0_fvli__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_2p0_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_2p0_cobw__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_2p0_cobw__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_2p0_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_2p0_cobw__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_2p0_cobw__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_2p0_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_2p0_kpdex__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_2p0_kpdex__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_2p0_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_2p0_kpdex__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_2p0_kpdex__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_2p0_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_2p0_dose__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_2p0_dose__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_2p0_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_2p0_dose__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_2p0_dose__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_2p0_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_3p0_fvli__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_3p0_fvli__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_3p0_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_3p0_fvli__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_3p0_fvli__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_3p0_fvli",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_3p0_cobw__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_3p0_cobw__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_3p0_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_3p0_cobw__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_3p0_cobw__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_3p0_cobw",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_3p0_kpdex__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_3p0_kpdex__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_3p0_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_3p0_kpdex__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_3p0_kpdex__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_3p0_kpdex",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_3p0_dose__time": {
+      "type": "TASK",
+      "sid": "task_sample_ac_3p0_dose__time",
+      "index": "time",
+      "selection": "time",
+      "unit": null,
+      "task": "task_sample_ac_3p0_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    },
+    "task_sample_ac_3p0_dose__dxm_dxo_total_urine": {
+      "type": "TASK",
+      "sid": "task_sample_ac_3p0_dose__dxm_dxo_total_urine",
+      "index": "dxm_dxo_total_urine",
+      "selection": "dxm_dxo_total_urine",
+      "unit": null,
+      "task": "task_sample_ac_3p0_dose",
+      "dataset": null,
+      "function": null,
+      "variables": null,
+      "parameters": {},
+      "sel": null
+    }
+  },
+  "figures": {}
+}

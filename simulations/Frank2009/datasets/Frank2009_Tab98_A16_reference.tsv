@@ -1,0 +1,6 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	comments_2	value_unit	count_unit
+Frank2009	Tab98_A16_reference	A16	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	1690.0	HPLC	reference		nmol	dimensionless
+Frank2009	Tab98_A16_reference	A16	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	3960.0	HPLC	reference		nmol	dimensionless
+Frank2009	Tab98_A16_reference	A16	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	5043.0	HPLC	reference		nmol	dimensionless
+Frank2009	Tab98_A16_reference	A16	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	5726.0	HPLC	reference		nmol	dimensionless
+Frank2009	Tab98_A16_reference	A16	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	6172.0	HPLC	reference		nmol	dimensionless

@@ -1,0 +1,11 @@
+study	label	group	measurement	substance	tissue	intervention	time	time_unit	median	min	max	unit	method	comments
+Chladek2000	Tab1_em_dextromethorphan	Tab1_em	recovery	dextromethorphan	urine	DEX	4	hr	0.2	0.005	2.2	percent	HPLC	NA
+Chladek2000	Tab1_em_dtf+dtfglu	Tab1_em	recovery	dtf+dtfglu	urine	DEX	4	hr	29.8	3.7	50.8	percent	HPLC	not explicitly mentioned but most likely total concentrations
+Chladek2000	Tab1_em_3-methoxymorphinan	Tab1_em	recovery	3-methoxymorphinan	urine	DEX	4	hr	0.02	0.003	0.14	percent	HPLC	NA
+Chladek2000	Tab1_em_hm3+hm3glu	Tab1_em	recovery	hm3+hm3glu	urine	DEX	4	hr	11.0	0.94	19.3	percent	HPLC	not explicitly mentioned but most likely total concentrations
+Chladek2000	Tab1_em_(dmt)/(dtf+dtfglu)	Tab1_em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.007	0.0001	0.18	dimensionless	HPLC	not explicitly mentioned but most likely total concentrations
+Chladek2000	Tab1_pm_dextromethorphan	Tab1_pm	recovery	dextromethorphan	urine	DEX	4	hr	2.0	1.1	3.3	percent	HPLC	NA
+Chladek2000	Tab1_pm_dtf+dtfglu	Tab1_pm	recovery	dtf+dtfglu	urine	DEX	4	hr	3.5	0.51	8.8	percent	HPLC	not explicitly mentioned but most likely total concentrations
+Chladek2000	Tab1_pm_3-methoxymorphinan	Tab1_pm	recovery	3-methoxymorphinan	urine	DEX	4	hr	0.12	0.08	0.41	percent	HPLC	NA
+Chladek2000	Tab1_pm_hm3+hm3glu	Tab1_pm	recovery	hm3+hm3glu	urine	DEX	4	hr	1.4	0.08	4.1	percent	HPLC	not explicitly mentioned but most likely total concentrations
+Chladek2000	Tab1_pm_(dmt)/(dtf+dtfglu)	Tab1_pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	1.3	0.37	4.6	dimensionless	HPLC	not explicitly mentioned but most likely total concentrations

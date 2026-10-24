@@ -1,0 +1,10 @@
+study	individual	phenotype	measurement	tissue	intervention	time	time_unit	method	value	time_jitter	time_jitter_unit	value_unit
+Hou1991	Fig8_1	em	cumulative metabolic ratio	urine	DEX_50mg	8.0	hr	HPLC	0.008175458	7.83961631946037	hr	dimensionless
+Hou1991	Fig8_2	em	cumulative metabolic ratio	urine	DEX_50mg	8.0	hr	HPLC	0.07606949	8.006409991400377	hr	dimensionless
+Hou1991	Fig8_3	em	cumulative metabolic ratio	urine	DEX_50mg	8.0	hr	HPLC	0.10256407	8.074089129587673	hr	dimensionless
+Hou1991	Fig8_4	em	cumulative metabolic ratio	urine	DEX_50mg	8.0	hr	HPLC	0.06822286	8.015261919356565	hr	dimensionless
+Hou1991	Fig8_5	em	cumulative metabolic ratio	urine	DEX_50mg	8.0	hr	HPLC	0.031519648	8.086374389132333	hr	dimensionless
+Hou1991	Fig8_6	em	cumulative metabolic ratio	urine	DEX_50mg	8.0	hr	HPLC	0.037409242	8.291309922250397	hr	dimensionless
+Hou1991	Fig8_7	em	cumulative metabolic ratio	urine	DEX_50mg	8.0	hr	HPLC	0.08813754	7.8521176639335595	hr	dimensionless
+Hou1991	Fig8_8	em	cumulative metabolic ratio	urine	DEX_50mg	8.0	hr	HPLC	0.08260256	8.094547297464587	hr	dimensionless
+Hou1991	Fig8_11	em	cumulative metabolic ratio	urine	DEX_50mg	8.0	hr	HPLC	0.19854224	7.8333864542682035	hr	dimensionless

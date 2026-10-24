@@ -1,0 +1,4 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	comments_2	value_unit	count_unit
+Frank2009	Tab127_C01_test	C01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_C, CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00118	HPLC	test		dimensionless	dimensionless
+Frank2009	Tab127_C01_test	C01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_C, CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00138	HPLC	test		dimensionless	dimensionless
+Frank2009	Tab127_C01_test	C01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_C, CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00115	HPLC	test		dimensionless	dimensionless

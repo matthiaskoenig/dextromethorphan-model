@@ -1,0 +1,15 @@
+study	label	individual	measurement	substance	tissue	intervention	value	unit	time	time_unit	method
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	33.056396	ng/ml	0.0	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	28.294472	ng/ml	0.5	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	36.33378	ng/ml	1.0	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	47.85872	ng/ml	1.5	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	56.1666	ng/ml	2.0	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	53.68293	ng/ml	2.5	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	48.11681	ng/ml	3.0	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	43.55596	ng/ml	3.5	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	40.93834	ng/ml	4.0	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	37.2455	ng/ml	5.0	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	33.28437	ng/ml	6.0	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	27.037722	ng/ml	8.0	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	22.600536	ng/ml	10.0	hr	HPLC
+Kazis2009	Fig1	subject13	concentration	dextromethorphan	plasma	DEX40,DEX	19.303139	ng/ml	12.0	hr	HPLC

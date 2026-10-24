@@ -1,0 +1,61 @@
+study	group	intervention	substance	tissue	measurement	median	min	max	unit	method	time	time_unit
+Abdulmanap1999	all	DEX30	dextromethorphan	plasma	tmax	2.0	0.0	8.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	dextromethorphan	plasma	auc_end	21.0	0.0	260.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	DEX30	dextromethorphan	plasma	auc_end	18.0	0.0	105.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	DEX30	dextromethorphan	plasma	cmax	3.0	0.0	18.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	dtf+dtfglu	plasma	tmax	2.0	1.0	3.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	dtf+dtfglu	plasma	auc_end	1404.0	803.0	2810.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	DEX30	dtf+dtfglu	plasma	auc_end	1217.0	693.0	2186.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	DEX30	dtf+dtfglu	plasma	cmax	282.0	132.0	562.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	dextrorphan	plasma	tmax	1.0	0.5	3.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	dextrorphan	plasma	auc_end	14.0	12.0	209.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	DEX30	dextrorphan	plasma	auc_end	13.0	11.0	75.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	DEX30	dextrorphan	plasma	cmax	4.0	2.0	15.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	3-methoxymorphinan	plasma	tmax	0.0	0.0	3.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	3-methoxymorphinan	plasma	auc_end	0.0	0.0	132.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	DEX30	3-methoxymorphinan	plasma	auc_end	0.0	0.0	24.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	DEX30	3-methoxymorphinan	plasma	cmax	0.0	0.0	2.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	3-hydroxymorphinan	plasma	tmax	1.0	0.0	3.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	3-hydroxymorphinan	plasma	auc_end	1.0	0.0	16.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	DEX30	3-hydroxymorphinan	plasma	auc_end	1.0	0.0	11.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	DEX30	3-hydroxymorphinan	plasma	cmax	1.0	0.0	3.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	DEX60	dextromethorphan	plasma	tmax	2.0	0.0	3.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	DEX60	dextromethorphan	plasma	auc_end	33.0	0.0	336.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	DEX60	dextromethorphan	plasma	auc_end	32.0	0.0	165.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	DEX60	dextromethorphan	plasma	cmax	6.0	0.0	25.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	DEX60	dtf+dtfglu	plasma	tmax	2.0	1.0	4.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	DEX60	dtf+dtfglu	plasma	auc_end	2833.0	1807.0	4581.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	DEX60	dtf+dtfglu	plasma	auc_end	2666.0	1372.0	4292.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	DEX60	dtf+dtfglu	plasma	cmax	552.0	200.0	1120.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	DEX60	dextrorphan	plasma	tmax	1.0	0.5	3.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	DEX60	dextrorphan	plasma	auc_end	49.0	12.0	209.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	DEX60	dextrorphan	plasma	auc_end	33.0	11.0	75.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	DEX60	dextrorphan	plasma	cmax	10.0	2.0	15.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	DEX60	3-methoxymorphinan	plasma	tmax	2.0	0.0	4.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	DEX60	3-methoxymorphinan	plasma	auc_end	3.0	0.0	141.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	DEX60	3-methoxymorphinan	plasma	auc_end	3.0	0.0	39.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	DEX60	3-methoxymorphinan	plasma	cmax	1.0	0.0	8.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	3-hydroxymorphinan	plasma	tmax	1.0	0.0	4.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	DEX30	3-hydroxymorphinan	plasma	auc_end	5.0	0.0	47.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	DEX30	3-hydroxymorphinan	plasma	auc_end	5.0	0.0	35.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	DEX30	3-hydroxymorphinan	plasma	cmax	1.0	0.0	4.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	QUI, DEX30	dextromethorphan	plasma	tmax	3.0	2.0	4.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	QUI, DEX30	dextromethorphan	plasma	auc_end	342.0	144.0	657.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	QUI, DEX30	dextromethorphan	plasma	auc_end	136.0	83.0	268.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	QUI, DEX30	dextromethorphan	plasma	cmax	18.0	10.0	32.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	QUI, DEX30	dtf+dtfglu	plasma	tmax	3.0	0.0	4.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	QUI, DEX30	dtf+dtfglu	plasma	auc_end	641.0	0.0	1867.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	QUI, DEX30	dtf+dtfglu	plasma	auc_end	355.0	0.0	814.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	QUI, DEX30	dtf+dtfglu	plasma	cmax	62.0	0.0	333.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	QUI, DEX30	dextrorphan	plasma	tmax	2.0	0.0	3.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	QUI, DEX30	dextrorphan	plasma	auc_end	20.0	0.0	118.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	QUI, DEX30	dextrorphan	plasma	auc_end	13.0	0.0	36.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	QUI, DEX30	dextrorphan	plasma	cmax	2.0	0.0	4.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	QUI, DEX30	3-methoxymorphinan	plasma	tmax	4.0	0.0	12.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	QUI, DEX30	3-methoxymorphinan	plasma	auc_end	88.0	0.0	321.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	QUI, DEX30	3-methoxymorphinan	plasma	auc_end	24.0	0.0	54.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	QUI, DEX30	3-methoxymorphinan	plasma	cmax	3.0	0.0	6.0	ng/ml	HPLC	NA	NA
+Abdulmanap1999	all	QUI, DEX30	3-hydroxymorphinan	plasma	tmax	0.0	0.0	8.0	hr	HPLC	NA	NA
+Abdulmanap1999	all	QUI, DEX30	3-hydroxymorphinan	plasma	auc_end	0.0	0.0	30.0	ng/ml*hr	HPLC	96.0	hr
+Abdulmanap1999	all	QUI, DEX30	3-hydroxymorphinan	plasma	auc_end	0.0	0.0	8.0	ng/ml*hr	HPLC	12.0	hr
+Abdulmanap1999	all	QUI, DEX30	3-hydroxymorphinan	plasma	cmax	0.0	0.0	2.0	ng/ml	HPLC	NA	NA

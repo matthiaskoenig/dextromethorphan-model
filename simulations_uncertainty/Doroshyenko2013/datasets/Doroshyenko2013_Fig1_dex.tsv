@@ -1,0 +1,12 @@
+study	group	count	interventions	tissue	substance	time	time_unit	median	method	label	median_unit	count_unit
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	0.7719298	hr	0.8209459	LC/MS	dex	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	0.9122807	hr	1.3074324	LC/MS	dex	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	1.5438596	hr	2.0979729	LC/MS	dex	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	2.0	hr	2.6655405	LC/MS	dex	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	2.4210527	hr	2.8277028	LC/MS	dex	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	3.0175438	hr	2.3513513	LC/MS	dex	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	3.9298246	hr	1.8547298	LC/MS	dex	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	5.0526314	hr	1.6317568	LC/MS	dex	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	6.0701756	hr	1.3581082	LC/MS	dex	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	8.035088	hr	1.2466216	LC/MS	dex	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	11.894737	hr	0.75	LC/MS	dex	nmol/l	dimensionless

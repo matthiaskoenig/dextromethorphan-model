@@ -1,0 +1,10 @@
+study	id	activity_score	parent_group	measurement	substance	tissue	intervention	time	time_unit	value	method	time_jitter	time_jitter_unit	value_unit
+Koehler1997	Fig2_EM_panel1_1	ambiguous	control	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	1.8420912366803733e-05	HPLC	0.8396163194603699	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel1_2	ambiguous	control	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	2.3157088325890552e-05	HPLC	1.0064099914003763	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel1_3	ambiguous	control	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	1.8825846339773915e-05	HPLC	1.0740891295876727	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel1_4	ambiguous	control	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	2.29377323105039e-05	HPLC	1.0152619193565653	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel1_5	ambiguous	control	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	2.1707919927488173e-05	HPLC	1.0863743891323332	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel1_6	ambiguous	control	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	1.861274631177138e-05	HPLC	1.2913099222503972	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel1_7	ambiguous	control	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	1.8813961842861567e-05	HPLC	0.8521176639335598	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel1_8	ambiguous	control	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	1.8399644073042402e-05	HPLC	1.094547297464586	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel1_9	ambiguous	control	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	1.6956731293569735e-05	HPLC	0.8333864542682036	hr	mole/meter^3

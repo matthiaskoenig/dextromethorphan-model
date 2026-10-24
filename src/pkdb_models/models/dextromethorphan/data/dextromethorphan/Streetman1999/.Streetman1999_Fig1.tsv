@@ -1,0 +1,13 @@
+study	group	measurement	tissue	substance	intervention	time	time_unit	mean	sd	unit	method
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex50ngpkg	12	hr	0.005	0.005	dimensionless	HPLC
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex150ngpkg	12	hr	0.009	0.017	dimensionless	HPLC
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex300ngpkg	12	hr	0.011	0.018	dimensionless	HPLC
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex30mg	12	hr	0.009	0.013	dimensionless	HPLC
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex800ngpkg	12	hr	0.012	0.017	dimensionless	HPLC
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex1200ngpkg	12	hr	0.015	0.027	dimensionless	HPLC
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex50ngpkg	12	hr	2.499	NA	dimensionless	HPLC
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex150ngpkg	12	hr	0.166	NA	dimensionless	HPLC
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex300ngpkg	12	hr	1.494	NA	dimensionless	HPLC
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex30mg	12	hr	0.645	NA	dimensionless	HPLC
+Streetman1999	em	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex800ngpkg	12	hr	6.806	NA	dimensionless	HPLC
+Streetman1999	pm	metabolic ratio	urine	(dmt)/(dtf+dtfglu)	dex1200ngpkg	12	hr	0.619	NA	dimensionless	HPLC

@@ -1,0 +1,36 @@
+study	id	group	measurement	substance	tissue	intervention	time	time_unit	value	unit	method
+Nagai1996	study1_1	pharmacokinetics	recovery	dextromethorphan	urine	dex_30mg	34	hr	0.107	percent	HPLC
+Nagai1996	study1_2	pharmacokinetics	recovery	dextromethorphan	urine	dex_30mg	34	hr	0.152	percent	HPLC
+Nagai1996	study1_3	pharmacokinetics	recovery	dextromethorphan	urine	dex_30mg	34	hr	0.057	percent	HPLC
+Nagai1996	study1_4	pharmacokinetics	recovery	dextromethorphan	urine	dex_30mg	34	hr	0.652	percent	HPLC
+Nagai1996	study1_5	pharmacokinetics	recovery	dextromethorphan	urine	dex_30mg	34	hr	0.004	percent	HPLC
+Nagai1996	study1_6	pharmacokinetics	recovery	dextromethorphan	urine	dex_30mg	34	hr	0.345	percent	HPLC
+Nagai1996	study1_7	pharmacokinetics	recovery	dextromethorphan	urine	dex_30mg	34	hr	0.054	percent	HPLC
+Nagai1996	study1_1	pharmacokinetics	recovery	dtf+dtfglu	urine	dex_30mg	34	hr	50.37	percent	HPLC
+Nagai1996	study1_2	pharmacokinetics	recovery	dtf+dtfglu	urine	dex_30mg	34	hr	42.19	percent	HPLC
+Nagai1996	study1_3	pharmacokinetics	recovery	dtf+dtfglu	urine	dex_30mg	34	hr	40.07	percent	HPLC
+Nagai1996	study1_4	pharmacokinetics	recovery	dtf+dtfglu	urine	dex_30mg	34	hr	42.53	percent	HPLC
+Nagai1996	study1_5	pharmacokinetics	recovery	dtf+dtfglu	urine	dex_30mg	34	hr	25.54	percent	HPLC
+Nagai1996	study1_6	pharmacokinetics	recovery	dtf+dtfglu	urine	dex_30mg	34	hr	38.82	percent	HPLC
+Nagai1996	study1_7	pharmacokinetics	recovery	dtf+dtfglu	urine	dex_30mg	34	hr	30.66	percent	HPLC
+Nagai1996	study1_1	pharmacokinetics	recovery	hm3+hm3glu	urine	dex_30mg	34	hr	29.07	percent	HPLC
+Nagai1996	study1_2	pharmacokinetics	recovery	hm3+hm3glu	urine	dex_30mg	34	hr	31.27	percent	HPLC
+Nagai1996	study1_3	pharmacokinetics	recovery	hm3+hm3glu	urine	dex_30mg	34	hr	41.11	percent	HPLC
+Nagai1996	study1_4	pharmacokinetics	recovery	hm3+hm3glu	urine	dex_30mg	34	hr	46.37	percent	HPLC
+Nagai1996	study1_5	pharmacokinetics	recovery	hm3+hm3glu	urine	dex_30mg	34	hr	20.53	percent	HPLC
+Nagai1996	study1_6	pharmacokinetics	recovery	hm3+hm3glu	urine	dex_30mg	34	hr	33.23	percent	HPLC
+Nagai1996	study1_7	pharmacokinetics	recovery	hm3+hm3glu	urine	dex_30mg	34	hr	31.86	percent	HPLC
+Nagai1996	study1_1	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(dmt)	urine	dex_30mg	34	hr	471.0	dimensionless	HPLC
+Nagai1996	study1_2	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(dmt)	urine	dex_30mg	34	hr	276.0	dimensionless	HPLC
+Nagai1996	study1_3	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(dmt)	urine	dex_30mg	34	hr	696.0	dimensionless	HPLC
+Nagai1996	study1_4	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(dmt)	urine	dex_30mg	34	hr	65.2	dimensionless	HPLC
+Nagai1996	study1_5	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(dmt)	urine	dex_30mg	34	hr	5436.0	dimensionless	HPLC
+Nagai1996	study1_6	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(dmt)	urine	dex_30mg	34	hr	113.0	dimensionless	HPLC
+Nagai1996	study1_7	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(dmt)	urine	dex_30mg	34	hr	568.0	dimensionless	HPLC
+Nagai1996	study1_1	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(hm3+hm3glu)	urine	dex_30mg	34	hr	1.73	dimensionless	HPLC
+Nagai1996	study1_2	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(hm3+hm3glu)	urine	dex_30mg	34	hr	1.35	dimensionless	HPLC
+Nagai1996	study1_3	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(hm3+hm3glu)	urine	dex_30mg	34	hr	0.97	dimensionless	HPLC
+Nagai1996	study1_4	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(hm3+hm3glu)	urine	dex_30mg	34	hr	0.92	dimensionless	HPLC
+Nagai1996	study1_5	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(hm3+hm3glu)	urine	dex_30mg	34	hr	1.24	dimensionless	HPLC
+Nagai1996	study1_6	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(hm3+hm3glu)	urine	dex_30mg	34	hr	1.17	dimensionless	HPLC
+Nagai1996	study1_7	pharmacokinetics	cumulative metabolic ratio	(dtf+dtfglu)/(hm3+hm3glu)	urine	dex_30mg	34	hr	0.96	dimensionless	HPLC

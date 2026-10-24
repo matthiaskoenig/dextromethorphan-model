@@ -1,0 +1,13 @@
+study	group	count	measurement	substance	tissue	intervention	mean	sd	unit	method
+Schadel1995	EM	5	auc_inf	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	2.9313986	0.9652131	nmol*hr/ml	HPLC
+Schadel1995	EM	5	auc_inf	dextrorphan	plasma	dextromethorphan_30mg	0.074073344	0.141711936	nmol*hr/ml	HPLC
+Schadel1995	EM	5	auc_inf	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	7.924522	0.579226	nmol*hr/ml	HPLC
+Schadel1995	EM	5	auc_inf	3-methoxymorphinan	plasma	dextromethorphan_30mg	0.0093819685	0.0643966515	nmol*hr/ml	HPLC
+Schadel1995	EM	5	auc_inf	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	2.1817253	0.4761717	nmol*hr/ml	HPLC
+Schadel1995	EM	5	auc_inf	dextrorphan	plasma	dextromethorphan_30mg, quinidine_100mg	0.006189152	0.103005178	nmol*hr/ml	HPLC
+Schadel1995	EM	5	auc_inf	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	3.8029885	0.7978602	nmol*hr/ml	HPLC
+Schadel1995	EM	5	auc_inf	3-methoxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	0.25100452	0.2061086	nmol*hr/ml	HPLC
+Schadel1995	PM	4	auc_inf	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	0.8526294	0.3861343	nmol*hr/ml	HPLC
+Schadel1995	PM	4	auc_inf	dextrorphan	plasma	dextromethorphan_30mg	0.008792526	0.077315286	nmol*hr/ml	HPLC
+Schadel1995	PM	4	auc_inf	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	0.659685	0.5404211	nmol*hr/ml	HPLC
+Schadel1995	PM	4	auc_inf	3-methoxymorphinan	plasma	dextromethorphan_30mg	0.7238361	0.2959495	nmol*hr/ml	HPLC

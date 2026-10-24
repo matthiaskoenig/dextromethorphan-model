@@ -1,0 +1,73 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	unit	method	comments
+Frank2009	Tab109_B01_reference	B01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00513	dimensionless	HPLC	reference
+Frank2009	Tab109_B01_reference	B01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00327	dimensionless	HPLC	reference
+Frank2009	Tab109_B01_reference	B01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00382	dimensionless	HPLC	reference
+Frank2009	Tab109_B02_reference	B02	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.085	dimensionless	HPLC	reference
+Frank2009	Tab109_B02_reference	B02	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.0861	dimensionless	HPLC	reference
+Frank2009	Tab109_B02_reference	B02	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.1	dimensionless	HPLC	reference
+Frank2009	Tab109_B03_reference	B03	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00358	dimensionless	HPLC	reference
+Frank2009	Tab109_B03_reference	B03	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00304	dimensionless	HPLC	reference
+Frank2009	Tab109_B03_reference	B03	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00302	dimensionless	HPLC	reference
+Frank2009	Tab109_B04_reference	B04	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.0109	dimensionless	HPLC	reference
+Frank2009	Tab109_B04_reference	B04	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00799	dimensionless	HPLC	reference
+Frank2009	Tab109_B04_reference	B04	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00895	dimensionless	HPLC	reference
+Frank2009	Tab109_B05_reference	B05	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.0376	dimensionless	HPLC	reference
+Frank2009	Tab109_B05_reference	B05	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.0318	dimensionless	HPLC	reference
+Frank2009	Tab109_B05_reference	B05	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.0329	dimensionless	HPLC	reference
+Frank2009	Tab109_B06_reference	B06	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	2.75	dimensionless	HPLC	reference
+Frank2009	Tab109_B06_reference	B06	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	2.83	dimensionless	HPLC	reference
+Frank2009	Tab109_B06_reference	B06	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	2.9	dimensionless	HPLC	reference
+Frank2009	Tab109_B07_reference	B07	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.0108	dimensionless	HPLC	reference
+Frank2009	Tab109_B07_reference	B07	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00711	dimensionless	HPLC	reference
+Frank2009	Tab109_B07_reference	B07	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00863	dimensionless	HPLC	reference
+Frank2009	Tab109_B08_reference	B08	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00726	dimensionless	HPLC	reference
+Frank2009	Tab109_B08_reference	B08	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.0036	dimensionless	HPLC	reference
+Frank2009	Tab109_B08_reference	B08	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.0066	dimensionless	HPLC	reference
+Frank2009	Tab109_B09_reference	B09	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00791	dimensionless	HPLC	reference
+Frank2009	Tab109_B09_reference	B09	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00484	dimensionless	HPLC	reference
+Frank2009	Tab109_B09_reference	B09	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00929	dimensionless	HPLC	reference
+Frank2009	Tab109_B10_reference	B10	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00319	dimensionless	HPLC	reference
+Frank2009	Tab109_B10_reference	B10	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00389	dimensionless	HPLC	reference
+Frank2009	Tab109_B10_reference	B10	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00563	dimensionless	HPLC	reference
+Frank2009	Tab109_B11_reference	B11	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00441	dimensionless	HPLC	reference
+Frank2009	Tab109_B11_reference	B11	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00199	dimensionless	HPLC	reference
+Frank2009	Tab109_B11_reference	B11	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00348	dimensionless	HPLC	reference
+Frank2009	Tab109_B12_reference	B12	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00235	dimensionless	HPLC	reference
+Frank2009	Tab109_B12_reference	B12	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00147	dimensionless	HPLC	reference
+Frank2009	Tab109_B12_reference	B12	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00303	dimensionless	HPLC	reference
+Frank2009	Tab109_B01_test	B01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00597	dimensionless	HPLC	test
+Frank2009	Tab109_B01_test	B01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00472	dimensionless	HPLC	test
+Frank2009	Tab109_B01_test	B01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00479	dimensionless	HPLC	test
+Frank2009	Tab109_B02_test	B02	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.0689	dimensionless	HPLC	test
+Frank2009	Tab109_B02_test	B02	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.0511	dimensionless	HPLC	test
+Frank2009	Tab109_B02_test	B02	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.0788	dimensionless	HPLC	test
+Frank2009	Tab109_B03_test	B03	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00595	dimensionless	HPLC	test
+Frank2009	Tab109_B03_test	B03	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00339	dimensionless	HPLC	test
+Frank2009	Tab109_B03_test	B03	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00368	dimensionless	HPLC	test
+Frank2009	Tab109_B04_test	B04	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00737	dimensionless	HPLC	test
+Frank2009	Tab109_B04_test	B04	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.0155	dimensionless	HPLC	test
+Frank2009	Tab109_B04_test	B04	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00732	dimensionless	HPLC	test
+Frank2009	Tab109_B05_test	B05	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.022	dimensionless	HPLC	test
+Frank2009	Tab109_B05_test	B05	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.0355	dimensionless	HPLC	test
+Frank2009	Tab109_B05_test	B05	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.0267	dimensionless	HPLC	test
+Frank2009	Tab109_B06_test	B06	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	2.4	dimensionless	HPLC	test
+Frank2009	Tab109_B06_test	B06	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	2.37	dimensionless	HPLC	test
+Frank2009	Tab109_B06_test	B06	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	na	dimensionless	HPLC	test
+Frank2009	Tab109_B07_test	B07	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.0104	dimensionless	HPLC	test
+Frank2009	Tab109_B07_test	B07	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00628	dimensionless	HPLC	test
+Frank2009	Tab109_B07_test	B07	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00639	dimensionless	HPLC	test
+Frank2009	Tab109_B08_test	B08	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00883	dimensionless	HPLC	test
+Frank2009	Tab109_B08_test	B08	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00559	dimensionless	HPLC	test
+Frank2009	Tab109_B08_test	B08	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00713	dimensionless	HPLC	test
+Frank2009	Tab109_B09_test	B09	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.0117	dimensionless	HPLC	test
+Frank2009	Tab109_B09_test	B09	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00743	dimensionless	HPLC	test
+Frank2009	Tab109_B09_test	B09	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00848	dimensionless	HPLC	test
+Frank2009	Tab109_B10_test	B10	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00713	dimensionless	HPLC	test
+Frank2009	Tab109_B10_test	B10	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00624	dimensionless	HPLC	test
+Frank2009	Tab109_B10_test	B10	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00658	dimensionless	HPLC	test
+Frank2009	Tab109_B11_test	B11	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.0053	dimensionless	HPLC	test
+Frank2009	Tab109_B11_test	B11	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	na	dimensionless	HPLC	test
+Frank2009	Tab109_B11_test	B11	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00361	dimensionless	HPLC	test
+Frank2009	Tab109_B12_test	B12	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00183	dimensionless	HPLC	test
+Frank2009	Tab109_B12_test	B12	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.0026	dimensionless	HPLC	test
+Frank2009	Tab109_B12_test	B12	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00451	dimensionless	HPLC	test

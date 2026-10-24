@@ -1,0 +1,35 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	unit	method
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	0.17	hr	0.3673246	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	0.72	hr	2.9618843	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	0.32	hr	3.222311	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	2.12	hr	3.849656	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	3.0	hr	2.853378	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	3.75	hr	2.503038	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	5.5	hr	2.5987809	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	8.0	hr	3.163673	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	12.0	hr	1.9088545	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	24.0	hr	1.2302053	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	48.0	hr	0.36826634	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	0.67	hr	1.288822	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	1.0	hr	9.905958	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	2.0	hr	17.906698	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	3.0	hr	23.515774	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	4.0	hr	19.855062	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	6.0	hr	17.735367	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	8.0	hr	16.44903	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	12.0	hr	14.830257	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	24.0	hr	8.593327	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	48.0	hr	1.6725429	microg/l	HPLC
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	72.0	hr	0.49690774	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	1.0	hr	8.371378	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	2.0	hr	13.368181	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	3.0	hr	22.370358	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	7.5	hr	21.960672	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	12.0	hr	19.088545	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	24.0	hr	15.257646	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	48.0	hr	10.506109	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	72.0	hr	7.3023286	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	96.0	hr	5.171377	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	120.0	hr	3.7318816	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	144.0	hr	2.3842287	microg/l	HPLC
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	168.0	hr	1.9612732	microg/l	HPLC

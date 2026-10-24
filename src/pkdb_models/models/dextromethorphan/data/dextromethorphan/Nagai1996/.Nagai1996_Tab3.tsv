@@ -1,0 +1,7 @@
+study	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	sd	min	max	unit	method
+Nagai1996	em	74	cumulative amount	dextromethorphan	urine	dex_30mg	8	hr	0.29	0.37	0.003	1.26	micromol	HPLC
+Nagai1996	em	74	cumulative amount	dtf+dtfglu	urine	dex_30mg	8	hr	26.3	14.9	4.32	65.8	micromol	HPLC
+Nagai1996	em	74	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dex_30mg	8	hr	0.017	0.028	0.0001	0.162	dimensionless	HPLC
+Nagai1996	pm	1	cumulative amount	dextromethorphan	urine	dex_30mg	8	hr	2.24	NA	NA	NA	micromol	HPLC
+Nagai1996	pm	1	cumulative amount	dtf+dtfglu	urine	dex_30mg	8	hr	0.9	NA	NA	NA	micromol	HPLC
+Nagai1996	pm	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dex_30mg	8	hr	2.4986	NA	NA	NA	dimensionless	HPLC

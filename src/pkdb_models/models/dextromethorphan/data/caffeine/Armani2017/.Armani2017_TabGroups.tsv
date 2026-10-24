@@ -1,0 +1,9 @@
+study	name	parent	measurement_type	group_count	choice	substance	count	unit	mean	median	sd	min	max
+Armani2017	all	NA	species	19	homo sapiens	NA	19	NA	NA	NA	NA	NA	NA
+Armani2017	all	NA	healthy	19	Y	NA	19	NA	NA	NA	NA	NA	NA
+Armani2017	all	NA	sex	19	M	NA	10	NA	NA	NA	NA	NA	NA
+Armani2017	all	NA	sex	19	F	NA	9	NA	NA	NA	NA	NA	NA
+Armani2017	all	NA	age	19	NA	NA	19	yr	41.8	41.5	NA	27.0	55.0
+Armani2017	all	NA	weight	19	NA	NA	19	kg	73.0	NA	12.9	50.0	100.0
+Armani2017	all	NA	bmi	19	NA	NA	19	kg/m^2	24.4	NA	2.9	NA	NA
+Armani2017	all	NA	ethnicity	19	caucasian	NA	18	NA	NA	NA	NA	NA	NA

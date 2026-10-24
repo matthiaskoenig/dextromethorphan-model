@@ -1,0 +1,4 @@
+study	name	measurement_type	substance	value	route	form	time	time_unit	application	unit
+Tamminga2001b	DEX	dosing	dextromethorphan	22	oral	tablet	0	hr	single dose	mg
+Tamminga2001b	CAF	dosing	caffeine	100	oral	tablet	0	hr	single dose	mg
+Tamminga2001b	MEP	dosing	mephenytoin	100	oral	tablet	0	hr	single dose	mg

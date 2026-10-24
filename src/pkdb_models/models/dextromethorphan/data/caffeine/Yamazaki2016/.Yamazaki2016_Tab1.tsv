@@ -1,0 +1,73 @@
+study	group	count	measurement_type	intervention	substance	method	tissue	time	time_unit	mean	sd	se	min	max	unit	comments
+Yamazaki2016	bup_group	24	auc_inf	bupropion	bupropion	LC/MS	plasma	na	na	715.7	216.2	44.1316401991436	NA	NA	ng/ml*hr	NA
+Yamazaki2016	bup_group	24	auc_end	bupropion	bupropion	LC/MS	plasma	48	hr	684.9	205.8	42.0087490887315	NA	NA	ng/ml*hr	NA
+Yamazaki2016	bup_group	24	cmax	bupropion	bupropion	LC/MS	plasma	na	na	148.6	49.1	10.0224955308878	NA	NA	ng/ml	NA
+Yamazaki2016	bup_group	24	tmax	bupropion	bupropion	LC/MS	plasma	na	na	1.5	NA	0.0	1.0	2.0	hr	NA
+Yamazaki2016	bup_group	24	thalf	bupropion	bupropion	LC/MS	plasma	na	na	25.0	7.5	1.53093108923949	NA	NA	hr	NA
+Yamazaki2016	bup_group	24	clearance	bupropion	bupropion	LC/MS	plasma	na	na	151.9	44.2	9.02228721925138	NA	NA	l/hr	NA
+Yamazaki2016	bup_group	24	auc_inf	bupropion, isavuconazole	bupropion	LC/MS	plasma	na	na	425.9	157.5	32.1495528740292	NA	NA	ng/ml*hr	NA
+Yamazaki2016	bup_group	24	auc_end	bupropion, isavuconazole	bupropion	LC/MS	plasma	48	hr	406.2	155.0	31.6392425109494	NA	NA	ng/ml*hr	NA
+Yamazaki2016	bup_group	24	cmax	bupropion, isavuconazole	bupropion	LC/MS	plasma	na	na	102.5	33.7	6.87898369431609	NA	NA	ng/ml	NA
+Yamazaki2016	bup_group	24	tmax	bupropion, isavuconazole	bupropion	LC/MS	plasma	na	na	1.5	NA	NA	1.0	2.0	hr	NA
+Yamazaki2016	bup_group	24	thalf	bupropion, isavuconazole	bupropion	LC/MS	plasma	na	na	19.2	7.2	1.46969384566991	NA	NA	hr	NA
+Yamazaki2016	bup_group	24	clearance	bupropion, isavuconazole	bupropion	LC/MS	plasma	na	na	271.1	107.3	21.9025207833862	NA	NA	l/hr	NA
+Yamazaki2016	rep_caf_group	24	auc_inf	repaglinide	repaglinide	LC/MS	plasma	na	na	11.4	4.8	0.979795897113271	NA	NA	ng/ml*hr	NA
+Yamazaki2016	rep_caf_group	24	auc_end	repaglinide	repaglinide	LC/MS	plasma	24	hr	10.8	4.7	0.959383482590078	NA	NA	ng/ml*hr	NA
+Yamazaki2016	rep_caf_group	24	cmax	repaglinide	repaglinide	LC/MS	plasma	na	na	8.7	3.6	0.734846922834954	NA	NA	ng/ml	NA
+Yamazaki2016	rep_caf_group	24	tmax	repaglinide	repaglinide	LC/MS	plasma	na	na	0.5	NA	NA	0.5	1.0	hr	NA
+Yamazaki2016	rep_caf_group	24	thalf	repaglinide	repaglinide	LC/MS	plasma	na	na	1.1	0.4	0.0816496580927726	NA	NA	hr	NA
+Yamazaki2016	rep_caf_group	24	clearance	repaglinide	repaglinide	LC/MS	plasma	na	na	54.0	27.6	5.63382640840131	NA	NA	l/hr	NA
+Yamazaki2016	rep_caf_group	22	auc_inf	repaglinide, isavuconazole	repaglinide	LC/MS	plasma	na	na	10.5	3.9	0.831482793786881	NA	NA	ng/ml*hr	NA
+Yamazaki2016	rep_caf_group	22	auc_end	repaglinide, isavuconazole	repaglinide	LC/MS	plasma	24	hr	9.9	3.8	0.81016272215132	NA	NA	ng/ml*hr	NA
+Yamazaki2016	rep_caf_group	22	cmax	repaglinide, isavuconazole	repaglinide	LC/MS	plasma	na	na	7.6	3.2	0.682242292337953	NA	NA	ng/ml	NA
+Yamazaki2016	rep_caf_group	22	tmax	repaglinide, isavuconazole	repaglinide	LC/MS	plasma	na	na	0.5	NA	NA	0.5	1.5	hr	NA
+Yamazaki2016	rep_caf_group	22	thalf	repaglinide, isavuconazole	repaglinide	LC/MS	plasma	na	na	1.0	0.2	0.0426401432711221	NA	NA	hr	NA
+Yamazaki2016	rep_caf_group	22	clearance	repaglinide, isavuconazole	repaglinide	LC/MS	plasma	na	na	54.9	23.0	4.90361647617904	NA	NA	l/hr	NA
+Yamazaki2016	rep_caf_group	24	auc_inf	caffeine	caffeine	LC/MS	plasma	na	na	44896.0	18982.0	3874.68452479252	NA	NA	ng/ml*hr	NA
+Yamazaki2016	rep_caf_group	24	auc_end	caffeine	caffeine	LC/MS	plasma	48	hr	43367.0	16463.0	3360.49580295329	NA	NA	ng/ml*hr	NA
+Yamazaki2016	rep_caf_group	24	cmax	caffeine	caffeine	LC/MS	plasma	na	na	4319.0	745.0	152.072488197789	NA	NA	ng/ml	NA
+Yamazaki2016	rep_caf_group	24	tmax	caffeine	caffeine	LC/MS	plasma	na	na	0.8	NA	NA	0.5	2.0	hr	NA
+Yamazaki2016	rep_caf_group	24	thalf	caffeine	caffeine	LC/MS	plasma	na	na	6.9	3.1	0.632784850218988	NA	NA	hr	NA
+Yamazaki2016	rep_caf_group	24	clearance	caffeine	caffeine	LC/MS	plasma	na	na	5.2	2.3	0.469485534033442	NA	NA	l/hr	NA
+Yamazaki2016	rep_caf_group	22	auc_inf	caffeine, isavuconazole	caffeine	LC/MS	plasma	na	na	47724.0	24410.0	5204.22948624045	NA	NA	ng/ml*hr	NA
+Yamazaki2016	rep_caf_group	22	auc_end	caffeine, isavuconazole	caffeine	LC/MS	plasma	48	hr	45581.0	20208.0	4308.36007611418	NA	NA	ng/ml*hr	NA
+Yamazaki2016	rep_caf_group	22	cmax	caffeine, isavuconazole	caffeine	LC/MS	plasma	na	na	4256.0	651.0	138.793666347502	NA	NA	ng/ml	NA
+Yamazaki2016	rep_caf_group	22	tmax	caffeine, isavuconazole	caffeine	LC/MS	plasma	na	na	0.8	NA	NA	0.5	3.0	hr	NA
+Yamazaki2016	rep_caf_group	22	thalf	caffeine, isavuconazole	caffeine	LC/MS	plasma	na	na	7.4	3.7	0.788842650515759	NA	NA	hr	NA
+Yamazaki2016	rep_caf_group	22	clearance	caffeine, isavuconazole	caffeine	LC/MS	plasma	na	na	5.1	2.1	0.447721504346782	NA	NA	l/hr	NA
+Yamazaki2016	dex_group	22	auc_inf	dextromethorphan	dextromethorphan	LC/MS	plasma	na	na	45.7	54.8	11.6833992562875	NA	NA	ng/ml*hr	NA
+Yamazaki2016	dex_group	24	auc_end	dextromethorphan	dextromethorphan	LC/MS	plasma	72	hr	40.3	53.2	10.8594045263388	NA	NA	ng/ml*hr	NA
+Yamazaki2016	dex_group	24	cmax	dextromethorphan	dextromethorphan	LC/MS	plasma	na	na	3.9	4.3	0.877733824497306	NA	NA	ng/ml	NA
+Yamazaki2016	dex_group	24	tmax	dextromethorphan	dextromethorphan	LC/MS	plasma	na	na	3.0	NA	NA	1.5	5.0	hr	NA
+Yamazaki2016	dex_group	22	thalf	dextromethorphan	dextromethorphan	LC/MS	plasma	na	na	8.2	3.6	0.767522578880198	NA	NA	hr	NA
+Yamazaki2016	dex_group	22	clearance	dextromethorphan	dextromethorphan	LC/MS	plasma	na	na	395.2	803.4	171.285455520097	NA	NA	l/hr	Reporting mistake!: By meta analysis 10times to high: probably 3952 → 395.2
+Yamazaki2016	dex_group	21	auc_inf	dextromethorphan, isavuconazole	dextromethorphan	LC/MS	plasma	na	na	54.4	64.5	14.0750539202215	NA	NA	ng/ml*hr	NA
+Yamazaki2016	dex_group	23	auc_end	dextromethorphan, isavuconazole	dextromethorphan	LC/MS	plasma	72	hr	48.6	62.6	13.0530023199729	NA	NA	ng/ml*hr	NA
+Yamazaki2016	dex_group	23	cmax	dextromethorphan, isavuconazole	dextromethorphan	LC/MS	plasma	na	na	4.6	5.1	1.06342351169108	NA	NA	ng/ml	NA
+Yamazaki2016	dex_group	23	tmax	dextromethorphan, isavuconazole	dextromethorphan	LC/MS	plasma	na	na	3.0	NA	NA	1.5	5.0	hr	NA
+Yamazaki2016	dex_group	22	thalf	dextromethorphan, isavuconazole	dextromethorphan	LC/MS	plasma	na	na	8.0	2.8	0.596962005795709	NA	NA	hr	NA
+Yamazaki2016	dex_group	21	clearance	dextromethorphan, isavuconazole	dextromethorphan	LC/MS	plasma	na	na	208.4	216.5	47.2441732360924	NA	NA	l/hr	Reporting mistake!: By meta analysis 10 times to high: probably 2084 → 208.4
+Yamazaki2016	meth_group	23	auc_inf	methadone	levomethadone	LC/MS	plasma	na	na	557.1	184.6	38.491760834936	NA	NA	ng/ml*hr	NA
+Yamazaki2016	meth_group	23	auc_end	methadone	levomethadone	LC/MS	plasma	216	hr	519.9	158.7	33.0912375108578	NA	NA	ng/ml*hr	NA
+Yamazaki2016	meth_group	23	cmax	methadone	levomethadone	LC/MS	plasma	na	na	12.7	3.6	0.750651890605469	NA	NA	ng/ml	NA
+Yamazaki2016	meth_group	23	tmax	methadone	levomethadone	LC/MS	plasma	na	na	4.0	NA	NA	2.0	6.0	hr	NA
+Yamazaki2016	meth_group	23	thalf	methadone	levomethadone	LC/MS	plasma	na	na	53.0	14.0	2.91920179679905	NA	NA	hr	NA
+Yamazaki2016	meth_group	23	clearance	methadone	levomethadone	LC/MS	plasma	na	na	10.1	3.8	0.792354773416884	NA	NA	l/hr	NA
+Yamazaki2016	meth_group	22	auc_inf	methadone, isavuconazole	levomethadone	LC/MS	plasma	na	na	500.5	166.7	35.5405594164803	NA	NA	ng/ml*hr	NA
+Yamazaki2016	meth_group	22	auc_end	methadone, isavuconazole	levomethadone	LC/MS	plasma	216	hr	476.9	145.8	31.084664444648	NA	NA	ng/ml*hr	NA
+Yamazaki2016	meth_group	22	cmax	methadone, isavuconazole	levomethadone	LC/MS	plasma	na	na	13.1	3.7	0.788842650515759	NA	NA	ng/ml	NA
+Yamazaki2016	meth_group	22	tmax	methadone, isavuconazole	levomethadone	LC/MS	plasma	na	na	3.0	NA	NA	2.0	8.0	hr	NA
+Yamazaki2016	meth_group	22	thalf	methadone, isavuconazole	levomethadone	LC/MS	plasma	na	na	42.1	14.4	3.07009031552079	NA	NA	hr	NA
+Yamazaki2016	meth_group	22	clearance	methadone, isavuconazole	levomethadone	LC/MS	plasma	na	na	11.2	4.2	0.895443008693564	NA	NA	l/hr	NA
+Yamazaki2016	meth_group	23	auc_inf	methadone	dextromethadone	LC/MS	plasma	na	na	739.2	304.6	63.513490521785	NA	NA	ng/ml*hr	NA
+Yamazaki2016	meth_group	23	auc_end	methadone	dextromethadone	LC/MS	plasma	216	hr	714.9	285.0	59.4266080062663	NA	NA	ng/ml*hr	NA
+Yamazaki2016	meth_group	23	cmax	methadone	dextromethadone	LC/MS	plasma	na	na	22.0	6.9	1.43874945699382	NA	NA	ng/ml	NA
+Yamazaki2016	meth_group	23	tmax	methadone	dextromethadone	LC/MS	plasma	na	na	3.0	NA	NA	1.5	4.0	hr	NA
+Yamazaki2016	meth_group	23	thalf	methadone	dextromethadone	LC/MS	plasma	na	na	39.2	12.0	2.5021729686849	NA	NA	hr	NA
+Yamazaki2016	meth_group	23	clearance	methadone	dextromethadone	LC/MS	plasma	na	na	8.3	4.6	0.959166304662544	NA	NA	l/hr	NA
+Yamazaki2016	meth_group	22	auc_inf	methadone, isavuconazole	dextromethadone	LC/MS	plasma	na	na	500.2	254.2	54.1956220975962	NA	NA	ng/ml*hr	NA
+Yamazaki2016	meth_group	22	auc_end	methadone, isavuconazole	dextromethadone	LC/MS	plasma	216	hr	491.9	247.9	52.8524575845558	NA	NA	ng/ml*hr	NA
+Yamazaki2016	meth_group	22	cmax	methadone, isavuconazole	dextromethadone	LC/MS	plasma	na	na	22.1	7.3	1.55636522939596	NA	NA	ng/ml	NA
+Yamazaki2016	meth_group	22	tmax	methadone, isavuconazole	dextromethadone	LC/MS	plasma	na	na	2.5	NA	NA	1.0	6.0	hr	NA
+Yamazaki2016	meth_group	22	thalf	methadone, isavuconazole	dextromethadone	LC/MS	plasma	na	na	23.6	10.0	2.1320071635561	NA	NA	hr	NA
+Yamazaki2016	meth_group	22	clearance	methadone, isavuconazole	dextromethadone	LC/MS	plasma	na	na	13.2	7.5	1.59900537266708	NA	NA	l/hr	NA

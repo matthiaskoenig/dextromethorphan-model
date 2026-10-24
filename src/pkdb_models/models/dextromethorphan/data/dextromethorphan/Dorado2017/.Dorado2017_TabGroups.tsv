@@ -1,0 +1,41 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	median	min	max	sd	unit	comments
+Dorado2017	all	NA	ethnicity	174	hispanic	174	NA	NA	NA	NA	NA	NA	NA	Subjects are from cuba.
+Dorado2017	all	NA	species	174	homo sapiens	174	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	all	NA	healthy	174	Y	174	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	all	NA	sex	174	F	138	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	all	NA	sex	174	M	36	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	all	NA	overnight fast	174	Y	174	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	all	NA	age	174	NA	174	NA	25.0	NA	18.0	56.0	7.8	yr	NA
+Dorado2017	all	NA	weight	174	NA	174	NA	60.1	NA	40.0	114.0	11.2	kg	NA
+Dorado2017	all	NA	abstinence medication	174	NA	174	NA	NA	NA	2.0	NA	NA	week	NA
+Dorado2017	4_4	all	cyp2d6 genotype	5	*4/*4	5	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	4_5	all	cyp2d6 genotype	1	*4/*5	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	4_17	all	cyp2d6 genotype	4	*4/*17	4	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	4_41	all	cyp2d6 genotype	2	*4/*41	2	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_4	all	cyp2d6 genotype	25	*1/*4	25	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	2_4	all	cyp2d6 genotype	10	*2/*4	10	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_5	all	cyp2d6 genotype	2	*1/*5	2	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	41_41	all	cyp2d6 genotype	2	*41/*41	2	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_6	all	cyp2d6 genotype	1	*1/*6	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	17_17	all	cyp2d6 genotype	1	*17/*17	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	17_29	all	cyp2d6 genotype	1	*17/*29	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	2_6	all	cyp2d6 genotype	1	*2/*6	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	29_41	all	cyp2d6 genotype	1	*29/*41	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	6_35	all	cyp2d6 genotype	1	*6/*35	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_17	all	cyp2d6 genotype	11	*1/*17	11	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_41	all	cyp2d6 genotype	7	*1/*41	7	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	17_35	all	cyp2d6 genotype	2	*17/*35	2	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	2_17	all	cyp2d6 genotype	2	*2/*17	2	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	2_41	all	cyp2d6 genotype	2	*2/*41	2	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_29	all	cyp2d6 genotype	1	*1/*29	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_1	all	cyp2d6 genotype	50	*1/*1	50	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_2	all	cyp2d6 genotype	23	*1/*2	23	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_35	all	cyp2d6 genotype	5	*1/*35	5	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	2_2	all	cyp2d6 genotype	2	*2/*2	2	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1N_4	all	cyp2d6 genotype	1	*1x2/*4	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	35_35	all	cyp2d6 genotype	1	*35/*35	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_1N	all	cyp2d6 genotype	5	*1/*1xN	5	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1N_35	all	cyp2d6 genotype	1	*1xN/*35	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1N_17	all	cyp2d6 genotype	1	*1xN/*17	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	2_2N	all	cyp2d6 genotype	1	*2/*2x2	1	NA	NA	NA	NA	NA	NA	NA	NA
+Dorado2017	1_2N	all	cyp2d6 genotype	2	*1/*2xN	2	NA	NA	NA	NA	NA	NA	NA	NA

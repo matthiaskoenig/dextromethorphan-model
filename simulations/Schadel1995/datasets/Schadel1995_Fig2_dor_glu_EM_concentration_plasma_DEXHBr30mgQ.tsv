@@ -1,0 +1,11 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	1.0	hr	0.03796041	0.010408428	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	2.0	hr	0.09313142	0.06181191	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	2.5	hr	0.13080508	0.08159178	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	4.0	hr	0.18853019	0.07614933	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	6.0	hr	0.15186407	0.04168796	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	8.0	hr	0.13156328	0.0243169	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	10.0	hr	0.119637325	0.036582295	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	24.0	hr	0.08225643	0.03324577	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	36.0	hr	0.07738174	0.0312688	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	48.0	hr	0.04594569	0.03428117	HPLC	nmol/ml	dimensionless

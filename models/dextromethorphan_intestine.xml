@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sbml xmlns="http://www.sbml.org/sbml/level3/version1/core" xmlns:comp="http://www.sbml.org/sbml/level3/version1/comp/version1" level="3" version="1" comp:required="true">
+<sbml xmlns="http://www.sbml.org/sbml/level3/version2/core" xmlns:comp="http://www.sbml.org/sbml/level3/version1/comp/version1" xmlns:distrib="http://www.sbml.org/sbml/level3/version1/distrib/version1" level="3" version="2" comp:required="true" distrib:required="true">
   <notes>
     <body xmlns="http://www.w3.org/1999/xhtml">
       <p>Created with <a href="https://github.com/matthiaskoenig/sbmlutils">https://github.com/matthiaskoenig/sbmlutils</a>.
@@ -10,34 +10,31 @@
   <model metaid="meta_dextromethorphan_intestine" id="dextromethorphan_intestine" name="Dextromethorphan (DXM) intestine model" substanceUnits="mmole" timeUnits="min" volumeUnits="litre" areaUnits="m2" lengthUnits="metre" extentUnits="mmole">
     <notes>
       <body xmlns="http://www.w3.org/1999/xhtml">
-        <h1>Dextromethorphan (DXM) intestine / gut model</h1>
-        <img src="dex_intestine.png" width="200"/>
-        <p>Orally applied DXM is absorbed via the intestine (see <code>absorption</code> in
-whole-body model). Within the intestinal wall part of the DXM can be
-metabolized via CYP3A4 mediated first-pass metabolism (the metabolic product
-of the reaction MEM is not part of the model), resulting in a reduced
-bioavailability of DXM.</p>
+        <h1>Intestine model of the oral absorption of dextromethorphan</h1>
+        <p>An oral dose dissolves and passes the stomach with the rate <code>Ka_dis_dxm</code>
+into the lumen of the small intestine, from which the fraction <code>F_dxm_abs</code>
+is absorbed into the portal plasma with the rate <code>DXMABS_k</code>, the rest is
+excreted in the feces. The oral bioavailability is the fraction absorbed
+times the fraction which escapes the first pass through the liver; the
+first pass of dextromethorphan is hepatic, the intestinal CYP3A4 is a few
+tenths of a percent of a dose and is not part of the model.</p>
+        <p>The content of this model has been carefully created in a manual research effort.</p>
         <h2>Terms of use</h2>
-        <p>The content of this model has been carefully created in a manual research effort.
-This file has been created by <a href="https://livermetabolism.com">Matthias König</a>
-using <a href="https://github.com/matthiaskoenig/sbmlutils">sbmlutils</a>.
-For questions contact <a href="mailto:koenigmx@hu-berlin.de">koenigmx@hu-berlin.de</a>. Copyright © 2022 Matthias König.</p>
-        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-          <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/>
+        <p>Copyright © 2026 <a href="https://livermetabolism.com" title="Matthias König" target="_blank">Matthias König</a>.</p>
+        <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+          <img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png"/>
         </a>
-        <br/>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
-<p>Redistribution and use of any part of this model, with or without modification,
-are permitted provided that the following conditions are met:</p>
-        <ol>
-          <li>Redistributions of this SBML file must retain the above copyright notice, this
-list of conditions and the following disclaimer.</li>
-          <li>Redistributions in a different form must reproduce the above copyright notice,
-this list of conditions and the following disclaimer in the documentation and/or
-other materials provided with the distribution.</li>
-        </ol>
-        <p>This model is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.</p></body>
+        <br/>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<p>Redistribution and use of any part of this model, with or without modification, are permitted provided
+that the following conditions are met:</p>
+        <ul>
+          <li>Redistributions of this SBML file must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
+          <li>Redistributions in a different form must reproduce the above copyright notice, this list of conditions
+and the following disclaimer in the documentation and/or other materials provided
+with the distribution.</li>
+        </ul>
+        <p>This model is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</p></body>
       </notes>
     <annotation>
       <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -45,43 +42,58 @@ FOR A PARTICULAR PURPOSE.</p></body>
           <dcterms:creator>
             <rdf:Bag>
               <rdf:li rdf:parseType="Resource">
-                <vCard:N rdf:parseType="Resource">
-                  <vCard:Family>Janosch</vCard:Family>
-                  <vCard:Given>Brandhorst</vCard:Given>
-                </vCard:N>
-                <vCard:EMAIL>jbrandhorst1@googlemail.com</vCard:EMAIL>
-                <vCard:ORG rdf:parseType="Resource">
-                  <vCard:Orgname>Humboldt-University Berlin, Institute for Theoretical Biology</vCard:Orgname>
-                </vCard:ORG>
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>Grzegorzewski</vCard4:family-name>
+                  <vCard4:given-name>Jan</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>janekG89@hotmail.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-Universität zu Berlin, Institute for Theoretical Biology</vCard4:organization-name>
               </rdf:li>
               <rdf:li rdf:parseType="Resource">
-                <vCard:N rdf:parseType="Resource">
-                  <vCard:Family>König</vCard:Family>
-                  <vCard:Given>Matthias</vCard:Given>
-                </vCard:N>
-                <vCard:EMAIL>koenigmx@hu-berlin.de</vCard:EMAIL>
-                <vCard:ORG rdf:parseType="Resource">
-                  <vCard:Orgname>Humboldt-University Berlin, Institute for Theoretical Biology</vCard:Orgname>
-                </vCard:ORG>
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>Brandhorst</vCard4:family-name>
+                  <vCard4:given-name>Janosch</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>jbrandhorst1@googlemail.com</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-Universität zu Berlin, Institute for Theoretical Biology</vCard4:organization-name>
               </rdf:li>
               <rdf:li rdf:parseType="Resource">
-                <vCard:N rdf:parseType="Resource">
-                  <vCard:Family>Grzegorzewski</vCard:Family>
-                  <vCard:Given>Jan</vCard:Given>
-                </vCard:N>
-                <vCard:EMAIL>janekG89@hotmail.de</vCard:EMAIL>
-                <vCard:ORG rdf:parseType="Resource">
-                  <vCard:Orgname>Humboldt-University Berlin, Institute for Theoretical Biology</vCard:Orgname>
-                </vCard:ORG>
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>König</vCard4:family-name>
+                  <vCard4:given-name>Matthias</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>koenigmx@hu-berlin.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-University Berlin, Institute for Theoretical Biology</vCard4:organization-name>
               </rdf:li>
             </rdf:Bag>
           </dcterms:creator>
           <dcterms:created rdf:parseType="Resource">
-            <dcterms:W3CDTF>1900-01-01T00:00:00Z</dcterms:W3CDTF>
+            <dcterms:W3CDTF>2026-10-24T23:08:15Z</dcterms:W3CDTF>
           </dcterms:created>
           <dcterms:modified rdf:parseType="Resource">
-            <dcterms:W3CDTF>1900-01-01T00:00:00Z</dcterms:W3CDTF>
+            <dcterms:W3CDTF>2026-10-24T23:08:15Z</dcterms:W3CDTF>
           </dcterms:modified>
+          <bqbiol:occursIn>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/BTO:0000545"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit:C12736"/>
+              <rdf:li rdf:resource="https://identifiers.org/FMA:7199"/>
+            </rdf:Bag>
+          </bqbiol:occursIn>
+          <bqbiol:hasProperty>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/ncit:C79369"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit:C79372"/>
+              <rdf:li rdf:resource="https://identifiers.org/mamo:MAMO_0000046"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit:C15299"/>
+            </rdf:Bag>
+          </bqbiol:hasProperty>
+          <bqbiol:hasTaxon>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/taxonomy:9606"/>
+              <rdf:li rdf:resource="https://identifiers.org/snomedct:337915000"/>
+            </rdf:Bag>
+          </bqbiol:hasTaxon>
         </rdf:Description>
       </rdf:RDF>
     </annotation>
@@ -96,6 +108,12 @@ FOR A PARTICULAR PURPOSE.</p></body>
         <listOfUnits>
           <unit kind="litre" exponent="1" scale="0" multiplier="1"/>
           <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="l_per_ml" name="l/ml">
+        <listOfUnits>
+          <unit kind="litre" exponent="1" scale="0" multiplier="1"/>
+          <unit kind="litre" exponent="-1" scale="0" multiplier="0.001"/>
         </listOfUnits>
       </unitDefinition>
       <unitDefinition id="m2" name="meter^2">
@@ -114,6 +132,12 @@ FOR A PARTICULAR PURPOSE.</p></body>
           <unit kind="gram" exponent="1" scale="0" multiplier="0.001"/>
         </listOfUnits>
       </unitDefinition>
+      <unitDefinition id="mg_per_min" name="mg/min">
+        <listOfUnits>
+          <unit kind="gram" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
       <unitDefinition id="microM" name="micromole/liter">
         <listOfUnits>
           <unit kind="mole" exponent="1" scale="0" multiplier="1e-06"/>
@@ -129,6 +153,12 @@ FOR A PARTICULAR PURPOSE.</p></body>
         <listOfUnits>
           <unit kind="second" exponent="1" scale="0" multiplier="60"/>
           <unit kind="second" exponent="-1" scale="0" multiplier="3600"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="ml_per_min" name="ml/min">
+        <listOfUnits>
+          <unit kind="litre" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
         </listOfUnits>
       </unitDefinition>
       <unitDefinition id="mmole" name="mmole">
@@ -161,32 +191,28 @@ FOR A PARTICULAR PURPOSE.</p></body>
       </unitDefinition>
     </listOfUnitDefinitions>
     <listOfCompartments>
-      <compartment metaid="meta_Vmem" sboTerm="SBO:0000290" id="Vmem" name="plasma membrane" spatialDimensions="2" size="NaN" units="m2" constant="true">
+      <compartment metaid="meta_Vext" sboTerm="SBO:0000290" id="Vext" name="plasma" size="1" units="litre" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_Vmem">
+            <rdf:Description rdf:about="#meta_Vext">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000290"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ncit/C13735"/>
-                  <rdf:li rdf:resource="https://identifiers.org/FMA:63841"/>
-                  <rdf:li rdf:resource="https://identifiers.org/GO:0005886"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C13356"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0000131"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
           </rdf:RDF>
         </annotation>
       </compartment>
-      <compartment metaid="meta_Vgu" sboTerm="SBO:0000290" id="Vgu" name="intestine" spatialDimensions="3" size="1.2825" units="litre" constant="true">
+      <compartment metaid="meta_Vgu" sboTerm="SBO:0000290" id="Vgu" name="intestine" size="1.2825" units="litre" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_Vgu">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000290"/>
-                  <rdf:li rdf:resource="https://identifiers.org/FMA:45615"/>
                   <rdf:li rdf:resource="https://identifiers.org/BTO:0000545"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ncit/C12736"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C12736"/>
                   <rdf:li rdf:resource="https://identifiers.org/FMA:7199"/>
                   <rdf:li rdf:resource="https://identifiers.org/BTO:0000648"/>
                 </rdf:Bag>
@@ -195,13 +221,12 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </compartment>
-      <compartment metaid="meta_Vlumen" sboTerm="SBO:0000290" id="Vlumen" name="intestinal lumen (inner part of intestine)" spatialDimensions="3" size="1.15425" units="litre" constant="false">
+      <compartment metaid="meta_Vlumen" sboTerm="SBO:0000290" id="Vlumen" name="intestinal lumen (inner part of intestine)" size="1.15425" units="litre" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_Vlumen">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000290"/>
                   <rdf:li rdf:resource="https://identifiers.org/FMA:14586"/>
                   <rdf:li rdf:resource="https://identifiers.org/UBERON:0018543"/>
                 </rdf:Bag>
@@ -210,16 +235,45 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </compartment>
-      <compartment metaid="meta_Vfeces" sboTerm="SBO:0000290" id="Vfeces" name="feces" spatialDimensions="3" size="1" units="litre" constant="true">
+      <compartment metaid="meta_Vfeces" sboTerm="SBO:0000290" id="Vfeces" name="feces" size="1" units="litre" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#meta_Vfeces">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000290"/>
                   <rdf:li rdf:resource="https://identifiers.org/FMA:64183"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ncit/C13234"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C13234"/>
                   <rdf:li rdf:resource="https://identifiers.org/BTO:0000440"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+      <compartment metaid="meta_Vstomach" sboTerm="SBO:0000290" id="Vstomach" name="stomach" size="1" units="litre" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vstomach">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:7148"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C12391"/>
+                  <rdf:li rdf:resource="https://identifiers.org/UBERON:0000945"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0001307"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+      <compartment metaid="meta_Vapical" sboTerm="SBO:0000290" id="Vapical" name="apical membrane (intestinal membrane enterocytes)" spatialDimensions="2" size="NaN" units="m2" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vapical">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:84666"/>
+                  <rdf:li rdf:resource="https://identifiers.org/GO:0016324"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -228,37 +282,45 @@ FOR A PARTICULAR PURPOSE.</p></body>
       </compartment>
     </listOfCompartments>
     <listOfSpecies>
-      <species metaid="meta_dxm_lumen" sboTerm="SBO:0000247" id="dxm_lumen" name="dxmtormetorphan (intestinal volume)" compartment="Vlumen" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+      <species metaid="meta_dxm_stomach" sboTerm="SBO:0000247" id="dxm_stomach" name="dextromethorphan (stomach)" compartment="Vstomach" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="true" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_dxm_lumen">
+            <rdf:Description rdf:about="#meta_dxm_stomach">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
                   <rdf:li rdf:resource="https://identifiers.org/CHEBI:4470"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ncit/C62022"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/MKXZASYAUGDDCJ-NJAFHUGGSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C62022"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="meta_dxm" sboTerm="SBO:0000247" id="dxm" name="dextromethorphan (intestine)" compartment="Vgu" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>appearance via absorption defined in (whole-body model)</p>
-          </body>
-        </notes>
+      <species metaid="meta_dxm_lumen" sboTerm="SBO:0000247" id="dxm_lumen" name="dextromethorphan (intestinal lumen)" compartment="Vlumen" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_dxm">
+            <rdf:Description rdf:about="#meta_dxm_lumen">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
                   <rdf:li rdf:resource="https://identifiers.org/CHEBI:4470"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ncit/C62022"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/MKXZASYAUGDDCJ-NJAFHUGGSA-N"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C62022"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_dxm_ext" sboTerm="SBO:0000247" id="dxm_ext" name="dextromethorphan (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_dxm_ext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:4470"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C62022"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -271,28 +333,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
             <rdf:Description rdf:about="#meta_dxm_feces">
               <bqbiol:is>
                 <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
                   <rdf:li rdf:resource="https://identifiers.org/CHEBI:4470"/>
-                  <rdf:li rdf:resource="https://identifiers.org/ncit/C62022"/>
-                  <rdf:li rdf:resource="https://identifiers.org/inchikey/MKXZASYAUGDDCJ-NJAFHUGGSA-N"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </species>
-      <species metaid="meta_dxmmet" sboTerm="SBO:0000247" id="dxmmet" name="dextromethorphan metabolite (intestine)" compartment="Vgu" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>used for tracking of amounts</p>
-          </body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_dxmmet">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C62022"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -301,132 +344,174 @@ FOR A PARTICULAR PURPOSE.</p></body>
       </species>
     </listOfSpecies>
     <listOfParameters>
-      <parameter metaid="meta_F_dxm" sboTerm="SBO:0000002" id="F_dxm" name="fraction absorbed dextromethorphan" value="0.55" units="dimensionless" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_F_dxm">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_Ka_abs_dxm" sboTerm="SBO:0000002" id="Ka_abs_dxm" name="Ka_abs [1/hr] absorption dextromethorphan" value="3.42854395495006" units="per_hr" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_Ka_abs_dxm">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="meta_DXMCYP3A4_activity" sboTerm="SBO:0000559" id="DXMCYP3A4_activity" name="DXMCYP3A4 activity" value="1" units="dimensionless" constant="true">
+      <parameter sboTerm="SBO:0000002" id="F_dxm_abs" name="fraction absorbed dextromethorphan" value="0.523770919743564" units="dimensionless" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>Scaling factor for activity</p>
+            <p>The fraction of the dextromethorphan in the lumen which is absorbed,
+<code>(1 - F_dxm_abs)</code> is excreted in the feces; fitted on the
+urinary recoveries.</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_DXMCYP3A4_activity">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000559"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_094137__4239e">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>GU__F_dxm_abs</code> is the result of the fit <code>PK_20261020_094137__4239e</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_094137__4239e</code> |
+| record | <code>PK_20261020_094137__4239e/</code> |
+| cost | 308.95 |
+| data points | 2165 |
+| value | 0.523771 dimensionless |
+| bounds | [0.3, 1] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.468805, 0.580671] |
+| Fisher confidence interval | [0.495427, 0.553736] |
+| distribution of the draws | <code>lognormal(-0.6467008663123114, 0.05459221191441419, 0.3, 1.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="dimensionless" distrib:type="confidenceInterval" distrib:valueLower="0.468804690307739" distrib:valueUpper="0.580670680694683"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.014858832858277" distrib:units="dimensionless" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 0.646700866312311 </cn>
+                  </apply>
+                  <cn> 0.0545922119144142 </cn>
+                  <cn> 0.3 </cn>
+                  <cn> 1 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
       </parameter>
-      <parameter metaid="meta_DXMCYP3A4_Vmax" sboTerm="SBO:0000186" id="DXMCYP3A4_Vmax" name="DXM CYP3A4 Vmax" value="0.0002" units="mmole_per_min_l" constant="true">
+      <parameter sboTerm="SBO:0000009" id="DXMABS_k" name="rate of the absorption of dextromethorphan" value="0.08" units="per_min" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>Same isoform in liver and intestine. Value replaced by global value.</p>
-            <p>Vmax(DOR) = 5.6 [3.3-6.8]  [nmole/min/mg]
-Km_dxm(DOR) = 286 [231-322] [µM]</p>
+            <p>Fixed: the step is in series with the dissolution and is not identified apart from it.</p>
           </body>
         </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_DXMCYP3A4_Vmax">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000186"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
       </parameter>
-      <parameter metaid="meta_DXMCYP3A4_Km" sboTerm="SBO:0000027" id="DXMCYP3A4_Km" name="DXM CYP3A4 Km" value="0.7" units="mM" constant="true">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>Same isoform in liver and intestine. Value replaced by global value.
-Kerry1994: Km = [632, 929, 977, 742, 677][µM]
-Yu2001: 232+38 [µM]</p>
-            <p>Km_dxm(DOR) = 286 [231-322]</p>
-            <p>Vmax(DOR) = 5.6 [3.3-6.8]  [nmole/min/mg]</p>
-          </body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_DXMCYP3A4_Km">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000027"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
+      <parameter sboTerm="SBO:0000002" id="PODOSE_dxm" name="oral dose dextromethorphan [mg]" value="0" units="mg" constant="false"/>
+      <parameter sboTerm="SBO:0000002" id="Ka_dis_dxm" name="Ka_dis [1/hr] dissolution dextromethorphan" value="0.401682131288553" units="per_hr" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_094137__4239e">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>Ka_dis_dxm</code> is the result of the fit <code>PK_20261020_094137__4239e</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_094137__4239e</code> |
+| record | <code>PK_20261020_094137__4239e/</code> |
+| cost | 308.95 |
+| data points | 2165 |
+| value | 0.401682 1/(hr) |
+| bounds | [0.05, 10] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.338934, 0.475976] |
+| Fisher confidence interval | [0.365219, 0.441786] |
+| distribution of the draws | <code>lognormal(-0.9120942213333137, 0.08662482880957874, 0.05, 10.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="per_hr" distrib:type="confidenceInterval" distrib:valueLower="0.338933877381991" distrib:valueUpper="0.475976329784866"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.0194923535996601" distrib:units="per_hr" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 0.912094221333314 </cn>
+                  </apply>
+                  <cn> 0.0866248288095787 </cn>
+                  <cn> 0.05 </cn>
+                  <cn> 10 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
       </parameter>
-      <parameter id="absorption" name="absorption dextromethorphan" value="NaN" units="mmole_per_min" constant="false"/>
+      <parameter sboTerm="SBO:0000647" id="Mr_dxm" name="Molecular weight dextromethorphan [g/mole]" value="271.404" units="g_per_mole" constant="true"/>
+      <parameter id="absorption_dxm" name="absorption dextromethorphan" units="mmole_per_min" constant="false"/>
     </listOfParameters>
     <listOfRules>
-      <assignmentRule variable="absorption">
-        <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+      <assignmentRule name="absorption dextromethorphan" variable="absorption_dxm">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
           <apply>
             <times/>
-            <apply>
-              <divide/>
-              <apply>
-                <times/>
-                <ci> Vgu </ci>
-                <ci> Ka_abs_dxm </ci>
-              </apply>
-              <cn sbml:units="min_per_hr" type="integer"> 60 </cn>
-            </apply>
+            <ci> DXMABS_k </ci>
+            <ci> Vgu </ci>
             <ci> dxm_lumen </ci>
           </apply>
         </math>
       </assignmentRule>
+      <rateRule variable="PODOSE_dxm">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <times/>
+            <apply>
+              <minus/>
+              <ci> dissolution_dxm </ci>
+            </apply>
+            <ci> Mr_dxm </ci>
+          </apply>
+        </math>
+      </rateRule>
     </listOfRules>
     <listOfReactions>
-      <reaction id="absorption_dxm" name="absorption dextromethorphan" reversible="false" fast="false" compartment="Vgu">
+      <reaction id="dissolution_dxm" name="dissolution dextromethorphan" reversible="false" compartment="Vgu">
+        <listOfReactants>
+          <speciesReference species="dxm_stomach" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="dxm_lumen" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <divide/>
+              <apply>
+                <times/>
+                <apply>
+                  <divide/>
+                  <ci> Ka_dis_dxm </ci>
+                  <cn sbml:units="min_per_hr" type="integer"> 60 </cn>
+                </apply>
+                <ci> PODOSE_dxm </ci>
+              </apply>
+              <ci> Mr_dxm </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="DXMABS" name="absorption dextromethorphan" reversible="false" compartment="Vapical">
         <listOfReactants>
           <speciesReference species="dxm_lumen" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="dxm" stoichiometry="1" constant="true"/>
+          <speciesReference species="dxm_ext" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <kineticLaw>
           <math xmlns="http://www.w3.org/1998/Math/MathML">
             <apply>
               <times/>
-              <ci> F_dxm </ci>
-              <ci> absorption </ci>
+              <ci> F_dxm_abs </ci>
+              <ci> absorption_dxm </ci>
             </apply>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction id="excretion_dxm" name="excretion dextromethorphan" reversible="false" fast="false" compartment="Vgu">
+      <reaction sboTerm="SBO:0000655" id="DXMEXC" name="excretion dextromethorphan (feces)" reversible="false" compartment="Vlumen">
         <listOfReactants>
           <speciesReference species="dxm_lumen" stoichiometry="1" constant="true"/>
         </listOfReactants>
@@ -434,73 +519,31 @@ Yu2001: 232+38 [µM]</p>
           <speciesReference species="dxm_feces" stoichiometry="1" constant="true"/>
         </listOfProducts>
         <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
             <apply>
               <times/>
               <apply>
                 <minus/>
                 <cn sbml:units="dimensionless" type="integer"> 1 </cn>
-                <ci> F_dxm </ci>
+                <ci> F_dxm_abs </ci>
               </apply>
-              <ci> absorption </ci>
-            </apply>
-          </math>
-        </kineticLaw>
-      </reaction>
-      <reaction metaid="meta_DXMCYP3A4" sboTerm="SBO:0000176" id="DXMCYP3A4" name="DXM CYP3A4" reversible="false" fast="false" compartment="Vgu">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>CYP3A4 mediated conversion of DXM is responsible for the first-pass metabolism of DXM,
-<code>dextromethorphan (DXM) -[CYP3A4]-&gt; 3-methoxymorphinan (MEM/MM3)</code>.First pass can occur
-in intestine and liver and both enzymes are modeled via the same parameters (Km, Vmax).
-CYP3A4 inhibition/activation can be implemented by changing the <code>CYP3A4_activity</code>, e.g.,
-grapefruit juice selectively inhibits only the intestinal CYP3A4.</p>
-          </body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#meta_DXMCYP3A4">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="https://identifiers.org/SBO:0000176"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfReactants>
-          <speciesReference species="dxm" stoichiometry="1" constant="true"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference species="dxmmet" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML">
-            <apply>
-              <divide/>
-              <apply>
-                <times/>
-                <ci> DXMCYP3A4_Vmax </ci>
-                <ci> DXMCYP3A4_activity </ci>
-                <ci> Vgu </ci>
-                <ci> dxm </ci>
-              </apply>
-              <apply>
-                <plus/>
-                <ci> dxm </ci>
-                <ci> DXMCYP3A4_Km </ci>
-              </apply>
+              <ci> absorption_dxm </ci>
             </apply>
           </math>
         </kineticLaw>
       </reaction>
     </listOfReactions>
     <comp:listOfPorts>
+      <comp:port metaid="PODOSE_dxm_port" sboTerm="SBO:0000599" comp:idRef="PODOSE_dxm" comp:id="PODOSE_dxm_port" comp:name="Port of PODOSE_dxm"/>
+      <comp:port metaid="Ka_dis_dxm_port" sboTerm="SBO:0000599" comp:idRef="Ka_dis_dxm" comp:id="Ka_dis_dxm_port" comp:name="Port of Ka_dis_dxm"/>
+      <comp:port metaid="Mr_dxm_port" sboTerm="SBO:0000599" comp:idRef="Mr_dxm" comp:id="Mr_dxm_port" comp:name="Port of Mr_dxm"/>
+      <comp:port metaid="Vext_port" sboTerm="SBO:0000599" comp:idRef="Vext" comp:id="Vext_port" comp:name="Port of Vext"/>
       <comp:port metaid="Vgu_port" sboTerm="SBO:0000599" comp:idRef="Vgu" comp:id="Vgu_port" comp:name="Port of Vgu"/>
       <comp:port metaid="Vlumen_port" sboTerm="SBO:0000599" comp:idRef="Vlumen" comp:id="Vlumen_port" comp:name="Port of Vlumen"/>
       <comp:port metaid="Vfeces_port" sboTerm="SBO:0000599" comp:idRef="Vfeces" comp:id="Vfeces_port" comp:name="Port of Vfeces"/>
+      <comp:port metaid="Vstomach_port" sboTerm="SBO:0000599" comp:idRef="Vstomach" comp:id="Vstomach_port" comp:name="Port of Vstomach"/>
       <comp:port metaid="dxm_lumen_port" sboTerm="SBO:0000599" comp:idRef="dxm_lumen" comp:id="dxm_lumen_port" comp:name="Port of dxm_lumen"/>
-      <comp:port metaid="dxm_port" sboTerm="SBO:0000599" comp:idRef="dxm" comp:id="dxm_port" comp:name="Port of dxm"/>
+      <comp:port metaid="dxm_ext_port" sboTerm="SBO:0000599" comp:idRef="dxm_ext" comp:id="dxm_ext_port" comp:name="Port of dxm_ext"/>
       <comp:port metaid="dxm_feces_port" sboTerm="SBO:0000599" comp:idRef="dxm_feces" comp:id="dxm_feces_port" comp:name="Port of dxm_feces"/>
     </comp:listOfPorts>
   </model>

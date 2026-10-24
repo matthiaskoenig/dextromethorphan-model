@@ -1,0 +1,45 @@
+study	individual	cyp2d6_genotype	measurement	substance	label	tissue	intervention	time	time_unit	value	unit	method
+Koehler1997	patient1	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.085	dimensionless	HPLC
+Koehler1997	patient2	*4/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.215	dimensionless	HPLC
+Koehler1997	patient3	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.001	dimensionless	HPLC
+Koehler1997	patient4	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.542	dimensionless	HPLC
+Koehler1997	patient5	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.71	dimensionless	HPLC
+Koehler1997	patient6	*1/*5	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.014	dimensionless	HPLC
+Koehler1997	patient7	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.007	dimensionless	HPLC
+Koehler1997	patient8	*1/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.524	dimensionless	HPLC
+Koehler1997	patient9	*1/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.002	dimensionless	HPLC
+Koehler1997	patient10	*1/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.02	dimensionless	HPLC
+Koehler1997	patient11	*1/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.009	dimensionless	HPLC
+Koehler1997	patient12	*1/*5	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.01	dimensionless	HPLC
+Koehler1997	patient13	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.001	dimensionless	HPLC
+Koehler1997	patient14	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.178	dimensionless	HPLC
+Koehler1997	patient15	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	NA	dimensionless	HPLC
+Koehler1997	patient16	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	NA	dimensionless	HPLC
+Koehler1997	patient17	*4/*6	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	NA	dimensionless	HPLC
+Koehler1997	patient18	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	NA	dimensionless	HPLC
+Koehler1997	patient19	*1/*3	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	NA	dimensionless	HPLC
+Koehler1997	patient20	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	NA	dimensionless	HPLC
+Koehler1997	patient21	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	NA	dimensionless	HPLC
+Koehler1997	patient22	*1/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	NA	dimensionless	HPLC
+Koehler1997	patient1	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.055	dimensionless	HPLC
+Koehler1997	patient2	*4/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.662	dimensionless	HPLC
+Koehler1997	patient3	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.025	dimensionless	HPLC
+Koehler1997	patient4	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.45	dimensionless	HPLC
+Koehler1997	patient5	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.545	dimensionless	HPLC
+Koehler1997	patient6	*1/*5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.024	dimensionless	HPLC
+Koehler1997	patient7	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.02	dimensionless	HPLC
+Koehler1997	patient8	*1/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.531	dimensionless	HPLC
+Koehler1997	patient9	*1/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.042	dimensionless	HPLC
+Koehler1997	patient10	*1/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.04	dimensionless	HPLC
+Koehler1997	patient11	*1/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.022	dimensionless	HPLC
+Koehler1997	patient12	*1/*5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.099	dimensionless	HPLC
+Koehler1997	patient13	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.019	dimensionless	HPLC
+Koehler1997	patient14	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.05	dimensionless	HPLC
+Koehler1997	patient15	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.023	dimensionless	HPLC
+Koehler1997	patient16	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.049	dimensionless	HPLC
+Koehler1997	patient17	*4/*6	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.541	dimensionless	HPLC
+Koehler1997	patient18	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.017	dimensionless	HPLC
+Koehler1997	patient19	*1/*3	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.137	dimensionless	HPLC
+Koehler1997	patient20	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.093	dimensionless	HPLC
+Koehler1997	patient21	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.121	dimensionless	HPLC
+Koehler1997	patient22	*1/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.028	dimensionless	HPLC

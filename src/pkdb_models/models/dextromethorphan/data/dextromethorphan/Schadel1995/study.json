@@ -1,0 +1,237 @@
+{
+  "sid": "PKDB00593",
+  "date": "2022-08-09",
+  "name": "Schadel1995",
+  "reference": "7593709",
+  "licence": "closed",
+  "access": "public",
+  "creator": "jbrandhorst",
+  "curators": [
+    [
+      "jbrandhorst",
+      0
+    ],
+    [
+      "mkoenig",
+      0
+    ]
+  ],
+  "groupset": {
+    "descriptions": [],
+    "groups": [
+      {
+        "name": "all",
+        "count": "9",
+        "characteristica": [
+          {
+            "measurement_type": "species",
+            "choice": "homo sapiens"
+          },
+          {
+            "measurement_type": "sex",
+            "choice": "M || F",
+            "count": "3 || 6"
+          },
+          {
+            "measurement_type": "healthy",
+            "choice": "Y"
+          },
+          {
+            "measurement_type": "medication",
+            "choice": "N"
+          },
+          {
+            "measurement_type": "overnight fast",
+            "choice": "Y"
+          },
+          {
+            "measurement_type": "ethnicity",
+            "choice": "caucasian"
+          }
+        ]
+      },
+      {
+        "name": "EM",
+        "parent": "all",
+        "count": "5",
+        "characteristica": [
+          {
+            "measurement_type": "sex",
+            "choice": "M || F",
+            "count": "1 || 4"
+          },
+          {
+            "measurement_type": "cyp2d6 phenotype",
+            "choice": "em"
+          }
+        ]
+      },
+      {
+        "name": "PM",
+        "parent": "all",
+        "count": "4",
+        "characteristica": [
+          {
+            "measurement_type": "sex",
+            "choice": "M || F",
+            "count": "2 || 2"
+          },
+          {
+            "measurement_type": "cyp2d6 phenotype",
+            "choice": "pm"
+          }
+        ]
+      }
+    ]
+  },
+  "individualset": {
+    "descriptions": [],
+    "comments": [],
+    "individuals": [
+      {
+        "source": "TabIndividuals",
+        "name": "col==name",
+        "group": "col==group",
+        "characteristica": [
+          {
+            "measurement_type": "sex",
+            "choice": "col==sex"
+          },
+          {
+            "measurement_type": "age",
+            "value": "col==age",
+            "unit": "yr"
+          },
+          {
+            "measurement_type": "cyp2d6 phenotype",
+            "choice": "col==cyp2d6_phenotype"
+          }
+        ]
+      }
+    ]
+  },
+  "interventionset": {
+    "descriptions": [],
+    "interventions": [
+      {
+        "name": "dextromethorphan_30mg",
+        "substance": "dextromethorphan hydrobromide",
+        "measurement_type": "dosing",
+        "time": "0",
+        "time_unit": "min",
+        "value": "30",
+        "unit": "mg",
+        "route": "oral",
+        "application": "single dose",
+        "form": "capsule"
+      },
+      {
+        "name": "quinidine_100mg",
+        "substance": "quinidine sulphate",
+        "measurement_type": "dosing",
+        "time": "-12",
+        "time_unit": "hr",
+        "value": "100",
+        "unit": "mg",
+        "route": "oral",
+        "application": "single dose",
+        "form": "capsule"
+      }
+    ]
+  },
+  "outputset": {
+    "descriptions": [],
+    "outputs": [
+      {
+        "source": "Tab2",
+        "output_type": "output",
+        "image": "Tab2",
+        "individual": "col==individual",
+        "measurement_type": "col==measurement",
+        "substance": "col==substance",
+        "tissue": "col==tissue",
+        "interventions": "col==intervention",
+        "value": "col==value",
+        "unit": "col==unit",
+        "method": "col==method"
+      },
+      {
+        "source": "Tab2_group",
+        "output_type": "output",
+        "image": "Tab2",
+        "group": "col==group",
+        "measurement_type": "col==measurement",
+        "substance": "col==substance",
+        "tissue": "col==tissue",
+        "interventions": "col==intervention",
+        "mean": "col==mean",
+        "sd": "col==sd",
+        "unit": "col==unit",
+        "method": "col==method"
+      },
+      {
+        "source": "Tab3",
+        "output_type": "output",
+        "image": "Tab3",
+        "group": "col==group",
+        "measurement_type": "col==measurement",
+        "substance": "col==substance",
+        "tissue": "col==tissue",
+        "interventions": "col==intervention",
+        "time": "col==time",
+        "time_unit": "col==time_unit",
+        "mean": "col==mean",
+        "sd": "col==sd",
+        "unit": "col==unit",
+        "method": "col==method"
+      },
+      {
+        "source": "Fig3",
+        "output_type": "output",
+        "image": "Fig3",
+        "group": "col==group",
+        "measurement_type": "col==measurement",
+        "substance": "col==substance",
+        "tissue": "col==tissue",
+        "interventions": "col==intervention",
+        "mean": "col==mean",
+        "sd": "col==sd",
+        "unit": "col==unit",
+        "method": "col==method"
+      },
+      {
+        "source": "Fig2",
+        "output_type": "timecourse",
+        "image": "Fig2",
+        "label": "col==label",
+        "group": "col==group",
+        "measurement_type": "col==measurement",
+        "substance": "col==substance",
+        "tissue": "col==tissue",
+        "interventions": "col==intervention",
+        "time": "col==time",
+        "time_unit": "col==time_unit",
+        "mean": "col==mean",
+        "sd": "col==sd",
+        "unit": "col==unit",
+        "method": "col==method"
+      },
+      {
+        "source": "Fig4",
+        "output_type": "timecourse",
+        "image": "Fig4",
+        "label": "col==label",
+        "individual": "col==id",
+        "measurement_type": "col==measurement",
+        "substance": "col==substance",
+        "tissue": "col==tissue",
+        "interventions": "col==intervention",
+        "time": "col==time",
+        "time_unit": "col==time_unit",
+        "value": "col==value",
+        "unit": "col==unit",
+        "method": "col==method"
+      }
+    ]
+  }
+}

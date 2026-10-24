@@ -1,0 +1,13 @@
+study	individual	cyp2d6_genotype	measurement	substance	label	tissue	intervention	time	time_unit	value	method	activities	time_jitter	time_jitter_unit	value_unit
+Koehler1997	patient1	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.085	HPLC	2.0	0.8396163194603699	hr	dimensionless
+Koehler1997	patient3	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.001	HPLC	2.0	1.0064099914003763	hr	dimensionless
+Koehler1997	patient4	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.542	HPLC	2.0	1.0740891295876727	hr	dimensionless
+Koehler1997	patient5	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.71	HPLC	2.0	1.0152619193565653	hr	dimensionless
+Koehler1997	patient7	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.007	HPLC	2.0	1.0863743891323332	hr	dimensionless
+Koehler1997	patient20	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr		HPLC	2.0	1.2913099222503972	hr	dimensionless
+Koehler1997	patient18	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr		HPLC	2.0	0.8521176639335598	hr	dimensionless
+Koehler1997	patient16	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr		HPLC	2.0	1.094547297464586	hr	dimensionless
+Koehler1997	patient15	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr		HPLC	2.0	0.8333864542682036	hr	dimensionless
+Koehler1997	patient14	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.178	HPLC	2.0	1.034374458145268	hr	dimensionless
+Koehler1997	patient13	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr	0.001	HPLC	2.0	0.9487556290715142	hr	dimensionless
+Koehler1997	patient21	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_serum	serum	dextromethorphan_20mg	1	hr		HPLC	2.0	1.1323758956688572	hr	dimensionless

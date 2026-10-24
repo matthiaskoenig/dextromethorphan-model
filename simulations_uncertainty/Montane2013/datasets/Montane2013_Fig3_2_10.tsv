@@ -1,0 +1,5 @@
+study	group	individual	cyp2d6_genotype	measurement	substance	tissue	intervention	time	time_unit	x_log_value	value	method	label	comments	activities	time_jitter	time_jitter_unit	value_unit
+Montane2013	Indo-T	Indo-T-80	*2/*10	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-0.2864908	0.517022210338884			poor metabolizer missmatch	1.25	4.83961631946037	hr	dimensionless
+Montane2013	Indo-T	Indo-T-79	*2/*10	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.6203614	0.0239683755034704				1.25	5.006409991400377	hr	dimensionless
+Montane2013	Indo-T	Indo-T-78	*2/*10	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.7723527	0.0168906864508211				1.25	5.074089129587673	hr	dimensionless
+Montane2013	Indo-T	Indo-T-77	*2/*10	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.8902727	0.0128744089444459				1.25	5.015261919356566	hr	dimensionless

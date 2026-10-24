@@ -1,0 +1,8 @@
+study	label	individual	count	genotype	measurement	substance	tissue	intervention	time	time_unit	value	method	output_type	comments	comments_2	value_unit	count_unit
+Frank2009	Tab157_E15	E15	1	*1/*1	concentration	dextrorphan	plasma	DEX, DIG ,MID_PO_DE, MID_IV	80	min	0.0256	HPLC	timecourse	reference		nmol/ml	dimensionless
+Frank2009	Tab157_E15	E15	1	*1/*1	concentration	dextrorphan	plasma	DEX, DIG ,MID_PO_DE, MID_IV	120	min	0.0229	HPLC	timecourse	reference		nmol/ml	dimensionless
+Frank2009	Tab157_E15	E15	1	*1/*1	concentration	dextrorphan	plasma	DEX, DIG ,MID_PO_DE, MID_IV	195	min	0.0158	HPLC	timecourse	reference		nmol/ml	dimensionless
+Frank2009	Tab157_E15	E15	1	*1/*1	concentration	dextrorphan	plasma	DEX, DIG ,MID_PO_DE, MID_IV	255	min	0.01016	HPLC	timecourse	reference		nmol/ml	dimensionless
+Frank2009	Tab157_E15	E15	1	*1/*1	concentration	dextrorphan	plasma	DEX, DIG ,MID_PO_DE, MID_IV	360	min	0.00302	HPLC	timecourse	reference		nmol/ml	dimensionless
+Frank2009	Tab157_E15	E15	1	*1/*1	concentration	dextrorphan	plasma	DEX, DIG ,MID_PO_DE, MID_IV	600	min	0.00154	HPLC	timecourse	reference		nmol/ml	dimensionless
+Frank2009	Tab157_E15	E15	1	*1/*1	concentration	dextrorphan	plasma	DEX, DIG ,MID_PO_DE, MID_IV	720	min	0.00371	HPLC	timecourse	reference		nmol/ml	dimensionless

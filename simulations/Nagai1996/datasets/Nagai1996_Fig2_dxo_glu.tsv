@@ -1,0 +1,13 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	0.0	hr	0.0		HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	1.0	hr	2.0732396	1.6328568	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	2.5	hr	10.526299	4.525816	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	3.5	hr	15.641132	6.456368	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	4.5	hr	19.866282	6.976057	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	6.5	hr	24.97687	8.014375	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	7.5	hr	26.529993	7.569532	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	10.0	hr	28.818436	7.56953	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	12.0	hr	29.922047	7.718166	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	22.0	hr	30.837317	7.42111	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	26.0	hr	31.262625	6.976265	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan-glucuronide_conj.	pharmacokinetics	7	cumulative amount	dextrorphan-glucuronide	urine	dex_30mg	34.0	hr	31.445763	6.975845	HPLC	micromol	dimensionless

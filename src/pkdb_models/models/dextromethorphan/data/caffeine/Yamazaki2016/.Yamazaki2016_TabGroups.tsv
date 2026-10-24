@@ -1,0 +1,40 @@
+study	name	parent	measurement_type	group_count	choice	substance	count	unit	mean	median	sd	min	max	comment
+Yamazaki2016	all	NA	species	96.0	homo sapiens	NA	24.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	all	NA	healthy	96.0	Y	NA	24.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	all	NA	sex	96.0	MF	NA	24.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	all	NA	medication	96.0	N	NA	24.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	all	NA	age	96.0	NA	NA	24.0	yr	NA	NA	NA	18.0	55.0	NA
+Yamazaki2016	all	NA	weight	96.0	NA	NA	24.0	kg	NA	NA	NA	45.0	NA	NA
+Yamazaki2016	all	NA	bmi	96.0	NA	NA	24.0	kg/m^2	NA	NA	NA	18.0	32.0	NA
+Yamazaki2016	bup_group	all	sex	24.0	M	NA	13.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	bup_group	all	sex	24.0	F	NA	11.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	bup_group	all	ethnicity	24.0	caucasian	NA	20.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	bup_group	all	ethnicity	24.0	black	NA	4.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	bup_group	all	age	24.0	NA	NA	24.0	yr	43.5	NA	8.9	18.0	55.0	NA
+Yamazaki2016	bup_group	all	weight	24.0	NA	NA	24.0	kg	72.9	NA	9.6	45.0	NA	NA
+Yamazaki2016	bup_group	all	bmi	24.0	NA	NA	24.0	kg/m^2	26.5	NA	2.4	18.0	32.0	NA
+Yamazaki2016	rep_caf_group	all	sex	24.0	M	NA	24.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	rep_caf_group	all	ethnicity	24.0	caucasian	NA	8.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	rep_caf_group	all	ethnicity	24.0	black	NA	14.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	rep_caf_group	all	ethnicity	24.0	asian	NA	1.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	rep_caf_group	all	age	24.0	NA	NA	24.0	yr	35.6	NA	9.1	18.0	55.0	NA
+Yamazaki2016	rep_caf_group	all	weight	24.0	NA	NA	24.0	kg	84.4	NA	11.4	45.0	NA	NA
+Yamazaki2016	rep_caf_group	all	bmi	24.0	NA	NA	24.0	kg/m^2	26.4	NA	2.8	18.0	32.0	NA
+Yamazaki2016	dex_group	all	sex	24.0	M	NA	17.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	dex_group	all	sex	24.0	F	NA	7.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	dex_group	all	ethnicity	24.0	caucasian	NA	8.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	dex_group	all	ethnicity	24.0	black	NA	15.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	dex_group	all	ethnicity	24.0	asian	NA	1.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	dex_group	all	age	24.0	NA	NA	24.0	yr	35.3	NA	9.6	18.0	55.0	NA
+Yamazaki2016	dex_group	all	weight	24.0	NA	NA	24.0	kg	84.2	NA	13.9	45.0	NA	NA
+Yamazaki2016	dex_group	all	bmi	24.0	NA	NA	24.0	kg/m^2	27.2	NA	3.4	18.0	32.0	NA
+Yamazaki2016	meth_group	all	sex	23.0	M	NA	19.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	meth_group	all	sex	23.0	F	NA	4.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	meth_group	all	ethnicity	23.0	caucasian	NA	14.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	meth_group	all	ethnicity	23.0	black	NA	6.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	meth_group	all	ethnicity	23.0	asian	NA	1.0	NA	NA	NA	NA	NA	NA	NA
+Yamazaki2016	meth_group	all	age	23.0	NA	NA	23.0	yr	33.5	NA	8.6	18.0	55.0	NA
+Yamazaki2016	meth_group	all	weight	23.0	NA	NA	23.0	kg	82.5	NA	14.1	45.0	NA	NA
+Yamazaki2016	meth_group	all	bmi	23.0	NA	NA	23.0	kg/m^2	26.8	NA	4.0	18.0	32.0	NA
+Yamazaki2016	dex_group_im	dex_group	cyp2d6 phenotype	12.0	im	NA	12.0	NA	NA	NA	NA	NA	NA	Only no activity alleles were defined identically to our system. The following alleles were considered as reduced activity alleles which is not compatible with our classification system (*10: ac=0.25),(*9,*17,*29,*41: ac=0.5),(*45,*46: ac=1). Various combinations of no activity (*3,*4,*5,*6,*7: ac=0)), above defined reduced activity, and normal activity were classified as IM metabolizers (see pdf).  
+Yamazaki2016	dex_group_em	dex_group	cyp2d6 phenotype	11.0	em	NA	11.0	NA	NA	NA	NA	NA	NA	Extensive classification also rather wrong. E.g. *10/*1  (ac=1.25)  is part of to this group.

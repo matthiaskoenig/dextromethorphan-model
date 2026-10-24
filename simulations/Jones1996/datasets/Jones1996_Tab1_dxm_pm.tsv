@@ -1,0 +1,4 @@
+id	group	time	time_unit	value	count	time_jitter	time_jitter_unit	value_unit	count_unit
+pm1	pm	14	day	19.5	1	13.967923263892073	day	micromol	dimensionless
+pm2	pm	14	day	25.34	1	14.001281998280076	day	micromol	dimensionless
+pm3	pm	14	day	14.5	1	14.014817825917534	day	micromol	dimensionless

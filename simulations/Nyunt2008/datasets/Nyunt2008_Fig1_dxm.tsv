@@ -1,0 +1,11 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Nyunt2008	dextromethorphan	all	12	concentration	dextromethorphan	plasma	dextromethorphan30mg	0.0	hr	0.0		LSMSMS	mole/meter^3	dimensionless
+Nyunt2008	dextromethorphan	all	12	concentration	dextromethorphan	plasma	dextromethorphan30mg	0.5	hr	1.3101595407584265e-06	3.928463324048283e-06	LSMSMS	mole/meter^3	dimensionless
+Nyunt2008	dextromethorphan	all	12	concentration	dextromethorphan	plasma	dextromethorphan30mg	1.0	hr	2.56319619460288e-06	5.005261160484001e-06	LSMSMS	mole/meter^3	dimensionless
+Nyunt2008	dextromethorphan	all	12	concentration	dextromethorphan	plasma	dextromethorphan30mg	2.0	hr	5.467601067043963e-06	4.1331435793134954e-06	LSMSMS	mole/meter^3	dimensionless
+Nyunt2008	dextromethorphan	all	12	concentration	dextromethorphan	plasma	dextromethorphan30mg	3.0	hr	1.0352648818735172e-05	8.223595451798795e-06	LSMSMS	mole/meter^3	dimensionless
+Nyunt2008	dextromethorphan	all	12	concentration	dextromethorphan	plasma	dextromethorphan30mg	4.0	hr	9.910692915358653e-06	8.261813753666122e-06	LSMSMS	mole/meter^3	dimensionless
+Nyunt2008	dextromethorphan	all	12	concentration	dextromethorphan	plasma	dextromethorphan30mg	6.0	hr	5.953458681522748e-06	5.082102695612444e-06	LSMSMS	mole/meter^3	dimensionless
+Nyunt2008	dextromethorphan	all	12	concentration	dextromethorphan	plasma	dextromethorphan30mg	8.0	hr	4.39333613358683e-06	3.928705914430148e-06	LSMSMS	mole/meter^3	dimensionless
+Nyunt2008	dextromethorphan	all	12	concentration	dextromethorphan	plasma	dextromethorphan30mg	12.0	hr	2.5530762258478137e-06	2.4970472063786825e-06	LSMSMS	mole/meter^3	dimensionless
+Nyunt2008	dextromethorphan	all	12	concentration	dextromethorphan	plasma	dextromethorphan30mg	24.0	hr	1.0237608878277402e-06	1.160770069711574e-06	LSMSMS	mole/meter^3	dimensionless

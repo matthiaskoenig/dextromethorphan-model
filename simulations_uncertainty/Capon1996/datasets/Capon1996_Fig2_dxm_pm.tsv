@@ -1,0 +1,13 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	method	mean_unit	count_unit
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	1.0	hr	3.084471120543544e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	2.0	hr	4.92556520906103e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	3.0	hr	8.242457001370648e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	7.5	hr	8.091506388999423e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	12.0	hr	7.033258537088618e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	24.0	hr	5.621746916036608e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	48.0	hr	3.8710221662171515e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	72.0	hr	2.6905751573300313e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	96.0	hr	1.9054166482439458e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	120.0	hr	1.3750282236076104e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	144.0	hr	8.784795728876507e-06	HPLC	mole/meter^3	dimensionless
+Capon1996	PM_dextromethorphan_30mg_dextromethorphan	PM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	168.0	hr	7.226397547567462e-06	HPLC	mole/meter^3	dimensionless

@@ -1,0 +1,41 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	unit	method
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	0.0	hr	na	NA	NA	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	0.5	hr	0.55248016	0.149898131666667	0.89938879	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	1.0	hr	4.3021293	0.83645975	5.0187585	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	2.0	hr	7.9067783	1.6853195	10.111917	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	3.0	hr	8.215779	2.13488716666667	12.809323	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	4.0	hr	6.502296	1.8851555	11.310933	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	6.0	hr	4.498559	1.38581876666667	8.3149126	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	8.0	hr	3.4688644	1.14852931666667	6.8911759	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	12.0	hr	2.3078506	1.04869576666667	6.2921746	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	24.0	hr	0.17262565	0.162255931666667	0.97353559	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	0.0	hr	na	NA	NA	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	0.5	hr	0.7017872	0.474452216666667	2.8467133	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	1.0	hr	4.077662	1.03616916666667	6.217015	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	2.0	hr	13.674352	1.83530216666667	11.011813	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	3.0	hr	16.90548	2.70908833333333	16.25453	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	4.0	hr	13.918074	2.07242266666667	12.434536	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	6.0	hr	10.116825	1.623024	9.738144	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	8.0	hr	8.637437	1.53559033333333	9.213542	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	12.0	hr	5.453685	1.21099383333333	7.265963	ng/ml	HPLC
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	24.0	hr	na	NA	NA	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	0.0	hr	4.444848	1.75369333333333	10.52216	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	0.5	hr	101.26719	19.6136433333333	117.68186	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	1.0	hr	570.0494	54.2874833333333	325.7249	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	2.0	hr	879.23883	38.526745	231.16047	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	3.0	hr	730.2748	29.0731583333333	174.43895	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	4.0	hr	501.46463	19.6148283333333	117.68897	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	6.0	hr	247.6913	10.8570233333333	65.14214	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	8.0	hr	132.60858	6.660955	39.96573	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	12.0	hr	58.003372	5.95450133333333	35.727008	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	24.0	hr	na	4.19725408333333	25.1835245	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	0.0	hr	na	NA	NA	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	0.5	hr	63.4386	12.2592675	73.555605	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	1.0	hr	418.7279	33.9756816666667	203.85409	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	2.0	hr	696.3935	32.9237	197.5422	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	3.0	hr	612.5858	26.966825	161.80095	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	4.0	hr	457.33838	18.91548	113.49288	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	6.0	hr	247.6913	9.104515	54.62709	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	8.0	hr	157.84186	7.007664	42.045984	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	12.0	hr	81.12085	6.65503133333333	39.930188	ng/ml	HPLC
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	24.0	hr	2.257964	2.8044875	16.826925	ng/ml	HPLC

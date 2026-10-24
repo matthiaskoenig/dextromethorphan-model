@@ -1,0 +1,6 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	comments_2	value_unit	count_unit
+Frank2009	Tab148_D03_test	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	563.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab148_D03_test	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	1264.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab148_D03_test	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1538.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab148_D03_test	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	1638.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab148_D03_test	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	1747.0	HPLC	test		nmol	dimensionless

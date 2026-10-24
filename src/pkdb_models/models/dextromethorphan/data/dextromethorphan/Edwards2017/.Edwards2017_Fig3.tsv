@@ -1,0 +1,147 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	unit	method
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	0.0	hr	0.0	NA	NA	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	0.5	hr	438.8178	79.3840992070215	372.34443	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	0.75	hr	1409.5544	149.322967486014	700.3868	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	1.0	hr	1702.1038	110.567767668323	518.6088	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	1.5	hr	1564.6764	72.7628674036452	341.2881	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	3.0	hr	1405.062	69.9319882918755	328.0101	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	4.0	hr	1320.8181	52.9204686130733	248.219	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	6.0	hr	1010.4786	40.6349478936543	190.5948	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	8.0	hr	961.67175	34.9655890645766	164.00315	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	12.0	hr	806.4181	34.0213977120884	159.5745	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	24.0	hr	619.93243	32.1313157974025	150.70923	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	36.0	hr	442.308	29.2970403982211	137.4153	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	48.0	hr	357.77267	22.6809254120374	106.38297	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	60.0	hr	251.09018	20.7883000128054	97.50577	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	72.0	hr	206.4365	20.7874386819113	97.50173	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	96.0	hr	130.44295	14.1738757083024	66.48137	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	120.0	hr	76.61651	9.45208959507439	44.33423	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	144.0	hr	58.251072	10.3988304017288	48.774838	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg	168.0	hr	35.460995	7.56201087839924	35.468975	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	0.0	hr	0.0	NA	NA	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	0.5	hr	385.6343	92.6112358142751	434.3852	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	0.75	hr	1551.4104	163.489131724405	766.832	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	1.0	hr	1675.5239	113.398710740308	531.8871	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	1.5	hr	1582.4028	70.8745060187403	332.4309	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	3.0	hr	1480.4246	64.2592075913002	301.4024	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	4.0	hr	1387.3035	59.5357457204417	279.2474	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	6.0	hr	1028.213	39.6907885212735	186.1663	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	8.0	hr	988.2675	38.7448809030185	181.7296	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	12.0	hr	859.6096	25.5177506917864	119.68886	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	24.0	hr	686.4258	34.0188393034921	159.5625	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	36.0	hr	491.07086	23.6225626199437	110.79964	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	48.0	hr	402.1029	24.5701459958292	115.2442	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	60.0	hr	304.26572	17.9548795484966	84.21585	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	72.0	hr	255.19136	18.9016250455669	88.65648	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	96.0	hr	161.46332	14.178133326608	66.50134	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	120.0	hr	103.22024	10.3954260126901	48.75887	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	144.0	hr	71.55693	8.50449683835739	39.889626	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_s-warfarin	Study II 10mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	168.0	hr	44.322247	4.72604543713935	22.167118	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	0.0	hr	0.0	NA	NA	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	0.5	hr	547.8697	107.97369059221	506.4415	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	0.75	hr	1408.8274	181.59447767847	851.7536	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	1.0	hr	1726.4987	83.4340109787479	391.3402	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	1.5	hr	1638.9926	59.8776983494045	280.8513	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	3.0	hr	1482.4299	63.8031499389439	299.2633	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	4.0	hr	1371.912	48.0977618087512	225.5985	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	6.0	hr	1086.4027	33.3739497766596	156.5377	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	8.0	hr	1031.1002	36.3187207111066	170.3499	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	12.0	hr	906.6788	36.3213643999894	170.3623	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	24.0	hr	717.59326	36.3196033620723	170.35404	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	36.0	hr	500.89594	29.4476070081258	138.12152	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	48.0	hr	422.30768	30.4300785492357	142.72972	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	60.0	hr	297.68304	26.502850997729	124.30939	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	72.0	hr	260.5354	23.5563232893792	110.48895	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	96.0	hr	167.81146	22.5773887481536	105.89734	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	120.0	hr	107.33247	20.6133283168995	96.68508	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	144.0	hr	74.4695	14.7246904190429	69.06492	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg	168.0	hr	55.422825	9.81498599640835	46.036365	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	0.0	hr	0.0	NA	NA	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	0.5	hr	589.3103	97.1771423557469	455.8012	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	0.75	hr	1560.761	152.147749057296	713.6362	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	1.0	hr	1758.7269	105.026318609023	492.6171	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	1.5	hr	1735.6735	54.9697538986834	257.831	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	3.0	hr	1528.4539	58.8987446201144	276.2596	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	4.0	hr	1468.5763	66.7514813253541	313.0922	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	6.0	hr	1146.2512	35.3371446130054	165.7459	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	8.0	hr	1081.7365	33.3748238995967	156.5418	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	12.0	hr	957.3275	40.2441936207177	188.762	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	24.0	hr	786.66235	37.3003138652651	174.95398	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	36.0	hr	574.5566	36.3187207111066	170.3499	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	48.0	hr	486.76437	34.3564362418197	161.14597	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	60.0	hr	380.55182	30.42919589827	142.72558	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	72.0	hr	329.592	33.3739710967313	156.5378	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	96.0	hr	218.46017	26.502850997729	124.30939	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	120.0	hr	148.76894	18.6501526686182	87.47697	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	144.0	hr	111.29776	15.7062793091871	73.66898	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_s-warfarin	Study II 25mg	22	concentration	s-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	168.0	hr	87.64704	14.7246904190429	69.06492	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	0.0	hr	0.0	NA	NA	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	0.5	hr	401.81573	74.2298098565802	348.16867	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	0.75	hr	1312.6665	148.45958986506	696.3372	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	1.0	hr	1643.0527	104.698117426266	491.0777	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	1.5	hr	1536.0336	84.7262631607225	397.4014	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	3.0	hr	1464.8042	80.8977539369099	379.4441	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	4.0	hr	1406.9429	55.2151052830654	258.9818	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	6.0	hr	1076.8317	42.8417032283647	200.9454	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	8.0	hr	1068.2782	39.9756246783246	187.5023	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	12.0	hr	993.08466	34.2594874800713	160.69124	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	24.0	hr	865.6446	39.9756459983962	187.5024	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	36.0	hr	671.16437	23.8003485653055	111.63353	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	48.0	hr	592.807	31.3934430421458	147.2483	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	60.0	hr	478.68497	28.5486909597628	133.90523	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	72.0	hr	413.64563	26.6557542874849	125.02657	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg	96.0	hr	301.5994	24.752155447382	116.0979	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	0.0	hr	0.0	NA	NA	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	0.5	hr	388.42273	79.0101323584907	370.59037	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	0.75	hr	1531.3691	147.523809280832	691.948	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	1.0	hr	1638.7135	112.285803000932	526.6671	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	1.5	hr	1571.8484	78.988797362805	370.4903	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	3.0	hr	1509.5227	70.4279144781902	330.3362	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	4.0	hr	1500.6691	63.7706368296997	299.1108	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	6.0	hr	1117.1609	46.6328810067434	218.7276	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	8.0	hr	1108.4573	41.8952199681756	196.506	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	12.0	hr	1042.1924	28.5540359017218	133.9303	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	24.0	hr	945.9777	39.9649646425068	187.4523	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	36.0	hr	751.4975	34.2701603079321	160.7413	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	48.0	hr	686.5332	36.1630927161957	169.61994	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	60.0	hr	554.5538	28.5593509955806	133.95523	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	72.0	hr	520.83984	26.6344235558135	124.92652	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_10mg_warfarin_25mg_OCA pre-treatment 10mg_r-warfarin	Study II 10mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 10mg	96.0	hr	377.49323	25.6879509556602	120.48717	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	0.0	hr	0.0	NA	NA	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	0.5	hr	518.609	95.4506216346275	447.7031	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	0.75	hr	1351.9384	159.714050600112	749.1253	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	1.0	hr	1688.7979	104.895882410757	492.0053	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	1.5	hr	1644.4556	66.1510015077385	310.2757	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	3.0	hr	1515.8735	66.1535812364064	310.2878	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	4.0	hr	1413.8953	49.1428717203264	230.5005	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	6.0	hr	1134.5961	35.9089062941278	168.4277	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	8.0	hr	1143.4094	8.50449129513875	39.8896	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	12.0	hr	1050.2124	31.1871287089285	146.2806	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	24.0	hr	916.92224	27.4069648795567	128.55006	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	36.0	hr	686.1063	29.2961961233843	137.41134	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	48.0	hr	601.57495	26.4585287008058	124.1015	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	60.0	hr	441.67307	22.6843280954705	106.39893	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	72.0	hr	405.90457	14.174730643175	66.48538	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	96.0	hr	272.2989	17.0072897765896	79.77126	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	120.0	hr	191.87273	14.1755813140332	66.48937	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	144.0	hr	133.61366	13.2313942255593	62.06074	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg	168.0	hr	93.081116	10.3971260752023	48.766844	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	0.0	hr	0.0	NA	NA	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	0.5	hr	558.50665	89.7786745488533	421.09931	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	0.75	hr	1502.6516	127.580246750349	598.4044	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	1.0	hr	1644.4796	114.347944289738	536.3394	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	1.5	hr	1688.7739	54.8139254950991	257.1001	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	3.0	hr	1577.9264	52.9238585044633	248.2349	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	4.0	hr	1555.7472	63.3150482189194	296.9739	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	6.0	hr	1183.3589	33.0738058081742	155.1299	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	8.0	hr	1183.303	30.2395154849427	141.8359	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	12.0	hr	1116.7018	40.6392332280531	190.6149	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	24.0	hr	992.2729	32.1304352784439	150.7051	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	36.0	hr	819.08105	33.0763535567347	155.14185	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	48.0	hr	721.24786	28.3520154309319	132.98274	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	60.0	hr	596.8229	22.6809318080589	106.383	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	72.0	hr	543.3159	32.1313200614168	150.70925	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	96.0	hr	396.4044	23.6259589073553	110.81557	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	120.0	hr	284.95383	17.9565830222203	84.22384	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	144.0	hr	222.26614	20.790849893373	97.51773	ng/ml	HPLC MS/MS
+Edwards2017	Fig3_Study_2_25mg_warfarin_25mg_OCA pre-treatment 25mg_r-warfarin	Study II 25mg	22	concentration	r-warfarin	plasma	warfarin_25mg,OCA pre-treatment 25mg	168.0	hr	181.7376	17.0106881960084	79.7872	ng/ml	HPLC MS/MS

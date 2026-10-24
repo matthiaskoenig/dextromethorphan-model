@@ -1,0 +1,3 @@
+study	name_data	image	name_subset	dimensions	data_type	shared
+Koehler1997	Tab1	Tab1	Tab1	Tab1_serum, Tab1_urine	scatter	individual
+Koehler1997	Tab2	Tab2	Tab2	Tab2_serum, Tab2_urine	scatter	individual

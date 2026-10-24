@@ -1,0 +1,10 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	value_unit	count_unit
+Frank2009	Tab85_A08	A08	1	concentration	dextrorphan	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	1.33333333333333	hr	timecourse	0.00032	HPLC		nmol/ml	dimensionless
+Frank2009	Tab85_A08	A08	1	concentration	dextrorphan	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2.0	hr	timecourse	0.00105	HPLC		nmol/ml	dimensionless
+Frank2009	Tab85_A08	A08	1	concentration	dextrorphan	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.00175	HPLC		nmol/ml	dimensionless
+Frank2009	Tab85_A08	A08	1	concentration	dextrorphan	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.00165	HPLC		nmol/ml	dimensionless
+Frank2009	Tab85_A08	A08	1	concentration	dextrorphan	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.00142	HPLC		nmol/ml	dimensionless
+Frank2009	Tab85_A08	A08	1	concentration	dextrorphan	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8.0	hr	timecourse	0.00113	HPLC		nmol/ml	dimensionless
+Frank2009	Tab85_A08	A08	1	concentration	dextrorphan	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	10.0	hr	timecourse	0.00087	HPLC		nmol/ml	dimensionless
+Frank2009	Tab85_A08	A08	1	concentration	dextrorphan	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12.0	hr	timecourse	0.000732	HPLC		nmol/ml	dimensionless
+Frank2009	Tab85_A08	A08	1	concentration	dextrorphan	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	14.0	hr	timecourse	0.00093	HPLC		nmol/ml	dimensionless

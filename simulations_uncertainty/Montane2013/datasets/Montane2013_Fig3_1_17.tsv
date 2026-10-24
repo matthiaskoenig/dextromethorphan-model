@@ -1,0 +1,14 @@
+study	group	individual	cyp2d6_genotype	measurement	substance	tissue	intervention	time	time_unit	x_log_value	value	method	label	comments	activities	time_jitter	time_jitter_unit	value_unit
+Montane2013	Afro-T	Afro-T-36	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.1660104	0.0068232235445109				1.5	4.83961631946037	hr	dimensionless
+Montane2013	Afro-T	Afro-T-35	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.286559	0.0051694102545688				1.5	5.006409991400377	hr	dimensionless
+Montane2013	Afro-T	Afro-T-34	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-3.4133866	0.0003860231941683				1.5	5.074089129587673	hr	dimensionless
+Montane2013	Afro-T	Afro-T-40	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.9458891	0.0113268956616384				1.5	5.015261919356566	hr	dimensionless
+Montane2013	Afro-T	Afro-T-39	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.0009205	0.0099788271503859				1.5	5.086374389132333	hr	dimensionless
+Montane2013	Afro-T	Afro-T-38	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.082149	0.0082765815774891				1.5	5.291309922250397	hr	dimensionless
+Montane2013	Afro-T	Afro-T-42	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.804376	0.0156900381656729				1.5	4.8521176639335595	hr	dimensionless
+Montane2013	Afro-T	Afro-T-43	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.691701	0.0203375671552245				1.5	5.094547297464586	hr	dimensionless
+Montane2013	Afro-T	Afro-T-44	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.5921123	0.0255792437251521				1.5	4.8333864542682035	hr	dimensionless
+Montane2013	Afro-T	Afro-T-41	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.87251	0.0134118905303062				1.5	5.034374458145268	hr	dimensionless
+Montane2013	Afro-T	Afro-T-37	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.12409	0.0075146714934603				1.5	4.948755629071514	hr	dimensionless
+Montane2013	Afro-T	Afro-T-45	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.2959956	0.0505829786728111				1.5	5.132375895668857	hr	dimensionless
+Montane2013	Afro-T	Afro-T-46	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-0.7325798	0.185105873777857				1.5	4.913971980641498	hr	dimensionless

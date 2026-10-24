@@ -1,0 +1,96 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	sd	unit	method
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan	EM	5	concentration	dextrorphan	plasma	dextromethorphan_30mg	1.0	hr	0.0038215246	0.0013940214	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan	EM	5	concentration	dextrorphan	plasma	dextromethorphan_30mg	1.5	hr	0.00971999	0.005593204	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan	EM	5	concentration	dextrorphan	plasma	dextromethorphan_30mg	2.0	hr	0.010959053	0.011506156	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan	EM	5	concentration	dextrorphan	plasma	dextromethorphan_30mg	4.0	hr	0.013948266	0.011416472	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan	EM	5	concentration	dextrorphan	plasma	dextromethorphan_30mg	6.0	hr	0.0066564977	0.0063489213	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan	EM	5	concentration	dextrorphan	plasma	dextromethorphan_30mg	8.0	hr	0.00477052	0.0027451153	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan	EM	5	concentration	dextrorphan	plasma	dextromethorphan_30mg	10.0	hr	0.0028919182	0.0018876818	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	1.0	hr	0.08365756	0.04197424	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	1.5	hr	0.1715757	0.09232443	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	2.0	hr	0.26401347	0.14206499	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	4.0	hr	0.36102867	0.16835827	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	6.0	hr	0.25262257	0.10907108	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	8.0	hr	0.16452588	0.05473501	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	10.0	hr	0.09062958	0.03912978	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	24.0	hr	0.021344844	0.007784417	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	1.0	hr	0.59489715	0.16068785	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	1.5	hr	1.0824101	0.1084749	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	2.0	hr	1.4778876	0.1878839	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	4.0	hr	1.0098628	0.2129261	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	6.0	hr	0.47059977	0.12722383	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	8.0	hr	0.24713552	0.04499811	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	10.0	hr	0.14626463	0.03514954	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	24.0	hr	0.016806535	0.014490115	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	1.5	hr	0.02283096	0.015141248	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	2.5	hr	0.042904377	0.030208933	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	4.0	hr	0.06977933	0.03061297	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	6.0	hr	0.07163803	0.02893536	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	8.0	hr	0.07352796	0.02483863	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	10.0	hr	0.06687111	0.016315814	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	24.0	hr	0.0506641	0.01234974	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	36.0	hr	0.05124996	0.02069146	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM	5	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	48.0	hr	0.026312964	0.008880081	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	1.0	hr	0.03796041	0.010408428	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	2.0	hr	0.09313142	0.06181191	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	2.5	hr	0.13080508	0.08159178	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	4.0	hr	0.18853019	0.07614933	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	6.0	hr	0.15186407	0.04168796	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	8.0	hr	0.13156328	0.0243169	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	10.0	hr	0.119637325	0.036582295	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	24.0	hr	0.08225643	0.03324577	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	36.0	hr	0.07738174	0.0312688	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg, quinidine_100mg	48.0	hr	0.04594569	0.03428117	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-methoxymorphinan	EM	5	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	1.5	hr	0.008659727	0.006831235	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-methoxymorphinan	EM	5	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	2.0	hr	0.013401835	0.028462139	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-methoxymorphinan	EM	5	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	4.0	hr	0.02180341	0.027890867	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-methoxymorphinan	EM	5	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	6.0	hr	0.025883164	0.017170791	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-methoxymorphinan	EM	5	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	8.0	hr	0.023535443	0.019606897	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-methoxymorphinan	EM	5	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	10.0	hr	0.021402001	0.015973185	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-methoxymorphinan	EM	5	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	24.0	hr	0.0127249025	0.0060282055	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-methoxymorphinan	EM	5	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	36.0	hr	0.0111285	0.003403737	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_3-methoxymorphinan	EM	5	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	48.0	hr	0.0072825346	0.0015577234	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	1.5	hr	0.038908638	0.022753179	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	2.0	hr	0.06322173	0.015410744	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	4.0	hr	0.10037982	0.03719554	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	6.0	hr	0.10057964	0.02454033	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	8.0	hr	0.09145093	0.016902916	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	10.0	hr	0.09161589	0.01696715	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	24.0	hr	0.048272744	0.011766821	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	36.0	hr	0.034771286	0.009542257	nmol/ml	HPLC
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	48.0	hr	0.01302737	0.00918084	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM	4	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	1.5	hr	0.009287682	0.005143888	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM	4	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	2.0	hr	0.016590869	0.011697161	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM	4	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	4.0	hr	0.02300123	0.012738993	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM	4	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	6.0	hr	0.024145257	0.014250885	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM	4	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	8.0	hr	0.025337141	0.010543679	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM	4	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	10.0	hr	0.026592605	0.013775658	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM	4	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	24.0	hr	0.021351695	0.006855678	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM	4	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	36.0	hr	0.02013897	0.009731432	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM	4	concentration	3-hydroxymorphinan-glucuronide	plasma	dextromethorphan_30mg	48.0	hr	0.012228272	0.004301521	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextrorphan-glucuronide	PM	4	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	1.5	hr	0.008269	0.005192314	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextrorphan-glucuronide	PM	4	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	2.0	hr	0.018209575	0.009437965	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextrorphan-glucuronide	PM	4	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	4.0	hr	0.038325403	0.012293611	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextrorphan-glucuronide	PM	4	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	6.0	hr	0.026488405	0.012804245	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextrorphan-glucuronide	PM	4	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	8.0	hr	0.02363228	0.01224427	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextrorphan-glucuronide	PM	4	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	10.0	hr	0.02658944	0.017704217	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextrorphan-glucuronide	PM	4	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	24.0	hr	0.0035785432	0.0023816605	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextrorphan-glucuronide	PM	4	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	36.0	hr	0.015968263	0.005128402	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextrorphan-glucuronide	PM	4	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	48.0	hr	0.007688784	0.003198279	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-methoxymorphinan	PM	4	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg	2.0	hr	0.004946521	0.001433906	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-methoxymorphinan	PM	4	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg	4.0	hr	0.010153059	0.003248986	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-methoxymorphinan	PM	4	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg	6.0	hr	0.012240402	0.003919814	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-methoxymorphinan	PM	4	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg	8.0	hr	0.014756878	0.001811127	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-methoxymorphinan	PM	4	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg	10.0	hr	0.01379333	0.003192755	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-methoxymorphinan	PM	4	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg	24.0	hr	0.02434353	0.005636599	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-methoxymorphinan	PM	4	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg	36.0	hr	0.015489875	0.003153528	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_3-methoxymorphinan	PM	4	concentration	3-methoxymorphinan	plasma	dextromethorphan_30mg	48.0	hr	0.018861488	0.003316691	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextromethorphan	PM	4	concentration	dextromethorphan	plasma	dextromethorphan_30mg	1.5	hr	0.023301916	0.008180444	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextromethorphan	PM	4	concentration	dextromethorphan	plasma	dextromethorphan_30mg	2.0	hr	0.04889327	0.02357114	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextromethorphan	PM	4	concentration	dextromethorphan	plasma	dextromethorphan_30mg	4.0	hr	0.10272436	0.02378522	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextromethorphan	PM	4	concentration	dextromethorphan	plasma	dextromethorphan_30mg	6.0	hr	0.11823512	0.0207745	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextromethorphan	PM	4	concentration	dextromethorphan	plasma	dextromethorphan_30mg	8.0	hr	0.1079741	0.02499287	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextromethorphan	PM	4	concentration	dextromethorphan	plasma	dextromethorphan_30mg	10.0	hr	0.10091197	0.02053709	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextromethorphan	PM	4	concentration	dextromethorphan	plasma	dextromethorphan_30mg	24.0	hr	0.08298648	0.012366244	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextromethorphan	PM	4	concentration	dextromethorphan	plasma	dextromethorphan_30mg	36.0	hr	0.050434344	0.01929672	nmol/ml	HPLC
+Schadel1995	PM_dextromethorphan_30mg_dextromethorphan	PM	4	concentration	dextromethorphan	plasma	dextromethorphan_30mg	48.0	hr	0.034423098	0.009975996	nmol/ml	HPLC

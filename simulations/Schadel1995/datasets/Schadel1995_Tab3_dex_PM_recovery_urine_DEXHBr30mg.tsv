@@ -1,0 +1,2 @@
+study	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Schadel1995	PM	4	recovery	dextromethorphan	urine	dextromethorphan_30mg	72	hr	8.992708614636783e-06	2.430461787739671e-06	HPLC	mole	dimensionless

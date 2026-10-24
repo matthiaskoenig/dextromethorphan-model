@@ -1,0 +1,8 @@
+study	label	individual	phenotype	measurement	substance	tissue	intervention	time	time_unit	value	method	comments	value_unit
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	0.04987315	HPLC	filled circle lower half in FigA	dimensionless
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.05079847	HPLC	filled circle lower half in FigA	dimensionless
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.059078597	HPLC	filled circle lower half in FigA	dimensionless
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.06736771	HPLC	filled circle lower half in FigA	dimensionless
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.06718364	HPLC	filled circle lower half in FigA	dimensionless
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	0.06550521	HPLC	filled circle lower half in FigA	dimensionless
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.060324736	HPLC	filled circle lower half in FigA	dimensionless

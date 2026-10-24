@@ -1,0 +1,9 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	1.0	hr	0.59489715	0.16068785	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	1.5	hr	1.0824101	0.1084749	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	2.0	hr	1.4778876	0.1878839	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	4.0	hr	1.0098628	0.2129261	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	6.0	hr	0.47059977	0.12722383	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	8.0	hr	0.24713552	0.04499811	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	10.0	hr	0.14626463	0.03514954	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg_dextrorphan-glucuronide	EM	5	concentration	dextrorphan-glucuronide	plasma	dextromethorphan_30mg	24.0	hr	0.016806535	0.014490115	HPLC	nmol/ml	dimensionless

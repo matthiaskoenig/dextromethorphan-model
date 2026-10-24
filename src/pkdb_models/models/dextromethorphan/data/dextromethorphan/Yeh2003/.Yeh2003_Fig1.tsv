@@ -1,0 +1,169 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	unit	method	helper	comments
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	96.0	hr	1.9931663	NA	1.1161732	3.1093395	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	108.0	hr	2.072893	NA	1.0364465	3.1093395	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	120.0	hr	2.072893	NA	1.302202	3.375095	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	120.5	hr	2.072893	NA	1.1427485	3.2156415	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	121.0	hr	2.4715261	NA	1.2756265	3.7471526	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	121.33	hr	3.3485193	NA	1.408504	4.7570233	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	121.67	hr	3.5876994	NA	2.4981016	6.085801	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	122.0	hr	3.6674259	NA	1.9931661	5.660592	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	122.33	hr	2.7904327	NA	3.2422173	6.03265	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	122.67	hr	3.1093395	NA	2.3917995	5.501139	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	123.0	hr	3.1093395	NA	1.8602885	4.969628	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	123.5	hr	2.6309795	NA	2.2854972	4.9164767	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	124.0	hr	2.8701594	NA	1.8337126	4.703872	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	125.0	hr	2.4715261	NA	1.7008353	4.1723614	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	126.0	hr	2.312073	NA	1.063022	3.375095	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	128.0	hr	1.9134396	NA	0.9832954	2.896735	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	130.0	hr	1.6742597	NA	1.116173	2.7904327	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	132.0	hr	1.1161731	NA	0.8238421	1.9400152	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	134.0	hr	0.8769932	NA	1.0098709	1.8868641	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	143.0	hr	0.23917995	NA	0.63781325	0.8769932	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextromethorphan_M	EM	8	concentration	dextromethorphan	plasma	M	156.0	hr	0.07972665	NA	0.6378132	0.71753985	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	96.0	hr	17.300684	NA	3.88003	21.180714	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	108.0	hr	20.011389	NA	3.826879	23.838268	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	120.0	hr	19.53303	NA	2.976461	22.509491	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	120.5	hr	20.170843	NA	4.624146	24.794989	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	121.0	hr	20.808657	NA	4.358389	25.167046	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	121.33	hr	22.403189	NA	6.803341	29.20653	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	121.67	hr	23.917995	NA	8.477601	32.395596	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	122.0	hr	24.476082	NA	7.600608	32.07669	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	122.33	hr	26.150341	NA	5.926349	32.07669	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	122.67	hr	27.107061	NA	5.554289	32.66135	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	123.0	hr	27.665148	NA	3.561125	31.226273	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	123.5	hr	25.911161	NA	5.315112	31.226273	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	124.0	hr	25.671982	NA	9.115413	34.787395	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	125.0	hr	23.439636	NA	5.713744	29.15338	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	126.0	hr	20.170843	NA	4.783598	24.954441	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	128.0	hr	17.220957	NA	4.969627	22.190584	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	130.0	hr	14.6697035	NA	4.5975715	19.267275	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	132.0	hr	12.835991	NA	4.624145	17.460136	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	134.0	hr	11.002278	NA	3.959757	14.962035	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	143.0	hr	5.5808654	NA	1.5679579	7.1488233	LC-MS-MS	NA	NA
+Yeh2003	Fig1_IM_dextromethorphan_M	IM	4	concentration	dextromethorphan	plasma	M	156.0	hr	2.072893	NA	0.5580865	2.6309795	LC-MS-MS	NA	NA
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	96.0	hr	3.0272727	NA	NA	NA	NA	1.8818182	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	108.0	hr	2.7545455	NA	NA	NA	NA	1.8818182	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	120.0	hr	2.9454546	NA	NA	NA	NA	1.5272727	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	120.5	hr	3.0272727	NA	NA	NA	NA	1.8545455	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	121.0	hr	5.9454546	NA	NA	NA	NA	3.9818182	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	121.33	hr	7.3636365	NA	NA	NA	NA	5.318182	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	121.67	hr	7.1454544	NA	NA	NA	NA	5.018182	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	122.0	hr	6.9545455	NA	NA	NA	NA	4.5	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	122.33	hr	6.8727274	NA	NA	NA	NA	4.2272725	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	122.67	hr	5.918182	NA	NA	NA	NA	4.009091	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	123.0	hr	5.7	NA	NA	NA	NA	3.6545455	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	123.5	hr	5.3727274	NA	NA	NA	NA	3.790909	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	124.0	hr	4.5272727	NA	NA	NA	NA	2.9454546	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	125.0	hr	3.9	NA	NA	NA	NA	2.590909	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	126.0	hr	3.0545454	NA	NA	NA	NA	2.209091	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	128.0	hr	2.1272728	NA	NA	NA	NA	1.4727273	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	130.0	hr	1.7727273	NA	NA	NA	NA	1.0090909	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	132.0	hr	1.0090909	NA	NA	NA	NA	0.57272726	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	134.0	hr	0.8181818	NA	NA	NA	NA	0.3	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	143.0	hr	0.21818182	NA	NA	NA	NA	-0.027272727	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_M	EM	8	concentration	dextrorphan	plasma	M	156.0	hr	0.08181818	NA	NA	NA	NA	-0.027272727	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	96.0	hr	5.481818	NA	NA	NA	NA	7.7181816	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	108.0	hr	5.0454545	NA	NA	NA	NA	7.0363636	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	120.0	hr	5.6181817	NA	NA	NA	NA	8.018182	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	120.5	hr	5.890909	NA	NA	NA	NA	8.618182	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	121.0	hr	6.327273	NA	NA	NA	NA	10.227273	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	121.33	hr	6.490909	NA	NA	NA	NA	9.545455	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	121.67	hr	7.827273	NA	NA	NA	NA	10.472727	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	122.0	hr	8.181818	NA	NA	NA	NA	10.418181	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	122.33	hr	8.672728	NA	NA	NA	NA	9.872727	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	122.67	hr	8.645454	NA	NA	NA	NA	11.045455	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	123.0	hr	7.990909	NA	NA	NA	NA	10.090909	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	123.5	hr	7.7454543	NA	NA	NA	NA	10.009091	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	124.0	hr	7.1181817	NA	NA	NA	NA	9.681818	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	125.0	hr	6.5454545	NA	NA	NA	NA	8.809091	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	126.0	hr	5.072727	NA	NA	NA	NA	6.927273	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	128.0	hr	3.4363637	NA	NA	NA	NA	4.9636364	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	130.0	hr	2.6727273	NA	NA	NA	NA	3.9818182	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	132.0	hr	2.2363636	NA	NA	NA	NA	3.3545454	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	134.0	hr	1.8818182	NA	NA	NA	NA	2.8363636	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	143.0	hr	0.9	NA	NA	NA	NA	1.3090909	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_M	IM	4	concentration	dextrorphan	plasma	M	156.0	hr	0.35454544	NA	NA	NA	NA	0.4909091	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	96.0	hr	2.7994077	NA	NA	NA	NA	4.742567	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	108.0	hr	2.4662998	NA	NA	NA	NA	4.0516825	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	120.0	hr	2.3379087	NA	NA	NA	NA	3.9742534	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	120.5	hr	2.4	NA	NA	NA	NA	4.074784	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	121.0	hr	2.6934214	NA	NA	NA	NA	5.2992563	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	121.33	hr	3.356097	NA	NA	NA	NA	6.422676	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	121.67	hr	3.712306	NA	NA	NA	NA	5.8589635	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	122.0	hr	3.8131845	NA	NA	NA	NA	6.318837	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	122.33	hr	3.9653728	NA	NA	NA	NA	6.267005	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	122.67	hr	3.9133666	NA	NA	NA	NA	6.164211	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	123.0	hr	3.656817	NA	NA	NA	NA	6.1122046	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	123.5	hr	3.8090055	NA	NA	NA	NA	6.009759	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	124.0	hr	3.8079607	NA	NA	NA	NA	6.0595016	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	125.0	hr	4.0622463	NA	NA	NA	NA	6.007147	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	126.0	hr	3.9589303	NA	NA	NA	NA	6.2614326	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	128.0	hr	3.8034334	NA	NA	NA	NA	6.001923	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	130.0	hr	2.9805596	NA	NA	NA	NA	4.9748545	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	132.0	hr	2.3112671	NA	NA	NA	NA	3.9479601	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	134.0	hr	2.0006218	NA	NA	NA	NA	3.0229888	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	143.0	hr	0.59784156	NA	NA	NA	NA	1.4669756	NA
+Yeh2003	Fig1_EM_dextromethorphan_D	EM	8	concentration	dextromethorphan	plasma	D	156.0	hr	0.21342364	NA	NA	NA	NA	0.8783628	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	96.0	hr	17.680092	NA	NA	NA	NA	22.844978	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	108.0	hr	15.608541	NA	NA	NA	NA	17.19375	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	120.0	hr	17.422787	NA	NA	NA	NA	20.3377	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	120.5	hr	19.363857	NA	NA	NA	NA	24.17114	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	121.0	hr	27.543665	NA	NA	NA	NA	33.833363	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	121.33	hr	29.484386	NA	NA	NA	NA	34.342632	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	121.67	hr	31.887419	NA	NA	NA	NA	38.023884	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	122.0	hr	32.65306	NA	NA	NA	NA	41.49938	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	122.33	hr	31.2	NA	NA	NA	NA	38.124065	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	122.67	hr	30.60676	NA	NA	NA	NA	36.74166	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	123.0	hr	30.401	NA	NA	NA	NA	37.918304	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	123.5	hr	32.802986	NA	NA	NA	NA	40.01313	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	124.0	hr	31.01219	NA	NA	NA	NA	37.097523	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	125.0	hr	30.652847	NA	NA	NA	NA	36.431885	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	126.0	hr	28.606544	NA	NA	NA	NA	35.56136	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	128.0	hr	24.820234	NA	NA	NA	NA	31.058798	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	130.0	hr	21.38996	NA	NA	NA	NA	25.736326	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	132.0	hr	18.87943	NA	NA	NA	NA	23.379553	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	134.0	hr	18.414856	NA	NA	NA	NA	23.52878	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	143.0	hr	7.7568493	NA	NA	NA	NA	9.904378	NA
+Yeh2003	Fig1_IM_dextromethorphan_D	IM	4	concentration	dextromethorphan	plasma	D	156.0	hr	2.9232712	NA	NA	NA	NA	3.9463348	NA
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	96.0	hr	2.692483	NA	NA	NA	NA	0.9703872	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	108.0	hr	2.3234625	NA	NA	NA	NA	1.0113895	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	120.0	hr	2.1731207	NA	NA	NA	NA	1.2710706	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	120.5	hr	3.1845102	NA	NA	NA	NA	1.6810933	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	121.0	hr	3.4	NA	NA	NA	NA	2.883827	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	121.33	hr	4.947608	NA	NA	NA	NA	3.2528474	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	121.67	hr	5.658314	NA	NA	NA	NA	3.3895216	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	122.0	hr	5.617312	NA	NA	NA	NA	3.594533	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	122.33	hr	5.453303	NA	NA	NA	NA	3.4305239	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	122.67	hr	5.384966	NA	NA	NA	NA	3.1845102	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	123.0	hr	5.234624	NA	NA	NA	NA	3.38	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	123.5	hr	5.425968	NA	NA	NA	NA	4.0045557	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	124.0	hr	5.1252847	NA	NA	NA	NA	3.6765375	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	125.0	hr	4.8656034	NA	NA	NA	NA	3.2938497	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	126.0	hr	4.3872437	NA	NA	NA	NA	3.116173	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	128.0	hr	3.9908884	NA	NA	NA	NA	2.7198179	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	130.0	hr	3.047836	NA	NA	NA	NA	1.9134396	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	132.0	hr	1.9817767	NA	NA	NA	NA	0.9703872	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	134.0	hr	1.3667426	NA	NA	NA	NA	0.76537585	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	143.0	hr	0.3553531	NA	NA	NA	NA	0.16400911	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_EM_dextrorphan_D	EM	8	concentration	dextrorphan	plasma	D	156.0	hr	0.13667426	NA	NA	NA	NA	-0.054669704	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	96.0	hr	4.305239	NA	NA	NA	NA	6.341686	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	108.0	hr	3.5125284	NA	NA	NA	NA	4.4419136	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	120.0	hr	4.5102506	NA	NA	NA	NA	5.111617	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	120.5	hr	6.218679	NA	NA	NA	NA	8.350798	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	121.0	hr	9.143508	NA	NA	NA	NA	11.562642	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	121.33	hr	9.18451	NA	NA	NA	NA	10.98861	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	121.67	hr	9.43	NA	NA	NA	NA	11.029613	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	122.0	hr	9.936218	NA	NA	NA	NA	10.715262	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	122.33	hr	9.389522	NA	NA	NA	NA	10.2779045	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	122.67	hr	8.897494	NA	NA	NA	NA	9.785877	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	123.0	hr	8.665148	NA	NA	NA	NA	9.990889	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	123.5	hr	8.870159	NA	NA	NA	NA	9.758542	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	124.0	hr	8.118451	NA	NA	NA	NA	9.0751705	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	125.0	hr	7.4214125	NA	NA	NA	NA	8.227791	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	126.0	hr	6.6970387	NA	NA	NA	NA	7.407745	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	128.0	hr	5.617312	NA	NA	NA	NA	6.3143506	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	130.0	hr	4.236902	NA	NA	NA	NA	4.9202733	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	132.0	hr	3.1981776	NA	NA	NA	NA	3.621868	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	134.0	hr	2.7744875	NA	NA	NA	NA	3.2938497	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	143.0	hr	1.3667426	NA	NA	NA	NA	1.8861048	beta glucuronidase only added to urine samples 
+Yeh2003	Fig1_IM_dextrorphan_D	IM	4	concentration	dextrorphan	plasma	D	156.0	hr	0.546697	NA	NA	NA	NA	0.8063781	beta glucuronidase only added to urine samples 

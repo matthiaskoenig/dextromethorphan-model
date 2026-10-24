@@ -1,0 +1,3 @@
+study	output_type	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	min	max	unit	method
+Hou1991	output	NA	all	NA	cmax	dextromethorphan	saliva	DEX_50mg	NA	NA	NA	NA	NA	140	200	ng/ml	HPLC
+Hou1991	output	NA	all	NA	tmax	dextromethorphan	saliva	DEX_50mg	NA	NA	NA	NA	NA	2	5	hr	HPLC

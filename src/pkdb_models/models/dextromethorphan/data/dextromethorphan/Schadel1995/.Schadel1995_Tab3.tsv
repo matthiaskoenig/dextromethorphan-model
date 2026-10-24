@@ -1,0 +1,19 @@
+study	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	sd	unit	method
+Schadel1995	EM	5	recovery	3-hydroxymorphinan	urine	dextromethorphan_30mg	72	hr	0.67	0.25	percent	HPLC
+Schadel1995	EM	5	recovery	3-hydroxymorphinan	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	2.09	0.44	percent	HPLC
+Schadel1995	PM	4	recovery	3-hydroxymorphinan	urine	dextromethorphan_30mg	72	hr	0.7	0.63	percent	HPLC
+Schadel1995	EM	5	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	72	hr	15.7	6.1	percent	HPLC
+Schadel1995	EM	5	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	14.0	2.7	percent	HPLC
+Schadel1995	PM	4	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	72	hr	4.1	2.3	percent	HPLC
+Schadel1995	EM	5	recovery	dextrorphan	urine	dextromethorphan_30mg	72	hr	1.34	1.13	percent	HPLC
+Schadel1995	EM	5	recovery	dextrorphan	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	1.37	0.43	percent	HPLC
+Schadel1995	PM	4	recovery	dextrorphan	urine	dextromethorphan_30mg	72	hr	0.47	0.38	percent	HPLC
+Schadel1995	EM	5	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	72	hr	37.6	11.7	percent	HPLC
+Schadel1995	EM	5	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	24.9	3.9	percent	HPLC
+Schadel1995	PM	4	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	72	hr	5.1	2.6	percent	HPLC
+Schadel1995	EM	5	recovery	3-methoxymorphinan	urine	dextromethorphan_30mg	72	hr	0.01	0.21	percent	HPLC
+Schadel1995	EM	5	recovery	3-methoxymorphinan	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	1.61	0.87	percent	HPLC
+Schadel1995	PM	4	recovery	3-methoxymorphinan	urine	dextromethorphan_30mg	72	hr	4.72	2.57	percent	HPLC
+Schadel1995	EM	5	recovery	dextromethorphan	urine	dextromethorphan_30mg	72	hr	0.19	0.21	percent	HPLC
+Schadel1995	EM	5	recovery	dextromethorphan	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	10.4	5.1	percent	HPLC
+Schadel1995	PM	4	recovery	dextromethorphan	urine	dextromethorphan_30mg	72	hr	11.1	3.0	percent	HPLC

@@ -1,0 +1,2 @@
+study	group	individual	cyp2d6_genotype	measurement	substance	tissue	intervention	time	time_unit	x_log_value	value	method	label	comments	activities	time_jitter	time_jitter_unit	value_unit
+Montane2013	Afro-T	Afro-T-84	*17/*29	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.3238553	0.0474400021457827				1.0	4.83961631946037	hr	dimensionless

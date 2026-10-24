@@ -1,0 +1,13 @@
+study	group	measurement	substance	tissue	intervention	time	time_unit	median	min	max	unit	method
+Nyunt2008	all	auc_end	midazolam	plasma	midazolam5mg	12.0	hr	48.1	31.9	67.7	ng*hr/ml	LSMSMS
+Nyunt2008	all	cmax	midazolam	plasma	midazolam5mg	NA	NA	24.2	15.7	31.1	ng/ml	LSMSMS
+Nyunt2008	all	tmax	midazolam	plasma	midazolam5mg	NA	NA	0.5	0.05	0.75	hr	LSMSMS
+Nyunt2008	all	thalf	midazolam	plasma	midazolam5mg	NA	NA	3.6	2.9	4.2	hr	LSMSMS
+Nyunt2008	all	clearance	midazolam	plasma	midazolam5mg	NA	NA	1.6	1.2	2.5	L/hr	LSMSMS
+Nyunt2008	all	vd	midazolam	plasma	midazolam5mg	NA	NA	517.0	385.0	609.0	L	LSMSMS
+Nyunt2008	all	auc_end	paracetamol	plasma	dextromethorphan30mg	12.0	hr	17.5	6.4	38.6	ng*hr/ml	LSMSMS
+Nyunt2008	all	cmax	paracetamol	plasma	dextromethorphan30mg	NA	NA	2.5	1.3	5.3	ng/ml	LSMSMS
+Nyunt2008	all	tmax	paracetamol	plasma	dextromethorphan30mg	NA	NA	3.0	1.5	3.0	hr	LSMSMS
+Nyunt2008	all	thalf	paracetamol	plasma	dextromethorphan30mg	NA	NA	6.2	3.8	8.2	hr	LSMSMS
+Nyunt2008	all	clearance	paracetamol	plasma	dextromethorphan30mg	NA	NA	26.9	11.7	68.9	L/hr	LSMSMS
+Nyunt2008	all	vd	paracetamol	plasma	dextromethorphan30mg	NA	NA	13902.0	7013.0	24702.0	L	LSMSMS

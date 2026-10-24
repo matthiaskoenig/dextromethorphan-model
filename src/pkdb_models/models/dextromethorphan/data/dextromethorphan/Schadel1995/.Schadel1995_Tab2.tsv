@@ -1,0 +1,55 @@
+study	individual	measurement	substance	tissue	intervention	value	unit	method
+Schadel1995	EM1	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	3.87	nmol/ml*hr	HPLC
+Schadel1995	EM2	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	1.42	nmol/ml*hr	HPLC
+Schadel1995	EM3	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	2.15	nmol/ml*hr	HPLC
+Schadel1995	EM5	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	3.23	nmol/ml*hr	HPLC
+Schadel1995	EM4	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	5.77	nmol/ml*hr	HPLC
+Schadel1995	PM1	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg	4.64	nmol/ml*hr	HPLC
+Schadel1995	PM2	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg	3.52	nmol/ml*hr	HPLC
+Schadel1995	PM3	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg	4.98	nmol/ml*hr	HPLC
+Schadel1995	PM4	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg	8.78	nmol/ml*hr	HPLC
+Schadel1995	EM1	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	0.15	nmol/ml	HPLC
+Schadel1995	EM2	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	0.05	nmol/ml	HPLC
+Schadel1995	EM3	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	0.07	nmol/ml	HPLC
+Schadel1995	EM5	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	0.13	nmol/ml	HPLC
+Schadel1995	EM4	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	0.16	nmol/ml	HPLC
+Schadel1995	PM1	cmax	dextromethorphan	plasma	dextromethorphan_30mg	0.11	nmol/ml	HPLC
+Schadel1995	PM2	cmax	dextromethorphan	plasma	dextromethorphan_30mg	0.09	nmol/ml	HPLC
+Schadel1995	PM3	cmax	dextromethorphan	plasma	dextromethorphan_30mg	0.15	nmol/ml	HPLC
+Schadel1995	PM4	cmax	dextromethorphan	plasma	dextromethorphan_30mg	0.15	nmol/ml	HPLC
+Schadel1995	EM1	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	6.25	hr	HPLC
+Schadel1995	EM2	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	4.25	hr	HPLC
+Schadel1995	EM3	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	8.0	hr	HPLC
+Schadel1995	EM5	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	2.0	hr	HPLC
+Schadel1995	EM4	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	8.0	hr	HPLC
+Schadel1995	PM1	tmax	dextromethorphan	plasma	dextromethorphan_30mg	6.0	hr	HPLC
+Schadel1995	PM2	tmax	dextromethorphan	plasma	dextromethorphan_30mg	6.0	hr	HPLC
+Schadel1995	PM3	tmax	dextromethorphan	plasma	dextromethorphan_30mg	4.0	hr	HPLC
+Schadel1995	PM4	tmax	dextromethorphan	plasma	dextromethorphan_30mg	6.0	hr	HPLC
+Schadel1995	EM1	thalf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	14.9	hr	HPLC
+Schadel1995	EM2	thalf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	17.0	hr	HPLC
+Schadel1995	EM3	thalf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	11.1	hr	HPLC
+Schadel1995	EM5	thalf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	18.3	hr	HPLC
+Schadel1995	EM4	thalf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	20.8	hr	HPLC
+Schadel1995	PM1	thalf	dextromethorphan	plasma	dextromethorphan_30mg	25.0	hr	HPLC
+Schadel1995	PM2	thalf	dextromethorphan	plasma	dextromethorphan_30mg	27.9	hr	HPLC
+Schadel1995	PM3	thalf	dextromethorphan	plasma	dextromethorphan_30mg	23.3	hr	HPLC
+Schadel1995	PM4	thalf	dextromethorphan	plasma	dextromethorphan_30mg	41.7	hr	HPLC
+Schadel1995	EM1	clearance	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	349.0	ml/min	HPLC
+Schadel1995	EM2	clearance	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	951.0	ml/min	HPLC
+Schadel1995	EM3	clearance	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	628.0	ml/min	HPLC
+Schadel1995	EM5	clearance	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	418.0	ml/min	HPLC
+Schadel1995	EM4	clearance	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	234.0	ml/min	HPLC
+Schadel1995	PM1	clearance	dextromethorphan	plasma	dextromethorphan_30mg	291.0	ml/min	HPLC
+Schadel1995	PM2	clearance	dextromethorphan	plasma	dextromethorphan_30mg	384.0	ml/min	HPLC
+Schadel1995	PM3	clearance	dextromethorphan	plasma	dextromethorphan_30mg	271.0	ml/min	HPLC
+Schadel1995	PM4	clearance	dextromethorphan	plasma	dextromethorphan_30mg	154.0	ml/min	HPLC
+Schadel1995	EM1	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	68.0	ml/min	HPLC
+Schadel1995	EM2	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	165.0	ml/min	HPLC
+Schadel1995	EM3	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	46.0	ml/min	HPLC
+Schadel1995	EM5	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	51.0	ml/min	HPLC
+Schadel1995	EM4	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	25.0	ml/min	HPLC
+Schadel1995	PM1	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg	34.0	ml/min	HPLC
+Schadel1995	PM2	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg	75.0	ml/min	HPLC
+Schadel1995	PM3	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg	26.0	ml/min	HPLC
+Schadel1995	PM4	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg	28.0	ml/min	HPLC

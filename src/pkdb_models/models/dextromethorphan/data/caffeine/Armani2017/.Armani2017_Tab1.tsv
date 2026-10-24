@@ -1,0 +1,41 @@
+study	group	count	intervention	measurement_type	substance	method	tissue	time	time_unit	gmean	gcv	unit	comments
+Armani2017	all	19	caf, ome, dex, mid	auc_end	caffeine	HPLC MS/MS	plasma	48.0	hr	17200.0	61.7	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	auc_end	caffeine	HPLC MS/MS	plasma	48.0	hr	41100.0	37.5	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	auc_end	omeprazole	HPLC MS/MS	plasma	48.0	hr	460.0	97.0	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	auc_end	omeprazole	HPLC MS/MS	plasma	48.0	hr	852.0	90.7	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	auc_end	dextromethorphan	HPLC MS/MS	plasma	48.0	hr	7.63	1758.1	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	auc_end	dextromethorphan	HPLC MS/MS	plasma	48.0	hr	12.6	1857.4	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	auc_end	midazolam	HPLC MS/MS	plasma	48.0	hr	21.2	40.2	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	auc_end	midazolam	HPLC MS/MS	plasma	48.0	hr	31.7	34.2	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	auc_inf	caffeine	HPLC MS/MS	plasma	NA	NA	16200.0	44.8	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	auc_inf	caffeine	HPLC MS/MS	plasma	NA	NA	41900.0	32.1	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	auc_inf	omeprazole	HPLC MS/MS	plasma	NA	NA	618.0	92.9	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	auc_inf	omeprazole	HPLC MS/MS	plasma	NA	NA	885.0	89.9	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	auc_inf	dextromethorphan	HPLC MS/MS	plasma	NA	NA	22.8	193.8	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	auc_inf	dextromethorphan	HPLC MS/MS	plasma	NA	NA	20.0	233.9	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	auc_inf	midazolam	HPLC MS/MS	plasma	NA	NA	22.0	39.6	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	auc_inf	midazolam	HPLC MS/MS	plasma	NA	NA	32.8	34.1	ng*hr/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	cmax	caffeine	HPLC MS/MS	plasma	NA	NA	2500.0	29.5	ng/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	cmax	caffeine	HPLC MS/MS	plasma	NA	NA	2640.0	20.1	ng/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	cmax	omeprazole	HPLC MS/MS	plasma	NA	NA	271.0	69.7	ng/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	cmax	omeprazole	HPLC MS/MS	plasma	NA	NA	420.0	70.8	ng/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	cmax	dextromethorphan	HPLC MS/MS	plasma	NA	NA	1.24	330.9	ng/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	cmax	dextromethorphan	HPLC MS/MS	plasma	NA	NA	1.8	332.6	ng/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	cmax	midazolam	HPLC MS/MS	plasma	NA	NA	8.78	38.8	ng/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	cmax	midazolam	HPLC MS/MS	plasma	NA	NA	12.8	26.9	ng/ml	geometric means
+Armani2017	all	19	caf, ome, dex, mid	thalf	caffeine	HPLC MS/MS	plasma	NA	NA	5.39	58.1	hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	thalf	caffeine	HPLC MS/MS	plasma	NA	NA	7.39	48.4	hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid	thalf	omeprazole	HPLC MS/MS	plasma	NA	NA	0.77	48.4	hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	thalf	omeprazole	HPLC MS/MS	plasma	NA	NA	0.87	43.9	hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid	thalf	dextromethorphan	HPLC MS/MS	plasma	NA	NA	7.63	87.5	hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	thalf	dextromethorphan	HPLC MS/MS	plasma	NA	NA	7.71	107.4	hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid	thalf	midazolam	HPLC MS/MS	plasma	NA	NA	4.44	38.3	hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	thalf	midazolam	HPLC MS/MS	plasma	NA	NA	4.81	35.1	hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid	clearance	caffeine	HPLC MS/MS	plasma	NA	NA	6.18	44.8	l/hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	clearance	caffeine	HPLC MS/MS	plasma	NA	NA	2.39	32.1	l/hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid	clearance	omeprazole	HPLC MS/MS	plasma	NA	NA	32.3	92.9	l/hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	clearance	omeprazole	HPLC MS/MS	plasma	NA	NA	22.6	89.9	l/hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid	clearance	dextromethorphan	HPLC MS/MS	plasma	NA	NA	1310.0	193.8	l/hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	clearance	dextromethorphan	HPLC MS/MS	plasma	NA	NA	1500.0	233.9	l/hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid	clearance	midazolam	HPLC MS/MS	plasma	NA	NA	91.0	39.6	l/hr	geometric means
+Armani2017	all	19	caf, ome, dex, mid, osi	clearance	midazolam	HPLC MS/MS	plasma	NA	NA	61.0	34.1	l/hr	geometric means

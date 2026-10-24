@@ -1,0 +1,4 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	value_unit	count_unit
+Frank2009	Tab126_C07_reference	C07	1	concentration	dtf+dtfglu	plasma	CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.807	HPLC		nmol/ml	dimensionless
+Frank2009	Tab126_C07_reference	C07	1	concentration	dtf+dtfglu	plasma	CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.627	HPLC		nmol/ml	dimensionless
+Frank2009	Tab126_C07_reference	C07	1	concentration	dtf+dtfglu	plasma	CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.254	HPLC		nmol/ml	dimensionless

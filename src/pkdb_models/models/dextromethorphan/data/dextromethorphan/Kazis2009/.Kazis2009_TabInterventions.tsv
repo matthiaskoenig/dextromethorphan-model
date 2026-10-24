@@ -1,0 +1,4 @@
+study	name	measurement_type	substance	value	route	form	time	time_unit	application	unit
+Kazis2009	DEX40	qualitative dosing	dextromethorphan	40	oral	syrup	S56T0.25R224	day	multiple dose	mg
+Kazis2009	DEX50	qualitative dosing	dextromethorphan	50	oral	syrup	S56T0.25R224	day	multiple dose	mg
+Kazis2009	DEX	dosing	dextromethorphan	30	oral	syrup	0	day	single dose	mg

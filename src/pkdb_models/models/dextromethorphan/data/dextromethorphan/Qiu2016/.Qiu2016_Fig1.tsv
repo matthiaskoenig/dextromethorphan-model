@@ -1,0 +1,85 @@
+study	count	label	group	measurement	tissue	substance	intervention	time	time_unit	mean	sd	unit	method
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.0	hr	0.009090909	0.0116883115	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.25	hr	0.06363636	0.031168827	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.5	hr	0.17662337	0.167532461	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.75	hr	0.23116884	0.222077931	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	1.0	hr	0.3051948	0.218181816	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	1.5	hr	0.32857144	0.22987014	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	2.0	hr	0.37532467	0.23376623	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	3.0	hr	0.43376625	0.33506495	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	4.0	hr	0.35194805	0.257142854	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	6.0	hr	0.17662337	0.12857142	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	8.0	hr	0.15714286	0.11688312	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	10.0	hr	0.12597403	0.101298705	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	12.0	hr	0.1025974	0.08181818	ng/ml	LCMSMS
+Qiu2016	6	group1_control	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	24.0	hr	0.028571429	0.042857143	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.0	hr	0.012987013	0.035064937	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.25	hr	0.09090909	0.03506494	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.5	hr	0.2974026	0.16753246	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.75	hr	0.67142856	0.43246754	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	1.0	hr	1.0922078	0.9857142	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	1.5	hr	0.96363634	0.54545456	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	2.0	hr	1.0103896	0.3428572	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	3.0	hr	0.95194805	0.51038955	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	4.0	hr	0.9285714	0.374026	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	6.0	hr	0.5701299	0.30779216	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	8.0	hr	0.47272727	0.32727273	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	10.0	hr	0.34415585	0.26493505	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	12.0	hr	0.2857143	0.21038958	ng/ml	LCMSMS
+Qiu2016	6	group1_zuojin	*1/*1	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	24.0	hr	0.11818182	0.1051948	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.0	hr	0.0	0.02173913	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.25	hr	0.11594203	0.05072464	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.5	hr	0.23188406	0.07246376	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.75	hr	0.4710145	0.1594203	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	1.0	hr	0.8333333	0.115942	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	1.5	hr	0.9710145	0.442029	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	2.0	hr	1.384058	0.45652175	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	3.0	hr	1.3405797	0.5362319	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	4.0	hr	1.1956521	0.6014492	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	6.0	hr	0.5797101	0.22463763	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	8.0	hr	0.45652175	0.21739131	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	10.0	hr	0.36956522	0.19565217	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	12.0	hr	0.3115942	0.13043478	ng/ml	LCMSMS
+Qiu2016	6	group2_control	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	24.0	hr	0.0942029	0.07246377	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.0	hr	0.0	0.04347826	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.25	hr	0.13043478	0.07971014	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.5	hr	0.44927537	0.23188407	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.75	hr	1.1449275	0.6376812	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	1.0	hr	1.5797101	1.2173914	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	1.5	hr	1.9855072	0.9855073	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	2.0	hr	2.6956522	1.4275363	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	3.0	hr	2.231884	0.7826088	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	4.0	hr	1.7463768	0.6014492	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	6.0	hr	1.0942029	0.3188406	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	8.0	hr	0.8623188	0.268116	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	10.0	hr	0.6376812	0.21014486	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	12.0	hr	0.49275362	0.20289858	ng/ml	LCMSMS
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	24.0	hr	0.18115942	0.07246378	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.0	hr	0.027565084	0.082695254	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.25	hr	0.15160796	0.09647779	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.5	hr	0.55130166	0.31699844	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.75	hr	1.6263399	0.840735	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	1.0	hr	2.7151608	1.2817764	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	1.5	hr	3.7212863	1.3920367	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	2.0	hr	5.320061	2.8392034	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	3.0	hr	4.8514547	2.0122511	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	4.0	hr	3.8728943	1.7779479	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	6.0	hr	2.0398161	0.9509953	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	8.0	hr	1.8192955	1.1577335	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	10.0	hr	1.4196018	0.9234303	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	12.0	hr	1.1439509	0.99234294	ng/ml	LCMSMS
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	24.0	hr	0.59264934	0.49617155	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.0	hr	0.013782542	0.137825418	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.25	hr	0.06891271	0.12404287	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.5	hr	0.3583461	0.330781	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.75	hr	1.1163859	0.8269525	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	1.0	hr	2.2052066	1.240429	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	1.5	hr	2.7289433	1.4058197	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	2.0	hr	4.865237	2.784074	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	3.0	hr	4.1761103	1.9019907	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	4.0	hr	4.189893	1.7366	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	6.0	hr	2.3568146	0.964778	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	8.0	hr	2.2879019	1.1301687	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	10.0	hr	1.9984686	0.964778	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	12.0	hr	1.6125574	0.9785605	ng/ml	LCMSMS
+Qiu2016	6	group3_zuojin	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	24.0	hr	0.81316996	0.41347634	ng/ml	LCMSMS

@@ -1,0 +1,37 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	unit	method
+Pope2004	dextromethorphan_30mg, DEX_day8, Q_day8_cmax	Study1_Q0mg	7	cmax	dextromethorphan	plasma	dextromethorphan_30mg, DEX_day8, Q_day8	NA	NA	2.9	ng/ml	HPLC
+Pope2004	dextromethorphan_30mg, DEX_day8, Q_day8_auc_end	Study1_Q2.5mg	7	auc_end	dextromethorphan	plasma	dextromethorphan_30mg, DEX_day8, Q_day8	8.0	hr	17.8	ng*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, DEX_day8, Q_day8_tmax	Study1_Q10mg	7	tmax	dextromethorphan	plasma	dextromethorphan_30mg, DEX_day8, Q_day8	NA	NA	2.86	hr	HPLC
+Pope2004	dextromethorphan_30mg, DEX_day8, Q_day8_cmax	Study1_Q25mg	8	cmax	quinidine	plasma	dextromethorphan_30mg, DEX_day8, Q_day8	NA	NA	NA	microg/ml	HPLC
+Pope2004	dextromethorphan_30mg, DEX_day8, Q_day8_auc_end	Study1_Q50mg	8	auc_end	quinidine	plasma	dextromethorphan_30mg, DEX_day8, Q_day8	8.0	hr	NA	microg*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, DEX_day8, Q_day8_tmax	Study1_Q75mg	7	tmax	quinidine	plasma	dextromethorphan_30mg, DEX_day8, Q_day8	NA	NA	NA	hr	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8_cmax	Study1_Q0mg	7	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8	NA	NA	35.3	ng/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8_auc_end	Study1_Q2.5mg	7	auc_end	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8	8.0	hr	242.4	ng*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8_tmax	Study1_Q10mg	7	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8	NA	NA	4.0	hr	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8_cmax	Study1_Q25mg	8	cmax	quinidine	plasma	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8	NA	NA	NA	microg/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8_auc_end	Study1_Q50mg	8	auc_end	quinidine	plasma	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8	8.0	hr	NA	microg*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8_tmax	Study1_Q75mg	7	tmax	quinidine	plasma	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8	NA	NA	NA	hr	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8_cmax	Study1_Q0mg	7	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8	NA	NA	63.7	ng/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8_auc_end	Study1_Q2.5mg	7	auc_end	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8	8.0	hr	451.7	ng*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8_tmax	Study1_Q10mg	7	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8	NA	NA	3.71	hr	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8_cmax	Study1_Q25mg	8	cmax	quinidine	plasma	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8	NA	NA	0.04	microg/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8_auc_end	Study1_Q50mg	8	auc_end	quinidine	plasma	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8	8.0	hr	0.15	microg*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8_tmax	Study1_Q75mg	7	tmax	quinidine	plasma	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8	NA	NA	1.43	hr	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8_cmax	Study1_Q0mg	7	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8	NA	NA	98.9	ng/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8_auc_end	Study1_Q2.5mg	7	auc_end	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8	8.0	hr	723.7	ng*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8_tmax	Study1_Q10mg	7	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8	NA	NA	3.25	hr	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8_cmax	Study1_Q25mg	8	cmax	quinidine	plasma	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8	NA	NA	0.16	microg/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8_auc_end	Study1_Q50mg	8	auc_end	quinidine	plasma	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8	8.0	hr	0.94	microg*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8_tmax	Study1_Q75mg	7	tmax	quinidine	plasma	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8	NA	NA	2.25	hr	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8_cmax	Study1_Q0mg	7	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8	NA	NA	110.12	ng/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8_auc_end	Study1_Q2.5mg	7	auc_end	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8	8.0	hr	814.8	ng*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8_tmax	Study1_Q10mg	7	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8	NA	NA	3.75	hr	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8_cmax	Study1_Q25mg	8	cmax	quinidine	plasma	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8	NA	NA	0.29	microg/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8_auc_end	Study1_Q50mg	8	auc_end	quinidine	plasma	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8	8.0	hr	1.71	microg*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8_tmax	Study1_Q75mg	7	tmax	quinidine	plasma	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8	NA	NA	2.25	hr	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8_cmax	Study1_Q0mg	7	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8	NA	NA	115.71	ng/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8_auc_end	Study1_Q2.5mg	7	auc_end	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8	8.0	hr	851.4	ng*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8_tmax	Study1_Q10mg	7	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8	NA	NA	3.71	hr	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8_cmax	Study1_Q25mg	8	cmax	quinidine	plasma	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8	NA	NA	0.41	microg/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8_auc_end	Study1_Q50mg	8	auc_end	quinidine	plasma	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8	8.0	hr	2.48	microg*hr/ml	HPLC
+Pope2004	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8_tmax	Study1_Q75mg	7	tmax	quinidine	plasma	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8	NA	NA	2.29	hr	HPLC

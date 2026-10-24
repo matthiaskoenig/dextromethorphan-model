@@ -1,0 +1,11 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Barnhart1980	Fig5_dtf+dtfglu	all	5	cumulative amount	dtf+dtfglu	urine	dex30mg	1	hr	1.122811240411009e-06	8.172640191387783e-07	1.8274579023589984e-06	GC	mole	dimensionless
+Barnhart1980	Fig5_dtf+dtfglu	all	5	cumulative amount	dtf+dtfglu	urine	dex30mg	2	hr	9.424294906031635e-06	1.9315057124226983e-06	4.318978071906332e-06	GC	mole	dimensionless
+Barnhart1980	Fig5_dtf+dtfglu	all	5	cumulative amount	dtf+dtfglu	urine	dex30mg	4	hr	2.0232172540568535e-05	3.637964793655967e-06	8.13473657836573e-06	GC	mole	dimensionless
+Barnhart1980	Fig5_dtf+dtfglu	all	5	cumulative amount	dtf+dtfglu	urine	dex30mg	6	hr	2.6216486758824804e-05	4.010342515343436e-06	8.967398477365407e-06	GC	mole	dimensionless
+Barnhart1980	Fig5_dtf+dtfglu	all	5	cumulative amount	dtf+dtfglu	urine	dex30mg	8	hr	2.952800835961644e-05	4.085166506547405e-06	9.134710008045322e-06	GC	mole	dimensionless
+Barnhart1980	Fig5_dtf+dtfglu	all	5	cumulative amount	dtf+dtfglu	urine	dex30mg	10	hr	3.15031363714885e-05	3.935522409586237e-06	8.800095634808605e-06	GC	mole	dimensionless
+Barnhart1980	Fig5_dtf+dtfglu	all	5	cumulative amount	dtf+dtfglu	urine	dex30mg	12	hr	3.2661578440992456e-05	3.861854338796816e-06	8.635368820752179e-06	GC	mole	dimensionless
+Barnhart1980	Fig5_dtf+dtfglu	all	5	cumulative amount	dtf+dtfglu	urine	dex30mg	16	hr	3.416119382061654e-05	3.563724008012409e-06	7.968729134963753e-06	GC	mole	dimensionless
+Barnhart1980	Fig5_dtf+dtfglu	all	5	cumulative amount	dtf+dtfglu	urine	dex30mg	24	hr	3.5079857198951897e-05	2.8978341975732633e-06	6.479754253297365e-06	GC	mole	dimensionless
+Barnhart1980	Fig5_dtf+dtfglu	all	5	cumulative amount	dtf+dtfglu	urine	dex30mg	48	hr	3.564607558608273e-05	2.894949253345351e-06	6.4733033218924805e-06	GC	mole	dimensionless

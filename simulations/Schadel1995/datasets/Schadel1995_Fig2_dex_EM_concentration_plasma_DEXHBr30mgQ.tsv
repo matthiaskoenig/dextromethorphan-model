@@ -1,0 +1,10 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	1.5	hr	0.038908638	0.022753179	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	2.0	hr	0.06322173	0.015410744	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	4.0	hr	0.10037982	0.03719554	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	6.0	hr	0.10057964	0.02454033	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	8.0	hr	0.09145093	0.016902916	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	10.0	hr	0.09161589	0.01696715	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	24.0	hr	0.048272744	0.011766821	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	36.0	hr	0.034771286	0.009542257	HPLC	nmol/ml	dimensionless
+Schadel1995	EM_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM	5	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	48.0	hr	0.01302737	0.00918084	HPLC	nmol/ml	dimensionless

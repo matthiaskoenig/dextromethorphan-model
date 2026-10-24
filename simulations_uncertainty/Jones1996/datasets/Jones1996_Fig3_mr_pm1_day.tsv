@@ -1,0 +1,15 @@
+study	label	individual	phenotype	measurement	substance	tissue	intervention	time	time_unit	value	method	comments	value_unit
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	1	day	4.1883545	HPLC		dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	day	4.657791	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	3	day	5.300581	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	day	5.596304	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	5	day	6.313434	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	6	day	6.7084103	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	7	day	7.103307	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	day	7.2254767	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	9	day	7.496367	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	10	day	7.544037	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	11	day	7.716073	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	12	day		HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	13	day	7.762027	HPLC	empty squares in FigD	dimensionless
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	day	7.933624	HPLC	empty squares in FigD	dimensionless

@@ -1,0 +1,11 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	unit	method
+Hou1991	Fig2_dmt/dtf	GroupA_EM	10	metabolic ratio	dmt/dtf	saliva	DEX_50mg	0.0	hr	NA	NA	NA	dimensionless	HPLC
+Hou1991	Fig2_dmt/dtf	GroupA_EM	10	metabolic ratio	dmt/dtf	saliva	DEX_50mg	0.5	hr	0.6799998	0.20355406	0.643694456574574	dimensionless	HPLC
+Hou1991	Fig2_dmt/dtf	GroupA_EM	10	metabolic ratio	dmt/dtf	saliva	DEX_50mg	1.0	hr	0.9492107	0.2927956	0.925900984875597	dimensionless	HPLC
+Hou1991	Fig2_dmt/dtf	GroupA_EM	10	metabolic ratio	dmt/dtf	saliva	DEX_50mg	2.0	hr	0.53775007	0.07845497	0.24809639896018	dimensionless	HPLC
+Hou1991	Fig2_dmt/dtf	GroupA_EM	10	metabolic ratio	dmt/dtf	saliva	DEX_50mg	3.0	hr	0.65831375	0.10359915	0.327609277657433	dimensionless	HPLC
+Hou1991	Fig2_dmt/dtf	GroupA_EM	10	metabolic ratio	dmt/dtf	saliva	DEX_50mg	4.0	hr	0.7682738	0.1249893	0.395250871150084	dimensionless	HPLC
+Hou1991	Fig2_dmt/dtf	GroupA_EM	10	metabolic ratio	dmt/dtf	saliva	DEX_50mg	5.0	hr	1.1674948	0.2427999	0.767800699661117	dimensionless	HPLC
+Hou1991	Fig2_dmt/dtf	GroupA_EM	10	metabolic ratio	dmt/dtf	saliva	DEX_50mg	6.0	hr	1.2202071	0.3893256	1.23115564741165	dimensionless	HPLC
+Hou1991	Fig2_dmt/dtf	GroupA_EM	10	metabolic ratio	dmt/dtf	saliva	DEX_50mg	7.0	hr	1.2873502	0.7500093	2.37173765430852	dimensionless	HPLC
+Hou1991	Fig2_dmt/dtf	GroupA_EM	10	metabolic ratio	dmt/dtf	saliva	DEX_50mg	8.0	hr	1.3686315	0.6821211	2.15705631605948	dimensionless	HPLC

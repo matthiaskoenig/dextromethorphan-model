@@ -1,0 +1,10 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	median	min	max	sd	unit	comments
+Barnhart1980	all	NA	species	5	homo sapiens	5	NA	NA	NA	NA	NA	NA	NA	NA
+Barnhart1980	all	NA	healthy	5	Y	5	NA	NA	NA	NA	NA	NA	NA	NA
+Barnhart1980	all	NA	sex	5	M	5	NA	NA	NA	NA	NA	NA	NA	NA
+Barnhart1980	all	NA	age	5	NA	5	NA	NA	NA	21.0	41.0	NA	yr	NA
+Barnhart1980	all	NA	weight	5	NA	5	NA	NA	NA	50.0	84.0	NA	kg	NA
+Barnhart1980	all	NA	overnight fast	5	Y	5	NA	NA	NA	NA	NA	NA	NA	NA
+Barnhart1980	all	NA	cyp2d6 phenotype	5	em	4	NA	NA	NA	NA	NA	NA	NA	NA
+Barnhart1980	all	NA	cyp2d6 phenotype	5	pm	1	NA	NA	NA	NA	NA	NA	NA	NA
+Barnhart1980	em	all	cyp2d6 phenotype	4	em	4	NA	NA	NA	NA	NA	NA	NA	NA

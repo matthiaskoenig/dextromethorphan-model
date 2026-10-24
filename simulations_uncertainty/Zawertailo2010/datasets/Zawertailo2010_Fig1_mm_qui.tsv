@@ -1,0 +1,8 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Zawertailo2010	mm	all	8	concentration	mm	plasma	dex,Q100mg	0	hr	0.09753442500000001			NR	nmol/ml	dimensionless
+Zawertailo2010	mm	all	8	concentration	mm	plasma	dex,Q100mg	1	hr	0.15339914300000002			NR	nmol/ml	dimensionless
+Zawertailo2010	mm	all	8	concentration	mm	plasma	dex,Q100mg	2	hr	0.3260187			NR	nmol/ml	dimensionless
+Zawertailo2010	mm	all	8	concentration	mm	plasma	dex,Q100mg	3	hr	0.58645032			NR	nmol/ml	dimensionless
+Zawertailo2010	mm	all	8	concentration	mm	plasma	dex,Q100mg	4	hr	0.67785319			NR	nmol/ml	dimensionless
+Zawertailo2010	mm	all	8	concentration	mm	plasma	dex,Q100mg	5	hr	0.6975865299999999			NR	nmol/ml	dimensionless
+Zawertailo2010	mm	all	8	concentration	mm	plasma	dex,Q100mg	6	hr	0.6741416499999999			NR	nmol/ml	dimensionless

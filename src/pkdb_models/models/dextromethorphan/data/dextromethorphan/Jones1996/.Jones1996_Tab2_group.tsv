@@ -1,0 +1,17 @@
+study	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	sd	se	unit	method
+Jones1996	em	8	kel	3-hydroxymorphinan	urine	dextromethorphan_30mg	3	day	0.17	0.0542	0.0191625937701554	1/hr	HPLC
+Jones1996	em	8	kel	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	0.186	0.0319	0.0112783531599254	1/hr	HPLC
+Jones1996	em	8	kel	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.092	0.034	0.0120208152801713	1/hr	HPLC
+Jones1996	em	8	kel	dextromethorphan	urine	dextromethorphan_30mg	3	day	0.161	0.0757	0.0267639916679108	1/hr	HPLC
+Jones1996	pm	3	kel	3-hydroxymorphinan	urine	dextromethorphan_30mg	3	day	0.019	0.0112	0.00646632301492381	1/hr	HPLC
+Jones1996	pm	3	kel	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	0.056	0.026	0.0150111069989303	1/hr	HPLC
+Jones1996	pm	3	kel	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.013	0.0078	0.00450333209967908	1/hr	HPLC
+Jones1996	pm	3	kel	dextromethorphan	urine	dextromethorphan_30mg	3	day	0.022	0.0165	0.00952627944162883	1/hr	HPLC
+Jones1996	em	8	thalf	3-hydroxymorphinan	urine	dextromethorphan_30mg	3	day	4.07	NA	NA	hr	HPLC
+Jones1996	em	8	thalf	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	3.74	NA	NA	hr	HPLC
+Jones1996	em	8	thalf	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	7.57	NA	NA	hr	HPLC
+Jones1996	em	8	thalf	dextromethorphan	urine	dextromethorphan_30mg	3	day	4.3	NA	NA	hr	HPLC
+Jones1996	pm	3	thalf	3-hydroxymorphinan	urine	dextromethorphan_30mg	3	day	37.13	NA	NA	hr	HPLC
+Jones1996	pm	3	thalf	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	12.38	NA	NA	hr	HPLC
+Jones1996	pm	3	thalf	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	53.31	NA	NA	hr	HPLC
+Jones1996	pm	3	thalf	dextromethorphan	urine	dextromethorphan_30mg	3	day	31.5	NA	NA	hr	HPLC

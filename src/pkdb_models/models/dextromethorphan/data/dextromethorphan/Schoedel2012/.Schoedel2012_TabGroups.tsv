@@ -1,0 +1,42 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	median	min	max	sd	unit	comments
+Schoedel2012	all	NA	species	27	homo sapiens	27	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	healthy	27	Y	27	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	medication	27	N	27	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	smoking	27	N	27	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	sex	27	M	21	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	sex	27	F	6	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	age	27	NA	27	NA	33.6	NA	19.0	55.0	9.4	yr	NA
+Schoedel2012	all	NA	bmi	27	NA	27	NA	25.2	NA	19.0	39.0	2.6	kg/m^2	NA
+Schoedel2012	all	NA	weight	27	NA	27	NA	75.3	NA	NA	NA	11.7	kg	NA
+Schoedel2012	all	NA	cyp2d6 phenotype	27	pm	1	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	cyp2d6 phenotype	27	im	1	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	cyp2d6 phenotype	27	em	26	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	ethnicity	27	african	12	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	ethnicity	27	caucasian	10	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	ethnicity	27	hispanic	4	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	all	NA	ethnicity	27	asian	1	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group1	all	sex	14	M	12	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group1	all	sex	14	F	2	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group1	all	age	14	NA	14	NA	33.6	NA	19.0	55.0	9.2	yr	NA
+Schoedel2012	group1	all	bmi	14	NA	14	NA	25.3	NA	NA	NA	2.9	kg/m^2	NA
+Schoedel2012	group1	all	weight	14	NA	14	NA	75.3	NA	NA	NA	11.7	kg	NA
+Schoedel2012	group1	all	ethnicity	14	african	9	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group1	all	ethnicity	14	caucasian	4	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group1	all	ethnicity	14	asian	1	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group1	all	cyp2d6 phenotype	14	em	14	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group1_evaluabel	group1	species	12	homo sapiens	12	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group1_subgroup	group1_evaluabel	species	9	homo sapiens	9	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2	all	sex	13	M	9	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2	all	sex	13	F	4	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2	all	age	13	NA	13	NA	33.5	NA	23.0	50.0	9.7	yr	NA
+Schoedel2012	group2	all	bmi	13	NA	13	NA	25.1	NA	NA	NA	2.3	kg/m^2	NA
+Schoedel2012	group2	all	weight	13	NA	13	NA	73.3	NA	NA	NA	10.4	kg	NA
+Schoedel2012	group2	all	ethnicity	13	african	3	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2	all	ethnicity	13	caucasian	6	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2	all	cyp2d6 phenotype	13	pm	1	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2	all	cyp2d6 phenotype	13	im	1	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2	all	cyp2d6 phenotype	13	em	11	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2	all	cyp2d6 genotype	13	*3/*4	1	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2	all	cyp2d6 genotype	13	*4/*17	1	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2_evaluabel	group2	species	10	homo sapiens	10	NA	NA	NA	NA	NA	NA	NA	NA
+Schoedel2012	group2_subgroup	group2_evaluabel	species	9	homo sapiens	9	NA	NA	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,15 @@
+study	group	count	substance_x	substance_y	intervention	x_label	y_label	x_measurement	y_measurement	y_tissue	x	y	y_se	y_sd	x_u	y_u	time	time_unit	method
+Pope2004	Study1_Q0mg	7	quinidine	dextromethorphan	dextromethorphan_30mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	0.0	22.727272	25.770304909181	68.181818	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study1_Q2.5mg	7	quinidine	dextromethorphan	dextromethorphan_30mg, quinidine_2.5mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	2.5	254.54546	13.7441640292973	36.36364	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study1_Q10mg	7	quinidine	dextromethorphan	dextromethorphan_30mg, quinidine_10mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	10.0	454.54544	22.3342646577857	59.09091	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study1_Q25mg	8	quinidine	dextromethorphan	dextromethorphan_30mg, quinidine_25mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	25.0	722.7273	20.8917880482081	59.0909	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study1_Q50mg	8	quinidine	dextromethorphan	dextromethorphan_30mg, quinidine_50mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	50.0	809.0909	20.891788048208	59.0908999999999	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study1_Q75mg	7	quinidine	dextromethorphan	dextromethorphan_30mg, quinidine_75mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	75.0	850.0	25.7702981058205	68.1818	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study2_DM45mg_Q0mg	8	quinidine	dextromethorphan	dextromethorphan_45mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	0.0	22.727272	30.5341570388701	86.363638	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study2_DM45mg_Q30mg	8	quinidine	dextromethorphan	dextromethorphan_45mg, quinidine_30mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	30.0	1436.3636	300.520346648944	849.9999	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study2_DM45mg_Q45mg	8	quinidine	dextromethorphan	dextromethorphan_45mg, quinidine_45mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	45.0	1409.091	99.6377094302152	281.818	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study2_DM45mg_Q60mg	8	quinidine	dextromethorphan	dextromethorphan_45mg, quinidine_60mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	60.0	1468.1818	207.310838900478	586.3636	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study2_DM60mg_Q0mg	9	quinidine	dextromethorphan	dextromethorphan_60mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	0.0	45.454544	19.6969706666667	59.090912	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study2_DM60mg_Q30mg	8	quinidine	dextromethorphan	dextromethorphan_60mg, quinidine_30mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	30.0	1968.1818	218.560236037714	618.1817	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study2_DM60mg_Q45mg	8	quinidine	dextromethorphan	dextromethorphan_60mg, quinidine_45mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	45.0	2122.7273	102.851934014777	290.9092	mg	ng*hr/ml	8	hr	HPLC
+Pope2004	Study2_DM60mg_Q60mg	8	quinidine	dextromethorphan	dextromethorphan_60mg, quinidine_60mg, DEX_day8, Q_day8	NA	NA	dosing	auc_end	plasma	60.0	2277.2727	237.845017859658	672.7273	mg	ng*hr/ml	8	hr	HPLC

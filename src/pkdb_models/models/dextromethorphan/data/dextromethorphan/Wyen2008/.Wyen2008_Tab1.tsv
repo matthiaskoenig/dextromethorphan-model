@@ -1,0 +1,13 @@
+study	group	measurement	count	tissue	substance	intervention	time	time_unit	mean	cv	unit	method
+Wyen2008	pm	auc_end	24	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	10.1	39	ng*hr/ml	LCMSMS
+Wyen2008	non-pm	auc_end	4	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	162.7	39	ng*hr/ml	LCMSMS
+Wyen2008	pm	auc_end	24	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	13.0	77	ng*hr/ml	LCMSMS
+Wyen2008	non-pm	auc_end	4	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	147.3	25	ng*hr/ml	LCMSMS
+Wyen2008	pm	auc_end	24	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	21.1	39	ng*hr/ml	LCMSMS
+Wyen2008	non-pm	auc_end	4	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	5.7	370	ng*hr/ml	LCMSMS
+Wyen2008	pm	auc_end	24	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	9.5	46	ng*hr/ml	LCMSMS
+Wyen2008	non-pm	auc_end	4	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	4.0	199	ng*hr/ml	LCMSMS
+Wyen2008	all	auc_end	28	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	5.22	43	ng*hr/ml	LCMSMS
+Wyen2008	all	auc_end	28	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	9.43	23	ng*hr/ml	LCMSMS
+Wyen2008	all	cmax	28	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.28	44	ng/ml	LCMSMS
+Wyen2008	all	cmax	28	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	2.09	21	ng/ml	LCMSMS

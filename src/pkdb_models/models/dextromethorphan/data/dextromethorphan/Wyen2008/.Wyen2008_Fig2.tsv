@@ -1,0 +1,85 @@
+study	id	measurement	tissue	substance	intervention	value	unit	method
+Wyen2008	Fig2_1	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	43.285503	l/hr	LCMSMS
+Wyen2008	Fig2_1	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	6.2235804	l/hr	LCMSMS
+Wyen2008	Fig2_2	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	39.30514	l/hr	LCMSMS
+Wyen2008	Fig2_2	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	6.0054784	l/hr	LCMSMS
+Wyen2008	Fig2_3	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	36.197186	l/hr	LCMSMS
+Wyen2008	Fig2_3	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	7.3688936	l/hr	LCMSMS
+Wyen2008	Fig2_4	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	29.435928	l/hr	LCMSMS
+Wyen2008	Fig2_4	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	5.4603157	l/hr	LCMSMS
+Wyen2008	Fig2_5	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	28.23646	l/hr	LCMSMS
+Wyen2008	Fig2_5	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	10.858435	l/hr	LCMSMS
+Wyen2008	Fig2_6	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	27.85478	l/hr	LCMSMS
+Wyen2008	Fig2_6	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	4.64234	l/hr	LCMSMS
+Wyen2008	Fig2_7	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	26.382315	l/hr	LCMSMS
+Wyen2008	Fig2_7	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	4.1517954	l/hr	LCMSMS
+Wyen2008	Fig2_8	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	25.946295	l/hr	LCMSMS
+Wyen2008	Fig2_8	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	15.329436	l/hr	LCMSMS
+Wyen2008	Fig2_9	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	25.510092	l/hr	LCMSMS
+Wyen2008	Fig2_9	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	8.786927	l/hr	LCMSMS
+Wyen2008	Fig2_10	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	24.528816	l/hr	LCMSMS
+Wyen2008	Fig2_10	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	8.02283	l/hr	LCMSMS
+Wyen2008	Fig2_11	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	23.274267	l/hr	LCMSMS
+Wyen2008	Fig2_11	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	6.5509186	l/hr	LCMSMS
+Wyen2008	Fig2_12	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	22.56562	l/hr	LCMSMS
+Wyen2008	Fig2_12	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	7.3688936	l/hr	LCMSMS
+Wyen2008	Fig2_13	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	21.692934	l/hr	LCMSMS
+Wyen2008	Fig2_13	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	2.461689	l/hr	LCMSMS
+Wyen2008	Fig2_14	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	20.984196	l/hr	LCMSMS
+Wyen2008	Fig2_14	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	9.658966	l/hr	LCMSMS
+Wyen2008	Fig2_15	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	23.983376	l/hr	LCMSMS
+Wyen2008	Fig2_15	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	3.8790753	l/hr	LCMSMS
+Wyen2008	Fig2_16	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	20.712214	l/hr	LCMSMS
+Wyen2008	Fig2_16	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	7.5870886	l/hr	LCMSMS
+Wyen2008	Fig2_17	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	22.947392	l/hr	LCMSMS
+Wyen2008	Fig2_17	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	3.388438	l/hr	LCMSMS
+Wyen2008	Fig2_18	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	18.258104	l/hr	LCMSMS
+Wyen2008	Fig2_18	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	9.277564	l/hr	LCMSMS
+Wyen2008	Fig2_19	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	15.204581	l/hr	LCMSMS
+Wyen2008	Fig2_19	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	9.113803	l/hr	LCMSMS
+Wyen2008	Fig2_20	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	13.732577	l/hr	LCMSMS
+Wyen2008	Fig2_20	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	5.078729	l/hr	LCMSMS
+Wyen2008	Fig2_21	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	22.074984	l/hr	LCMSMS
+Wyen2008	Fig2_21	clearance_intrinsic	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	1.4257963	l/hr	LCMSMS
+Wyen2008	Fig2_45	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	100.54451	l/hr	LCMSMS
+Wyen2008	Fig2_45	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	7.9864726	l/hr	LCMSMS
+Wyen2008	Fig2_46	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	96.69087	l/hr	LCMSMS
+Wyen2008	Fig2_46	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	7.853393	l/hr	LCMSMS
+Wyen2008	Fig2_47	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	93.10283	l/hr	LCMSMS
+Wyen2008	Fig2_47	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	7.5875177	l/hr	LCMSMS
+Wyen2008	Fig2_48	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	63.33536	l/hr	LCMSMS
+Wyen2008	Fig2_48	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	3.3349276	l/hr	LCMSMS
+Wyen2008	Fig2_49	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	53.16943	l/hr	LCMSMS
+Wyen2008	Fig2_49	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	7.587612	l/hr	LCMSMS
+Wyen2008	Fig2_50	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	52.106117	l/hr	LCMSMS
+Wyen2008	Fig2_50	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	6.65719	l/hr	LCMSMS
+Wyen2008	Fig2_51	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	48.119495	l/hr	LCMSMS
+Wyen2008	Fig2_51	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.63764	l/hr	LCMSMS
+Wyen2008	Fig2_52	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	46.59135	l/hr	LCMSMS
+Wyen2008	Fig2_52	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.305036	l/hr	LCMSMS
+Wyen2008	Fig2_53	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	43.800556	l/hr	LCMSMS
+Wyen2008	Fig2_53	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	10.5772705	l/hr	LCMSMS
+Wyen2008	Fig2_54	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	42.670986	l/hr	LCMSMS
+Wyen2008	Fig2_54	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	7.188846	l/hr	LCMSMS
+Wyen2008	Fig2_55	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	41.807384	l/hr	LCMSMS
+Wyen2008	Fig2_55	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	5.1956778	l/hr	LCMSMS
+Wyen2008	Fig2_56	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	38.419342	l/hr	LCMSMS
+Wyen2008	Fig2_56	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	15.760472	l/hr	LCMSMS
+Wyen2008	Fig2_57	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	36.691387	l/hr	LCMSMS
+Wyen2008	Fig2_57	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	9.182393	l/hr	LCMSMS
+Wyen2008	Fig2_58	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	35.030254	l/hr	LCMSMS
+Wyen2008	Fig2_58	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	8.517656	l/hr	LCMSMS
+Wyen2008	Fig2_59	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	33.966846	l/hr	LCMSMS
+Wyen2008	Fig2_59	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	5.993021	l/hr	LCMSMS
+Wyen2008	Fig2_60	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	31.84041	l/hr	LCMSMS
+Wyen2008	Fig2_60	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	19.614012	l/hr	LCMSMS
+Wyen2008	Fig2_61	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	29.714256	l/hr	LCMSMS
+Wyen2008	Fig2_61	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	1.2085851	l/hr	LCMSMS
+Wyen2008	Fig2_62	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	28.91682	l/hr	LCMSMS
+Wyen2008	Fig2_62	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	7.254819	l/hr	LCMSMS
+Wyen2008	Fig2_63	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	27.787155	l/hr	LCMSMS
+Wyen2008	Fig2_63	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	4.5306582	l/hr	LCMSMS
+Wyen2008	Fig2_64	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	26.126213	l/hr	LCMSMS
+Wyen2008	Fig2_64	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	11.707596	l/hr	LCMSMS
+Wyen2008	Fig2_65	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	18.883116	l/hr	LCMSMS
+Wyen2008	Fig2_65	clearance	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	9.846467	l/hr	LCMSMS

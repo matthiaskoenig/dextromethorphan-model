@@ -1,0 +1,8 @@
+study	label	individual	phenotype	measurement	substance	tissue	intervention	time	time_unit	value	method	comments	value_unit
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	1.284463	HPLC		dimensionless
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.9839721	HPLC		dimensionless
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.634979	HPLC		dimensionless
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.87556714	HPLC		dimensionless
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.9787529	HPLC		dimensionless
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	1.0695236	HPLC		dimensionless
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	1.1466128	HPLC		dimensionless

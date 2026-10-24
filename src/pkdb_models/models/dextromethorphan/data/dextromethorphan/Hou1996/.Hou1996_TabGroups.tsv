@@ -1,0 +1,12 @@
+study	name	parent	group_count	measurement_type	substance	choice	count	mean	min	max	sd	unit	comments
+Hou1996	all	NA	104	species	NA	homo sapiens	104	NA	NA	NA	NA	NA	NA
+Hou1996	NA	NA	104	disease	NA	renal disease (end-stage)	104	NA	NA	NA	NA	NA	NA
+Hou1996	all	NA	104	healthy	NA	N	104	NA	NA	NA	NA	NA	NA
+Hou1996	all	NA	104	ethnicity	NA	chinese	104	NA	NA	NA	NA	NA	NA
+Hou1996	all	NA	104	sex	NA	M	74	NA	NA	NA	NA	NA	NA
+Hou1996	all	NA	104	sex	NA	F	30	NA	NA	NA	NA	NA	NA
+Hou1996	all	NA	104	age	NA	NA	104	56.0	NA	NA	13.5	yr	NA
+Hou1996	all	NA	104	weight	NA	NA	104	55.0	NA	NA	8.0	kg	NA
+Hou1996	all	NA	104	medication	NA	Y	104	NA	NA	NA	NA	NA	They were allowed to continue their medications. for hypertension, diabetes mellitus, and renal failure during the phenotyping. However, medications  were known to interact with dextromethorphan or that CYP2D6 substrates were discontinued for at least 1 week before determination of metabolic phenotype.
+Hou1996	measured	all	100	species	NA	homo sapiens	100	NA	NA	NA	NA	NA	NA
+Hou1996	quinidine_control	measured	9	species	NA	homo sapiens	9	NA	NA	NA	NA	NA	NA

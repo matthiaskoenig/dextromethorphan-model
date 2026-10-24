@@ -1,0 +1,17 @@
+study	group	individual	cyp2d6_genotype	measurement	substance	tissue	intervention	time	time_unit	x_log_value	value	method	label	comments	activities	time_jitter	time_jitter_unit	value_unit
+Montane2013	Indo-T	Indo-T-62	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.983227	0.0010393767552977				1.5	4.83961631946037	hr	dimensionless
+Montane2013	Indo-T	Indo-T-68	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.0345879	0.0092344726633555				1.5	5.006409991400377	hr	dimensionless
+Montane2013	Indo-T	Indo-T-67	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.0948603	0.0080378463492315				1.5	5.074089129587673	hr	dimensionless
+Montane2013	Indo-T	Indo-T-66	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.2651951	0.0054300633959086				1.5	5.015261919356566	hr	dimensionless
+Montane2013	Indo-T	Indo-T-65	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.3988426	0.0039916954592776				1.5	5.086374389132333	hr	dimensionless
+Montane2013	Indo-T	Indo-T-64	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.5429764	0.002864333616454				1.5	5.291309922250397	hr	dimensionless
+Montane2013	Indo-T	Indo-T-63	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.943927	0.0011378185242004				1.5	4.8521176639335595	hr	dimensionless
+Montane2013	Afro-T	Afro-T-53	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.8590158	0.0138351604457414				1.5	5.094547297464586	hr	dimensionless
+Montane2013	Indo-T	Indo-T-76	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.1069171	0.078177701930888				1.5	4.8333864542682035	hr	dimensionless
+Montane2013	Indo-T	Indo-T-75	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.5655155	0.0271947142624421				1.5	5.034374458145268	hr	dimensionless
+Montane2013	Indo-T	Indo-T-74	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.586484	0.0259128988624354				1.5	4.948755629071514	hr	dimensionless
+Montane2013	Indo-T	Indo-T-73	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.7410916	0.0181513278040873				1.5	5.132375895668857	hr	dimensionless
+Montane2013	Indo-T	Indo-T-72	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.7751627	0.0167817520456874				1.5	4.913971980641498	hr	dimensionless
+Montane2013	Indo-T	Indo-T-71	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.9061855	0.0124112207446712				1.5	5.051949319901836	hr	dimensionless
+Montane2013	Indo-T	Indo-T-70	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.9507306	0.0112013250459215				1.5	4.873485628245048	hr	dimensionless
+Montane2013	Indo-T	Indo-T-69	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.005766	0.0098681104105191				1.5	4.7840860988703655	hr	dimensionless

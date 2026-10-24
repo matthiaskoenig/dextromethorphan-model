@@ -1,0 +1,10 @@
+study	name	group	age	sex	genotype	oc	comments
+Abdelrahman1999	E1	all	28	M	*1/*4	N	NA
+Abdelrahman1999	E2	all	42	M	*1/*4	N	NA
+Abdelrahman1999	E3	all	22	M	*1/*1 	N	NA
+Abdelrahman1999	E4	all	37	F	*2/*2	Y	NA
+Abdelrahman1999	E5	all	25	F	*2/*2	Y	NA
+Abdelrahman1999	E6	all	44	F	*1/*2	Y	NA
+Abdelrahman1999	P1	all	41	M	*4/*6	N	NA
+Abdelrahman1999	P2	all	39	M	*5/*16	N	Table I; *16 is a CYP2D7/2D6 hybrid without function (PharmVar *13)
+Abdelrahman1999	P3	all	27	F	*4/*5	Y	NA

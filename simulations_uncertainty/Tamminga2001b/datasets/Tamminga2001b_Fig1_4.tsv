@@ -1,0 +1,2 @@
+study	label	id	cyp2d6_genotype	measurement	substance	tissue	intervention	time	time_unit	ln_value	value	method	time_jitter	time_jitter_unit	count	value_unit	count_unit
+Tamminga2001b	Fig1_subject_159	Fig1_subject_159	*1/*7	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, CAF, MEP	8	hr	-5.5468125	0.0038998682830258	RP-HPLC	7.83961631946037	hr	1	dimensionless	dimensionless

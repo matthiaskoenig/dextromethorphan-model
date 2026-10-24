@@ -1,0 +1,158 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	unit	method	comments	comments_2
+Frank2009	Tab93_A01_reference	A01	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	240	nmol	HPLC	reference	NA
+Frank2009	Tab93_A01_reference	A01	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	475	nmol	HPLC	reference	NA
+Frank2009	Tab93_A01_reference	A01	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	1175	nmol	HPLC	reference	NA
+Frank2009	Tab93_A02_reference	A02	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	10.2	nmol	HPLC	reference	NA
+Frank2009	Tab93_A02_reference	A02	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	13.3	nmol	HPLC	reference	NA
+Frank2009	Tab93_A02_reference	A02	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	22.5	nmol	HPLC	reference	NA
+Frank2009	Tab93_A02_reference	A02	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	29.4	nmol	HPLC	reference	NA
+Frank2009	Tab93_A02_reference	A02	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	38	nmol	HPLC	reference	NA
+Frank2009	Tab93_A03_reference	A03	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	2.47	nmol	HPLC	reference	NA
+Frank2009	Tab93_A03_reference	A03	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	7.98	nmol	HPLC	reference	NA
+Frank2009	Tab93_A03_reference	A03	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	12.6	nmol	HPLC	reference	NA
+Frank2009	Tab93_A03_reference	A03	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	12.6	nmol	HPLC	reference	NA
+Frank2009	Tab93_A03_reference	A03	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	22.1	nmol	HPLC	reference	NA
+Frank2009	Tab93_A04_reference	A04	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	5.95	nmol	HPLC	reference	NA
+Frank2009	Tab93_A04_reference	A04	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	13.6	nmol	HPLC	reference	NA
+Frank2009	Tab93_A04_reference	A04	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	17.7	nmol	HPLC	reference	NA
+Frank2009	Tab93_A04_reference	A04	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	20.1	nmol	HPLC	reference	NA
+Frank2009	Tab93_A04_reference	A04	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	35.6	nmol	HPLC	reference	NA
+Frank2009	Tab93_A05_reference	A05	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	27.8	nmol	HPLC	reference	NA
+Frank2009	Tab93_A05_reference	A05	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	79.9	nmol	HPLC	reference	NA
+Frank2009	Tab93_A05_reference	A05	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	90.8	nmol	HPLC	reference	NA
+Frank2009	Tab93_A05_reference	A05	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	95.3	nmol	HPLC	reference	NA
+Frank2009	Tab93_A05_reference	A05	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	95.6	nmol	HPLC	reference	NA
+Frank2009	Tab93_A06_reference	A06	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	3.7	nmol	HPLC	reference	NA
+Frank2009	Tab93_A06_reference	A06	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	10.3	nmol	HPLC	reference	NA
+Frank2009	Tab93_A06_reference	A06	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	13	nmol	HPLC	reference	NA
+Frank2009	Tab93_A06_reference	A06	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	15	nmol	HPLC	reference	NA
+Frank2009	Tab93_A06_reference	A06	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	15	nmol	HPLC	reference	NA
+Frank2009	Tab93_A07_reference	A07	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	2.48	nmol	HPLC	reference	NA
+Frank2009	Tab93_A07_reference	A07	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	2.48	nmol	HPLC	reference	NA
+Frank2009	Tab93_A07_reference	A07	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	26.5	nmol	HPLC	reference	NA
+Frank2009	Tab93_A07_reference	A07	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	78.6	nmol	HPLC	reference	NA
+Frank2009	Tab93_A07_reference	A07	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	89.3	nmol	HPLC	reference	NA
+Frank2009	Tab93_A08_reference	A08	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	22.6	nmol	HPLC	reference	NA
+Frank2009	Tab93_A08_reference	A08	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	116	nmol	HPLC	reference	NA
+Frank2009	Tab93_A08_reference	A08	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	1811	nmol	HPLC	reference	NA
+Frank2009	Tab93_A08_reference	A08	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	1954	nmol	HPLC	reference	NA
+Frank2009	Tab93_A08_reference	A08	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	2023	nmol	HPLC	reference	NA
+Frank2009	Tab93_A09_reference	A09	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	2.9	nmol	HPLC	reference	NA
+Frank2009	Tab93_A09_reference	A09	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	4.62	nmol	HPLC	reference	NA
+Frank2009	Tab93_A09_reference	A09	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	8.27	nmol	HPLC	reference	NA
+Frank2009	Tab93_A09_reference	A09	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	12.2	nmol	HPLC	reference	NA
+Frank2009	Tab93_A09_reference	A09	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	17.8	nmol	HPLC	reference	NA
+Frank2009	Tab93_A10_reference	A10	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	8.04	nmol	HPLC	reference	NA
+Frank2009	Tab93_A10_reference	A10	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	16.1	nmol	HPLC	reference	NA
+Frank2009	Tab93_A10_reference	A10	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	23.3	nmol	HPLC	reference	NA
+Frank2009	Tab93_A10_reference	A10	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	33.7	nmol	HPLC	reference	NA
+Frank2009	Tab93_A10_reference	A10	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	68	nmol	HPLC	reference	NA
+Frank2009	Tab93_A11_reference	A11	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	51.2	nmol	HPLC	reference	NA
+Frank2009	Tab93_A11_reference	A11	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	127	nmol	HPLC	reference	NA
+Frank2009	Tab93_A11_reference	A11	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	180	nmol	HPLC	reference	NA
+Frank2009	Tab93_A11_reference	A11	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	205	nmol	HPLC	reference	NA
+Frank2009	Tab93_A11_reference	A11	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	205	nmol	HPLC	reference	NA
+Frank2009	Tab93_A12_reference	A12	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	na	nmol	HPLC	reference	BQL 
+Frank2009	Tab93_A12_reference	A12	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	58.1	nmol	HPLC	reference	NA
+Frank2009	Tab93_A12_reference	A12	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	63.9	nmol	HPLC	reference	NA
+Frank2009	Tab93_A12_reference	A12	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	76	nmol	HPLC	reference	NA
+Frank2009	Tab93_A12_reference	A12	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	76.3	nmol	HPLC	reference	NA
+Frank2009	Tab93_A13_reference	A13	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	na	nmol	HPLC	reference	BQL 
+Frank2009	Tab93_A13_reference	A13	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	5.16	nmol	HPLC	reference	NA
+Frank2009	Tab93_A13_reference	A13	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	5.51	nmol	HPLC	reference	NA
+Frank2009	Tab93_A13_reference	A13	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	13.5	nmol	HPLC	reference	NA
+Frank2009	Tab93_A13_reference	A13	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	22.7	nmol	HPLC	reference	NA
+Frank2009	Tab93_A14_reference	A14	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	54.1	nmol	HPLC	reference	NA
+Frank2009	Tab93_A14_reference	A14	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	74	nmol	HPLC	reference	NA
+Frank2009	Tab93_A14_reference	A14	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	83.3	nmol	HPLC	reference	NA
+Frank2009	Tab93_A14_reference	A14	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	86.3	nmol	HPLC	reference	NA
+Frank2009	Tab93_A14_reference	A14	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	96.1	nmol	HPLC	reference	NA
+Frank2009	Tab93_A15_reference	A15	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	75.4	nmol	HPLC	reference	NA
+Frank2009	Tab93_A15_reference	A15	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	87.4	nmol	HPLC	reference	NA
+Frank2009	Tab93_A15_reference	A15	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	103	nmol	HPLC	reference	NA
+Frank2009	Tab93_A15_reference	A15	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	106	nmol	HPLC	reference	NA
+Frank2009	Tab93_A15_reference	A15	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	117	nmol	HPLC	reference	NA
+Frank2009	Tab93_A16_reference	A16	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	12	nmol	HPLC	reference	NA
+Frank2009	Tab93_A16_reference	A16	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	38.4	nmol	HPLC	reference	NA
+Frank2009	Tab93_A16_reference	A16	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	44.7	nmol	HPLC	reference	NA
+Frank2009	Tab93_A16_reference	A16	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	63.8	nmol	HPLC	reference	NA
+Frank2009	Tab93_A16_reference	A16	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	83.9	nmol	HPLC	reference	NA
+Frank2009	Tab93_A01_test	A01	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A01_test	A01	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	174	nmol	HPLC	test	NA
+Frank2009	Tab93_A01_test	A01	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	283	nmol	HPLC	test	NA
+Frank2009	Tab93_A01_test	A01	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	1381	nmol	HPLC	test	NA
+Frank2009	Tab93_A02_test	A02	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	1.18	nmol	HPLC	test	NA
+Frank2009	Tab93_A02_test	A02	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	28.2	nmol	HPLC	test	NA
+Frank2009	Tab93_A02_test	A02	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	54.4	nmol	HPLC	test	NA
+Frank2009	Tab93_A02_test	A02	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	62.2	nmol	HPLC	test	NA
+Frank2009	Tab93_A02_test	A02	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	69.4	nmol	HPLC	test	NA
+Frank2009	Tab93_A03_test	A03	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	7	nmol	HPLC	test	NA
+Frank2009	Tab93_A03_test	A03	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	12.4	nmol	HPLC	test	NA
+Frank2009	Tab93_A03_test	A03	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	12.4	nmol	HPLC	test	NA
+Frank2009	Tab93_A03_test	A03	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	12.4	nmol	HPLC	test	NA
+Frank2009	Tab93_A03_test	A03	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	12.4	nmol	HPLC	test	NA
+Frank2009	Tab93_A04_test	A04	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	14.5	nmol	HPLC	test	NA
+Frank2009	Tab93_A04_test	A04	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	31.8	nmol	HPLC	test	NA
+Frank2009	Tab93_A04_test	A04	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	39.6	nmol	HPLC	test	NA
+Frank2009	Tab93_A04_test	A04	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	46.9	nmol	HPLC	test	NA
+Frank2009	Tab93_A04_test	A04	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	49.5	nmol	HPLC	test	NA
+Frank2009	Tab93_A05_test	A05	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	3.06	nmol	HPLC	test	NA
+Frank2009	Tab93_A05_test	A05	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	18.6	nmol	HPLC	test	NA
+Frank2009	Tab93_A05_test	A05	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	28.7	nmol	HPLC	test	NA
+Frank2009	Tab93_A05_test	A05	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	32.4	nmol	HPLC	test	NA
+Frank2009	Tab93_A05_test	A05	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	32.8	nmol	HPLC	test	NA
+Frank2009	Tab93_A06_test	A06	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	2.04	nmol	HPLC	test	NA
+Frank2009	Tab93_A06_test	A06	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	4.83	nmol	HPLC	test	NA
+Frank2009	Tab93_A06_test	A06	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	8.1	nmol	HPLC	test	NA
+Frank2009	Tab93_A06_test	A06	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	15.5	nmol	HPLC	test	NA
+Frank2009	Tab93_A06_test	A06	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	20.7	nmol	HPLC	test	NA
+Frank2009	Tab93_A07_test	A07	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	23.9	nmol	HPLC	test	NA
+Frank2009	Tab93_A07_test	A07	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	51.4	nmol	HPLC	test	NA
+Frank2009	Tab93_A07_test	A07	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	63.6	nmol	HPLC	test	NA
+Frank2009	Tab93_A07_test	A07	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	80.2	nmol	HPLC	test	NA
+Frank2009	Tab93_A07_test	A07	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	92.8	nmol	HPLC	test	NA
+Frank2009	Tab93_A08_test	A08	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	na	nmol	HPLC	test	NA
+Frank2009	Tab93_A08_test	A08	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	na	nmol	HPLC	test	NA
+Frank2009	Tab93_A08_test	A08	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	156	nmol	HPLC	test	NA
+Frank2009	Tab93_A08_test	A08	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	994	nmol	HPLC	test	NA
+Frank2009	Tab93_A08_test	A08	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	1214	nmol	HPLC	test	NA
+Frank2009	Tab93_A09_test	A09	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A09_test	A09	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	12.7	nmol	HPLC	test	NA
+Frank2009	Tab93_A09_test	A09	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	22.9	nmol	HPLC	test	NA
+Frank2009	Tab93_A09_test	A09	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	22.9	nmol	HPLC	test	NA
+Frank2009	Tab93_A09_test	A09	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	37.6	nmol	HPLC	test	NA
+Frank2009	Tab93_A10_test	A10	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A10_test	A10	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	16.8	nmol	HPLC	test	NA
+Frank2009	Tab93_A10_test	A10	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	32.1	nmol	HPLC	test	NA
+Frank2009	Tab93_A10_test	A10	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	61.2	nmol	HPLC	test	NA
+Frank2009	Tab93_A10_test	A10	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	99.4	nmol	HPLC	test	NA
+Frank2009	Tab93_A11_test	A11	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A11_test	A11	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	38.8	nmol	HPLC	test	NA
+Frank2009	Tab93_A11_test	A11	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	54.9	nmol	HPLC	test	NA
+Frank2009	Tab93_A11_test	A11	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	65.1	nmol	HPLC	test	NA
+Frank2009	Tab93_A11_test	A11	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	77.5	nmol	HPLC	test	NA
+Frank2009	Tab93_A12_test	A12	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A12_test	A12	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A12_test	A12	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A12_test	A12	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A12_test	A12	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A13_test	A13	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	21.3	nmol	HPLC	test	NA
+Frank2009	Tab93_A13_test	A13	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	27.2	nmol	HPLC	test	NA
+Frank2009	Tab93_A13_test	A13	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	27.5	nmol	HPLC	test	NA
+Frank2009	Tab93_A13_test	A13	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	42	nmol	HPLC	test	NA
+Frank2009	Tab93_A13_test	A13	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	135	nmol	HPLC	test	NA
+Frank2009	Tab93_A14_test	A14	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A14_test	A14	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	3.06	nmol	HPLC	test	NA
+Frank2009	Tab93_A14_test	A14	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A14_test	A14	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A14_test	A14	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	na	nmol	HPLC	test	NA
+Frank2009	Tab93_A15_test	A15	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	10.3	nmol	HPLC	test	NA
+Frank2009	Tab93_A15_test	A15	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	16.9	nmol	HPLC	test	NA
+Frank2009	Tab93_A15_test	A15	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	22.2	nmol	HPLC	test	NA
+Frank2009	Tab93_A15_test	A15	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	24.3	nmol	HPLC	test	NA
+Frank2009	Tab93_A15_test	A15	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	29.2	nmol	HPLC	test	NA
+Frank2009	Tab93_A16_test	A16	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	na	nmol	HPLC	test	BQL 
+Frank2009	Tab93_A16_test	A16	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	16.1	nmol	HPLC	test	NA
+Frank2009	Tab93_A16_test	A16	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	22.7	nmol	HPLC	test	NA
+Frank2009	Tab93_A16_test	A16	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	37.6	nmol	HPLC	test	NA
+Frank2009	Tab93_A16_test	A16	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	38.5	nmol	HPLC	test	NA

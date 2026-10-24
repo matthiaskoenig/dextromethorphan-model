@@ -1,0 +1,6 @@
+study	name	parent	count	age	age_sd	females	males	whites	ethnicity_nr	height	height_sd	weight	weight_sd	bmi	bmi_sd
+Edwards2017	Study I	all	48	35.0	9.5	22	26	28	20	170.1	8.4	75.2	12.3	25.9	2.9
+Edwards2017	Study II	all	44	35.0	9.4	15	29	27	17	170.6	8.0	76.3	10.6	26.1	2.3
+Edwards2017	Study III	all	48	32.9	8.5	17	31	24	24	170.8	8.0	76.2	11.8	26.0	2.9
+Edwards2017	Study IV	all	48	37.9	9.5	12	36	32	16	171.5	10.8	78.1	12.7	26.4	2.4
+Edwards2017	Study V	all	48	35.4	8.7	14	34	23	25	170.7	8.5	75.0	11.8	25.7	2.9

@@ -1,0 +1,6 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	comments_2	value_unit	count_unit
+Frank2009	Tab152_D08_test	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	424.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab152_D08_test	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	1128.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab152_D08_test	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	2476.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab152_D08_test	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	2818.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab152_D08_test	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	4666.0	HPLC	test		nmol	dimensionless

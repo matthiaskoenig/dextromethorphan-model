@@ -1,0 +1,12 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	unit	mean_sd	min	max
+Gaedigk2013	all	NA	species	362	homo sapiens	362	NA	NA	NA	NA	NA	NA
+Gaedigk2013	all	NA	sex	362	NR	362	NA	NA	NA	NA	NA	NA
+Gaedigk2013	all	NA	healthy	362	NR	362	NA	NA	NA	NA	NA	NA
+Gaedigk2013	all	NA	ethnicity	362	caucasian	362	NA	NA	NA	NA	NA	NA
+Gaedigk2013	1_1	all	cyp2d6 genotype	33	*1/*1	33	NA	NA	NA	NA	NA	NA
+Gaedigk2013	1_2A	all	cyp2d6 genotype	22	*1/*2	22	NA	NA	NA	NA	NA	NA
+Gaedigk2013	2A_2A	all	cyp2d6 genotype	7	*2/*2	7	NA	NA	NA	NA	NA	NA
+Gaedigk2013	1_4	all	cyp2d6 genotype	46	*1/*4	46	NA	NA	NA	NA	NA	NA
+Gaedigk2013	2A_4	all	cyp2d6 genotype	10	*2/*4	10	NA	NA	NA	NA	NA	NA
+Gaedigk2013	41_null	all	cyp2d6 genotype	14	*41/null	14	NA	NA	NA	NA	NA	NA
+Gaedigk2013	4_4	all	cyp2d6 genotype	11	*4/*4	11	NA	NA	NA	NA	NA	NA

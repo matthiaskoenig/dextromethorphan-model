@@ -1,0 +1,4 @@
+study	name	measurement_type	substance	value	route	form	time	time_unit	application	unit
+Tamminga2001	DEX	dosing	dextromethorphan	22	oral	syrup	0	hr	single dose	mg
+Tamminga2001	MET	dosing	metoprolol	100	oral	tablet	0	hr	single dose	mg
+Tamminga2001	OME	dosing	omeprazole	40	oral	capsule	0	hr	single dose	mg

@@ -1,0 +1,10 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	value_unit	count_unit
+Frank2009	Tab87_A07	A07	1	metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	1.33333333333333	hr	timecourse	0.255	HPLC		dimensionless	dimensionless
+Frank2009	Tab87_A07	A07	1	metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2.0	hr	timecourse	0.346	HPLC		dimensionless	dimensionless
+Frank2009	Tab87_A07	A07	1	metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.445	HPLC		dimensionless	dimensionless
+Frank2009	Tab87_A07	A07	1	metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.451	HPLC		dimensionless	dimensionless
+Frank2009	Tab87_A07	A07	1	metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.468	HPLC		dimensionless	dimensionless
+Frank2009	Tab87_A07	A07	1	metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8.0	hr	timecourse		HPLC		dimensionless	dimensionless
+Frank2009	Tab87_A07	A07	1	metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	10.0	hr	timecourse	0.677	HPLC		dimensionless	dimensionless
+Frank2009	Tab87_A07	A07	1	metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12.0	hr	timecourse	0.559	HPLC		dimensionless	dimensionless
+Frank2009	Tab87_A07	A07	1	metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	14.0	hr	timecourse		HPLC		dimensionless	dimensionless

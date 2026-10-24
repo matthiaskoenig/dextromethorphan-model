@@ -1,0 +1,6 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	comments_2	value_unit	count_unit
+Frank2009	Tab94_A13_reference	A13	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	2	hr	timecourse	139.0	HPLC	reference		nmol	dimensionless
+Frank2009	Tab94_A13_reference	A13	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	316.0	HPLC	reference		nmol	dimensionless
+Frank2009	Tab94_A13_reference	A13	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	414.0	HPLC	reference		nmol	dimensionless
+Frank2009	Tab94_A13_reference	A13	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	553.0	HPLC	reference		nmol	dimensionless
+Frank2009	Tab94_A13_reference	A13	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	652.0	HPLC	reference		nmol	dimensionless

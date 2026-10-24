@@ -1,0 +1,6 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	comments_2	value_unit	count_unit
+Frank2009	Tab149_D01_reference	D01	1	cumulative metabolic ratio	dmt/dtf	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.00621	HPLC	reference		dimensionless	dimensionless
+Frank2009	Tab149_D01_reference	D01	1	cumulative metabolic ratio	dmt/dtf	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.01	HPLC	reference		dimensionless	dimensionless
+Frank2009	Tab149_D01_reference	D01	1	cumulative metabolic ratio	dmt/dtf	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.0104	HPLC	reference		dimensionless	dimensionless
+Frank2009	Tab149_D01_reference	D01	1	cumulative metabolic ratio	dmt/dtf	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0108	HPLC	reference		dimensionless	dimensionless
+Frank2009	Tab149_D01_reference	D01	1	cumulative metabolic ratio	dmt/dtf	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.0104	HPLC	reference		dimensionless	dimensionless

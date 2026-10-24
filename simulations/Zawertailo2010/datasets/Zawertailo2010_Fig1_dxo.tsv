@@ -1,0 +1,8 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Zawertailo2010	dex_dextrorphan	all	8	concentration	dextrorphan	plasma	dex	0	hr	0.02424121			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dextrorphan	all	8	concentration	dextrorphan	plasma	dex	1	hr	0.2126503			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dextrorphan	all	8	concentration	dextrorphan	plasma	dex	2	hr	0.2694713			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dextrorphan	all	8	concentration	dextrorphan	plasma	dex	3	hr	0.23401053			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dextrorphan	all	8	concentration	dextrorphan	plasma	dex	4	hr	0.16199057			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dextrorphan	all	8	concentration	dextrorphan	plasma	dex	5	hr	0.12945439			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dextrorphan	all	8	concentration	dextrorphan	plasma	dex	6	hr	0.106627285			NR	nmol/ml	dimensionless

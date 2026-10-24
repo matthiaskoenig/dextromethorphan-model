@@ -1,0 +1,49 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	unit	method	comments
+Frank2009	Tab144_D01_reference	D01	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	2.78	nmol/ml	HPLC	NA
+Frank2009	Tab144_D01_reference	D01	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	2.21	nmol/ml	HPLC	NA
+Frank2009	Tab144_D02_reference	D02	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	1.59	nmol/ml	HPLC	NA
+Frank2009	Tab144_D02_reference	D02	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	1.28	nmol/ml	HPLC	NA
+Frank2009	Tab144_D03_reference	D03	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	2.35	nmol/ml	HPLC	NA
+Frank2009	Tab144_D03_reference	D03	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	1.75	nmol/ml	HPLC	NA
+Frank2009	Tab144_D04_reference	D04	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	2	nmol/ml	HPLC	NA
+Frank2009	Tab144_D04_reference	D04	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	1.75	nmol/ml	HPLC	NA
+Frank2009	Tab144_D05_reference	D05	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	1.72	nmol/ml	HPLC	NA
+Frank2009	Tab144_D05_reference	D05	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	1.54	nmol/ml	HPLC	NA
+Frank2009	Tab144_D06_reference	D06	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	2.27	nmol/ml	HPLC	NA
+Frank2009	Tab144_D06_reference	D06	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	na	nmol/ml	HPLC	kein Plasma 
+Frank2009	Tab144_D07_reference	D07	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	2.82	nmol/ml	HPLC	NA
+Frank2009	Tab144_D07_reference	D07	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	2.41	nmol/ml	HPLC	NA
+Frank2009	Tab144_D08_reference	D08	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	1.45	nmol/ml	HPLC	NA
+Frank2009	Tab144_D08_reference	D08	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	1.31	nmol/ml	HPLC	NA
+Frank2009	Tab144_D09_reference	D09	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	1.34	nmol/ml	HPLC	NA
+Frank2009	Tab144_D09_reference	D09	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	1.64	nmol/ml	HPLC	NA
+Frank2009	Tab144_D10_reference	D10	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	2.55	nmol/ml	HPLC	NA
+Frank2009	Tab144_D10_reference	D10	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	2.48	nmol/ml	HPLC	NA
+Frank2009	Tab144_D11_reference	D11	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	2.39	nmol/ml	HPLC	NA
+Frank2009	Tab144_D11_reference	D11	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	2.05	nmol/ml	HPLC	NA
+Frank2009	Tab144_D12_reference	D12	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	2.91	nmol/ml	HPLC	NA
+Frank2009	Tab144_D12_reference	D12	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	1.91	nmol/ml	HPLC	NA
+Frank2009	Tab144_D01_test	D01	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	2.94	nmol/ml	HPLC	NA
+Frank2009	Tab144_D01_test	D01	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	3.07	nmol/ml	HPLC	NA
+Frank2009	Tab144_D02_test	D02	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	1.83	nmol/ml	HPLC	NA
+Frank2009	Tab144_D02_test	D02	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	na	nmol/ml	HPLC	kein Plasma 
+Frank2009	Tab144_D03_test	D03	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	2.24	nmol/ml	HPLC	NA
+Frank2009	Tab144_D03_test	D03	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	1.99	nmol/ml	HPLC	NA
+Frank2009	Tab144_D04_test	D04	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	1.81	nmol/ml	HPLC	NA
+Frank2009	Tab144_D04_test	D04	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	2.19	nmol/ml	HPLC	NA
+Frank2009	Tab144_D05_test	D05	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	2.51	nmol/ml	HPLC	NA
+Frank2009	Tab144_D05_test	D05	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	2.13	nmol/ml	HPLC	NA
+Frank2009	Tab144_D06_test	D06	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	3.04	nmol/ml	HPLC	NA
+Frank2009	Tab144_D06_test	D06	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	na	nmol/ml	HPLC	n.a. 
+Frank2009	Tab144_D07_test	D07	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	2.23	nmol/ml	HPLC	NA
+Frank2009	Tab144_D07_test	D07	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	2.04	nmol/ml	HPLC	NA
+Frank2009	Tab144_D08_test	D08	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	1.74	nmol/ml	HPLC	NA
+Frank2009	Tab144_D08_test	D08	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	2.08	nmol/ml	HPLC	NA
+Frank2009	Tab144_D09_test	D09	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	1.76	nmol/ml	HPLC	NA
+Frank2009	Tab144_D09_test	D09	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	1.3	nmol/ml	HPLC	NA
+Frank2009	Tab144_D10_test	D10	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	3.18	nmol/ml	HPLC	NA
+Frank2009	Tab144_D10_test	D10	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	2.88	nmol/ml	HPLC	NA
+Frank2009	Tab144_D11_test	D11	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	2.38	nmol/ml	HPLC	NA
+Frank2009	Tab144_D11_test	D11	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	1.95	nmol/ml	HPLC	NA
+Frank2009	Tab144_D12_test	D12	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	2.84	nmol/ml	HPLC	NA
+Frank2009	Tab144_D12_test	D12	1.0	concentration	dtf+dtfglu	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	1.86	nmol/ml	HPLC	NA

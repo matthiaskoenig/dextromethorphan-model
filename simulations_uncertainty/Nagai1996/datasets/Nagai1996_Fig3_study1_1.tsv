@@ -1,0 +1,7 @@
+study	label	id	group	measurement	substance	tissue	intervention	time	time_unit	value	method	value_unit
+Nagai1996	Fig3_study1_1_(dmt)/(dtf+dtfglu)	study1_1	pharmacokinetics	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dex_30mg	1.0	hr	0.0012614188	HPLC	dimensionless
+Nagai1996	Fig3_study1_1_(dmt)/(dtf+dtfglu)	study1_1	pharmacokinetics	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dex_30mg	3.5	hr	0.0012508965	HPLC	dimensionless
+Nagai1996	Fig3_study1_1_(dmt)/(dtf+dtfglu)	study1_1	pharmacokinetics	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dex_30mg	7.5	hr	0.0013597316	HPLC	dimensionless
+Nagai1996	Fig3_study1_1_(dmt)/(dtf+dtfglu)	study1_1	pharmacokinetics	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dex_30mg	10.0	hr	0.001561278	HPLC	dimensionless
+Nagai1996	Fig3_study1_1_(dmt)/(dtf+dtfglu)	study1_1	pharmacokinetics	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dex_30mg	22.0	hr	0.0016790124	HPLC	dimensionless
+Nagai1996	Fig3_study1_1_(dmt)/(dtf+dtfglu)	study1_1	pharmacokinetics	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dex_30mg	34.0	hr	0.0019231715	HPLC	dimensionless

@@ -1,0 +1,121 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	unit	method	comments	comments_2
+Frank2009	Tab148_D01_reference	D01	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	433	nmol	HPLC	reference	NA
+Frank2009	Tab148_D01_reference	D01	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	563	nmol	HPLC	reference	NA
+Frank2009	Tab148_D01_reference	D01	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	639	nmol	HPLC	reference	NA
+Frank2009	Tab148_D01_reference	D01	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	693	nmol	HPLC	reference	NA
+Frank2009	Tab148_D01_reference	D01	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	764	nmol	HPLC	reference	NA
+Frank2009	Tab148_D02_reference	D02	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	83.8	nmol	HPLC	reference	NA
+Frank2009	Tab148_D02_reference	D02	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	202	nmol	HPLC	reference	NA
+Frank2009	Tab148_D02_reference	D02	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	248	nmol	HPLC	reference	NA
+Frank2009	Tab148_D02_reference	D02	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	290	nmol	HPLC	reference	NA
+Frank2009	Tab148_D02_reference	D02	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	339	nmol	HPLC	reference	NA
+Frank2009	Tab148_D03_reference	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	434	nmol	HPLC	reference	NA
+Frank2009	Tab148_D03_reference	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	965	nmol	HPLC	reference	NA
+Frank2009	Tab148_D03_reference	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	1051	nmol	HPLC	reference	NA
+Frank2009	Tab148_D03_reference	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	1051	nmol	HPLC	reference	NA
+Frank2009	Tab148_D04_reference	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	1101	nmol	HPLC	reference	NA
+Frank2009	Tab148_D04_reference	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	83.7	nmol	HPLC	reference	NA
+Frank2009	Tab148_D04_reference	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	156	nmol	HPLC	reference	NA
+Frank2009	Tab148_D04_reference	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	244	nmol	HPLC	reference	NA
+Frank2009	Tab148_D04_reference	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	332	nmol	HPLC	reference	NA
+Frank2009	Tab148_D04_reference	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	372	nmol	HPLC	reference	NA
+Frank2009	Tab148_D05_reference	D05	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	317	nmol	HPLC	reference	NA
+Frank2009	Tab148_D05_reference	D05	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	468	nmol	HPLC	reference	NA
+Frank2009	Tab148_D05_reference	D05	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	586	nmol	HPLC	reference	NA
+Frank2009	Tab148_D05_reference	D05	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	624	nmol	HPLC	reference	NA
+Frank2009	Tab148_D05_reference	D05	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	656	nmol	HPLC	reference	NA
+Frank2009	Tab148_D06_reference	D06	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	92.9	nmol	HPLC	reference	NA
+Frank2009	Tab148_D06_reference	D06	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	210	nmol	HPLC	reference	NA
+Frank2009	Tab148_D06_reference	D06	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	248	nmol	HPLC	reference	NA
+Frank2009	Tab148_D06_reference	D06	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	286	nmol	HPLC	reference	NA
+Frank2009	Tab148_D06_reference	D06	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	320	nmol	HPLC	reference	NA
+Frank2009	Tab148_D07_reference	D07	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	94.6	nmol	HPLC	reference	NA
+Frank2009	Tab148_D07_reference	D07	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	256	nmol	HPLC	reference	NA
+Frank2009	Tab148_D07_reference	D07	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	284	nmol	HPLC	reference	NA
+Frank2009	Tab148_D07_reference	D07	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	310	nmol	HPLC	reference	NA
+Frank2009	Tab148_D07_reference	D07	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	331	nmol	HPLC	reference	NA
+Frank2009	Tab148_D08_reference	D08	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	267	nmol	HPLC	reference	NA
+Frank2009	Tab148_D08_reference	D08	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	403	nmol	HPLC	reference	NA
+Frank2009	Tab148_D08_reference	D08	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	444	nmol	HPLC	reference	NA
+Frank2009	Tab148_D08_reference	D08	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	644	nmol	HPLC	reference	NA
+Frank2009	Tab148_D08_reference	D08	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	702	nmol	HPLC	reference	NA
+Frank2009	Tab148_D09_reference	D09	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	135	nmol	HPLC	reference	NA
+Frank2009	Tab148_D09_reference	D09	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	297	nmol	HPLC	reference	NA
+Frank2009	Tab148_D09_reference	D09	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	338	nmol	HPLC	reference	NA
+Frank2009	Tab148_D09_reference	D09	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	359	nmol	HPLC	reference	NA
+Frank2009	Tab148_D09_reference	D09	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	406	nmol	HPLC	reference	NA
+Frank2009	Tab148_D10_reference	D10	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	214	nmol	HPLC	reference	NA
+Frank2009	Tab148_D10_reference	D10	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	481	nmol	HPLC	reference	NA
+Frank2009	Tab148_D10_reference	D10	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	613	nmol	HPLC	reference	NA
+Frank2009	Tab148_D10_reference	D10	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	745	nmol	HPLC	reference	NA
+Frank2009	Tab148_D10_reference	D10	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	863	nmol	HPLC	reference	NA
+Frank2009	Tab148_D11_reference	D11	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	38.7	nmol	HPLC	reference	NA
+Frank2009	Tab148_D11_reference	D11	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	232	nmol	HPLC	reference	NA
+Frank2009	Tab148_D11_reference	D11	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	302	nmol	HPLC	reference	NA
+Frank2009	Tab148_D11_reference	D11	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	1123	nmol	HPLC	reference	NA
+Frank2009	Tab148_D11_reference	D11	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	1183	nmol	HPLC	reference	NA
+Frank2009	Tab148_D12_reference	D12	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	58.2	nmol	HPLC	reference	NA
+Frank2009	Tab148_D12_reference	D12	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	297	nmol	HPLC	reference	NA
+Frank2009	Tab148_D12_reference	D12	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	359	nmol	HPLC	reference	NA
+Frank2009	Tab148_D12_reference	D12	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	400	nmol	HPLC	reference	NA
+Frank2009	Tab148_D12_reference	D12	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	441	nmol	HPLC	reference	NA
+Frank2009	Tab148_D01_test	D01	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	702	nmol	HPLC	test	NA
+Frank2009	Tab148_D01_test	D01	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	1270	nmol	HPLC	test	NA
+Frank2009	Tab148_D01_test	D01	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1745	nmol	HPLC	test	NA
+Frank2009	Tab148_D01_test	D01	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	2055	nmol	HPLC	test	NA
+Frank2009	Tab148_D01_test	D01	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	2249	nmol	HPLC	test	NA
+Frank2009	Tab148_D02_test	D02	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	121	nmol	HPLC	test	NA
+Frank2009	Tab148_D02_test	D02	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	618	nmol	HPLC	test	NA
+Frank2009	Tab148_D02_test	D02	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	794	nmol	HPLC	test	NA
+Frank2009	Tab148_D02_test	D02	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	974	nmol	HPLC	test	NA
+Frank2009	Tab148_D02_test	D02	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	1159	nmol	HPLC	test	NA
+Frank2009	Tab148_D03_test	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	563	nmol	HPLC	test	NA
+Frank2009	Tab148_D03_test	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	1264	nmol	HPLC	test	NA
+Frank2009	Tab148_D03_test	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1538	nmol	HPLC	test	NA
+Frank2009	Tab148_D03_test	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	1638	nmol	HPLC	test	NA
+Frank2009	Tab148_D03_test	D03	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	1747	nmol	HPLC	test	NA
+Frank2009	Tab148_D04_test	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	12.4	nmol	HPLC	test	NA
+Frank2009	Tab148_D04_test	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	413	nmol	HPLC	test	NA
+Frank2009	Tab148_D04_test	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	486	nmol	HPLC	test	NA
+Frank2009	Tab148_D04_test	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	565	nmol	HPLC	test	NA
+Frank2009	Tab148_D04_test	D04	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	599	nmol	HPLC	test	NA
+Frank2009	Tab148_D05_test	D05	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	119	nmol	HPLC	test	NA
+Frank2009	Tab148_D05_test	D05	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	244	nmol	HPLC	test	NA
+Frank2009	Tab148_D05_test	D05	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	244	nmol	HPLC	test	NA
+Frank2009	Tab148_D05_test	D05	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	312	nmol	HPLC	test	NA
+Frank2009	Tab148_D05_test	D05	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	376	nmol	HPLC	test	NA
+Frank2009	Tab148_D06_test	D06	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.74	nmol	HPLC	test	NA
+Frank2009	Tab148_D06_test	D06	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	876	nmol	HPLC	test	NA
+Frank2009	Tab148_D06_test	D06	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1301	nmol	HPLC	test	NA
+Frank2009	Tab148_D06_test	D06	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	1397	nmol	HPLC	test	NA
+Frank2009	Tab148_D06_test	D06	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	1582	nmol	HPLC	test	NA
+Frank2009	Tab148_D07_test	D07	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	383	nmol	HPLC	test	NA
+Frank2009	Tab148_D07_test	D07	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	842	nmol	HPLC	test	NA
+Frank2009	Tab148_D07_test	D07	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1063	nmol	HPLC	test	NA
+Frank2009	Tab148_D07_test	D07	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	1209	nmol	HPLC	test	NA
+Frank2009	Tab148_D07_test	D07	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	1238	nmol	HPLC	test	NA
+Frank2009	Tab148_D08_test	D08	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	571	nmol	HPLC	test	NA
+Frank2009	Tab148_D08_test	D08	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	1157	nmol	HPLC	test	NA
+Frank2009	Tab148_D08_test	D08	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1489	nmol	HPLC	test	NA
+Frank2009	Tab148_D08_test	D08	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	1834	nmol	HPLC	test	NA
+Frank2009	Tab148_D08_test	D08	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	1996	nmol	HPLC	test	NA
+Frank2009	Tab148_D09_test	D09	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	86.4	nmol	HPLC	test	NA
+Frank2009	Tab148_D09_test	D09	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	167	nmol	HPLC	test	NA
+Frank2009	Tab148_D09_test	D09	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	233	nmol	HPLC	test	NA
+Frank2009	Tab148_D09_test	D09	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	296	nmol	HPLC	test	NA
+Frank2009	Tab148_D09_test	D09	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	301	nmol	HPLC	test	NA
+Frank2009	Tab148_D10_test	D10	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.769	nmol	HPLC	test	NA
+Frank2009	Tab148_D10_test	D10	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	597	nmol	HPLC	test	NA
+Frank2009	Tab148_D10_test	D10	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1458	nmol	HPLC	test	NA
+Frank2009	Tab148_D10_test	D10	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	1854	nmol	HPLC	test	NA
+Frank2009	Tab148_D10_test	D10	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	2032	nmol	HPLC	test	NA
+Frank2009	Tab148_D11_test	D11	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	na	nmol	HPLC	test	no urine
+Frank2009	Tab148_D11_test	D11	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	1101	nmol	HPLC	test	NA
+Frank2009	Tab148_D11_test	D11	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1292	nmol	HPLC	test	NA
+Frank2009	Tab148_D11_test	D11	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	1366	nmol	HPLC	test	NA
+Frank2009	Tab148_D11_test	D11	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	1453	nmol	HPLC	test	NA
+Frank2009	Tab148_D12_test	D12	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	977	nmol	HPLC	test	NA
+Frank2009	Tab148_D12_test	D12	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	2926	nmol	HPLC	test	NA
+Frank2009	Tab148_D12_test	D12	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	3081	nmol	HPLC	test	NA
+Frank2009	Tab148_D12_test	D12	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	3283	nmol	HPLC	test	NA
+Frank2009	Tab148_D12_test	D12	1	cumulative amount	dextrorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	4021	nmol	HPLC	test	NA

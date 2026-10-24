@@ -1,0 +1,121 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	unit	method	comments	comments_2
+Frank2009	Tab152_D01_reference	D01	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	676	nmol	HPLC	reference	NA
+Frank2009	Tab152_D01_reference	D01	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	1131	nmol	HPLC	reference	NA
+Frank2009	Tab152_D01_reference	D01	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	1842	nmol	HPLC	reference	NA
+Frank2009	Tab152_D01_reference	D01	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	2292	nmol	HPLC	reference	NA
+Frank2009	Tab152_D01_reference	D01	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	2827	nmol	HPLC	reference	NA
+Frank2009	Tab152_D02_reference	D02	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	703	nmol	HPLC	reference	NA
+Frank2009	Tab152_D02_reference	D02	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	2927	nmol	HPLC	reference	NA
+Frank2009	Tab152_D02_reference	D02	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	4720	nmol	HPLC	reference	NA
+Frank2009	Tab152_D02_reference	D02	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	5694	nmol	HPLC	reference	NA
+Frank2009	Tab152_D02_reference	D02	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	6643	nmol	HPLC	reference	NA
+Frank2009	Tab152_D03_reference	D03	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	592	nmol	HPLC	reference	NA
+Frank2009	Tab152_D03_reference	D03	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	1210	nmol	HPLC	reference	NA
+Frank2009	Tab152_D03_reference	D03	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	1657	nmol	HPLC	reference	NA
+Frank2009	Tab152_D03_reference	D03	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	1871	nmol	HPLC	reference	NA
+Frank2009	Tab152_D03_reference	D03	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	2444	nmol	HPLC	reference	NA
+Frank2009	Tab152_D04_reference	D04	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	333	nmol	HPLC	reference	NA
+Frank2009	Tab152_D04_reference	D04	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	2209	nmol	HPLC	reference	NA
+Frank2009	Tab152_D04_reference	D04	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	3187	nmol	HPLC	reference	NA
+Frank2009	Tab152_D04_reference	D04	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	3516	nmol	HPLC	reference	NA
+Frank2009	Tab152_D04_reference	D04	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	4878	nmol	HPLC	reference	NA
+Frank2009	Tab152_D05_reference	D05	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	1086	nmol	HPLC	reference	NA
+Frank2009	Tab152_D05_reference	D05	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	1682	nmol	HPLC	reference	NA
+Frank2009	Tab152_D05_reference	D05	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	2276	nmol	HPLC	reference	NA
+Frank2009	Tab152_D05_reference	D05	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	2595	nmol	HPLC	reference	NA
+Frank2009	Tab152_D05_reference	D05	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	2968	nmol	HPLC	reference	NA
+Frank2009	Tab152_D06_reference	D06	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	795	nmol	HPLC	reference	NA
+Frank2009	Tab152_D06_reference	D06	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	1701	nmol	HPLC	reference	NA
+Frank2009	Tab152_D06_reference	D06	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	3358	nmol	HPLC	reference	NA
+Frank2009	Tab152_D06_reference	D06	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	3939	nmol	HPLC	reference	NA
+Frank2009	Tab152_D06_reference	D06	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	4705	nmol	HPLC	reference	NA
+Frank2009	Tab152_D07_reference	D07	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	395	nmol	HPLC	reference	NA
+Frank2009	Tab152_D07_reference	D07	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	817	nmol	HPLC	reference	NA
+Frank2009	Tab152_D07_reference	D07	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	2325	nmol	HPLC	reference	NA
+Frank2009	Tab152_D07_reference	D07	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	2809	nmol	HPLC	reference	NA
+Frank2009	Tab152_D07_reference	D07	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	3542	nmol	HPLC	reference	NA
+Frank2009	Tab152_D08_reference	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	522	nmol	HPLC	reference	NA
+Frank2009	Tab152_D08_reference	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	1286	nmol	HPLC	reference	NA
+Frank2009	Tab152_D08_reference	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	2175	nmol	HPLC	reference	NA
+Frank2009	Tab152_D08_reference	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	2613	nmol	HPLC	reference	NA
+Frank2009	Tab152_D08_reference	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	3393	nmol	HPLC	reference	NA
+Frank2009	Tab152_D09_reference	D09	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	567	nmol	HPLC	reference	NA
+Frank2009	Tab152_D09_reference	D09	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	955	nmol	HPLC	reference	NA
+Frank2009	Tab152_D09_reference	D09	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	1382	nmol	HPLC	reference	NA
+Frank2009	Tab152_D09_reference	D09	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	1536	nmol	HPLC	reference	NA
+Frank2009	Tab152_D09_reference	D09	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	1722	nmol	HPLC	reference	NA
+Frank2009	Tab152_D10_reference	D10	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	929	nmol	HPLC	reference	NA
+Frank2009	Tab152_D10_reference	D10	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	1836	nmol	HPLC	reference	NA
+Frank2009	Tab152_D10_reference	D10	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	3712	nmol	HPLC	reference	NA
+Frank2009	Tab152_D10_reference	D10	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	4366	nmol	HPLC	reference	NA
+Frank2009	Tab152_D10_reference	D10	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	5177	nmol	HPLC	reference	NA
+Frank2009	Tab152_D11_reference	D11	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	390	nmol	HPLC	reference	NA
+Frank2009	Tab152_D11_reference	D11	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	2144	nmol	HPLC	reference	NA
+Frank2009	Tab152_D11_reference	D11	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	3396	nmol	HPLC	reference	NA
+Frank2009	Tab152_D11_reference	D11	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	4136	nmol	HPLC	reference	NA
+Frank2009	Tab152_D11_reference	D11	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	4824	nmol	HPLC	reference	NA
+Frank2009	Tab152_D12_reference	D12	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	421	nmol	HPLC	reference	NA
+Frank2009	Tab152_D12_reference	D12	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	2006	nmol	HPLC	reference	NA
+Frank2009	Tab152_D12_reference	D12	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	3306	nmol	HPLC	reference	NA
+Frank2009	Tab152_D12_reference	D12	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	3800	nmol	HPLC	reference	NA
+Frank2009	Tab152_D12_reference	D12	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	4796	nmol	HPLC	reference	NA
+Frank2009	Tab152_D01_test	D01	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	386	nmol	HPLC	test	NA
+Frank2009	Tab152_D01_test	D01	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	764	nmol	HPLC	test	NA
+Frank2009	Tab152_D01_test	D01	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1539	nmol	HPLC	test	NA
+Frank2009	Tab152_D01_test	D01	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	2089	nmol	HPLC	test	NA
+Frank2009	Tab152_D01_test	D01	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	3095	nmol	HPLC	test	NA
+Frank2009	Tab152_D02_test	D02	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	2065	nmol	HPLC	test	NA
+Frank2009	Tab152_D02_test	D02	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	7689	nmol	HPLC	test	NA
+Frank2009	Tab152_D02_test	D02	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	8821	nmol	HPLC	test	NA
+Frank2009	Tab152_D02_test	D02	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	9517	nmol	HPLC	test	NA
+Frank2009	Tab152_D02_test	D02	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	12030	nmol	HPLC	test	NA
+Frank2009	Tab152_D03_test	D03	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	271	nmol	HPLC	test	NA
+Frank2009	Tab152_D03_test	D03	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	615	nmol	HPLC	test	NA
+Frank2009	Tab152_D03_test	D03	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1023	nmol	HPLC	test	NA
+Frank2009	Tab152_D03_test	D03	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	1286	nmol	HPLC	test	NA
+Frank2009	Tab152_D03_test	D03	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	1849	nmol	HPLC	test	NA
+Frank2009	Tab152_D04_test	D04	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	930	nmol	HPLC	test	NA
+Frank2009	Tab152_D04_test	D04	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	2226	nmol	HPLC	test	NA
+Frank2009	Tab152_D04_test	D04	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	2661	nmol	HPLC	test	NA
+Frank2009	Tab152_D04_test	D04	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	2982	nmol	HPLC	test	NA
+Frank2009	Tab152_D04_test	D04	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	3273	nmol	HPLC	test	NA
+Frank2009	Tab152_D05_test	D05	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	551	nmol	HPLC	test	NA
+Frank2009	Tab152_D05_test	D05	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	978	nmol	HPLC	test	NA
+Frank2009	Tab152_D05_test	D05	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1516	nmol	HPLC	test	NA
+Frank2009	Tab152_D05_test	D05	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	1754	nmol	HPLC	test	NA
+Frank2009	Tab152_D05_test	D05	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	2527	nmol	HPLC	test	NA
+Frank2009	Tab152_D06_test	D06	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	549	nmol	HPLC	test	NA
+Frank2009	Tab152_D06_test	D06	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	1492	nmol	HPLC	test	NA
+Frank2009	Tab152_D06_test	D06	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	2812	nmol	HPLC	test	NA
+Frank2009	Tab152_D06_test	D06	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	3226	nmol	HPLC	test	NA
+Frank2009	Tab152_D06_test	D06	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	4543	nmol	HPLC	test	NA
+Frank2009	Tab152_D07_test	D07	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	367	nmol	HPLC	test	NA
+Frank2009	Tab152_D07_test	D07	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	883	nmol	HPLC	test	NA
+Frank2009	Tab152_D07_test	D07	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	2262	nmol	HPLC	test	NA
+Frank2009	Tab152_D07_test	D07	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	2722	nmol	HPLC	test	NA
+Frank2009	Tab152_D07_test	D07	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	2991	nmol	HPLC	test	NA
+Frank2009	Tab152_D08_test	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	424	nmol	HPLC	test	NA
+Frank2009	Tab152_D08_test	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	1128	nmol	HPLC	test	NA
+Frank2009	Tab152_D08_test	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	2476	nmol	HPLC	test	NA
+Frank2009	Tab152_D08_test	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	2818	nmol	HPLC	test	NA
+Frank2009	Tab152_D08_test	D08	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	4666	nmol	HPLC	test	NA
+Frank2009	Tab152_D09_test	D09	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	379	nmol	HPLC	test	NA
+Frank2009	Tab152_D09_test	D09	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	718	nmol	HPLC	test	NA
+Frank2009	Tab152_D09_test	D09	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	1088	nmol	HPLC	test	NA
+Frank2009	Tab152_D09_test	D09	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	1336	nmol	HPLC	test	NA
+Frank2009	Tab152_D09_test	D09	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	1405	nmol	HPLC	test	NA
+Frank2009	Tab152_D10_test	D10	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	292	nmol	HPLC	test	NA
+Frank2009	Tab152_D10_test	D10	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	643	nmol	HPLC	test	NA
+Frank2009	Tab152_D10_test	D10	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	2657	nmol	HPLC	test	NA
+Frank2009	Tab152_D10_test	D10	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	3273	nmol	HPLC	test	NA
+Frank2009	Tab152_D10_test	D10	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	4524	nmol	HPLC	test	NA
+Frank2009	Tab152_D11_test	D11	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	na	nmol	HPLC	test	no urine
+Frank2009	Tab152_D11_test	D11	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	2060	nmol	HPLC	test	NA
+Frank2009	Tab152_D11_test	D11	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	2877	nmol	HPLC	test	NA
+Frank2009	Tab152_D11_test	D11	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	3415	nmol	HPLC	test	NA
+Frank2009	Tab152_D11_test	D11	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	4238	nmol	HPLC	test	NA
+Frank2009	Tab152_D12_test	D12	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	1088	nmol	HPLC	test	NA
+Frank2009	Tab152_D12_test	D12	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	2819	nmol	HPLC	test	NA
+Frank2009	Tab152_D12_test	D12	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	3754	nmol	HPLC	test	NA
+Frank2009	Tab152_D12_test	D12	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	4411	nmol	HPLC	test	NA
+Frank2009	Tab152_D12_test	D12	1	cumulative amount	dtf+dtfglu	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	7521	nmol	HPLC	test	NA

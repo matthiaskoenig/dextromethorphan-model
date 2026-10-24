@@ -1,0 +1,121 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	unit	method	comments	comments_2
+Frank2009	Tab153_D01_reference	D01	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.0219	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D01_reference	D01	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.0246	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D01_reference	D01	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.0175	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D01_reference	D01	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0155	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D01_reference	D01	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.0133	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D02_reference	D02	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.0132	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D02_reference	D02	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.0168	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D02_reference	D02	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.0148	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D02_reference	D02	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0147	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D02_reference	D02	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.0156	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D03_reference	D03	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.0224	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D03_reference	D03	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.0205	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D03_reference	D03	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.0169	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D03_reference	D03	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0162	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D03_reference	D03	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.0136	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D04_reference	D04	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.0203	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D04_reference	D04	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.0103	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D04_reference	D04	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.0091	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D04_reference	D04	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0117	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D04_reference	D04	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.00915	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D05_reference	D05	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.0337	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D05_reference	D05	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.0348	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D05_reference	D05	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.0324	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D05_reference	D05	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0398	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D05_reference	D05	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.0562	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D06_reference	D06	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.0203	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D06_reference	D06	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.0427	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D06_reference	D06	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.0246	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D06_reference	D06	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0219	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D06_reference	D06	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.0214	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D07_reference	D07	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.0291	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D07_reference	D07	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.0445	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D07_reference	D07	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.0205	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D07_reference	D07	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0184	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D07_reference	D07	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.0168	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D08_reference	D08	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.58	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D08_reference	D08	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.8	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D08_reference	D08	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.53	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D08_reference	D08	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.506	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D08_reference	D08	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.432	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D09_reference	D09	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.024	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D09_reference	D09	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.0337	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D09_reference	D09	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.0262	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D09_reference	D09	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0256	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D09_reference	D09	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.0241	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D10_reference	D10	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.00886	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D10_reference	D10	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.0109	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D10_reference	D10	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.00672	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D10_reference	D10	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0061	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D10_reference	D10	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.00605	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D11_reference	D11	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.0262	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D11_reference	D11	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.095	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D11_reference	D11	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.074	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D11_reference	D11	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0649	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D11_reference	D11	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.0611	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D12_reference	D12	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	2	hr	timecourse	0.0157	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D12_reference	D12	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	4	hr	timecourse	0.0379	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D12_reference	D12	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	6	hr	timecourse	0.0277	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D12_reference	D12	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	8	hr	timecourse	0.0276	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D12_reference	D12	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV	12	hr	timecourse	0.0278	dimensionless	HPLC	reference	NA
+Frank2009	Tab153_D01_test	D01	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.0282	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D01_test	D01	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.0452	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D01_test	D01	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.0298	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D01_test	D01	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.0259	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D01_test	D01	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.0197	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D02_test	D02	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.00568	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D02_test	D02	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.0377	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D02_test	D02	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.0415	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D02_test	D02	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.0432	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D02_test	D02	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.0424	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D03_test	D03	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.0705	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D03_test	D03	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.0596	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D03_test	D03	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.0455	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D03_test	D03	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.0399	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D03_test	D03	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.03	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D04_test	D04	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.00022	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D04_test	D04	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.0675	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D04_test	D04	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.0671	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D04_test	D04	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.0763	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D04_test	D04	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.0722	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D05_test	D05	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.0236	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D05_test	D05	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.0632	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D05_test	D05	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.0685	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D05_test	D05	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.0907	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D05_test	D05	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.082	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D06_test	D06	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.166	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D06_test	D06	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.204	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D06_test	D06	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.134	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D06_test	D06	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.119	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D06_test	D06	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.0891	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D07_test	D07	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.144	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D07_test	D07	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.168	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D07_test	D07	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.0853	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D07_test	D07	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.0829	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D07_test	D07	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.0796	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D08_test	D08	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.418	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D08_test	D08	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.5	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D08_test	D08	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.405	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D08_test	D08	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.443	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D08_test	D08	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.354	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D09_test	D09	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.0506	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D09_test	D09	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.0468	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D09_test	D09	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.0479	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D09_test	D09	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.0462	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D09_test	D09	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.0448	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D10_test	D10	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.013	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D10_test	D10	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.0646	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D10_test	D10	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.0262	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D10_test	D10	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.0267	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D10_test	D10	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.0221	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D11_test	D11	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	na	dimensionless	HPLC	test	no urine
+Frank2009	Tab153_D11_test	D11	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.124	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D11_test	D11	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.106	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D11_test	D11	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.0929	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D11_test	D11	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.083	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D12_test	D12	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	0.142	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D12_test	D12	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	0.222	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D12_test	D12	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	0.195	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D12_test	D12	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	0.179	dimensionless	HPLC	test	NA
+Frank2009	Tab153_D12_test	D12	1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	0.127	dimensionless	HPLC	test	NA

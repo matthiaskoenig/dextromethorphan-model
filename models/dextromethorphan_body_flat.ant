@@ -1,0 +1,2070 @@
+// Created by libAntimony v3.1.3
+model *dextromethorphan_body()
+
+  // Compartments and Species:
+  compartment Vki, Vli, Vlu, Vgu, Vre, Var, Vve, Vpo, Vhv, Vurine, Vfeces;
+  compartment Vstomach, Vgulumen, Vki_tissue, Vki_plasma, Vli_tissue, Vli_plasma;
+  compartment Vlu_tissue, Vlu_plasma, Vgu_tissue, Vgu_plasma, Vre_tissue;
+  compartment Vre_plasma, LI__Vmem, GU__Vapical;
+  species Cki_plasma_dxm in Vki_plasma, Cli_plasma_dxm in Vli_plasma, Clu_plasma_dxm in Vlu_plasma;
+  species Cgu_plasma_dxm in Vgu_plasma, Cre_plasma_dxm in Vre_plasma, Car_dxm in Var;
+  species Cve_dxm in Vve, Cpo_dxm in Vpo, Chv_dxm in Vhv, Cki_dxm in Vki_tissue;
+  species Cli_dxm in Vli_tissue, Clu_dxm in Vlu_tissue, Cgu_dxm in Vgu_tissue;
+  species Cre_dxm in Vre_tissue, Cki_plasma_dxo in Vki_plasma, Cli_plasma_dxo in Vli_plasma;
+  species Clu_plasma_dxo in Vlu_plasma, Cgu_plasma_dxo in Vgu_plasma, Cre_plasma_dxo in Vre_plasma;
+  species Car_dxo in Var, Cve_dxo in Vve, Cpo_dxo in Vpo, Chv_dxo in Vhv;
+  species Cki_dxo in Vki_tissue, Cli_dxo in Vli_tissue, Clu_dxo in Vlu_tissue;
+  species Cgu_dxo in Vgu_tissue, Cre_dxo in Vre_tissue, Cki_plasma_dxo_glu in Vki_plasma;
+  species Cli_plasma_dxo_glu in Vli_plasma, Clu_plasma_dxo_glu in Vlu_plasma;
+  species Cgu_plasma_dxo_glu in Vgu_plasma, Cre_plasma_dxo_glu in Vre_plasma;
+  species Car_dxo_glu in Var, Cve_dxo_glu in Vve, Cpo_dxo_glu in Vpo, Chv_dxo_glu in Vhv;
+  species Cki_dxo_glu in Vki_tissue, Cli_dxo_glu in Vli_tissue, Clu_dxo_glu in Vlu_tissue;
+  species Cgu_dxo_glu in Vgu_tissue, Cre_dxo_glu in Vre_tissue, Cki_plasma_mm in Vki_plasma;
+  species Cli_plasma_mm in Vli_plasma, Clu_plasma_mm in Vlu_plasma, Cgu_plasma_mm in Vgu_plasma;
+  species Cre_plasma_mm in Vre_plasma, Car_mm in Var, Cve_mm in Vve, Cpo_mm in Vpo;
+  species Chv_mm in Vhv, Cki_mm in Vki_tissue, Cli_mm in Vli_tissue, Clu_mm in Vlu_tissue;
+  species Cgu_mm in Vgu_tissue, Cre_mm in Vre_tissue, Cgulumen_dxm in Vgulumen;
+  substanceOnly species Aurine_dxm in Vurine, Aurine_dxo in Vurine, Aurine_dxo_glu in Vurine;
+  substanceOnly species Aurine_mm in Vurine, Afeces_dxm in Vfeces, $GU__dxm_stomach in Vstomach;
+
+  // Assignment Rules:
+  Vki := BW*FVki;
+  Vli := BW*FVli;
+  Vlu := BW*FVlu;
+  Vgu := BW*FVgu;
+  Vre := BW*FVre;
+  FVre := 1 l_per_kg - (FVgu + FVki + FVli + FVlu + FVve + FVar);
+  Var := BW*FVar - (FVar/(FVar + FVve))*BW*Fblood*(1 l_per_kg - FVve - FVar);
+  Vve := BW*FVve - (FVve/(FVar + FVve))*BW*Fblood*(1 l_per_kg - FVve - FVar);
+  Vpo := (1 dimensionless - HCT)*(BW*FVpo - (FVpo/(FVar + FVve + FVpo + FVhv))*BW*Fblood*(1 l_per_kg - (FVar + FVve + FVpo + FVhv)));
+  Vhv := (1 dimensionless - HCT)*(BW*FVhv - (FVhv/(FVar + FVve + FVpo + FVhv))*BW*Fblood*(1 l_per_kg - (FVar + FVve + FVpo + FVhv)));
+  Vgulumen := f_lumen*Vgu;
+  Vki_tissue := Vki*(1 dimensionless - Fblood);
+  Vki_plasma := Vki*Fblood*(1 dimensionless - HCT);
+  Vli_tissue := Vli*(1 dimensionless - Fblood);
+  Vli_plasma := Vli*Fblood*(1 dimensionless - HCT);
+  Vlu_tissue := Vlu*(1 dimensionless - Fblood);
+  Vlu_plasma := Vlu*Fblood*(1 dimensionless - HCT);
+  Vgu_tissue := Vgu*(1 dimensionless - Fblood);
+  Vgu_plasma := Vgu*Fblood*(1 dimensionless - HCT);
+  Vre_tissue := Vre*(1 dimensionless - Fblood);
+  Vre_plasma := Vre*Fblood*(1 dimensionless - HCT);
+  CO := BW*COBW;
+  QC := (CO/1000 ml_per_l)*60 s_per_min;
+  FQre := 1 dimensionless - (FQki + FQh);
+  GFR_base := f_GFR_Qki*Qki;
+  Qki := QC*FQki;
+  Ki_dxm := (0.693 dimensionless/ti_dxm)*60 s_per_min;
+  Qgu := QC*FQgu;
+  Qh := QC*FQh;
+  Qha := Qh - Qgu;
+  Qlu := QC*FQlu;
+  Qre := QC*FQre;
+  Qpo := Qgu;
+  Ave_dxm := Cve_dxm*Vve;
+  Mve_dxm := Cve_dxm*Mr_dxm;
+  Xurine_dxm := Aurine_dxm*Mr_dxm;
+  Ave_dxo := Cve_dxo*Vve;
+  Mve_dxo := Cve_dxo*Mr_dxo;
+  Xurine_dxo := Aurine_dxo*Mr_dxo;
+  Ave_dxo_glu := Cve_dxo_glu*Vve;
+  Mve_dxo_glu := Cve_dxo_glu*Mr_dxo_glu;
+  Xurine_dxo_glu := Aurine_dxo_glu*Mr_dxo_glu;
+  Ave_mm := Cve_mm*Vve;
+  Mve_mm := Cve_mm*Mr_mm;
+  Xurine_mm := Aurine_mm*Mr_mm;
+  Xfeces_dxm := Afeces_dxm*Mr_dxm;
+  dxo_total := Cve_dxo + Cve_dxo_glu;
+  dxm_dxo := Cve_dxm/Cve_dxo;
+  dxm_dxo_total := Cve_dxm/(Cve_dxo + Cve_dxo_glu);
+  Aurine_dxo_total := Aurine_dxo + Aurine_dxo_glu;
+  dxm_dxo_urine := Aurine_dxm/Aurine_dxo;
+  dxm_dxo_total_urine := Aurine_dxm/(Aurine_dxo + Aurine_dxo_glu);
+  KI__GFR := KI__f_renal_function*GFR_base;
+  LI__cyp2d6_activity1 := piecewise(LI__cyp2d6_ac/2 dimensionless, LI__cyp2d6_allele1 == -1, LI__cyp2d6_a0, LI__cyp2d6_allele1 == 0, LI__cyp2d6_a1, LI__cyp2d6_allele1 == 1, LI__cyp2d6_a2, LI__cyp2d6_allele1 == 2, LI__cyp2d6_a3, LI__cyp2d6_allele1 == 3, LI__cyp2d6_a4, LI__cyp2d6_allele1 == 4, LI__cyp2d6_a5, LI__cyp2d6_allele1 == 5, LI__cyp2d6_a6, LI__cyp2d6_allele1 == 6, LI__cyp2d6_a7, LI__cyp2d6_allele1 == 7, LI__cyp2d6_a8, LI__cyp2d6_allele1 == 8, LI__cyp2d6_a9, LI__cyp2d6_allele1 == 9, LI__cyp2d6_a10, LI__cyp2d6_allele1 == 10, LI__cyp2d6_a11, LI__cyp2d6_allele1 == 11, LI__cyp2d6_a12, LI__cyp2d6_allele1 == 12, LI__cyp2d6_a13, LI__cyp2d6_allele1 == 13, LI__cyp2d6_a14, LI__cyp2d6_allele1 == 14, LI__cyp2d6_a15, LI__cyp2d6_allele1 == 15, LI__cyp2d6_a16, LI__cyp2d6_allele1 == 16, LI__cyp2d6_a17, LI__cyp2d6_allele1 == 17, LI__cyp2d6_a18, LI__cyp2d6_allele1 == 18, LI__cyp2d6_a19, LI__cyp2d6_allele1 == 19, LI__cyp2d6_a20, LI__cyp2d6_allele1 == 20, LI__cyp2d6_a21, LI__cyp2d6_allele1 == 21, LI__cyp2d6_a22, LI__cyp2d6_allele1 == 22, LI__cyp2d6_a23, LI__cyp2d6_allele1 == 23, LI__cyp2d6_a24, LI__cyp2d6_allele1 == 24, LI__cyp2d6_a25, LI__cyp2d6_allele1 == 25, LI__cyp2d6_a26, LI__cyp2d6_allele1 == 26, LI__cyp2d6_a27, LI__cyp2d6_allele1 == 27, LI__cyp2d6_a28, LI__cyp2d6_allele1 == 28, LI__cyp2d6_a29, LI__cyp2d6_allele1 == 29, LI__cyp2d6_a30, LI__cyp2d6_allele1 == 30, LI__cyp2d6_a31, LI__cyp2d6_allele1 == 31, LI__cyp2d6_a32, LI__cyp2d6_allele1 == 32, LI__cyp2d6_a33, LI__cyp2d6_allele1 == 33, LI__cyp2d6_a34, LI__cyp2d6_allele1 == 34, LI__cyp2d6_a35, LI__cyp2d6_allele1 == 35, LI__cyp2d6_a36, LI__cyp2d6_allele1 == 36, LI__cyp2d6_a37, LI__cyp2d6_allele1 == 37, LI__cyp2d6_a38, LI__cyp2d6_allele1 == 38, LI__cyp2d6_a39, LI__cyp2d6_allele1 == 39, LI__cyp2d6_a40, LI__cyp2d6_allele1 == 40, LI__cyp2d6_a41, LI__cyp2d6_allele1 == 41, LI__cyp2d6_a42, LI__cyp2d6_allele1 == 42, LI__cyp2d6_a43, LI__cyp2d6_allele1 == 43, LI__cyp2d6_a44, LI__cyp2d6_allele1 == 44, LI__cyp2d6_a45, LI__cyp2d6_allele1 == 45, LI__cyp2d6_a46, LI__cyp2d6_allele1 == 46, LI__cyp2d6_a47, LI__cyp2d6_allele1 == 47, LI__cyp2d6_a48, LI__cyp2d6_allele1 == 48, LI__cyp2d6_a49, LI__cyp2d6_allele1 == 49, LI__cyp2d6_a50, LI__cyp2d6_allele1 == 50, LI__cyp2d6_a51, LI__cyp2d6_allele1 == 51, LI__cyp2d6_a52, LI__cyp2d6_allele1 == 52, LI__cyp2d6_a53, LI__cyp2d6_allele1 == 53, LI__cyp2d6_a54, LI__cyp2d6_allele1 == 54, LI__cyp2d6_a55, LI__cyp2d6_allele1 == 55, LI__cyp2d6_a56, LI__cyp2d6_allele1 == 56, LI__cyp2d6_a57, LI__cyp2d6_allele1 == 57, LI__cyp2d6_a58, LI__cyp2d6_allele1 == 58, LI__cyp2d6_a59, LI__cyp2d6_allele1 == 59, LI__cyp2d6_a60, LI__cyp2d6_allele1 == 60, LI__cyp2d6_a61, LI__cyp2d6_allele1 == 61, LI__cyp2d6_a62, LI__cyp2d6_allele1 == 62, LI__cyp2d6_a63, LI__cyp2d6_allele1 == 63, LI__cyp2d6_a64, LI__cyp2d6_allele1 == 64, LI__cyp2d6_a65, LI__cyp2d6_allele1 == 65, LI__cyp2d6_a66, LI__cyp2d6_allele1 == 66, LI__cyp2d6_a67, LI__cyp2d6_allele1 == 67, LI__cyp2d6_a68, LI__cyp2d6_allele1 == 68, LI__cyp2d6_a69, LI__cyp2d6_allele1 == 69, LI__cyp2d6_a70, LI__cyp2d6_allele1 == 70, LI__cyp2d6_a71, LI__cyp2d6_allele1 == 71, LI__cyp2d6_a72, LI__cyp2d6_allele1 == 72, LI__cyp2d6_a73, LI__cyp2d6_allele1 == 73, LI__cyp2d6_a74, LI__cyp2d6_allele1 == 74, LI__cyp2d6_a75, LI__cyp2d6_allele1 == 75, LI__cyp2d6_a76, LI__cyp2d6_allele1 == 76, LI__cyp2d6_a77, LI__cyp2d6_allele1 == 77, LI__cyp2d6_a78, LI__cyp2d6_allele1 == 78, LI__cyp2d6_a79, LI__cyp2d6_allele1 == 79, LI__cyp2d6_a80, LI__cyp2d6_allele1 == 80, LI__cyp2d6_a81, LI__cyp2d6_allele1 == 81, LI__cyp2d6_a82, LI__cyp2d6_allele1 == 82, LI__cyp2d6_a83, LI__cyp2d6_allele1 == 83, LI__cyp2d6_a84, LI__cyp2d6_allele1 == 84, LI__cyp2d6_ac/2 dimensionless);
+  LI__cyp2d6_activity2 := piecewise(LI__cyp2d6_ac/2 dimensionless, LI__cyp2d6_allele2 == -1, LI__cyp2d6_a0, LI__cyp2d6_allele2 == 0, LI__cyp2d6_a1, LI__cyp2d6_allele2 == 1, LI__cyp2d6_a2, LI__cyp2d6_allele2 == 2, LI__cyp2d6_a3, LI__cyp2d6_allele2 == 3, LI__cyp2d6_a4, LI__cyp2d6_allele2 == 4, LI__cyp2d6_a5, LI__cyp2d6_allele2 == 5, LI__cyp2d6_a6, LI__cyp2d6_allele2 == 6, LI__cyp2d6_a7, LI__cyp2d6_allele2 == 7, LI__cyp2d6_a8, LI__cyp2d6_allele2 == 8, LI__cyp2d6_a9, LI__cyp2d6_allele2 == 9, LI__cyp2d6_a10, LI__cyp2d6_allele2 == 10, LI__cyp2d6_a11, LI__cyp2d6_allele2 == 11, LI__cyp2d6_a12, LI__cyp2d6_allele2 == 12, LI__cyp2d6_a13, LI__cyp2d6_allele2 == 13, LI__cyp2d6_a14, LI__cyp2d6_allele2 == 14, LI__cyp2d6_a15, LI__cyp2d6_allele2 == 15, LI__cyp2d6_a16, LI__cyp2d6_allele2 == 16, LI__cyp2d6_a17, LI__cyp2d6_allele2 == 17, LI__cyp2d6_a18, LI__cyp2d6_allele2 == 18, LI__cyp2d6_a19, LI__cyp2d6_allele2 == 19, LI__cyp2d6_a20, LI__cyp2d6_allele2 == 20, LI__cyp2d6_a21, LI__cyp2d6_allele2 == 21, LI__cyp2d6_a22, LI__cyp2d6_allele2 == 22, LI__cyp2d6_a23, LI__cyp2d6_allele2 == 23, LI__cyp2d6_a24, LI__cyp2d6_allele2 == 24, LI__cyp2d6_a25, LI__cyp2d6_allele2 == 25, LI__cyp2d6_a26, LI__cyp2d6_allele2 == 26, LI__cyp2d6_a27, LI__cyp2d6_allele2 == 27, LI__cyp2d6_a28, LI__cyp2d6_allele2 == 28, LI__cyp2d6_a29, LI__cyp2d6_allele2 == 29, LI__cyp2d6_a30, LI__cyp2d6_allele2 == 30, LI__cyp2d6_a31, LI__cyp2d6_allele2 == 31, LI__cyp2d6_a32, LI__cyp2d6_allele2 == 32, LI__cyp2d6_a33, LI__cyp2d6_allele2 == 33, LI__cyp2d6_a34, LI__cyp2d6_allele2 == 34, LI__cyp2d6_a35, LI__cyp2d6_allele2 == 35, LI__cyp2d6_a36, LI__cyp2d6_allele2 == 36, LI__cyp2d6_a37, LI__cyp2d6_allele2 == 37, LI__cyp2d6_a38, LI__cyp2d6_allele2 == 38, LI__cyp2d6_a39, LI__cyp2d6_allele2 == 39, LI__cyp2d6_a40, LI__cyp2d6_allele2 == 40, LI__cyp2d6_a41, LI__cyp2d6_allele2 == 41, LI__cyp2d6_a42, LI__cyp2d6_allele2 == 42, LI__cyp2d6_a43, LI__cyp2d6_allele2 == 43, LI__cyp2d6_a44, LI__cyp2d6_allele2 == 44, LI__cyp2d6_a45, LI__cyp2d6_allele2 == 45, LI__cyp2d6_a46, LI__cyp2d6_allele2 == 46, LI__cyp2d6_a47, LI__cyp2d6_allele2 == 47, LI__cyp2d6_a48, LI__cyp2d6_allele2 == 48, LI__cyp2d6_a49, LI__cyp2d6_allele2 == 49, LI__cyp2d6_a50, LI__cyp2d6_allele2 == 50, LI__cyp2d6_a51, LI__cyp2d6_allele2 == 51, LI__cyp2d6_a52, LI__cyp2d6_allele2 == 52, LI__cyp2d6_a53, LI__cyp2d6_allele2 == 53, LI__cyp2d6_a54, LI__cyp2d6_allele2 == 54, LI__cyp2d6_a55, LI__cyp2d6_allele2 == 55, LI__cyp2d6_a56, LI__cyp2d6_allele2 == 56, LI__cyp2d6_a57, LI__cyp2d6_allele2 == 57, LI__cyp2d6_a58, LI__cyp2d6_allele2 == 58, LI__cyp2d6_a59, LI__cyp2d6_allele2 == 59, LI__cyp2d6_a60, LI__cyp2d6_allele2 == 60, LI__cyp2d6_a61, LI__cyp2d6_allele2 == 61, LI__cyp2d6_a62, LI__cyp2d6_allele2 == 62, LI__cyp2d6_a63, LI__cyp2d6_allele2 == 63, LI__cyp2d6_a64, LI__cyp2d6_allele2 == 64, LI__cyp2d6_a65, LI__cyp2d6_allele2 == 65, LI__cyp2d6_a66, LI__cyp2d6_allele2 == 66, LI__cyp2d6_a67, LI__cyp2d6_allele2 == 67, LI__cyp2d6_a68, LI__cyp2d6_allele2 == 68, LI__cyp2d6_a69, LI__cyp2d6_allele2 == 69, LI__cyp2d6_a70, LI__cyp2d6_allele2 == 70, LI__cyp2d6_a71, LI__cyp2d6_allele2 == 71, LI__cyp2d6_a72, LI__cyp2d6_allele2 == 72, LI__cyp2d6_a73, LI__cyp2d6_allele2 == 73, LI__cyp2d6_a74, LI__cyp2d6_allele2 == 74, LI__cyp2d6_a75, LI__cyp2d6_allele2 == 75, LI__cyp2d6_a76, LI__cyp2d6_allele2 == 76, LI__cyp2d6_a77, LI__cyp2d6_allele2 == 77, LI__cyp2d6_a78, LI__cyp2d6_allele2 == 78, LI__cyp2d6_a79, LI__cyp2d6_allele2 == 79, LI__cyp2d6_a80, LI__cyp2d6_allele2 == 80, LI__cyp2d6_a81, LI__cyp2d6_allele2 == 81, LI__cyp2d6_a82, LI__cyp2d6_allele2 == 82, LI__cyp2d6_a83, LI__cyp2d6_allele2 == 83, LI__cyp2d6_a84, LI__cyp2d6_allele2 == 84, LI__cyp2d6_ac/2 dimensionless);
+  LI__cyp2d6_activity := LI__cyp2d6_activity1 + LI__cyp2d6_activity2;
+  GU__absorption_dxm := GU__DXMABS_k*Vgu*Cgulumen_dxm;
+
+  // Rate Rules:
+  IVDOSE_dxm' = -iv_dxm*Mr_dxm + Ri_dxm;
+  cum_dose_dxm' = Ri_dxm;
+  PODOSE_dxm' = -GU__dissolution_dxm*Mr_dxm;
+
+  // Reactions:
+  iv_dxm in Vve:  => Cve_dxm; Ki_dxm*IVDOSE_dxm/Mr_dxm;
+  GU__dissolution_dxm in Vgu: $GU__dxm_stomach => Cgulumen_dxm; (Ka_dis_dxm/60 GU__min_per_hr)*PODOSE_dxm/Mr_dxm;
+  transport_ki_dxm in Vki_tissue: Cki_plasma_dxm -> Cki_dxm; (ftissue_fast*BW/BW_ref)*(Cki_plasma_dxm*Kp_dxm - Cki_dxm);
+  transport_li_dxm in Vli_tissue: Cli_plasma_dxm -> Cli_dxm; (ftissue_fast*BW/BW_ref)*(Cli_plasma_dxm*Kp_dxm - Cli_dxm);
+  transport_lu_dxm in Vlu_tissue: Clu_plasma_dxm -> Clu_dxm; (ftissue_dxm*BW/BW_ref)*(Clu_plasma_dxm*Kp_dxm - Clu_dxm);
+  transport_gu_dxm in Vgu_tissue: Cgu_plasma_dxm -> Cgu_dxm; (ftissue_fast*BW/BW_ref)*(Cgu_plasma_dxm*Kp_dxm - Cgu_dxm);
+  transport_re_dxm in Vre_tissue: Cre_plasma_dxm -> Cre_dxm; (ftissue_dxm*BW/BW_ref)*(Cre_plasma_dxm*Kp_dxm - Cre_dxm);
+  Flow_ve_lu_dxm: Cve_dxm => Clu_plasma_dxm; Qlu*Cve_dxm;
+  Flow_lu_ar_dxm: Clu_plasma_dxm => Car_dxm; Qlu*Clu_plasma_dxm;
+  Flow_ar_ki_dxm: Car_dxm => Cki_plasma_dxm; Qki*Car_dxm;
+  Flow_ki_ve_dxm: Cki_plasma_dxm => Cve_dxm; Qki*Cki_plasma_dxm;
+  Flow_ar_re_dxm: Car_dxm => Cre_plasma_dxm; Qre*Car_dxm;
+  Flow_re_ve_dxm: Cre_plasma_dxm => Cve_dxm; Qre*Cre_plasma_dxm;
+  Flow_ar_gu_dxm: Car_dxm => Cgu_plasma_dxm; Qgu*Car_dxm;
+  Flow_gu_po_dxm: Cgu_plasma_dxm => Cpo_dxm; Qgu*Cgu_plasma_dxm;
+  Flow_ar_li_dxm: Car_dxm => Cli_plasma_dxm; Qha*Car_dxm;
+  Flow_po_li_dxm: Cpo_dxm => Cli_plasma_dxm; Qpo*Cpo_dxm;
+  Flow_li_hv_dxm: Cli_plasma_dxm => Chv_dxm; Qh*Cli_plasma_dxm;
+  Flow_hv_ve_dxm: Chv_dxm => Cve_dxm; Qh*Chv_dxm;
+  transport_ki_dxo in Vki_tissue: Cki_plasma_dxo -> Cki_dxo; (ftissue_fast*BW/BW_ref)*(Cki_plasma_dxo*Kp_dxo - Cki_dxo);
+  transport_li_dxo in Vli_tissue: Cli_plasma_dxo -> Cli_dxo; (ftissue_fast*BW/BW_ref)*(Cli_plasma_dxo*Kp_dxo - Cli_dxo);
+  transport_lu_dxo in Vlu_tissue: Clu_plasma_dxo -> Clu_dxo; (ftissue_dxo*BW/BW_ref)*(Clu_plasma_dxo*Kp_dxo - Clu_dxo);
+  transport_gu_dxo in Vgu_tissue: Cgu_plasma_dxo -> Cgu_dxo; (ftissue_fast*BW/BW_ref)*(Cgu_plasma_dxo*Kp_dxo - Cgu_dxo);
+  transport_re_dxo in Vre_tissue: Cre_plasma_dxo -> Cre_dxo; (ftissue_dxo*BW/BW_ref)*(Cre_plasma_dxo*Kp_dxo - Cre_dxo);
+  Flow_ve_lu_dxo: Cve_dxo => Clu_plasma_dxo; Qlu*Cve_dxo;
+  Flow_lu_ar_dxo: Clu_plasma_dxo => Car_dxo; Qlu*Clu_plasma_dxo;
+  Flow_ar_ki_dxo: Car_dxo => Cki_plasma_dxo; Qki*Car_dxo;
+  Flow_ki_ve_dxo: Cki_plasma_dxo => Cve_dxo; Qki*Cki_plasma_dxo;
+  Flow_ar_re_dxo: Car_dxo => Cre_plasma_dxo; Qre*Car_dxo;
+  Flow_re_ve_dxo: Cre_plasma_dxo => Cve_dxo; Qre*Cre_plasma_dxo;
+  Flow_ar_gu_dxo: Car_dxo => Cgu_plasma_dxo; Qgu*Car_dxo;
+  Flow_gu_po_dxo: Cgu_plasma_dxo => Cpo_dxo; Qgu*Cgu_plasma_dxo;
+  Flow_ar_li_dxo: Car_dxo => Cli_plasma_dxo; Qha*Car_dxo;
+  Flow_po_li_dxo: Cpo_dxo => Cli_plasma_dxo; Qpo*Cpo_dxo;
+  Flow_li_hv_dxo: Cli_plasma_dxo => Chv_dxo; Qh*Cli_plasma_dxo;
+  Flow_hv_ve_dxo: Chv_dxo => Cve_dxo; Qh*Chv_dxo;
+  transport_ki_dxo_glu in Vki_tissue: Cki_plasma_dxo_glu -> Cki_dxo_glu; (ftissue_fast*BW/BW_ref)*(Cki_plasma_dxo_glu*Kp_dxo_glu - Cki_dxo_glu);
+  transport_li_dxo_glu in Vli_tissue: Cli_plasma_dxo_glu -> Cli_dxo_glu; (ftissue_fast*BW/BW_ref)*(Cli_plasma_dxo_glu*Kp_dxo_glu - Cli_dxo_glu);
+  transport_lu_dxo_glu in Vlu_tissue: Clu_plasma_dxo_glu -> Clu_dxo_glu; (ftissue_dxo_glu*BW/BW_ref)*(Clu_plasma_dxo_glu*Kp_dxo_glu - Clu_dxo_glu);
+  transport_gu_dxo_glu in Vgu_tissue: Cgu_plasma_dxo_glu -> Cgu_dxo_glu; (ftissue_fast*BW/BW_ref)*(Cgu_plasma_dxo_glu*Kp_dxo_glu - Cgu_dxo_glu);
+  transport_re_dxo_glu in Vre_tissue: Cre_plasma_dxo_glu -> Cre_dxo_glu; (ftissue_dxo_glu*BW/BW_ref)*(Cre_plasma_dxo_glu*Kp_dxo_glu - Cre_dxo_glu);
+  Flow_ve_lu_dxo_glu: Cve_dxo_glu => Clu_plasma_dxo_glu; Qlu*Cve_dxo_glu;
+  Flow_lu_ar_dxo_glu: Clu_plasma_dxo_glu => Car_dxo_glu; Qlu*Clu_plasma_dxo_glu;
+  Flow_ar_ki_dxo_glu: Car_dxo_glu => Cki_plasma_dxo_glu; Qki*Car_dxo_glu;
+  Flow_ki_ve_dxo_glu: Cki_plasma_dxo_glu => Cve_dxo_glu; Qki*Cki_plasma_dxo_glu;
+  Flow_ar_re_dxo_glu: Car_dxo_glu => Cre_plasma_dxo_glu; Qre*Car_dxo_glu;
+  Flow_re_ve_dxo_glu: Cre_plasma_dxo_glu => Cve_dxo_glu; Qre*Cre_plasma_dxo_glu;
+  Flow_ar_gu_dxo_glu: Car_dxo_glu => Cgu_plasma_dxo_glu; Qgu*Car_dxo_glu;
+  Flow_gu_po_dxo_glu: Cgu_plasma_dxo_glu => Cpo_dxo_glu; Qgu*Cgu_plasma_dxo_glu;
+  Flow_ar_li_dxo_glu: Car_dxo_glu => Cli_plasma_dxo_glu; Qha*Car_dxo_glu;
+  Flow_po_li_dxo_glu: Cpo_dxo_glu => Cli_plasma_dxo_glu; Qpo*Cpo_dxo_glu;
+  Flow_li_hv_dxo_glu: Cli_plasma_dxo_glu => Chv_dxo_glu; Qh*Cli_plasma_dxo_glu;
+  Flow_hv_ve_dxo_glu: Chv_dxo_glu => Cve_dxo_glu; Qh*Chv_dxo_glu;
+  transport_ki_mm in Vki_tissue: Cki_plasma_mm -> Cki_mm; (ftissue_fast*BW/BW_ref)*(Cki_plasma_mm*Kp_mm - Cki_mm);
+  transport_li_mm in Vli_tissue: Cli_plasma_mm -> Cli_mm; (ftissue_fast*BW/BW_ref)*(Cli_plasma_mm*Kp_mm - Cli_mm);
+  transport_lu_mm in Vlu_tissue: Clu_plasma_mm -> Clu_mm; (ftissue_mm*BW/BW_ref)*(Clu_plasma_mm*Kp_mm - Clu_mm);
+  transport_gu_mm in Vgu_tissue: Cgu_plasma_mm -> Cgu_mm; (ftissue_fast*BW/BW_ref)*(Cgu_plasma_mm*Kp_mm - Cgu_mm);
+  transport_re_mm in Vre_tissue: Cre_plasma_mm -> Cre_mm; (ftissue_mm*BW/BW_ref)*(Cre_plasma_mm*Kp_mm - Cre_mm);
+  Flow_ve_lu_mm: Cve_mm => Clu_plasma_mm; Qlu*Cve_mm;
+  Flow_lu_ar_mm: Clu_plasma_mm => Car_mm; Qlu*Clu_plasma_mm;
+  Flow_ar_ki_mm: Car_mm => Cki_plasma_mm; Qki*Car_mm;
+  Flow_ki_ve_mm: Cki_plasma_mm => Cve_mm; Qki*Cki_plasma_mm;
+  Flow_ar_re_mm: Car_mm => Cre_plasma_mm; Qre*Car_mm;
+  Flow_re_ve_mm: Cre_plasma_mm => Cve_mm; Qre*Cre_plasma_mm;
+  Flow_ar_gu_mm: Car_mm => Cgu_plasma_mm; Qgu*Car_mm;
+  Flow_gu_po_mm: Cgu_plasma_mm => Cpo_mm; Qgu*Cgu_plasma_mm;
+  Flow_ar_li_mm: Car_mm => Cli_plasma_mm; Qha*Car_mm;
+  Flow_po_li_mm: Cpo_mm => Cli_plasma_mm; Qpo*Cpo_mm;
+  Flow_li_hv_mm: Cli_plasma_mm => Chv_mm; Qh*Cli_plasma_mm;
+  Flow_hv_ve_mm: Chv_mm => Cve_mm; Qh*Chv_mm;
+  KI__DXMEX: Cki_plasma_dxm => Aurine_dxm; KI__GFR*0.001 KI__l_per_ml*fu_dxm*KI__DXMEX_f*Cki_plasma_dxm;
+  KI__DXOEX: Cki_plasma_dxo => Aurine_dxo; KI__GFR*0.001 KI__l_per_ml*fu_dxo*KI__DXOEX_f*Cki_plasma_dxo;
+  KI__DXOGLUEX: Cki_plasma_dxo_glu => Aurine_dxo_glu; KI__GFR*0.001 KI__l_per_ml*fu_dxo_glu*KI__DXOGLUEX_f*Cki_plasma_dxo_glu;
+  KI__MMEX: Cki_plasma_mm => Aurine_mm; KI__GFR*0.001 KI__l_per_ml*fu_mm*KI__MMEX_f*Cki_plasma_mm;
+  LI__DXMCYP2D6 in Vli_tissue: Cli_dxm => Cli_dxo; (LI__f_cyp2d6*LI__cyp2d6_activity/LI__cyp2d6_activity_ref)*LI__DXMCYP2D6_Vmax*Vli_tissue*Cli_dxm/(LI__DXMCYP2D6_Km_dxm + Cli_dxm);
+  LI__DXMCYPX in Vli_tissue: Cli_dxm => Cli_dxo; LI__f_cyp3a4*LI__DXMCYPX_Vmax*Vli_tissue*Cli_dxm/(LI__DXMCYPX_Km_dxm + Cli_dxm);
+  LI__DXMNDM in Vli_tissue: Cli_dxm => Cli_mm; LI__f_cyp3a4*LI__DXMNDM_Vmax*Vli_tissue*Cli_dxm/(LI__DXMNDM_Km_dxm + Cli_dxm);
+  LI__DXONDM in Vli_tissue: Cli_dxo => Cli_mm; LI__f_cyp3a4*LI__DXONDM_Vmax*Vli_tissue*Cli_dxo/(LI__DXONDM_Km_dxo + Cli_dxo);
+  LI__DXOUGT in Vli_tissue: Cli_dxo => Cli_dxo_glu; LI__f_ugt2b15*LI__DXOUGT_Vmax*Vli_tissue*Cli_dxo/(LI__DXOUGT_Km_dxo + Cli_dxo);
+  GU__DXMABS in GU__Vapical: Cgulumen_dxm => Cgu_plasma_dxm; GU__F_dxm_abs*GU__absorption_dxm;
+  GU__DXMEXC in Vgulumen: Cgulumen_dxm => Afeces_dxm; (1 dimensionless - GU__F_dxm_abs)*GU__absorption_dxm;
+
+  // Species initializations:
+  Cki_plasma_dxm = 0;
+  Cki_plasma_dxm has mM;
+  Cli_plasma_dxm = 0;
+  Cli_plasma_dxm has mM;
+  Clu_plasma_dxm = 0;
+  Clu_plasma_dxm has mM;
+  Cgu_plasma_dxm = 0;
+  Cgu_plasma_dxm has mM;
+  Cre_plasma_dxm = 0;
+  Cre_plasma_dxm has mM;
+  Car_dxm = 0;
+  Car_dxm has mM;
+  Cve_dxm = 0;
+  Cve_dxm has mM;
+  Cpo_dxm = 0;
+  Cpo_dxm has mM;
+  Chv_dxm = 0;
+  Chv_dxm has mM;
+  Cki_dxm = 0;
+  Cki_dxm has mM;
+  Cli_dxm = 0;
+  Cli_dxm has mM;
+  Clu_dxm = 0;
+  Clu_dxm has mM;
+  Cgu_dxm = 0;
+  Cgu_dxm has mM;
+  Cre_dxm = 0;
+  Cre_dxm has mM;
+  Aurine_dxm = 0;
+  Aurine_dxm has mmole;
+  Cki_plasma_dxo = 0;
+  Cki_plasma_dxo has mM;
+  Cli_plasma_dxo = 0;
+  Cli_plasma_dxo has mM;
+  Clu_plasma_dxo = 0;
+  Clu_plasma_dxo has mM;
+  Cgu_plasma_dxo = 0;
+  Cgu_plasma_dxo has mM;
+  Cre_plasma_dxo = 0;
+  Cre_plasma_dxo has mM;
+  Car_dxo = 0;
+  Car_dxo has mM;
+  Cve_dxo = 0;
+  Cve_dxo has mM;
+  Cpo_dxo = 0;
+  Cpo_dxo has mM;
+  Chv_dxo = 0;
+  Chv_dxo has mM;
+  Cki_dxo = 0;
+  Cki_dxo has mM;
+  Cli_dxo = 0;
+  Cli_dxo has mM;
+  Clu_dxo = 0;
+  Clu_dxo has mM;
+  Cgu_dxo = 0;
+  Cgu_dxo has mM;
+  Cre_dxo = 0;
+  Cre_dxo has mM;
+  Aurine_dxo = 0;
+  Aurine_dxo has mmole;
+  Cki_plasma_dxo_glu = 0;
+  Cki_plasma_dxo_glu has mM;
+  Cli_plasma_dxo_glu = 0;
+  Cli_plasma_dxo_glu has mM;
+  Clu_plasma_dxo_glu = 0;
+  Clu_plasma_dxo_glu has mM;
+  Cgu_plasma_dxo_glu = 0;
+  Cgu_plasma_dxo_glu has mM;
+  Cre_plasma_dxo_glu = 0;
+  Cre_plasma_dxo_glu has mM;
+  Car_dxo_glu = 0;
+  Car_dxo_glu has mM;
+  Cve_dxo_glu = 0;
+  Cve_dxo_glu has mM;
+  Cpo_dxo_glu = 0;
+  Cpo_dxo_glu has mM;
+  Chv_dxo_glu = 0;
+  Chv_dxo_glu has mM;
+  Cki_dxo_glu = 0;
+  Cki_dxo_glu has mM;
+  Cli_dxo_glu = 0;
+  Cli_dxo_glu has mM;
+  Clu_dxo_glu = 0;
+  Clu_dxo_glu has mM;
+  Cgu_dxo_glu = 0;
+  Cgu_dxo_glu has mM;
+  Cre_dxo_glu = 0;
+  Cre_dxo_glu has mM;
+  Aurine_dxo_glu = 0;
+  Aurine_dxo_glu has mmole;
+  Cki_plasma_mm = 0;
+  Cki_plasma_mm has mM;
+  Cli_plasma_mm = 0;
+  Cli_plasma_mm has mM;
+  Clu_plasma_mm = 0;
+  Clu_plasma_mm has mM;
+  Cgu_plasma_mm = 0;
+  Cgu_plasma_mm has mM;
+  Cre_plasma_mm = 0;
+  Cre_plasma_mm has mM;
+  Car_mm = 0;
+  Car_mm has mM;
+  Cve_mm = 0;
+  Cve_mm has mM;
+  Cpo_mm = 0;
+  Cpo_mm has mM;
+  Chv_mm = 0;
+  Chv_mm has mM;
+  Cki_mm = 0;
+  Cki_mm has mM;
+  Cli_mm = 0;
+  Cli_mm has mM;
+  Clu_mm = 0;
+  Clu_mm has mM;
+  Cgu_mm = 0;
+  Cgu_mm has mM;
+  Cre_mm = 0;
+  Cre_mm has mM;
+  Aurine_mm = 0;
+  Aurine_mm has mmole;
+  Cgulumen_dxm = 0;
+  Cgulumen_dxm has mM;
+  Afeces_dxm = 0;
+  Afeces_dxm has mmole;
+  GU__dxm_stomach = 0;
+  GU__dxm_stomach has GU__mmole;
+  Vki has litre;
+  Vli has litre;
+  Vlu has litre;
+  Vgu has litre;
+  Vre has litre;
+  Var has litre;
+  Vve has litre;
+  Vpo has litre;
+  Vhv has litre;
+
+  // Compartment initializations:
+  Vurine = 1;
+  Vurine has litre;
+  Vfeces = 1;
+  Vfeces has litre;
+  Vstomach = 1;
+  Vstomach has litre;
+  Vgulumen has litre;
+  Vki_tissue has litre;
+  Vki_plasma has litre;
+  Vli_tissue has litre;
+  Vli_plasma has litre;
+  Vlu_tissue has litre;
+  Vlu_plasma has litre;
+  Vgu_tissue has litre;
+  Vgu_plasma has litre;
+  Vre_tissue has litre;
+  Vre_plasma has litre;
+  LI__Vmem = NaN;
+  LI__Vmem has LI__m2;
+  GU__Vapical = NaN;
+  GU__Vapical has GU__m2;
+
+  // Variable initializations:
+  BW = 75;
+  BW has kg;
+  FVki = 0.0044;
+  FVki has l_per_kg;
+  FVli = 0.021;
+  FVli has l_per_kg;
+  FVlu = 0.0076;
+  FVlu has l_per_kg;
+  FVgu = 0.0171;
+  FVgu has l_per_kg;
+  FVre has l_per_kg;
+  FVar = 0.0257;
+  FVar has l_per_kg;
+  FVve = 0.0514;
+  FVve has l_per_kg;
+  Fblood = 0.02;
+  Fblood has dimensionless;
+  HCT = 0.51;
+  HCT has dimensionless;
+  FVpo = 0.001;
+  FVpo has l_per_kg;
+  FVhv = 0.001;
+  FVhv has l_per_kg;
+  f_lumen = 0.9;
+  f_lumen has dimensionless;
+  BW_ref = 75;
+  BW_ref has kg;
+  COBW = 1.548;
+  COBW has ml_per_s_kg;
+  CO has ml_per_s;
+  QC has litre_per_min;
+  FQgu = 0.18;
+  FQgu has dimensionless;
+  FQki = 0.19;
+  FQki has dimensionless;
+  FQh = 0.215;
+  FQh has dimensionless;
+  FQlu = 1;
+  FQlu has dimensionless;
+  FQre has dimensionless;
+  ftissue_fast = 100;
+  ftissue_fast has litre_per_min;
+  f_GFR_Qki = 76.3105006271061;
+  f_GFR_Qki has ml_per_l;
+  GFR_base has ml_per_min;
+  Qki has litre_per_min;
+  Mr_dxm = 271.404;
+  Mr_dxm has g_per_mole;
+  ftissue_dxm = 100;
+  ftissue_dxm has litre_per_min;
+  Kp_dxm = 9.48805754878147;
+  Kp_dxm has dimensionless;
+  IVDOSE_dxm = 0;
+  IVDOSE_dxm has mg;
+  Ri_dxm = 0;
+  Ri_dxm has mg_per_min;
+  ti_dxm = 10;
+  ti_dxm has second;
+  Ki_dxm has per_min;
+  cum_dose_dxm = 0;
+  cum_dose_dxm has mg;
+  PODOSE_dxm = 0;
+  PODOSE_dxm has mg;
+  Ka_dis_dxm = 0.401682131288553;
+  Ka_dis_dxm has per_hr;
+  Mr_dxo = 257.37066;
+  Mr_dxo has g_per_mole;
+  ftissue_dxo = 100;
+  ftissue_dxo has litre_per_min;
+  Kp_dxo = 4;
+  Kp_dxo has dimensionless;
+  Mr_dxo_glu = 433.49478;
+  Mr_dxo_glu has g_per_mole;
+  ftissue_dxo_glu = 3;
+  ftissue_dxo_glu has litre_per_min;
+  Kp_dxo_glu = 0.01;
+  Kp_dxo_glu has dimensionless;
+  Mr_mm = 257.37066;
+  Mr_mm has g_per_mole;
+  ftissue_mm = 10;
+  ftissue_mm has litre_per_min;
+  Kp_mm = 0.0932977851429064;
+  Kp_mm has dimensionless;
+  fu_dxm = 0.5;
+  fu_dxm has dimensionless;
+  fu_dxo = 0.55;
+  fu_dxo has dimensionless;
+  fu_dxo_glu = 0.44;
+  fu_dxo_glu has dimensionless;
+  fu_mm = 0.5;
+  fu_mm has dimensionless;
+  Qgu has litre_per_min;
+  Qh has litre_per_min;
+  Qha has litre_per_min;
+  Qlu has litre_per_min;
+  Qre has litre_per_min;
+  Qpo has litre_per_min;
+  Ave_dxm has mmole;
+  Mve_dxm has mg_per_l;
+  Xurine_dxm has mg;
+  Ave_dxo has mmole;
+  Mve_dxo has mg_per_l;
+  Xurine_dxo has mg;
+  Ave_dxo_glu has mmole;
+  Mve_dxo_glu has mg_per_l;
+  Xurine_dxo_glu has mg;
+  Ave_mm has mmole;
+  Mve_mm has mg_per_l;
+  Xurine_mm has mg;
+  Xfeces_dxm has mg;
+  dxo_total has mmole_per_l;
+  dxm_dxo has dimensionless;
+  dxm_dxo_total has dimensionless;
+  Aurine_dxo_total has mmole;
+  dxm_dxo_urine has dimensionless;
+  dxm_dxo_total_urine has dimensionless;
+  KI__f_renal_function = 1;
+  KI__f_renal_function has dimensionless;
+  KI__GFR has KI__ml_per_min;
+  KI__DXMEX_f = 0.656113552124429;
+  KI__DXMEX_f has dimensionless;
+  KI__DXOEX_f = 1.86913741202018;
+  KI__DXOEX_f has dimensionless;
+  KI__DXOGLUEX_f = 2.2657913496198;
+  KI__DXOGLUEX_f has dimensionless;
+  KI__MMEX_f = 1.66127389767754;
+  KI__MMEX_f has dimensionless;
+  LI__cyp2d6_a0 = 1;
+  LI__cyp2d6_a0 has dimensionless;
+  LI__cyp2d6_a1 = 0.25;
+  LI__cyp2d6_a1 has dimensionless;
+  LI__cyp2d6_a2 = 0;
+  LI__cyp2d6_a2 has dimensionless;
+  LI__cyp2d6_a3 = 0;
+  LI__cyp2d6_a3 has dimensionless;
+  LI__cyp2d6_a4 = 0.5;
+  LI__cyp2d6_a4 has dimensionless;
+  LI__cyp2d6_a5 = 0;
+  LI__cyp2d6_a5 has dimensionless;
+  LI__cyp2d6_a6 = 0;
+  LI__cyp2d6_a6 has dimensionless;
+  LI__cyp2d6_a7 = 0;
+  LI__cyp2d6_a7 has dimensionless;
+  LI__cyp2d6_a8 = 0;
+  LI__cyp2d6_a8 has dimensionless;
+  LI__cyp2d6_a9 = 0;
+  LI__cyp2d6_a9 has dimensionless;
+  LI__cyp2d6_a10 = 0;
+  LI__cyp2d6_a10 has dimensionless;
+  LI__cyp2d6_a11 = 0;
+  LI__cyp2d6_a11 has dimensionless;
+  LI__cyp2d6_a12 = 0.5;
+  LI__cyp2d6_a12 has dimensionless;
+  LI__cyp2d6_a13 = 0;
+  LI__cyp2d6_a13 has dimensionless;
+  LI__cyp2d6_a14 = 0.5;
+  LI__cyp2d6_a14 has dimensionless;
+  LI__cyp2d6_a15 = 1;
+  LI__cyp2d6_a15 has dimensionless;
+  LI__cyp2d6_a16 = 0;
+  LI__cyp2d6_a16 has dimensionless;
+  LI__cyp2d6_a17 = 0;
+  LI__cyp2d6_a17 has dimensionless;
+  LI__cyp2d6_a18 = 2;
+  LI__cyp2d6_a18 has dimensionless;
+  LI__cyp2d6_a19 = 3;
+  LI__cyp2d6_a19 has dimensionless;
+  LI__cyp2d6_a20 = 4;
+  LI__cyp2d6_a20 has dimensionless;
+  LI__cyp2d6_a21 = 5;
+  LI__cyp2d6_a21 has dimensionless;
+  LI__cyp2d6_a22 = 6;
+  LI__cyp2d6_a22 has dimensionless;
+  LI__cyp2d6_a23 = 1;
+  LI__cyp2d6_a23 has dimensionless;
+  LI__cyp2d6_a24 = 0;
+  LI__cyp2d6_a24 has dimensionless;
+  LI__cyp2d6_a25 = 0;
+  LI__cyp2d6_a25 has dimensionless;
+  LI__cyp2d6_a26 = 1;
+  LI__cyp2d6_a26 has dimensionless;
+  LI__cyp2d6_a27 = 0.5;
+  LI__cyp2d6_a27 has dimensionless;
+  LI__cyp2d6_a28 = 1;
+  LI__cyp2d6_a28 has dimensionless;
+  LI__cyp2d6_a29 = 2;
+  LI__cyp2d6_a29 has dimensionless;
+  LI__cyp2d6_a30 = 3;
+  LI__cyp2d6_a30 has dimensionless;
+  LI__cyp2d6_a31 = 4;
+  LI__cyp2d6_a31 has dimensionless;
+  LI__cyp2d6_a32 = 5;
+  LI__cyp2d6_a32 has dimensionless;
+  LI__cyp2d6_a33 = 6;
+  LI__cyp2d6_a33 has dimensionless;
+  LI__cyp2d6_a34 = 0;
+  LI__cyp2d6_a34 has dimensionless;
+  LI__cyp2d6_a35 = 0;
+  LI__cyp2d6_a35 has dimensionless;
+  LI__cyp2d6_a36 = 1;
+  LI__cyp2d6_a36 has dimensionless;
+  LI__cyp2d6_a37 = 1;
+  LI__cyp2d6_a37 has dimensionless;
+  LI__cyp2d6_a38 = 1;
+  LI__cyp2d6_a38 has dimensionless;
+  LI__cyp2d6_a39 = 2;
+  LI__cyp2d6_a39 has dimensionless;
+  LI__cyp2d6_a40 = 0;
+  LI__cyp2d6_a40 has dimensionless;
+  LI__cyp2d6_a41 = 0;
+  LI__cyp2d6_a41 has dimensionless;
+  LI__cyp2d6_a42 = 0;
+  LI__cyp2d6_a42 has dimensionless;
+  LI__cyp2d6_a43 = 1;
+  LI__cyp2d6_a43 has dimensionless;
+  LI__cyp2d6_a44 = 0;
+  LI__cyp2d6_a44 has dimensionless;
+  LI__cyp2d6_a45 = 0;
+  LI__cyp2d6_a45 has dimensionless;
+  LI__cyp2d6_a46 = 0;
+  LI__cyp2d6_a46 has dimensionless;
+  LI__cyp2d6_a47 = 0.5;
+  LI__cyp2d6_a47 has dimensionless;
+  LI__cyp2d6_a48 = 1;
+  LI__cyp2d6_a48 has dimensionless;
+  LI__cyp2d6_a49 = 1.5;
+  LI__cyp2d6_a49 has dimensionless;
+  LI__cyp2d6_a50 = 0;
+  LI__cyp2d6_a50 has dimensionless;
+  LI__cyp2d6_a51 = 0;
+  LI__cyp2d6_a51 has dimensionless;
+  LI__cyp2d6_a52 = 1;
+  LI__cyp2d6_a52 has dimensionless;
+  LI__cyp2d6_a53 = 2;
+  LI__cyp2d6_a53 has dimensionless;
+  LI__cyp2d6_a54 = 1;
+  LI__cyp2d6_a54 has dimensionless;
+  LI__cyp2d6_a55 = 0;
+  LI__cyp2d6_a55 has dimensionless;
+  LI__cyp2d6_a56 = 1;
+  LI__cyp2d6_a56 has dimensionless;
+  LI__cyp2d6_a57 = 0.5;
+  LI__cyp2d6_a57 has dimensionless;
+  LI__cyp2d6_a58 = 0;
+  LI__cyp2d6_a58 has dimensionless;
+  LI__cyp2d6_a59 = 0;
+  LI__cyp2d6_a59 has dimensionless;
+  LI__cyp2d6_a60 = 0;
+  LI__cyp2d6_a60 has dimensionless;
+  LI__cyp2d6_a61 = 0;
+  LI__cyp2d6_a61 has dimensionless;
+  LI__cyp2d6_a62 = 0;
+  LI__cyp2d6_a62 has dimensionless;
+  LI__cyp2d6_a63 = 0.5;
+  LI__cyp2d6_a63 has dimensionless;
+  LI__cyp2d6_a64 = 0;
+  LI__cyp2d6_a64 has dimensionless;
+  LI__cyp2d6_a65 = 1;
+  LI__cyp2d6_a65 has dimensionless;
+  LI__cyp2d6_a66 = 0.5;
+  LI__cyp2d6_a66 has dimensionless;
+  LI__cyp2d6_a67 = 0.5;
+  LI__cyp2d6_a67 has dimensionless;
+  LI__cyp2d6_a68 = 0;
+  LI__cyp2d6_a68 has dimensionless;
+  LI__cyp2d6_a69 = 0;
+  LI__cyp2d6_a69 has dimensionless;
+  LI__cyp2d6_a70 = 0.5;
+  LI__cyp2d6_a70 has dimensionless;
+  LI__cyp2d6_a71 = 0;
+  LI__cyp2d6_a71 has dimensionless;
+  LI__cyp2d6_a72 = 0;
+  LI__cyp2d6_a72 has dimensionless;
+  LI__cyp2d6_a73 = 0;
+  LI__cyp2d6_a73 has dimensionless;
+  LI__cyp2d6_a74 = 0;
+  LI__cyp2d6_a74 has dimensionless;
+  LI__cyp2d6_a75 = 0;
+  LI__cyp2d6_a75 has dimensionless;
+  LI__cyp2d6_a76 = 0;
+  LI__cyp2d6_a76 has dimensionless;
+  LI__cyp2d6_a77 = 0;
+  LI__cyp2d6_a77 has dimensionless;
+  LI__cyp2d6_a78 = 0;
+  LI__cyp2d6_a78 has dimensionless;
+  LI__cyp2d6_a79 = 0;
+  LI__cyp2d6_a79 has dimensionless;
+  LI__cyp2d6_a80 = 0.5;
+  LI__cyp2d6_a80 has dimensionless;
+  LI__cyp2d6_a81 = 0;
+  LI__cyp2d6_a81 has dimensionless;
+  LI__cyp2d6_a82 = 0;
+  LI__cyp2d6_a82 has dimensionless;
+  LI__cyp2d6_a83 = 0;
+  LI__cyp2d6_a83 has dimensionless;
+  LI__cyp2d6_a84 = 1;
+  LI__cyp2d6_a84 has dimensionless;
+  LI__cyp2d6_ac = 1;
+  LI__cyp2d6_ac has dimensionless;
+  LI__cyp2d6_allele1 = 0;
+  LI__cyp2d6_allele1 has dimensionless;
+  LI__cyp2d6_allele2 = 0;
+  LI__cyp2d6_allele2 has dimensionless;
+  LI__cyp2d6_activity1 has dimensionless;
+  LI__cyp2d6_activity2 has dimensionless;
+  LI__f_cyp2d6 = 1;
+  LI__f_cyp2d6 has dimensionless;
+  LI__f_cyp3a4 = 1;
+  LI__f_cyp3a4 has dimensionless;
+  LI__f_ugt2b15 = 1;
+  LI__f_ugt2b15 has dimensionless;
+  LI__cyp2d6_activity_ref = 2;
+  LI__cyp2d6_activity_ref has dimensionless;
+  LI__DXMCYP2D6_Vmax = 0.00590550755641818;
+  LI__DXMCYP2D6_Vmax has LI__mmole_per_min_l;
+  LI__DXMCYP2D6_Km_dxm = 0.004;
+  LI__DXMCYP2D6_Km_dxm has LI__mM;
+  LI__DXMCYPX_Vmax = 0.000454889875045166;
+  LI__DXMCYPX_Vmax has LI__mmole_per_min_l;
+  LI__DXMCYPX_Km_dxm = 0.157;
+  LI__DXMCYPX_Km_dxm has LI__mM;
+  LI__DXMNDM_Vmax = 0.00117141808294257;
+  LI__DXMNDM_Vmax has LI__mmole_per_min_l;
+  LI__DXMNDM_Km_dxm = 0.7;
+  LI__DXMNDM_Km_dxm has LI__mM;
+  LI__DXONDM_Vmax = 0.322454464355667;
+  LI__DXONDM_Vmax has LI__mmole_per_min_l;
+  LI__DXONDM_Km_dxo = 0.72;
+  LI__DXONDM_Km_dxo has LI__mM;
+  LI__DXOUGT_Vmax = 0.636675714500387;
+  LI__DXOUGT_Vmax has LI__mmole_per_min_l;
+  LI__DXOUGT_Km_dxo = 0.69;
+  LI__DXOUGT_Km_dxo has LI__mM;
+  LI__cyp2d6_activity has dimensionless;
+  GU__F_dxm_abs = 0.523770919743564;
+  GU__F_dxm_abs has dimensionless;
+  GU__DXMABS_k = 0.08;
+  GU__DXMABS_k has GU__per_min;
+  GU__absorption_dxm has GU__mmole_per_min;
+
+  // Other declarations:
+  var Vki, Vli, Vlu, Vgu, Vre, FVre, Var, Vve, Vpo, Vhv, Vgulumen, Vki_tissue;
+  var Vki_plasma, Vli_tissue, Vli_plasma, Vlu_tissue, Vlu_plasma, Vgu_tissue;
+  var Vgu_plasma, Vre_tissue, Vre_plasma, CO, QC, FQre, GFR_base, Qki, IVDOSE_dxm;
+  var Ki_dxm, cum_dose_dxm, PODOSE_dxm, Qgu, Qh, Qha, Qlu, Qre, Qpo, Ave_dxm;
+  var Mve_dxm, Xurine_dxm, Ave_dxo, Mve_dxo, Xurine_dxo, Ave_dxo_glu, Mve_dxo_glu;
+  var Xurine_dxo_glu, Ave_mm, Mve_mm, Xurine_mm, Xfeces_dxm, dxo_total, dxm_dxo;
+  var dxm_dxo_total, Aurine_dxo_total, dxm_dxo_urine, dxm_dxo_total_urine;
+  var KI__GFR, LI__cyp2d6_allele1, LI__cyp2d6_allele2, LI__cyp2d6_activity1;
+  var LI__cyp2d6_activity2, LI__cyp2d6_activity, GU__absorption_dxm;
+  const BW, FVki, FVli, FVlu, FVgu, FVar, FVve, Fblood, HCT, FVpo, FVhv, Vurine;
+  const Vfeces, Vstomach, f_lumen, LI__Vmem, GU__Vapical, BW_ref, COBW, FQgu;
+  const FQki, FQh, FQlu, ftissue_fast, f_GFR_Qki, Mr_dxm, ftissue_dxm, Kp_dxm;
+  const Ri_dxm, ti_dxm, Ka_dis_dxm, Mr_dxo, ftissue_dxo, Kp_dxo, Mr_dxo_glu;
+  const ftissue_dxo_glu, Kp_dxo_glu, Mr_mm, ftissue_mm, Kp_mm, fu_dxm, fu_dxo;
+  const fu_dxo_glu, fu_mm, KI__f_renal_function, KI__DXMEX_f, KI__DXOEX_f;
+  const KI__DXOGLUEX_f, KI__MMEX_f, LI__cyp2d6_a0, LI__cyp2d6_a1, LI__cyp2d6_a2;
+  const LI__cyp2d6_a3, LI__cyp2d6_a4, LI__cyp2d6_a5, LI__cyp2d6_a6, LI__cyp2d6_a7;
+  const LI__cyp2d6_a8, LI__cyp2d6_a9, LI__cyp2d6_a10, LI__cyp2d6_a11, LI__cyp2d6_a12;
+  const LI__cyp2d6_a13, LI__cyp2d6_a14, LI__cyp2d6_a15, LI__cyp2d6_a16, LI__cyp2d6_a17;
+  const LI__cyp2d6_a18, LI__cyp2d6_a19, LI__cyp2d6_a20, LI__cyp2d6_a21, LI__cyp2d6_a22;
+  const LI__cyp2d6_a23, LI__cyp2d6_a24, LI__cyp2d6_a25, LI__cyp2d6_a26, LI__cyp2d6_a27;
+  const LI__cyp2d6_a28, LI__cyp2d6_a29, LI__cyp2d6_a30, LI__cyp2d6_a31, LI__cyp2d6_a32;
+  const LI__cyp2d6_a33, LI__cyp2d6_a34, LI__cyp2d6_a35, LI__cyp2d6_a36, LI__cyp2d6_a37;
+  const LI__cyp2d6_a38, LI__cyp2d6_a39, LI__cyp2d6_a40, LI__cyp2d6_a41, LI__cyp2d6_a42;
+  const LI__cyp2d6_a43, LI__cyp2d6_a44, LI__cyp2d6_a45, LI__cyp2d6_a46, LI__cyp2d6_a47;
+  const LI__cyp2d6_a48, LI__cyp2d6_a49, LI__cyp2d6_a50, LI__cyp2d6_a51, LI__cyp2d6_a52;
+  const LI__cyp2d6_a53, LI__cyp2d6_a54, LI__cyp2d6_a55, LI__cyp2d6_a56, LI__cyp2d6_a57;
+  const LI__cyp2d6_a58, LI__cyp2d6_a59, LI__cyp2d6_a60, LI__cyp2d6_a61, LI__cyp2d6_a62;
+  const LI__cyp2d6_a63, LI__cyp2d6_a64, LI__cyp2d6_a65, LI__cyp2d6_a66, LI__cyp2d6_a67;
+  const LI__cyp2d6_a68, LI__cyp2d6_a69, LI__cyp2d6_a70, LI__cyp2d6_a71, LI__cyp2d6_a72;
+  const LI__cyp2d6_a73, LI__cyp2d6_a74, LI__cyp2d6_a75, LI__cyp2d6_a76, LI__cyp2d6_a77;
+  const LI__cyp2d6_a78, LI__cyp2d6_a79, LI__cyp2d6_a80, LI__cyp2d6_a81, LI__cyp2d6_a82;
+  const LI__cyp2d6_a83, LI__cyp2d6_a84, LI__cyp2d6_ac, LI__f_cyp2d6, LI__f_cyp3a4;
+  const LI__f_ugt2b15, LI__cyp2d6_activity_ref, LI__DXMCYP2D6_Vmax, LI__DXMCYP2D6_Km_dxm;
+  const LI__DXMCYPX_Vmax, LI__DXMCYPX_Km_dxm, LI__DXMNDM_Vmax, LI__DXMNDM_Km_dxm;
+  const LI__DXONDM_Vmax, LI__DXONDM_Km_dxo, LI__DXOUGT_Vmax, LI__DXOUGT_Km_dxo;
+  const GU__F_dxm_abs, GU__DXMABS_k;
+
+  // Unit definitions:
+  unit g_per_mole = gram / mole;
+  unit hr = 3600 second;
+  unit kg = 1000 gram;
+  unit l_per_kg = litre / 1000 gram;
+  unit litre_per_min = litre / 60 second;
+  unit l_per_ml = litre / 0.001 litre;
+  unit m2 = metre^2;
+  unit mM = 0.001 mole / litre;
+  unit mg = 0.001 gram;
+  unit mg_per_l = 0.001 gram / litre;
+  unit mg_per_min = 0.001 gram / 60 second;
+  unit microM = 1e-06 mole / litre;
+  unit min_unit = 60 second;
+  unit min_per_hr = 60 second / 3600 second;
+  unit ml = 0.001 litre;
+  unit ml_per_l = 0.001 litre / litre;
+  unit ml_per_min = 0.001 litre / 60 second;
+  unit ml_per_s = 0.001 litre / second;
+  unit ml_per_s_kg = 0.001 litre / (second * 1000 gram);
+  unit mmole = 0.001 mole;
+  unit mmole_per_l = 0.001 mole / litre;
+  unit mmole_per_min = 0.001 mole / 60 second;
+  unit mmole_per_min_l = 0.001 mole / (60 second * litre);
+  unit per_hr = 1 / 3600 second;
+  unit per_min = 1 / 60 second;
+  unit s_per_min = second / 60 second;
+  unit KI__g_per_mole = gram / mole;
+  unit KI__litre_per_min = litre / 60 second;
+  unit KI__l_per_ml = litre / 0.001 litre;
+  unit KI__m2 = metre^2;
+  unit KI__mM = 0.001 mole / litre;
+  unit KI__mg = 0.001 gram;
+  unit KI__microM = 1e-06 mole / litre;
+  unit KI__min = 60 second;
+  unit KI__min_per_hr = 60 second / 3600 second;
+  unit KI__ml_per_min = 0.001 litre / 60 second;
+  unit KI__mmole = 0.001 mole;
+  unit KI__mmole_per_min = 0.001 mole / 60 second;
+  unit KI__mmole_per_min_l = 0.001 mole / (60 second * litre);
+  unit KI__per_hr = 1 / 3600 second;
+  unit KI__per_min = 1 / 60 second;
+  unit LI__g_per_mole = gram / mole;
+  unit LI__litre_per_min = litre / 60 second;
+  unit LI__l_per_ml = litre / 0.001 litre;
+  unit LI__m2 = metre^2;
+  unit LI__mM = 0.001 mole / litre;
+  unit LI__mg = 0.001 gram;
+  unit LI__microM = 1e-06 mole / litre;
+  unit LI__min = 60 second;
+  unit LI__min_per_hr = 60 second / 3600 second;
+  unit LI__ml_per_min = 0.001 litre / 60 second;
+  unit LI__mmole = 0.001 mole;
+  unit LI__mmole_per_min = 0.001 mole / 60 second;
+  unit LI__mmole_per_min_l = 0.001 mole / (60 second * litre);
+  unit LI__per_hr = 1 / 3600 second;
+  unit LI__per_min = 1 / 60 second;
+  unit GU__g_per_mole = gram / mole;
+  unit GU__litre_per_min = litre / 60 second;
+  unit GU__l_per_ml = litre / 0.001 litre;
+  unit GU__m2 = metre^2;
+  unit GU__mM = 0.001 mole / litre;
+  unit GU__mg = 0.001 gram;
+  unit GU__mg_per_min = 0.001 gram / 60 second;
+  unit GU__microM = 1e-06 mole / litre;
+  unit GU__min = 60 second;
+  unit GU__min_per_hr = 60 second / 3600 second;
+  unit GU__ml_per_min = 0.001 litre / 60 second;
+  unit GU__mmole = 0.001 mole;
+  unit GU__mmole_per_min = 0.001 mole / 60 second;
+  unit GU__mmole_per_min_l = 0.001 mole / (60 second * litre);
+  unit GU__per_hr = 1 / 3600 second;
+  unit GU__per_min = 1 / 60 second;
+  unit length = metre;
+  unit area = m2;
+  unit volume = litre;
+  unit substance = mmole;
+  unit extent = mmole;
+  unit time_unit = min_unit;
+  unit mmole_litre = 0.001 mole * litre;
+
+  // Display Names:
+  g_per_mole is "g/mole";
+  l_per_kg is "l/kg";
+  litre_per_min is "litre/min";
+  l_per_ml is "l/ml";
+  m2 is "meter^2";
+  mM is "mmole/liter";
+  mg_per_l is "mg/l";
+  mg_per_min is "mg/min";
+  microM is "micromole/liter";
+  min_unit is "min";
+  min_per_hr is "min/hr";
+  ml_per_l is "ml/l";
+  ml_per_min is "ml/min";
+  ml_per_s is "ml/s";
+  ml_per_s_kg is "ml/s/kg";
+  mmole_per_l is "mmole/l";
+  mmole_per_min is "mmole/min";
+  mmole_per_min_l is "mmole/min/liter";
+  per_hr is "1/hr";
+  per_min is "1/min";
+  s_per_min is "s/min";
+  KI__g_per_mole is "g/mole";
+  KI__litre_per_min is "litre/min";
+  KI__l_per_ml is "l/ml";
+  KI__m2 is "meter^2";
+  KI__mM is "mmole/liter";
+  KI__mg is "mg";
+  KI__microM is "micromole/liter";
+  KI__min is "min";
+  KI__min_per_hr is "min/hr";
+  KI__ml_per_min is "ml/min";
+  KI__mmole is "mmole";
+  KI__mmole_per_min is "mmole/min";
+  KI__mmole_per_min_l is "mmole/min/liter";
+  KI__per_hr is "1/hr";
+  KI__per_min is "1/min";
+  LI__g_per_mole is "g/mole";
+  LI__litre_per_min is "litre/min";
+  LI__l_per_ml is "l/ml";
+  LI__m2 is "meter^2";
+  LI__mM is "mmole/liter";
+  LI__mg is "mg";
+  LI__microM is "micromole/liter";
+  LI__min is "min";
+  LI__min_per_hr is "min/hr";
+  LI__ml_per_min is "ml/min";
+  LI__mmole is "mmole";
+  LI__mmole_per_min is "mmole/min";
+  LI__mmole_per_min_l is "mmole/min/liter";
+  LI__per_hr is "1/hr";
+  LI__per_min is "1/min";
+  GU__g_per_mole is "g/mole";
+  GU__litre_per_min is "litre/min";
+  GU__l_per_ml is "l/ml";
+  GU__m2 is "meter^2";
+  GU__mM is "mmole/liter";
+  GU__mg is "mg";
+  GU__mg_per_min is "mg/min";
+  GU__microM is "micromole/liter";
+  GU__min is "min";
+  GU__min_per_hr is "min/hr";
+  GU__ml_per_min is "ml/min";
+  GU__mmole is "mmole";
+  GU__mmole_per_min is "mmole/min";
+  GU__mmole_per_min_l is "mmole/min/liter";
+  GU__per_hr is "1/hr";
+  GU__per_min is "1/min";
+  Vki is "kidney";
+  BW is "body weight [kg]";
+  FVki is "kidney fractional tissue volume";
+  Vli is "liver";
+  FVli is "liver fractional tissue volume";
+  Vlu is "lung";
+  FVlu is "lung fractional tissue volume";
+  Vgu is "gut";
+  FVgu is "gut fractional tissue volume";
+  Vre is "rest";
+  FVre is "rest of body fractional tissue volume";
+  Var is "arterial blood";
+  FVar is "arterial fractional tissue volume";
+  FVve is "venous fractional tissue volume";
+  Fblood is "blood fraction of organ volume";
+  Vve is "venous blood";
+  Vpo is "portal vein";
+  HCT is "hematocrit";
+  FVpo is "portal fractional tissue volume";
+  FVhv is "hepatic venous fractional tissue volume";
+  Vhv is "hepatic vein";
+  Vurine is "urine";
+  Vfeces is "feces";
+  Vstomach is "stomach";
+  Vgulumen is "gut lumen";
+  f_lumen is "fraction lumen of intestine";
+  Vki_tissue is "ki tissue";
+  Vki_plasma is "ki plasma";
+  Vli_tissue is "li tissue";
+  Vli_plasma is "li plasma";
+  Vlu_tissue is "lu tissue";
+  Vlu_plasma is "lu plasma";
+  Vgu_tissue is "gu tissue";
+  Vgu_plasma is "gu plasma";
+  Vre_tissue is "re tissue";
+  Vre_plasma is "re plasma";
+  LI__Vmem is "plasma membrane";
+  GU__Vapical is "apical membrane (intestinal membrane enterocytes)";
+  Cki_plasma_dxm is "dextromethorphan (kidney plasma)";
+  Cli_plasma_dxm is "dextromethorphan (liver plasma)";
+  Clu_plasma_dxm is "dextromethorphan (lung plasma)";
+  Cgu_plasma_dxm is "dextromethorphan (gut plasma)";
+  Cre_plasma_dxm is "dextromethorphan (rest plasma)";
+  Car_dxm is "dextromethorphan (arterial blood plasma)";
+  Cve_dxm is "dextromethorphan (venous blood plasma)";
+  Cpo_dxm is "dextromethorphan (portal vein plasma)";
+  Chv_dxm is "dextromethorphan (hepatic vein plasma)";
+  Cki_dxm is "dextromethorphan (kidney)";
+  Cli_dxm is "dextromethorphan (liver)";
+  Clu_dxm is "dextromethorphan (lung)";
+  Cgu_dxm is "dextromethorphan (gut)";
+  Cre_dxm is "dextromethorphan (rest)";
+  Aurine_dxm is "dextromethorphan (urine)";
+  Cki_plasma_dxo is "dextrorphan (kidney plasma)";
+  Cli_plasma_dxo is "dextrorphan (liver plasma)";
+  Clu_plasma_dxo is "dextrorphan (lung plasma)";
+  Cgu_plasma_dxo is "dextrorphan (gut plasma)";
+  Cre_plasma_dxo is "dextrorphan (rest plasma)";
+  Car_dxo is "dextrorphan (arterial blood plasma)";
+  Cve_dxo is "dextrorphan (venous blood plasma)";
+  Cpo_dxo is "dextrorphan (portal vein plasma)";
+  Chv_dxo is "dextrorphan (hepatic vein plasma)";
+  Cki_dxo is "dextrorphan (kidney)";
+  Cli_dxo is "dextrorphan (liver)";
+  Clu_dxo is "dextrorphan (lung)";
+  Cgu_dxo is "dextrorphan (gut)";
+  Cre_dxo is "dextrorphan (rest)";
+  Aurine_dxo is "dextrorphan (urine)";
+  Cki_plasma_dxo_glu is "dextrorphan glucuronide (kidney plasma)";
+  Cli_plasma_dxo_glu is "dextrorphan glucuronide (liver plasma)";
+  Clu_plasma_dxo_glu is "dextrorphan glucuronide (lung plasma)";
+  Cgu_plasma_dxo_glu is "dextrorphan glucuronide (gut plasma)";
+  Cre_plasma_dxo_glu is "dextrorphan glucuronide (rest plasma)";
+  Car_dxo_glu is "dextrorphan glucuronide (arterial blood plasma)";
+  Cve_dxo_glu is "dextrorphan glucuronide (venous blood plasma)";
+  Cpo_dxo_glu is "dextrorphan glucuronide (portal vein plasma)";
+  Chv_dxo_glu is "dextrorphan glucuronide (hepatic vein plasma)";
+  Cki_dxo_glu is "dextrorphan glucuronide (kidney)";
+  Cli_dxo_glu is "dextrorphan glucuronide (liver)";
+  Clu_dxo_glu is "dextrorphan glucuronide (lung)";
+  Cgu_dxo_glu is "dextrorphan glucuronide (gut)";
+  Cre_dxo_glu is "dextrorphan glucuronide (rest)";
+  Aurine_dxo_glu is "dextrorphan glucuronide (urine)";
+  Cki_plasma_mm is "N-demethylated morphinans (kidney plasma)";
+  Cli_plasma_mm is "N-demethylated morphinans (liver plasma)";
+  Clu_plasma_mm is "N-demethylated morphinans (lung plasma)";
+  Cgu_plasma_mm is "N-demethylated morphinans (gut plasma)";
+  Cre_plasma_mm is "N-demethylated morphinans (rest plasma)";
+  Car_mm is "N-demethylated morphinans (arterial blood plasma)";
+  Cve_mm is "N-demethylated morphinans (venous blood plasma)";
+  Cpo_mm is "N-demethylated morphinans (portal vein plasma)";
+  Chv_mm is "N-demethylated morphinans (hepatic vein plasma)";
+  Cki_mm is "N-demethylated morphinans (kidney)";
+  Cli_mm is "N-demethylated morphinans (liver)";
+  Clu_mm is "N-demethylated morphinans (lung)";
+  Cgu_mm is "N-demethylated morphinans (gut)";
+  Cre_mm is "N-demethylated morphinans (rest)";
+  Aurine_mm is "N-demethylated morphinans (urine)";
+  Cgulumen_dxm is "dextromethorphan (gut lumen)";
+  Afeces_dxm is "dextromethorphan (feces)";
+  GU__dxm_stomach is "dextromethorphan (stomach)";
+  BW_ref is "reference body weight [kg]";
+  COBW is "cardiac output per bodyweight [ml/s/kg]";
+  CO is "cardiac output [ml/s]";
+  QC is "cardiac output [l/min]";
+  FQgu is "gut fractional tissue blood flow";
+  FQki is "kidney fractional tissue blood flow";
+  FQh is "hepatic (venous side) fractional tissue blood flow";
+  FQlu is "lung fractional tissue blood flow";
+  FQre is "rest of body fractional tissue blood flow";
+  ftissue_fast is "tissue distribution of the eliminating organs";
+  f_GFR_Qki is "relationship GFR and Qki";
+  GFR_base is "glomerular filtration rate (healthy)";
+  Qki is "kidney blood flow";
+  Mr_dxm is "Molecular weight dxm [g/mole]";
+  ftissue_dxm is "tissue distribution dxm";
+  Kp_dxm is "tissue/plasma partition coefficient dxm";
+  IVDOSE_dxm is "IV bolus dose dxm [mg]";
+  iv_dxm is "iv dextromethorphan";
+  Ri_dxm is "Ri [mg/min] rate of infusion dxm";
+  ti_dxm is "injection time dxm [s]";
+  Ki_dxm is "Ki [1/min] injection dxm";
+  cum_dose_dxm is "cumulative dose of the infusion dxm [mg]";
+  PODOSE_dxm is "oral dose dxm [mg]";
+  GU__dissolution_dxm is "dissolution dextromethorphan";
+  Ka_dis_dxm is "Ka_dis [1/hr] dissolution dextromethorphan";
+  Mr_dxo is "Molecular weight dxo [g/mole]";
+  ftissue_dxo is "tissue distribution dxo";
+  Kp_dxo is "tissue/plasma partition coefficient dxo";
+  Mr_dxo_glu is "Molecular weight dxo_glu [g/mole]";
+  ftissue_dxo_glu is "tissue distribution dxo_glu";
+  Kp_dxo_glu is "tissue/plasma partition coefficient dxo_glu";
+  Mr_mm is "Molecular weight mm [g/mole]";
+  ftissue_mm is "tissue distribution mm";
+  Kp_mm is "tissue/plasma partition coefficient mm";
+  fu_dxm is "fraction unbound in plasma dxm";
+  fu_dxo is "fraction unbound in plasma dxo";
+  fu_dxo_glu is "fraction unbound in plasma dxo_glu";
+  fu_mm is "fraction unbound in plasma mm";
+  Qgu is "gut blood flow";
+  Qh is "hepatic (venous side) blood flow";
+  Qha is "hepatic artery blood flow";
+  Qlu is "lung blood flow";
+  Qre is "rest of body blood flow";
+  Qpo is "portal blood flow";
+  Ave_dxm is "dextromethorphan amount (venous blood) [mmole]";
+  Mve_dxm is "dextromethorphan concentration (venous plasma) [mg/l]";
+  Xurine_dxm is "dextromethorphan amount (urine) [mg]";
+  Ave_dxo is "dextrorphan amount (venous blood) [mmole]";
+  Mve_dxo is "dextrorphan concentration (venous plasma) [mg/l]";
+  Xurine_dxo is "dextrorphan amount (urine) [mg]";
+  Ave_dxo_glu is "dextrorphan glucuronide amount (venous blood) [mmole]";
+  Mve_dxo_glu is "dextrorphan glucuronide concentration (venous plasma) [mg/l]";
+  Xurine_dxo_glu is "dextrorphan glucuronide amount (urine) [mg]";
+  Ave_mm is "N-demethylated morphinans amount (venous blood) [mmole]";
+  Mve_mm is "N-demethylated morphinans concentration (venous plasma) [mg/l]";
+  Xurine_mm is "N-demethylated morphinans amount (urine) [mg]";
+  Xfeces_dxm is "dextromethorphan amount (feces) [mg]";
+  dxo_total is "total dextrorphan (plasma)";
+  dxm_dxo is "DXM/DXO ratio (plasma)";
+  dxm_dxo_total is "DXM/total DXO ratio (plasma)";
+  Aurine_dxo_total is "cumulative urinary total dextrorphan";
+  dxm_dxo_urine is "cumulative urinary DXM/DXO ratio";
+  dxm_dxo_total_urine is "cumulative urinary DXM/total DXO ratio";
+  KI__f_renal_function is "renal function";
+  KI__GFR is "glomerular filtration rate";
+  KI__DXMEX_f is "renal clearance of unbound dextromethorphan relative to the GFR";
+  KI__DXOEX_f is "renal clearance of unbound dextrorphan relative to the GFR";
+  KI__DXOGLUEX_f is "renal clearance of unbound dextrorphan glucuronide relative to the GFR";
+  KI__MMEX_f is "renal clearance of unbound N-demethylated morphinans relative to the GFR";
+  LI__cyp2d6_a0 is "*1 activity";
+  LI__cyp2d6_a1 is "*10 activity";
+  LI__cyp2d6_a2 is "*100 activity";
+  LI__cyp2d6_a3 is "*101 activity";
+  LI__cyp2d6_a4 is "*10x2 activity";
+  LI__cyp2d6_a5 is "*11 activity";
+  LI__cyp2d6_a6 is "*114 activity";
+  LI__cyp2d6_a7 is "*12 activity";
+  LI__cyp2d6_a8 is "*120 activity";
+  LI__cyp2d6_a9 is "*124 activity";
+  LI__cyp2d6_a10 is "*129 activity";
+  LI__cyp2d6_a11 is "*13 activity";
+  LI__cyp2d6_a12 is "*14 activity";
+  LI__cyp2d6_a13 is "*15 activity";
+  LI__cyp2d6_a14 is "*17 activity";
+  LI__cyp2d6_a15 is "*17x2 activity";
+  LI__cyp2d6_a16 is "*18 activity";
+  LI__cyp2d6_a17 is "*19 activity";
+  LI__cyp2d6_a18 is "*1x2 activity";
+  LI__cyp2d6_a19 is "*1x3 activity";
+  LI__cyp2d6_a20 is "*1x4 activity";
+  LI__cyp2d6_a21 is "*1x5 activity";
+  LI__cyp2d6_a22 is "*1x6 activity";
+  LI__cyp2d6_a23 is "*2 activity";
+  LI__cyp2d6_a24 is "*20 activity";
+  LI__cyp2d6_a25 is "*21 activity";
+  LI__cyp2d6_a26 is "*27 activity";
+  LI__cyp2d6_a27 is "*29 activity";
+  LI__cyp2d6_a28 is "*29x2 activity";
+  LI__cyp2d6_a29 is "*2x2 activity";
+  LI__cyp2d6_a30 is "*2x3 activity";
+  LI__cyp2d6_a31 is "*2x4 activity";
+  LI__cyp2d6_a32 is "*2x5 activity";
+  LI__cyp2d6_a33 is "*2x6 activity";
+  LI__cyp2d6_a34 is "*3 activity";
+  LI__cyp2d6_a35 is "*31 activity";
+  LI__cyp2d6_a36 is "*33 activity";
+  LI__cyp2d6_a37 is "*34 activity";
+  LI__cyp2d6_a38 is "*35 activity";
+  LI__cyp2d6_a39 is "*35x2 activity";
+  LI__cyp2d6_a40 is "*36 activity";
+  LI__cyp2d6_a41 is "*36x2 activity";
+  LI__cyp2d6_a42 is "*38 activity";
+  LI__cyp2d6_a43 is "*39 activity";
+  LI__cyp2d6_a44 is "*3x2 activity";
+  LI__cyp2d6_a45 is "*4 activity";
+  LI__cyp2d6_a46 is "*40 activity";
+  LI__cyp2d6_a47 is "*41 activity";
+  LI__cyp2d6_a48 is "*41x2 activity";
+  LI__cyp2d6_a49 is "*41x3 activity";
+  LI__cyp2d6_a50 is "*42 activity";
+  LI__cyp2d6_a51 is "*44 activity";
+  LI__cyp2d6_a52 is "*45 activity";
+  LI__cyp2d6_a53 is "*45x2 activity";
+  LI__cyp2d6_a54 is "*46 activity";
+  LI__cyp2d6_a55 is "*47 activity";
+  LI__cyp2d6_a56 is "*48 activity";
+  LI__cyp2d6_a57 is "*49 activity";
+  LI__cyp2d6_a58 is "*4x2 activity";
+  LI__cyp2d6_a59 is "*4x3 activity";
+  LI__cyp2d6_a60 is "*4x4 activity";
+  LI__cyp2d6_a61 is "*4x5 activity";
+  LI__cyp2d6_a62 is "*5 activity";
+  LI__cyp2d6_a63 is "*50 activity";
+  LI__cyp2d6_a64 is "*51 activity";
+  LI__cyp2d6_a65 is "*53 activity";
+  LI__cyp2d6_a66 is "*54 activity";
+  LI__cyp2d6_a67 is "*55 activity";
+  LI__cyp2d6_a68 is "*56 activity";
+  LI__cyp2d6_a69 is "*57 activity";
+  LI__cyp2d6_a70 is "*59 activity";
+  LI__cyp2d6_a71 is "*6 activity";
+  LI__cyp2d6_a72 is "*60 activity";
+  LI__cyp2d6_a73 is "*62 activity";
+  LI__cyp2d6_a74 is "*68 activity";
+  LI__cyp2d6_a75 is "*69 activity";
+  LI__cyp2d6_a76 is "*6x2 activity";
+  LI__cyp2d6_a77 is "*7 activity";
+  LI__cyp2d6_a78 is "*8 activity";
+  LI__cyp2d6_a79 is "*81 activity";
+  LI__cyp2d6_a80 is "*9 activity";
+  LI__cyp2d6_a81 is "*92 activity";
+  LI__cyp2d6_a82 is "*96 activity";
+  LI__cyp2d6_a83 is "*99 activity";
+  LI__cyp2d6_a84 is "*9x2 activity";
+  LI__cyp2d6_ac is "custom allele activity";
+  LI__cyp2d6_allele1 is "allele 1";
+  LI__cyp2d6_allele2 is "allele 2";
+  LI__cyp2d6_activity1 is "activity of allele 1";
+  LI__cyp2d6_activity2 is "activity of allele 2";
+  LI__f_cyp2d6 is "activity of CYP2D6";
+  LI__f_cyp3a4 is "activity of CYP3A4";
+  LI__f_ugt2b15 is "activity of UGT2B15";
+  LI__cyp2d6_activity_ref is "reference CYP2D6 activity score";
+  LI__DXMCYP2D6_Vmax is "Vmax DXMCYP2D6";
+  LI__DXMCYP2D6_Km_dxm is "Km DXMCYP2D6";
+  LI__DXMCYPX_Vmax is "Vmax DXMCYPX";
+  LI__DXMCYPX_Km_dxm is "Km DXMCYPX";
+  LI__DXMNDM_Vmax is "Vmax DXMNDM";
+  LI__DXMNDM_Km_dxm is "Km DXMNDM";
+  LI__DXONDM_Vmax is "Vmax DXONDM";
+  LI__DXONDM_Km_dxo is "Km DXONDM";
+  LI__DXOUGT_Vmax is "Vmax DXOUGT";
+  LI__DXOUGT_Km_dxo is "Km DXOUGT";
+  LI__cyp2d6_activity is "activity of CYP2D6 diplotype";
+  GU__F_dxm_abs is "fraction absorbed dextromethorphan";
+  GU__DXMABS_k is "rate of the absorption of dextromethorphan";
+  GU__absorption_dxm is "absorption dextromethorphan";
+  transport_ki_dxm is "transport dextromethorphan";
+  transport_li_dxm is "transport dextromethorphan";
+  transport_lu_dxm is "transport dextromethorphan";
+  transport_gu_dxm is "transport dextromethorphan";
+  transport_re_dxm is "transport dextromethorphan";
+  Flow_ve_lu_dxm is "inflow lung dextromethorphan";
+  Flow_lu_ar_dxm is "outflow lung dextromethorphan";
+  Flow_ar_ki_dxm is "inflow kidney dextromethorphan";
+  Flow_ki_ve_dxm is "outflow kidney dextromethorphan";
+  Flow_ar_re_dxm is "inflow rest dextromethorphan";
+  Flow_re_ve_dxm is "outflow rest dextromethorphan";
+  Flow_ar_gu_dxm is "inflow gut dextromethorphan";
+  Flow_gu_po_dxm is "outflow gut dextromethorphan";
+  Flow_ar_li_dxm is "arterial inflow liver dextromethorphan";
+  Flow_po_li_dxm is "outflow po dextromethorphan";
+  Flow_li_hv_dxm is "outflow liver dextromethorphan";
+  Flow_hv_ve_dxm is "outflow hepatic vein dextromethorphan";
+  transport_ki_dxo is "transport dextrorphan";
+  transport_li_dxo is "transport dextrorphan";
+  transport_lu_dxo is "transport dextrorphan";
+  transport_gu_dxo is "transport dextrorphan";
+  transport_re_dxo is "transport dextrorphan";
+  Flow_ve_lu_dxo is "inflow lung dextrorphan";
+  Flow_lu_ar_dxo is "outflow lung dextrorphan";
+  Flow_ar_ki_dxo is "inflow kidney dextrorphan";
+  Flow_ki_ve_dxo is "outflow kidney dextrorphan";
+  Flow_ar_re_dxo is "inflow rest dextrorphan";
+  Flow_re_ve_dxo is "outflow rest dextrorphan";
+  Flow_ar_gu_dxo is "inflow gut dextrorphan";
+  Flow_gu_po_dxo is "outflow gut dextrorphan";
+  Flow_ar_li_dxo is "arterial inflow liver dextrorphan";
+  Flow_po_li_dxo is "outflow po dextrorphan";
+  Flow_li_hv_dxo is "outflow liver dextrorphan";
+  Flow_hv_ve_dxo is "outflow hepatic vein dextrorphan";
+  transport_ki_dxo_glu is "transport dextrorphan glucuronide";
+  transport_li_dxo_glu is "transport dextrorphan glucuronide";
+  transport_lu_dxo_glu is "transport dextrorphan glucuronide";
+  transport_gu_dxo_glu is "transport dextrorphan glucuronide";
+  transport_re_dxo_glu is "transport dextrorphan glucuronide";
+  Flow_ve_lu_dxo_glu is "inflow lung dextrorphan glucuronide";
+  Flow_lu_ar_dxo_glu is "outflow lung dextrorphan glucuronide";
+  Flow_ar_ki_dxo_glu is "inflow kidney dextrorphan glucuronide";
+  Flow_ki_ve_dxo_glu is "outflow kidney dextrorphan glucuronide";
+  Flow_ar_re_dxo_glu is "inflow rest dextrorphan glucuronide";
+  Flow_re_ve_dxo_glu is "outflow rest dextrorphan glucuronide";
+  Flow_ar_gu_dxo_glu is "inflow gut dextrorphan glucuronide";
+  Flow_gu_po_dxo_glu is "outflow gut dextrorphan glucuronide";
+  Flow_ar_li_dxo_glu is "arterial inflow liver dextrorphan glucuronide";
+  Flow_po_li_dxo_glu is "outflow po dextrorphan glucuronide";
+  Flow_li_hv_dxo_glu is "outflow liver dextrorphan glucuronide";
+  Flow_hv_ve_dxo_glu is "outflow hepatic vein dextrorphan glucuronide";
+  transport_ki_mm is "transport N-demethylated morphinans";
+  transport_li_mm is "transport N-demethylated morphinans";
+  transport_lu_mm is "transport N-demethylated morphinans";
+  transport_gu_mm is "transport N-demethylated morphinans";
+  transport_re_mm is "transport N-demethylated morphinans";
+  Flow_ve_lu_mm is "inflow lung N-demethylated morphinans";
+  Flow_lu_ar_mm is "outflow lung N-demethylated morphinans";
+  Flow_ar_ki_mm is "inflow kidney N-demethylated morphinans";
+  Flow_ki_ve_mm is "outflow kidney N-demethylated morphinans";
+  Flow_ar_re_mm is "inflow rest N-demethylated morphinans";
+  Flow_re_ve_mm is "outflow rest N-demethylated morphinans";
+  Flow_ar_gu_mm is "inflow gut N-demethylated morphinans";
+  Flow_gu_po_mm is "outflow gut N-demethylated morphinans";
+  Flow_ar_li_mm is "arterial inflow liver N-demethylated morphinans";
+  Flow_po_li_mm is "outflow po N-demethylated morphinans";
+  Flow_li_hv_mm is "outflow liver N-demethylated morphinans";
+  Flow_hv_ve_mm is "outflow hepatic vein N-demethylated morphinans";
+  KI__DXMEX is "dextromethorphan renal excretion";
+  KI__DXOEX is "dextrorphan renal excretion";
+  KI__DXOGLUEX is "dextrorphan glucuronide renal excretion";
+  KI__MMEX is "N-demethylated morphinans renal excretion";
+  LI__DXMCYP2D6 is "dextromethorphan -> dextrorphan (CYP2D6)";
+  LI__DXMCYPX is "dextromethorphan -> dextrorphan (CYP3A4)";
+  LI__DXMNDM is "dextromethorphan -> N-demethylated morphinans (CYP3A4)";
+  LI__DXONDM is "dextrorphan -> N-demethylated morphinans (CYP3A4)";
+  LI__DXOUGT is "dextrorphan -> dextrorphan glucuronide (UGT2B15)";
+  GU__DXMABS is "absorption dextromethorphan";
+  GU__DXMEXC is "excretion dextromethorphan (feces)";
+
+  // SBO terms:
+  Vki.sboTerm = 290
+  BW.sboTerm = 2
+  FVki.sboTerm = 2
+  Vli.sboTerm = 290
+  FVli.sboTerm = 2
+  Vlu.sboTerm = 290
+  FVlu.sboTerm = 2
+  Vgu.sboTerm = 290
+  FVgu.sboTerm = 2
+  Vre.sboTerm = 290
+  FVre.sboTerm = 2
+  Var.sboTerm = 290
+  FVar.sboTerm = 2
+  FVve.sboTerm = 2
+  Fblood.sboTerm = 2
+  Vve.sboTerm = 290
+  Vpo.sboTerm = 290
+  HCT.sboTerm = 2
+  FVpo.sboTerm = 2
+  FVhv.sboTerm = 2
+  Vhv.sboTerm = 290
+  Vurine.sboTerm = 290
+  Vfeces.sboTerm = 290
+  Vstomach.sboTerm = 290
+  Vgulumen.sboTerm = 290
+  Vki_tissue.sboTerm = 290
+  Vki_plasma.sboTerm = 290
+  Vli_tissue.sboTerm = 290
+  Vli_plasma.sboTerm = 290
+  Vlu_tissue.sboTerm = 290
+  Vlu_plasma.sboTerm = 290
+  Vgu_tissue.sboTerm = 290
+  Vgu_plasma.sboTerm = 290
+  Vre_tissue.sboTerm = 290
+  Vre_plasma.sboTerm = 290
+  LI__Vmem.sboTerm = 290
+  GU__Vapical.sboTerm = 290
+  Cki_plasma_dxm.sboTerm = 247
+  Cli_plasma_dxm.sboTerm = 247
+  Clu_plasma_dxm.sboTerm = 247
+  Cgu_plasma_dxm.sboTerm = 247
+  Cre_plasma_dxm.sboTerm = 247
+  Car_dxm.sboTerm = 247
+  Cve_dxm.sboTerm = 247
+  Cpo_dxm.sboTerm = 247
+  Chv_dxm.sboTerm = 247
+  Cki_dxm.sboTerm = 247
+  Cli_dxm.sboTerm = 247
+  Clu_dxm.sboTerm = 247
+  Cgu_dxm.sboTerm = 247
+  Cre_dxm.sboTerm = 247
+  Aurine_dxm.sboTerm = 247
+  Cki_plasma_dxo.sboTerm = 247
+  Cli_plasma_dxo.sboTerm = 247
+  Clu_plasma_dxo.sboTerm = 247
+  Cgu_plasma_dxo.sboTerm = 247
+  Cre_plasma_dxo.sboTerm = 247
+  Car_dxo.sboTerm = 247
+  Cve_dxo.sboTerm = 247
+  Cpo_dxo.sboTerm = 247
+  Chv_dxo.sboTerm = 247
+  Cki_dxo.sboTerm = 247
+  Cli_dxo.sboTerm = 247
+  Clu_dxo.sboTerm = 247
+  Cgu_dxo.sboTerm = 247
+  Cre_dxo.sboTerm = 247
+  Aurine_dxo.sboTerm = 247
+  Cki_plasma_dxo_glu.sboTerm = 247
+  Cli_plasma_dxo_glu.sboTerm = 247
+  Clu_plasma_dxo_glu.sboTerm = 247
+  Cgu_plasma_dxo_glu.sboTerm = 247
+  Cre_plasma_dxo_glu.sboTerm = 247
+  Car_dxo_glu.sboTerm = 247
+  Cve_dxo_glu.sboTerm = 247
+  Cpo_dxo_glu.sboTerm = 247
+  Chv_dxo_glu.sboTerm = 247
+  Cki_dxo_glu.sboTerm = 247
+  Cli_dxo_glu.sboTerm = 247
+  Clu_dxo_glu.sboTerm = 247
+  Cgu_dxo_glu.sboTerm = 247
+  Cre_dxo_glu.sboTerm = 247
+  Aurine_dxo_glu.sboTerm = 247
+  Cki_plasma_mm.sboTerm = 247
+  Cli_plasma_mm.sboTerm = 247
+  Clu_plasma_mm.sboTerm = 247
+  Cgu_plasma_mm.sboTerm = 247
+  Cre_plasma_mm.sboTerm = 247
+  Car_mm.sboTerm = 247
+  Cve_mm.sboTerm = 247
+  Cpo_mm.sboTerm = 247
+  Chv_mm.sboTerm = 247
+  Cki_mm.sboTerm = 247
+  Cli_mm.sboTerm = 247
+  Clu_mm.sboTerm = 247
+  Cgu_mm.sboTerm = 247
+  Cre_mm.sboTerm = 247
+  Aurine_mm.sboTerm = 247
+  Cgulumen_dxm.sboTerm = 247
+  Afeces_dxm.sboTerm = 247
+  GU__dxm_stomach.sboTerm = 247
+  BW_ref.sboTerm = 2
+  COBW.sboTerm = 2
+  CO.sboTerm = 2
+  QC.sboTerm = 2
+  FQgu.sboTerm = 2
+  FQki.sboTerm = 2
+  FQh.sboTerm = 2
+  FQlu.sboTerm = 2
+  FQre.sboTerm = 2
+  ftissue_fast.sboTerm = 2
+  f_GFR_Qki.sboTerm = 2
+  GFR_base.sboTerm = 2
+  Mr_dxm.sboTerm = 647
+  ftissue_dxm.sboTerm = 2
+  Kp_dxm.sboTerm = 2
+  IVDOSE_dxm.sboTerm = 2
+  iv_dxm.sboTerm = 655
+  Ri_dxm.sboTerm = 2
+  ti_dxm.sboTerm = 2
+  Ki_dxm.sboTerm = 2
+  cum_dose_dxm.sboTerm = 2
+  PODOSE_dxm.sboTerm = 2
+  Ka_dis_dxm.sboTerm = 2
+  Mr_dxo.sboTerm = 647
+  ftissue_dxo.sboTerm = 2
+  Kp_dxo.sboTerm = 2
+  Mr_dxo_glu.sboTerm = 647
+  ftissue_dxo_glu.sboTerm = 2
+  Kp_dxo_glu.sboTerm = 2
+  Mr_mm.sboTerm = 647
+  ftissue_mm.sboTerm = 2
+  Kp_mm.sboTerm = 2
+  fu_dxm.sboTerm = 2
+  fu_dxo.sboTerm = 2
+  fu_dxo_glu.sboTerm = 2
+  fu_mm.sboTerm = 2
+  KI__f_renal_function.sboTerm = 2
+  KI__GFR.sboTerm = 2
+  KI__DXMEX_f.sboTerm = 9
+  KI__DXOEX_f.sboTerm = 9
+  KI__DXOGLUEX_f.sboTerm = 9
+  KI__MMEX_f.sboTerm = 9
+  LI__cyp2d6_a0.sboTerm = 2
+  LI__cyp2d6_a1.sboTerm = 2
+  LI__cyp2d6_a2.sboTerm = 2
+  LI__cyp2d6_a3.sboTerm = 2
+  LI__cyp2d6_a4.sboTerm = 2
+  LI__cyp2d6_a5.sboTerm = 2
+  LI__cyp2d6_a6.sboTerm = 2
+  LI__cyp2d6_a7.sboTerm = 2
+  LI__cyp2d6_a8.sboTerm = 2
+  LI__cyp2d6_a9.sboTerm = 2
+  LI__cyp2d6_a10.sboTerm = 2
+  LI__cyp2d6_a11.sboTerm = 2
+  LI__cyp2d6_a12.sboTerm = 2
+  LI__cyp2d6_a13.sboTerm = 2
+  LI__cyp2d6_a14.sboTerm = 2
+  LI__cyp2d6_a15.sboTerm = 2
+  LI__cyp2d6_a16.sboTerm = 2
+  LI__cyp2d6_a17.sboTerm = 2
+  LI__cyp2d6_a18.sboTerm = 2
+  LI__cyp2d6_a19.sboTerm = 2
+  LI__cyp2d6_a20.sboTerm = 2
+  LI__cyp2d6_a21.sboTerm = 2
+  LI__cyp2d6_a22.sboTerm = 2
+  LI__cyp2d6_a23.sboTerm = 2
+  LI__cyp2d6_a24.sboTerm = 2
+  LI__cyp2d6_a25.sboTerm = 2
+  LI__cyp2d6_a26.sboTerm = 2
+  LI__cyp2d6_a27.sboTerm = 2
+  LI__cyp2d6_a28.sboTerm = 2
+  LI__cyp2d6_a29.sboTerm = 2
+  LI__cyp2d6_a30.sboTerm = 2
+  LI__cyp2d6_a31.sboTerm = 2
+  LI__cyp2d6_a32.sboTerm = 2
+  LI__cyp2d6_a33.sboTerm = 2
+  LI__cyp2d6_a34.sboTerm = 2
+  LI__cyp2d6_a35.sboTerm = 2
+  LI__cyp2d6_a36.sboTerm = 2
+  LI__cyp2d6_a37.sboTerm = 2
+  LI__cyp2d6_a38.sboTerm = 2
+  LI__cyp2d6_a39.sboTerm = 2
+  LI__cyp2d6_a40.sboTerm = 2
+  LI__cyp2d6_a41.sboTerm = 2
+  LI__cyp2d6_a42.sboTerm = 2
+  LI__cyp2d6_a43.sboTerm = 2
+  LI__cyp2d6_a44.sboTerm = 2
+  LI__cyp2d6_a45.sboTerm = 2
+  LI__cyp2d6_a46.sboTerm = 2
+  LI__cyp2d6_a47.sboTerm = 2
+  LI__cyp2d6_a48.sboTerm = 2
+  LI__cyp2d6_a49.sboTerm = 2
+  LI__cyp2d6_a50.sboTerm = 2
+  LI__cyp2d6_a51.sboTerm = 2
+  LI__cyp2d6_a52.sboTerm = 2
+  LI__cyp2d6_a53.sboTerm = 2
+  LI__cyp2d6_a54.sboTerm = 2
+  LI__cyp2d6_a55.sboTerm = 2
+  LI__cyp2d6_a56.sboTerm = 2
+  LI__cyp2d6_a57.sboTerm = 2
+  LI__cyp2d6_a58.sboTerm = 2
+  LI__cyp2d6_a59.sboTerm = 2
+  LI__cyp2d6_a60.sboTerm = 2
+  LI__cyp2d6_a61.sboTerm = 2
+  LI__cyp2d6_a62.sboTerm = 2
+  LI__cyp2d6_a63.sboTerm = 2
+  LI__cyp2d6_a64.sboTerm = 2
+  LI__cyp2d6_a65.sboTerm = 2
+  LI__cyp2d6_a66.sboTerm = 2
+  LI__cyp2d6_a67.sboTerm = 2
+  LI__cyp2d6_a68.sboTerm = 2
+  LI__cyp2d6_a69.sboTerm = 2
+  LI__cyp2d6_a70.sboTerm = 2
+  LI__cyp2d6_a71.sboTerm = 2
+  LI__cyp2d6_a72.sboTerm = 2
+  LI__cyp2d6_a73.sboTerm = 2
+  LI__cyp2d6_a74.sboTerm = 2
+  LI__cyp2d6_a75.sboTerm = 2
+  LI__cyp2d6_a76.sboTerm = 2
+  LI__cyp2d6_a77.sboTerm = 2
+  LI__cyp2d6_a78.sboTerm = 2
+  LI__cyp2d6_a79.sboTerm = 2
+  LI__cyp2d6_a80.sboTerm = 2
+  LI__cyp2d6_a81.sboTerm = 2
+  LI__cyp2d6_a82.sboTerm = 2
+  LI__cyp2d6_a83.sboTerm = 2
+  LI__cyp2d6_a84.sboTerm = 2
+  LI__cyp2d6_ac.sboTerm = 2
+  LI__cyp2d6_allele1.sboTerm = 389
+  LI__cyp2d6_allele2.sboTerm = 389
+  LI__cyp2d6_activity1.sboTerm = 2
+  LI__cyp2d6_activity2.sboTerm = 2
+  LI__f_cyp2d6.sboTerm = 2
+  LI__f_cyp3a4.sboTerm = 2
+  LI__f_ugt2b15.sboTerm = 2
+  LI__cyp2d6_activity_ref.sboTerm = 2
+  LI__DXMCYP2D6_Vmax.sboTerm = 186
+  LI__DXMCYP2D6_Km_dxm.sboTerm = 27
+  LI__DXMCYPX_Vmax.sboTerm = 186
+  LI__DXMCYPX_Km_dxm.sboTerm = 27
+  LI__DXMNDM_Vmax.sboTerm = 186
+  LI__DXMNDM_Km_dxm.sboTerm = 27
+  LI__DXONDM_Vmax.sboTerm = 186
+  LI__DXONDM_Km_dxo.sboTerm = 27
+  LI__DXOUGT_Vmax.sboTerm = 186
+  LI__DXOUGT_Km_dxo.sboTerm = 27
+  GU__F_dxm_abs.sboTerm = 2
+  GU__DXMABS_k.sboTerm = 9
+  transport_ki_dxm.sboTerm = 655
+  transport_li_dxm.sboTerm = 655
+  transport_lu_dxm.sboTerm = 655
+  transport_gu_dxm.sboTerm = 655
+  transport_re_dxm.sboTerm = 655
+  Flow_ve_lu_dxm.sboTerm = 655
+  Flow_lu_ar_dxm.sboTerm = 655
+  Flow_ar_ki_dxm.sboTerm = 655
+  Flow_ki_ve_dxm.sboTerm = 655
+  Flow_ar_re_dxm.sboTerm = 655
+  Flow_re_ve_dxm.sboTerm = 655
+  Flow_ar_gu_dxm.sboTerm = 655
+  Flow_gu_po_dxm.sboTerm = 655
+  Flow_ar_li_dxm.sboTerm = 655
+  Flow_po_li_dxm.sboTerm = 655
+  Flow_li_hv_dxm.sboTerm = 655
+  Flow_hv_ve_dxm.sboTerm = 655
+  transport_ki_dxo.sboTerm = 655
+  transport_li_dxo.sboTerm = 655
+  transport_lu_dxo.sboTerm = 655
+  transport_gu_dxo.sboTerm = 655
+  transport_re_dxo.sboTerm = 655
+  Flow_ve_lu_dxo.sboTerm = 655
+  Flow_lu_ar_dxo.sboTerm = 655
+  Flow_ar_ki_dxo.sboTerm = 655
+  Flow_ki_ve_dxo.sboTerm = 655
+  Flow_ar_re_dxo.sboTerm = 655
+  Flow_re_ve_dxo.sboTerm = 655
+  Flow_ar_gu_dxo.sboTerm = 655
+  Flow_gu_po_dxo.sboTerm = 655
+  Flow_ar_li_dxo.sboTerm = 655
+  Flow_po_li_dxo.sboTerm = 655
+  Flow_li_hv_dxo.sboTerm = 655
+  Flow_hv_ve_dxo.sboTerm = 655
+  transport_ki_dxo_glu.sboTerm = 655
+  transport_li_dxo_glu.sboTerm = 655
+  transport_lu_dxo_glu.sboTerm = 655
+  transport_gu_dxo_glu.sboTerm = 655
+  transport_re_dxo_glu.sboTerm = 655
+  Flow_ve_lu_dxo_glu.sboTerm = 655
+  Flow_lu_ar_dxo_glu.sboTerm = 655
+  Flow_ar_ki_dxo_glu.sboTerm = 655
+  Flow_ki_ve_dxo_glu.sboTerm = 655
+  Flow_ar_re_dxo_glu.sboTerm = 655
+  Flow_re_ve_dxo_glu.sboTerm = 655
+  Flow_ar_gu_dxo_glu.sboTerm = 655
+  Flow_gu_po_dxo_glu.sboTerm = 655
+  Flow_ar_li_dxo_glu.sboTerm = 655
+  Flow_po_li_dxo_glu.sboTerm = 655
+  Flow_li_hv_dxo_glu.sboTerm = 655
+  Flow_hv_ve_dxo_glu.sboTerm = 655
+  transport_ki_mm.sboTerm = 655
+  transport_li_mm.sboTerm = 655
+  transport_lu_mm.sboTerm = 655
+  transport_gu_mm.sboTerm = 655
+  transport_re_mm.sboTerm = 655
+  Flow_ve_lu_mm.sboTerm = 655
+  Flow_lu_ar_mm.sboTerm = 655
+  Flow_ar_ki_mm.sboTerm = 655
+  Flow_ki_ve_mm.sboTerm = 655
+  Flow_ar_re_mm.sboTerm = 655
+  Flow_re_ve_mm.sboTerm = 655
+  Flow_ar_gu_mm.sboTerm = 655
+  Flow_gu_po_mm.sboTerm = 655
+  Flow_ar_li_mm.sboTerm = 655
+  Flow_po_li_mm.sboTerm = 655
+  Flow_li_hv_mm.sboTerm = 655
+  Flow_hv_ve_mm.sboTerm = 655
+  KI__DXMEX.sboTerm = 655
+  KI__DXOEX.sboTerm = 655
+  KI__DXOGLUEX.sboTerm = 655
+  KI__MMEX.sboTerm = 655
+  LI__DXMCYP2D6.sboTerm = 176
+  LI__DXMCYPX.sboTerm = 176
+  LI__DXMNDM.sboTerm = 176
+  LI__DXONDM.sboTerm = 176
+  LI__DXOUGT.sboTerm = 176
+  GU__DXMABS.sboTerm = 655
+  GU__DXMEXC.sboTerm = 655
+
+  // CV terms:
+  Vki identity "https://identifiers.org/FMA:7203",
+               "https://identifiers.org/BTO:0000671",
+               "https://identifiers.org/ncit:C12415"
+  Vli identity "https://identifiers.org/FMA:7197",
+               "https://identifiers.org/BTO:0000759",
+               "https://identifiers.org/ncit:C12392"
+  Vlu identity "https://identifiers.org/FMA:7195",
+               "https://identifiers.org/BTO:0000763",
+               "https://identifiers.org/ncit:C12468"
+  Vgu identity "https://identifiers.org/BTO:0000545",
+               "https://identifiers.org/ncit:C12736",
+               "https://identifiers.org/FMA:7199",
+               "https://identifiers.org/BTO:0000648"
+  Vre isVersionOf "https://identifiers.org/FMA:62955"
+  Vre isPartOf "https://identifiers.org/ncit:C14250"
+  Var identity "https://identifiers.org/BTO:0000131",
+               "https://identifiers.org/ncit:C13356"
+  Var isPartOf "https://identifiers.org/FMA:50720"
+  Vve identity "https://identifiers.org/BTO:0000131",
+               "https://identifiers.org/ncit:C13356"
+  Vve isPartOf "https://identifiers.org/FMA:50723"
+  Vpo identity "https://identifiers.org/BTO:0000131",
+               "https://identifiers.org/ncit:C13356"
+  Vpo isPartOf "https://identifiers.org/FMA:66645"
+  Vhv identity "https://identifiers.org/BTO:0000131",
+               "https://identifiers.org/ncit:C13356"
+  Vhv isPartOf "https://identifiers.org/FMA:14337"
+  Vurine identity "https://identifiers.org/FMA:12274",
+                  "https://identifiers.org/ncit:C13283",
+                  "https://identifiers.org/BTO:0001419"
+  Vfeces identity "https://identifiers.org/FMA:64183",
+                  "https://identifiers.org/ncit:C13234",
+                  "https://identifiers.org/BTO:0000440"
+  Vstomach identity "https://identifiers.org/FMA:7148",
+                    "https://identifiers.org/ncit:C12391",
+                    "https://identifiers.org/UBERON:0000945",
+                    "https://identifiers.org/BTO:0001307"
+  Vgulumen identity "https://identifiers.org/FMA:14586",
+                    "https://identifiers.org/UBERON:0018543"
+  Vki_tissue identity "https://identifiers.org/FMA:45732",
+                      "https://identifiers.org/ncit:C74601",
+                      "https://identifiers.org/BTO:0001539"
+  Vki_tissue isPartOf "https://identifiers.org/FMA:7203",
+                      "https://identifiers.org/BTO:0000671",
+                      "https://identifiers.org/ncit:C12415"
+  Vki_plasma identity "https://identifiers.org/ncit:C13356",
+                      "https://identifiers.org/BTO:0000131"
+  Vki_plasma isPartOf "https://identifiers.org/FMA:7203",
+                      "https://identifiers.org/BTO:0000671",
+                      "https://identifiers.org/ncit:C12415"
+  Vli_tissue identity "https://identifiers.org/FMA:45732",
+                      "https://identifiers.org/ncit:C74601",
+                      "https://identifiers.org/BTO:0001539"
+  Vli_tissue isPartOf "https://identifiers.org/FMA:7197",
+                      "https://identifiers.org/BTO:0000759",
+                      "https://identifiers.org/ncit:C12392"
+  Vli_plasma identity "https://identifiers.org/ncit:C13356",
+                      "https://identifiers.org/BTO:0000131"
+  Vli_plasma isPartOf "https://identifiers.org/FMA:7197",
+                      "https://identifiers.org/BTO:0000759",
+                      "https://identifiers.org/ncit:C12392"
+  Vlu_tissue identity "https://identifiers.org/FMA:45732",
+                      "https://identifiers.org/ncit:C74601",
+                      "https://identifiers.org/BTO:0001539"
+  Vlu_tissue isPartOf "https://identifiers.org/FMA:7195",
+                      "https://identifiers.org/BTO:0000763",
+                      "https://identifiers.org/ncit:C12468"
+  Vlu_plasma identity "https://identifiers.org/ncit:C13356",
+                      "https://identifiers.org/BTO:0000131"
+  Vlu_plasma isPartOf "https://identifiers.org/FMA:7195",
+                      "https://identifiers.org/BTO:0000763",
+                      "https://identifiers.org/ncit:C12468"
+  Vgu_tissue identity "https://identifiers.org/FMA:45732",
+                      "https://identifiers.org/ncit:C74601",
+                      "https://identifiers.org/BTO:0001539"
+  Vgu_tissue isPartOf "https://identifiers.org/BTO:0000545",
+                      "https://identifiers.org/ncit:C12736",
+                      "https://identifiers.org/FMA:7199",
+                      "https://identifiers.org/BTO:0000648"
+  Vgu_plasma identity "https://identifiers.org/ncit:C13356",
+                      "https://identifiers.org/BTO:0000131"
+  Vgu_plasma isPartOf "https://identifiers.org/BTO:0000545",
+                      "https://identifiers.org/ncit:C12736",
+                      "https://identifiers.org/FMA:7199",
+                      "https://identifiers.org/BTO:0000648"
+  Vre_tissue identity "https://identifiers.org/FMA:45732",
+                      "https://identifiers.org/ncit:C74601",
+                      "https://identifiers.org/BTO:0001539"
+  Vre_tissue isPartOf "https://identifiers.org/FMA:62955",
+                      "https://identifiers.org/ncit:C14250"
+  Vre_plasma identity "https://identifiers.org/ncit:C13356",
+                      "https://identifiers.org/BTO:0000131"
+  Vre_plasma isPartOf "https://identifiers.org/FMA:62955",
+                      "https://identifiers.org/ncit:C14250"
+  LI__Vmem identity "https://identifiers.org/ncit:C13735",
+                    "https://identifiers.org/FMA:63841",
+                    "https://identifiers.org/GO:0005886"
+  GU__Vapical identity "https://identifiers.org/FMA:84666",
+                       "https://identifiers.org/GO:0016324"
+  Cki_plasma_dxm identity "https://identifiers.org/CHEBI:4470",
+                          "https://identifiers.org/ncit:C62022",
+                          "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Cli_plasma_dxm identity "https://identifiers.org/CHEBI:4470",
+                          "https://identifiers.org/ncit:C62022",
+                          "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Clu_plasma_dxm identity "https://identifiers.org/CHEBI:4470",
+                          "https://identifiers.org/ncit:C62022",
+                          "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Cgu_plasma_dxm identity "https://identifiers.org/CHEBI:4470",
+                          "https://identifiers.org/ncit:C62022",
+                          "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Cre_plasma_dxm identity "https://identifiers.org/CHEBI:4470",
+                          "https://identifiers.org/ncit:C62022",
+                          "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Car_dxm identity "https://identifiers.org/CHEBI:4470",
+                   "https://identifiers.org/ncit:C62022",
+                   "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Cve_dxm identity "https://identifiers.org/CHEBI:4470",
+                   "https://identifiers.org/ncit:C62022",
+                   "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Cpo_dxm identity "https://identifiers.org/CHEBI:4470",
+                   "https://identifiers.org/ncit:C62022",
+                   "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Chv_dxm identity "https://identifiers.org/CHEBI:4470",
+                   "https://identifiers.org/ncit:C62022",
+                   "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Cki_dxm identity "https://identifiers.org/CHEBI:4470",
+                   "https://identifiers.org/ncit:C62022",
+                   "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Cli_dxm identity "https://identifiers.org/CHEBI:4470",
+                   "https://identifiers.org/ncit:C62022",
+                   "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Clu_dxm identity "https://identifiers.org/CHEBI:4470",
+                   "https://identifiers.org/ncit:C62022",
+                   "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Cgu_dxm identity "https://identifiers.org/CHEBI:4470",
+                   "https://identifiers.org/ncit:C62022",
+                   "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Cre_dxm identity "https://identifiers.org/CHEBI:4470",
+                   "https://identifiers.org/ncit:C62022",
+                   "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Aurine_dxm identity "https://identifiers.org/CHEBI:4470",
+                      "https://identifiers.org/ncit:C62022",
+                      "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Cki_plasma_dxo identity "https://identifiers.org/CHEBI:29133",
+                          "https://identifiers.org/ncit:C171857",
+                          "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Cli_plasma_dxo identity "https://identifiers.org/CHEBI:29133",
+                          "https://identifiers.org/ncit:C171857",
+                          "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Clu_plasma_dxo identity "https://identifiers.org/CHEBI:29133",
+                          "https://identifiers.org/ncit:C171857",
+                          "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Cgu_plasma_dxo identity "https://identifiers.org/CHEBI:29133",
+                          "https://identifiers.org/ncit:C171857",
+                          "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Cre_plasma_dxo identity "https://identifiers.org/CHEBI:29133",
+                          "https://identifiers.org/ncit:C171857",
+                          "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Car_dxo identity "https://identifiers.org/CHEBI:29133",
+                   "https://identifiers.org/ncit:C171857",
+                   "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Cve_dxo identity "https://identifiers.org/CHEBI:29133",
+                   "https://identifiers.org/ncit:C171857",
+                   "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Cpo_dxo identity "https://identifiers.org/CHEBI:29133",
+                   "https://identifiers.org/ncit:C171857",
+                   "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Chv_dxo identity "https://identifiers.org/CHEBI:29133",
+                   "https://identifiers.org/ncit:C171857",
+                   "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Cki_dxo identity "https://identifiers.org/CHEBI:29133",
+                   "https://identifiers.org/ncit:C171857",
+                   "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Cli_dxo identity "https://identifiers.org/CHEBI:29133",
+                   "https://identifiers.org/ncit:C171857",
+                   "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Clu_dxo identity "https://identifiers.org/CHEBI:29133",
+                   "https://identifiers.org/ncit:C171857",
+                   "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Cgu_dxo identity "https://identifiers.org/CHEBI:29133",
+                   "https://identifiers.org/ncit:C171857",
+                   "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Cre_dxo identity "https://identifiers.org/CHEBI:29133",
+                   "https://identifiers.org/ncit:C171857",
+                   "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Aurine_dxo identity "https://identifiers.org/CHEBI:29133",
+                      "https://identifiers.org/ncit:C171857",
+                      "https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"
+  Cki_plasma_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                              "https://identifiers.org/pubchem.compound:24883428",
+                              "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Cli_plasma_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                              "https://identifiers.org/pubchem.compound:24883428",
+                              "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Clu_plasma_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                              "https://identifiers.org/pubchem.compound:24883428",
+                              "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Cgu_plasma_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                              "https://identifiers.org/pubchem.compound:24883428",
+                              "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Cre_plasma_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                              "https://identifiers.org/pubchem.compound:24883428",
+                              "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Car_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                       "https://identifiers.org/pubchem.compound:24883428",
+                       "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Cve_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                       "https://identifiers.org/pubchem.compound:24883428",
+                       "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Cpo_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                       "https://identifiers.org/pubchem.compound:24883428",
+                       "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Chv_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                       "https://identifiers.org/pubchem.compound:24883428",
+                       "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Cki_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                       "https://identifiers.org/pubchem.compound:24883428",
+                       "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Cli_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                       "https://identifiers.org/pubchem.compound:24883428",
+                       "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Clu_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                       "https://identifiers.org/pubchem.compound:24883428",
+                       "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Cgu_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                       "https://identifiers.org/pubchem.compound:24883428",
+                       "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Cre_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                       "https://identifiers.org/pubchem.compound:24883428",
+                       "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Aurine_dxo_glu identity "https://identifiers.org/CHEBI:32645",
+                          "https://identifiers.org/pubchem.compound:24883428",
+                          "https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"
+  Cgulumen_dxm identity "https://identifiers.org/CHEBI:4470",
+                        "https://identifiers.org/ncit:C62022",
+                        "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  Afeces_dxm identity "https://identifiers.org/CHEBI:4470",
+                      "https://identifiers.org/ncit:C62022",
+                      "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  GU__dxm_stomach identity "https://identifiers.org/CHEBI:4470",
+                           "https://identifiers.org/ncit:C62022",
+                           "https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"
+  iv_dxm identity "https://identifiers.org/ncit:C38276"
+  PODOSE_dxm identity "https://identifiers.org/ncit:C38288"
+
+  model occursIn "https://identifiers.org/BTO:0001489",
+                 "https://identifiers.org/FMA:256135"
+  model hasProperty "https://identifiers.org/ncit:C79369",
+                    "https://identifiers.org/ncit:C79370",
+                    "https://identifiers.org/ncit:C79371",
+                    "https://identifiers.org/ncit:C79372",
+                    "https://identifiers.org/mamo:MAMO_0000046",
+                    "https://identifiers.org/ncit:C15299"
+  model hasTaxon "https://identifiers.org/taxonomy:9606",
+                 "https://identifiers.org/snomedct:337915000"
+  model created "2026-10-24T23:08:15Z"
+  model modified "2026-10-24T23:08:15Z"
+  model creator1.givenName "Jan"
+  model creator1.familyName "Grzegorzewski"
+  model creator1.organization "Humboldt-Universität zu Berlin, Institute for Theoretical Biology"
+  model creator1.email "janekG89@hotmail.de"
+  model creator2.givenName "Janosch"
+  model creator2.familyName "Brandhorst"
+  model creator2.organization "Humboldt-Universität zu Berlin, Institute for Theoretical Biology"
+  model creator2.email "jbrandhorst1@googlemail.com"
+  model creator3.givenName "Matthias"
+  model creator3.familyName "König"
+  model creator3.organization "Humboldt-University Berlin, Institute for Theoretical Biology"
+  model creator3.email "koenigmx@hu-berlin.de"
+
+  // Notes:
+  model notes ```
+# Whole-body model of dextromethorphan and its metabolites
+
+The circulation of the plasma through the organs, the distribution intothe tissues,
+the oral absorption (intestine submodel), the hepaticmetabolism (liver submodel with
+the CYP2D6 activity of the diplotype) andthe renal excretion (kidney submodel). Dextromethorphan
+is given orally(`PODOSE_dxm`) or intravenously (bolus `IVDOSE_dxm`, infusion `Ri_dxm`).
+
+The substances are dextromethorphan (`dxm`), dextrorphan (`dxo`),dextrorphan glucuronide
+(`dxo_glu`) and the lumped N-demethylatedmorphinans (`mm`: 3-methoxymorphinan, 3-hydroxymorphinan
+and itsglucuronide, which the studies report together). The concentrations of theblood
+compartments are plasma concentrations, the blood to plasma ratio is1 for every substance;
+the venous plasma `Cve_<sid>` is what the studiessample.
+
+The content of this model has been carefully created in a manual research effort.
+
+## Terms of use
+
+Copyright © 2026 [Matthias König](https://livermetabolism.com "Matthias König").
+[ ![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
+](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+Redistribution and use of any part of this model, with or without modification, are
+permitted providedthat the following conditions are met:
+
+- Redistributions of this SBML file must retain the above copyright notice, this list of conditions and the following disclaimer.
+- Redistributions in a different form must reproduce the above copyright notice, this list of conditionsand the following disclaimer in the documentation and/or other materials providedwith the distribution.
+
+
+This model is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even theimplied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+```
+  BW_ref notes ```
+Body weight at which the exchange flows of the tissue distribution (`ftissue_<sid>`) are given;
+they scale with the body weight as the volumes, the blood flows and the renal clearance
+do.
+```
+  FQgu notes ```
+FQgu is the sum of FQgu + FQsp + FQpa for the correct portal bloodflow, with FQgu=0.146,
+FQsp=0.017, FQpa=0.017.
+```
+  ftissue_fast notes ```
+The exchange flow between the plasma and the tissue of the liver,the kidney and the
+gut at the reference body weight `BW_ref`:fast against their perfusion, so the exchange
+does not limit thehepatic metabolism, the renal excretion or the absorption. Fixed.
+```
+  f_GFR_Qki notes ```
+GFR per renal blood flow (76.3 ml/l). Calibrated so that thehealthy GFR is 101 ml/min
+at the renal blood flow of 1.32354 l/minof 75 kg, the normal GFR of the classes of
+renal impairment(`pkpdsim.impairment`).
+```
+  GFR_base notes ```
+The GFR of healthy kidneys, which scales with the renal blood flowand so with the
+body weight; the GFR is `KI__f_renal_function`times this rate.
+```
+  ftissue_dxm notes ```
+Exchange flow between the plasma and the tissue of the peripheral organs (the rest
+of the body, the lung) at the reference body weight `BW_ref`; it sets how fast the distribution
+phase is.
+```
+  ftissue_dxo notes ```
+Exchange flow between the plasma and the tissue of the peripheral organs (the rest
+of the body, the lung) at the reference body weight `BW_ref`; it sets how fast the distribution
+phase is.
+```
+  ftissue_dxo_glu notes ```
+Exchange flow between the plasma and the tissue of the peripheral organs (the rest
+of the body, the lung) at the reference body weight `BW_ref`; it sets how fast the distribution
+phase is.
+```
+  ftissue_mm notes ```
+Exchange flow between the plasma and the tissue of the peripheral organs (the rest
+of the body, the lung) at the reference body weight `BW_ref`; it sets how fast the distribution
+phase is.
+```
+  KI__f_renal_function notes ```
+>
+> 1.0: increased kidney function
+> 1.0: normal kidney function (healthy control)
+> <1.0: decreased kidney function
+>
+> 
+Renal function relative to the healthy glomerular filtration rate`GFR_base`, which is 101
+ml/min at 75 kg; a measured creatinineclearance of X ml/min is the renal function
+X/101.
+```
+  LI__f_cyp2d6 notes ```
+Activity of CYP2D6 relative to the reference (1.0, no interactingdrug), set by the
+experiments for an interaction, never fitted. Theactivity of CYP2D6 of a diplotype
+is the activity score`cyp2d6_activity` of the CYP2D6 submodel, which this factor multiplies.
+```
+  LI__f_cyp3a4 notes ```
+Activity of CYP3A4 relative to the reference (1.0, no interactingdrug), set by the
+experiments for an interaction, never fitted. Theactivity of CYP2D6 of a diplotype
+is the activity score`cyp2d6_activity` of the CYP2D6 submodel, which this factor multiplies.
+```
+  LI__f_ugt2b15 notes ```
+Activity of UGT2B15 relative to the reference (1.0, no interactingdrug), set by the
+experiments for an interaction, never fitted. Theactivity of CYP2D6 of a diplotype
+is the activity score`cyp2d6_activity` of the CYP2D6 submodel, which this factor multiplies.
+```
+  LI__cyp2d6_activity_ref notes ```
+The activity score of a diplotype of two fully functional alleles(\*1/\*1), at which
+the maximal rate `DXMCYP2D6_Vmax` is given: the rateof the O-demethylation by CYP2D6 scales linearly
+with`cyp2d6_activity/cyp2d6_activity_ref`.
+```
+  LI__DXMCYP2D6_Vmax notes "Maximal rate per liver volume."
+  LI__DXMCYP2D6_Km_dxm notes ```
+Of the order of the values of human liver microsomes, fixed: the hepatic concentrations
+are far below it, the kinetics are linear.
+```
+  LI__DXMCYPX_Vmax notes "Maximal rate per liver volume."
+  LI__DXMCYPX_Km_dxm notes ```
+Of the order of the values of human liver microsomes, fixed: the hepatic concentrations
+are far below it, the kinetics are linear.
+```
+  LI__DXMNDM_Vmax notes "Maximal rate per liver volume."
+  LI__DXMNDM_Km_dxm notes ```
+Of the order of the values of human liver microsomes, fixed: the hepatic concentrations
+are far below it, the kinetics are linear.
+```
+  LI__DXONDM_Vmax notes "Maximal rate per liver volume."
+  LI__DXONDM_Km_dxo notes ```
+Of the order of the values of human liver microsomes, fixed: the hepatic concentrations
+are far below it, the kinetics are linear.
+```
+  LI__DXOUGT_Vmax notes "Maximal rate per liver volume."
+  LI__DXOUGT_Km_dxo notes ```
+Of the order of the values of human liver microsomes, fixed: the hepatic concentrations
+are far below it, the kinetics are linear.
+```
+  GU__F_dxm_abs notes ```
+The fraction of the dextromethorphan in the lumen which is absorbed,`(1 - F_dxm_abs)` is excreted
+in the feces; fitted on theurinary recoveries.
+```
+  GU__DXMABS_k notes ```
+Fixed: the step is in series with the dissolution and is not identified apart from
+it.
+```
+  LI__DXMCYP2D6 notes ```
+O-demethylation of dextromethorphan to dextrorphan (CYP2D6), the pathway of the metabolizer
+phenotype: it is most of the clearance of extensive metabolizers and absent in poor
+metabolizers.
+```
+  LI__DXMCYPX notes ```
+CYP2D6-independent O-demethylation of dextromethorphan to dextrorphan (CYP3A4, CYP2C9),
+the low affinity site of the microsomes; it forms the dextrorphan of poor metabolizers.
+```
+  LI__DXMNDM notes ```
+N-demethylation of dextromethorphan to 3-methoxymorphinan (CYP3A4), the main CYP2D6-independent
+clearance of dextromethorphan.
+```
+  LI__DXONDM notes ```
+N-demethylation of dextrorphan to 3-hydroxymorphinan (CYP3A4); 3-hydroxymorphinan
+is about 16 % of an oral dose in the urine of extensive metabolizers (Capon1996,
+Schadel1995).
+```
+  LI__DXOUGT notes ```
+Glucuronidation of dextrorphan (UGT2B15), the main route of the dextrorphan which
+is formed: about 96 % of the dextrorphan of the plasma is conjugated (Nagai1996).
+```
+
+  // Uncertainty parameters:
+  Kp_dxm.confidenceInterval = {6.65570447006182, 16.5013513162909}
+  Kp_dxm.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  Kp_dxm.standardError = 0.81615935432991
+  Kp_dxm.standardError is "standard error (Fisher information)"
+  Kp_dxm.distribution = lognormal(2.25003390766504, 0.231628739270324, 1, 20)
+  Kp_dxm.distribution is "distribution of the draws"
+  Ka_dis_dxm.confidenceInterval = {0.338933877381991, 0.475976329784866}
+  Ka_dis_dxm.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  Ka_dis_dxm.standardError = 0.0194923535996601
+  Ka_dis_dxm.standardError is "standard error (Fisher information)"
+  Ka_dis_dxm.distribution = lognormal(-0.912094221333314, 0.0866248288095787, 0.05, 10)
+  Ka_dis_dxm.distribution is "distribution of the draws"
+  Kp_mm.confidenceInterval = {0.0224749704718102, 0.216365138473078}
+  Kp_mm.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  Kp_mm.standardError = 0.0276089642058684
+  Kp_mm.standardError is "standard error (Fisher information)"
+  Kp_mm.distribution = lognormal(-2.37195891050058, 0.577705811865743, 0.02, 3)
+  Kp_mm.distribution is "distribution of the draws"
+  KI__DXMEX_f.confidenceInterval = {0.481567983644349, 0.856333775210204}
+  KI__DXMEX_f.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  KI__DXMEX_f.standardError = 0.0509326468906526
+  KI__DXMEX_f.standardError is "standard error (Fisher information)"
+  KI__DXMEX_f.distribution = lognormal(-0.421421407267081, 0.14684270128211, 0.05, 10)
+  KI__DXMEX_f.distribution is "distribution of the draws"
+  KI__DXOEX_f.confidenceInterval = {1.44026222426426, 2.3922801263858}
+  KI__DXOEX_f.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  KI__DXOEX_f.standardError = 0.136721495584361
+  KI__DXOEX_f.standardError is "standard error (Fisher information)"
+  KI__DXOEX_f.distribution = lognormal(0.625477047450981, 0.129446700483765, 0.05, 50)
+  KI__DXOEX_f.distribution is "distribution of the draws"
+  KI__DXOGLUEX_f.confidenceInterval = {1.86817126040207, 2.73615926276724}
+  KI__DXOGLUEX_f.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  KI__DXOGLUEX_f.standardError = 0.118015969129397
+  KI__DXOGLUEX_f.standardError is "standard error (Fisher information)"
+  KI__DXOGLUEX_f.distribution = lognormal(0.81792407964601, 0.097347500869982, 0.05, 20)
+  KI__DXOGLUEX_f.distribution is "distribution of the draws"
+  KI__MMEX_f.confidenceInterval = {1.13102232844208, 2.4671518983159}
+  KI__MMEX_f.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  KI__MMEX_f.standardError = 0.173479424994869
+  KI__MMEX_f.standardError is "standard error (Fisher information)"
+  KI__MMEX_f.distribution = lognormal(0.507584716300793, 0.1989685715478, 0.05, 20)
+  KI__MMEX_f.distribution is "distribution of the draws"
+  LI__DXMCYP2D6_Vmax.confidenceInterval = {0.00290954321952487, 0.00956475914719569}
+  LI__DXMCYP2D6_Vmax.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  LI__DXMCYP2D6_Vmax.standardError = 0.000660517263058411
+  LI__DXMCYP2D6_Vmax.standardError is "standard error (Fisher information)"
+  LI__DXMCYP2D6_Vmax.distribution = lognormal(-5.13186987935715, 0.303599793592448, 0.0001, 1)
+  LI__DXMCYP2D6_Vmax.distribution is "distribution of the draws"
+  LI__DXMCYPX_Vmax.confidenceInterval = {0.0002845287891757, 0.00066855314755884}
+  LI__DXMCYPX_Vmax.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  LI__DXMCYPX_Vmax.standardError = 4.60822184237146e-05
+  LI__DXMCYPX_Vmax.standardError is "standard error (Fisher information)"
+  LI__DXMCYPX_Vmax.distribution = lognormal(-7.69545520117577, 0.217932947288211, 1e-6, 0.01)
+  LI__DXMCYPX_Vmax.distribution is "distribution of the draws"
+  LI__DXMNDM_Vmax.confidenceInterval = {0.000420532886913877, 0.00217576942118083}
+  LI__DXMNDM_Vmax.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  LI__DXMNDM_Vmax.standardError = 0.000229265168728744
+  LI__DXMNDM_Vmax.standardError is "standard error (Fisher information)"
+  LI__DXMNDM_Vmax.distribution = lognormal(-6.74954022739293, 0.419297233359964, 1e-5, 1)
+  LI__DXMNDM_Vmax.distribution is "distribution of the draws"
+  LI__DXONDM_Vmax.confidenceInterval = {0.264403193966135, 0.392708973853365}
+  LI__DXONDM_Vmax.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  LI__DXONDM_Vmax.standardError = 0.0179246351019134
+  LI__DXONDM_Vmax.standardError is "standard error (Fisher information)"
+  LI__DXONDM_Vmax.distribution = lognormal(-1.13179334851176, 0.10091859548485, 0.001, 50)
+  LI__DXONDM_Vmax.distribution is "distribution of the draws"
+  LI__DXOUGT_Vmax.confidenceInterval = {0.52892922330852, 0.767879884237463}
+  LI__DXOUGT_Vmax.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  LI__DXOUGT_Vmax.standardError = 0.0325963404809187
+  LI__DXOUGT_Vmax.standardError is "standard error (Fisher information)"
+  LI__DXOUGT_Vmax.distribution = lognormal(-0.451494835453398, 0.0950983522106098, 0.01, 100)
+  LI__DXOUGT_Vmax.distribution is "distribution of the draws"
+  GU__F_dxm_abs.confidenceInterval = {0.468804690307739, 0.580670680694683}
+  GU__F_dxm_abs.confidenceInterval is "95 % confidence interval (profile likelihood)"
+  GU__F_dxm_abs.standardError = 0.014858832858277
+  GU__F_dxm_abs.standardError is "standard error (Fisher information)"
+  GU__F_dxm_abs.distribution = lognormal(-0.646700866312311, 0.0545922119144142, 0.3, 1)
+  GU__F_dxm_abs.distribution is "distribution of the draws"
+end
+
+dextromethorphan_body is "Dextromethorphan (DXM) body model"

@@ -1,0 +1,7 @@
+study	phenotype	individual	substance	intervention	time	time_unit	method	value	time_jitter	time_jitter_unit	value_unit
+Hou1991	pm	Fig5_47	dmt/dtf	DEX_50mg	8.0	hr	HPLC	13.216817	7.83961631946037	hr	dimensionless
+Hou1991	pm	Fig5_48	dmt/dtf	DEX_50mg	8.0	hr	HPLC	19.317072	8.006409991400377	hr	dimensionless
+Hou1991	pm	Fig5_49	dmt/dtf	DEX_50mg	8.0	hr	HPLC	40.33482	8.074089129587673	hr	dimensionless
+Hou1991	pm	Fig5_50	dmt/dtf	DEX_50mg	8.0	hr	HPLC	43.394238	8.015261919356565	hr	dimensionless
+Hou1991	pm	Fig5_51	dmt/dtf	DEX_50mg	8.0	hr	HPLC	76.58797	8.086374389132333	hr	dimensionless
+Hou1991	pm	Fig5_52	dmt/dtf	DEX_50mg	8.0	hr	HPLC	416.702	8.291309922250397	hr	dimensionless

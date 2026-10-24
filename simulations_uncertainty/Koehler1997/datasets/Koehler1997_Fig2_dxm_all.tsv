@@ -1,0 +1,6 @@
+study	id	activity_score	parent_group	measurement	substance	tissue	intervention	time	time_unit	value	method	time_jitter	time_jitter_unit	value_unit
+Koehler1997	Fig2_PM_panel1_1	0	all	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	2.2375788123977537e-05	HPLC	0.8396163194603699	hr	mole/meter^3
+Koehler1997	Fig2_PM_panel1_2	0	all	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	1.8233251536454876e-05	HPLC	1.0064099914003763	hr	mole/meter^3
+Koehler1997	Fig2_PM_panel1_3	0	all	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	4.774770821358565e-05	HPLC	1.0740891295876727	hr	mole/meter^3
+Koehler1997	Fig2_PM_panel1_4	0	all	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	5.3506223194941864e-05	HPLC	1.0152619193565653	hr	mole/meter^3
+Koehler1997	Fig2_PM_panel1_5	0	all	concentration	dextromethorphan	serum	dextromethorphan_20mg	1	hr	9.558444606564384e-05	HPLC	1.0863743891323332	hr	mole/meter^3

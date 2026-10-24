@@ -1,0 +1,55 @@
+study	group	group_count	cyp2d6_genotype	measurement	substance	tissue	intervention	time	time_unit	mean	sd	unit	method	label	comments
+Dorado2017	4_4	5	*4/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	25.38	49.08	dimensionless	HPLC	NA	NA
+Dorado2017	4_17	4	*4/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.84	0.89	dimensionless	HPLC	NA	NA
+Dorado2017	4_41	2	*4/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.08	0.07	dimensionless	HPLC	NA	NA
+Dorado2017	1_4	25	*1/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.67	2.95	dimensionless	HPLC	NA	NA
+Dorado2017	2_4	10	*2/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.05	0.05	dimensionless	HPLC	NA	NA
+Dorado2017	1_5	2	*1/*5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.21	0.15	dimensionless	HPLC	NA	NA
+Dorado2017	41_41	2	*41/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.06	0.27	dimensionless	HPLC	NA	NA
+Dorado2017	1_17	11	*1/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.37	0.98	dimensionless	HPLC	NA	NA
+Dorado2017	1_41	7	*1/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.09	0.09	dimensionless	HPLC	NA	NA
+Dorado2017	17_35	2	*17/*35	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.04	0.05	dimensionless	HPLC	NA	NA
+Dorado2017	2_17	2	*2/*17	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.06	0.02	dimensionless	HPLC	NA	NA
+Dorado2017	2_41	2	*2/*41	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.14	0.01	dimensionless	HPLC	NA	NA
+Dorado2017	1_1	50	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.09	0.09	dimensionless	HPLC	NA	NA
+Dorado2017	1_2	23	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.07	0.07	dimensionless	HPLC	NA	NA
+Dorado2017	1_35	5	*1/*35	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.15	0.06	dimensionless	HPLC	NA	NA
+Dorado2017	2_2	2	*2/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.19	0.2	dimensionless	HPLC	NA	NA
+Dorado2017	1_1N	5	*1/*1xN	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.03	0.04	dimensionless	HPLC	NA	NA
+Dorado2017	1_2N	2	*1/*2xN	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	0.02	0.27	dimensionless	HPLC	NA	NA
+Dorado2017	4_4	5	*4/*4	caverage	dextromethorphan	urine	DEX	8	hr	1844.0	1624.0	ng/ml	HPLC	NA	NA
+Dorado2017	4_17	4	*4/*17	caverage	dextromethorphan	urine	DEX	8	hr	2088.0	1859.0	ng/ml	HPLC	NA	NA
+Dorado2017	4_41	2	*4/*41	caverage	dextromethorphan	urine	DEX	8	hr	329.5	598.9	ng/ml	HPLC	NA	NA
+Dorado2017	1_4	25	*1/*4	caverage	dextromethorphan	urine	DEX	8	hr	1025.0	1413.0	ng/ml	HPLC	NA	NA
+Dorado2017	2_4	10	*2/*4	caverage	dextromethorphan	urine	DEX	8	hr	815.5	1040.0	ng/ml	HPLC	NA	NA
+Dorado2017	1_5	2	*1/*5	caverage	dextromethorphan	urine	DEX	8	hr	1321.6	2345.7	ng/ml	HPLC	NA	NA
+Dorado2017	41_41	2	*41/*41	caverage	dextromethorphan	urine	DEX	8	hr	195.3	1527.9	ng/ml	HPLC	NA	NA
+Dorado2017	1_17	11	*1/*17	caverage	dextromethorphan	urine	DEX	8	hr	1010.9	1020.9	ng/ml	HPLC	NA	NA
+Dorado2017	1_41	7	*1/*41	caverage	dextromethorphan	urine	DEX	8	hr	772.0	883.1	ng/ml	HPLC	NA	NA
+Dorado2017	17_35	2	*17/*35	caverage	dextromethorphan	urine	DEX	8	hr	977.5	300.5	ng/ml	HPLC	NA	NA
+Dorado2017	2_17	2	*2/*17	caverage	dextromethorphan	urine	DEX	8	hr	212.4	180.0	ng/ml	HPLC	NA	NA
+Dorado2017	2_41	2	*2/*41	caverage	dextromethorphan	urine	DEX	8	hr	1955.8	284.1	ng/ml	HPLC	NA	NA
+Dorado2017	1_1	50	*1/*1	caverage	dextromethorphan	urine	DEX	8	hr	1247.2	1679.2	ng/ml	HPLC	NA	NA
+Dorado2017	1_2	23	*1/*2	caverage	dextromethorphan	urine	DEX	8	hr	810.7	775.3	ng/ml	HPLC	NA	NA
+Dorado2017	1_35	5	*1/*35	caverage	dextromethorphan	urine	DEX	8	hr	1710.0	941.5	ng/ml	HPLC	NA	NA
+Dorado2017	2_2	2	*2/*2	caverage	dextromethorphan	urine	DEX	8	hr	1578.3	2895.7	ng/ml	HPLC	NA	NA
+Dorado2017	1_1N	5	*1/*1xN	caverage	dextromethorphan	urine	DEX	8	hr	282.5	575.49	ng/ml	HPLC	NA	NA
+Dorado2017	1_2N	2	*1/*2xN	caverage	dextromethorphan	urine	DEX	8	hr	250.3	1734.5	ng/ml	HPLC	NA	NA
+Dorado2017	4_4	5	*4/*4	caverage	dtf+dtfglu	urine	DEX	8	hr	473.3	407.3	ng/ml	HPLC	NA	NA
+Dorado2017	4_17	4	*4/*17	caverage	dtf+dtfglu	urine	DEX	8	hr	3910.0	4092.0	ng/ml	HPLC	NA	NA
+Dorado2017	4_41	2	*4/*41	caverage	dtf+dtfglu	urine	DEX	8	hr	3925.3	8355.2	ng/ml	HPLC	NA	NA
+Dorado2017	1_4	25	*1/*4	caverage	dtf+dtfglu	urine	DEX	8	hr	14318.0	11121.0	ng/ml	HPLC	NA	NA
+Dorado2017	2_4	10	*2/*4	caverage	dtf+dtfglu	urine	DEX	8	hr	17185.0	13085.0	ng/ml	HPLC	NA	NA
+Dorado2017	1_5	2	*1/*5	caverage	dtf+dtfglu	urine	DEX	8	hr	6397.1	15409.8	ng/ml	HPLC	NA	NA
+Dorado2017	41_41	2	*41/*41	caverage	dtf+dtfglu	urine	DEX	8	hr	3256.7	5599.0	ng/ml	HPLC	NA	NA
+Dorado2017	1_17	11	*1/*17	caverage	dtf+dtfglu	urine	DEX	8	hr	11983.5	8644.4	ng/ml	HPLC	NA	NA
+Dorado2017	1_41	7	*1/*41	caverage	dtf+dtfglu	urine	DEX	8	hr	10247.0	7719.0	ng/ml	HPLC	NA	NA
+Dorado2017	17_35	2	*17/*35	caverage	dtf+dtfglu	urine	DEX	8	hr	23143.8	6276.5	ng/ml	HPLC	NA	NA
+Dorado2017	2_17	2	*2/*17	caverage	dtf+dtfglu	urine	DEX	8	hr	3854.71	8270.15	ng/ml	HPLC	NA	NA
+Dorado2017	2_41	2	*2/*41	caverage	dtf+dtfglu	urine	DEX	8	hr	13747.3	19406.7	ng/ml	HPLC	NA	NA
+Dorado2017	1_1	50	*1/*1	caverage	dtf+dtfglu	urine	DEX	8	hr	13865.0	9474.0	ng/ml	HPLC	NA	NA
+Dorado2017	1_2	23	*1/*2	caverage	dtf+dtfglu	urine	DEX	8	hr	17707.0	12734.0	ng/ml	HPLC	NA	NA
+Dorado2017	1_35	5	*1/*35	caverage	dtf+dtfglu	urine	DEX	8	hr	14188.0	8080.0	ng/ml	HPLC	NA	NA
+Dorado2017	2_2	2	*2/*2	caverage	dtf+dtfglu	urine	DEX	8	hr	8270.8	14649.7	ng/ml	HPLC	NA	NA
+Dorado2017	1_1N	5	*1/*1xN	caverage	dtf+dtfglu	urine	DEX	8	hr	10398.4	7601.86	ng/ml	HPLC	NA	NA
+Dorado2017	1_2N	2	*1/*2xN	caverage	dtf+dtfglu	urine	DEX	8	hr	11991.7	6510.1	ng/ml	HPLC	NA	NA

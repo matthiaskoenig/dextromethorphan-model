@@ -1,0 +1,97 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	value	unit	method	output_type	comments
+Frank2009	NA	B01	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.0462	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B02	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.604	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B03	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.0081	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B04	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.0269	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B05	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.00391	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B06	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	1.18	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B07	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.0301	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B08	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.0814	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B09	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.0089	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B10	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.0331	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B11	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.0331	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B12	1	auc_end	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.0627	nmol/ml*hr	HPLC	output	reference
+Frank2009	NA	B01 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.346	dimensionless	HPLC	output	reference
+Frank2009	NA	B02 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	5.11	dimensionless	HPLC	output	reference
+Frank2009	NA	B03 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.1	dimensionless	HPLC	output	reference
+Frank2009	NA	B04 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.211	dimensionless	HPLC	output	reference
+Frank2009	NA	B05 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.0423	dimensionless	HPLC	output	reference
+Frank2009	NA	B06 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	876.0	dimensionless	HPLC	output	reference
+Frank2009	NA	B07 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.705	dimensionless	HPLC	output	reference
+Frank2009	NA	B08 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.948	dimensionless	HPLC	output	reference
+Frank2009	NA	B09 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.126	dimensionless	HPLC	output	reference
+Frank2009	NA	B10 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.591	dimensionless	HPLC	output	reference
+Frank2009	NA	B11 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.591	dimensionless	HPLC	output	reference
+Frank2009	NA	B12 	1	cumulative metabolic ratio	dmt/dtf	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	0.868	dimensionless	HPLC	output	reference
+Frank2009	NA	B01 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	2418.0	l/hr	HPLC	output	reference
+Frank2009	NA	B02 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	145.0	l/hr	HPLC	output	reference
+Frank2009	NA	B03 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	11414.0	l/hr	HPLC	output	reference
+Frank2009	NA	B04 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	3703.0	l/hr	HPLC	output	reference
+Frank2009	NA	B05 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	21303.0	l/hr	HPLC	output	reference
+Frank2009	NA	B06 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	38.0	l/hr	HPLC	output	reference
+Frank2009	NA	B07 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	3542.0	l/hr	HPLC	output	reference
+Frank2009	NA	B08 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	1324.0	l/hr	HPLC	output	reference
+Frank2009	NA	B09 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	9536.0	l/hr	HPLC	output	reference
+Frank2009	NA	B10 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	2938.0	l/hr	HPLC	output	reference
+Frank2009	NA	B11 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	2938.0	l/hr	HPLC	output	reference
+Frank2009	NA	B12 	1	clearance	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	1563.0	l/hr	HPLC	output	reference
+Frank2009	NA	B01 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	506386.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B02 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	26753.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B03 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	3159023.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B04 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	399130.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B05 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	2605686.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B06 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	8505.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B07 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	654160.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B08 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	146557.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B09 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	1728982.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B10 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	703356.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B11 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	476459.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B12 	1	clearance_partial	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	14.0	hr	255017.0	ml/hr	HPLC	output	reference
+Frank2009	NA	B01 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.0347	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B02 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.677	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B03 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.00937	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B04 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.0361	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B05 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.00545	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B06 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	1.11	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B07 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.0339	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B08 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.23	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B09 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.00552	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B10 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.0416	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B11 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.0371	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B12 	1	auc_end	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.0552	nmol/ml*hr	HPLC	output	test
+Frank2009	NA	B01 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.281	dimensionless	HPLC	output	test
+Frank2009	NA	B02 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	4.34	dimensionless	HPLC	output	test
+Frank2009	NA	B03 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.092	dimensionless	HPLC	output	test
+Frank2009	NA	B04 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.31	dimensionless	HPLC	output	test
+Frank2009	NA	B05 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.0375	dimensionless	HPLC	output	test
+Frank2009	NA	B06 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	614.0	dimensionless	HPLC	output	test
+Frank2009	NA	B07 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.594	dimensionless	HPLC	output	test
+Frank2009	NA	B08 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	2.14	dimensionless	HPLC	output	test
+Frank2009	NA	B09 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.087	dimensionless	HPLC	output	test
+Frank2009	NA	B10 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.678	dimensionless	HPLC	output	test
+Frank2009	NA	B11 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.491	dimensionless	HPLC	output	test
+Frank2009	NA	B12 	1	cumulative metabolic ratio	dmt/dtf	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	0.586	dimensionless	HPLC	output	test
+Frank2009	NA	B01 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	2945.0	l/hr	HPLC	output	test
+Frank2009	NA	B02 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	121.0	l/hr	HPLC	output	test
+Frank2009	NA	B03 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	10947.0	l/hr	HPLC	output	test
+Frank2009	NA	B04 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	2770.0	l/hr	HPLC	output	test
+Frank2009	NA	B05 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	16025.0	l/hr	HPLC	output	test
+Frank2009	NA	B06 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	37.4	l/hr	HPLC	output	test
+Frank2009	NA	B07 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	2796.0	l/hr	HPLC	output	test
+Frank2009	NA	B08 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	392.0	l/hr	HPLC	output	test
+Frank2009	NA	B09 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	11559.0	l/hr	HPLC	output	test
+Frank2009	NA	B10 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	2161.0	l/hr	HPLC	output	test
+Frank2009	NA	B11 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	2787.0	l/hr	HPLC	output	test
+Frank2009	NA	B12 	1	clearance	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	1565.0	l/hr	HPLC	output	test
+Frank2009	NA	B01 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B02 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B03 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B04 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B05 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B06 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B07 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B08 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B09 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B10 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B11 	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test
+Frank2009	NA	B12	1	clearance_partial	dextromethorphan	plasma	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	14.0	hr	NA	ml/hr	HPLC	output	test

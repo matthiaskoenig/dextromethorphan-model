@@ -1,0 +1,18 @@
+study	group	count	substance	measurement_type	intervention	method	tissue	label	time	time_unit	mean	sepm	mean_se	mean_sd	mean_unit	count_unit
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	0.0	hr					mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	0.5	hr	8.531963419846429e-08				mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	1.0	hr	1.7063925734329634e-06				mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	1.5	hr	2.9861871232553684e-06				mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	2.0	hr	4.607260025644426e-06	1.5977701	1.2797943287497607e-06	4.244597597287696e-06	mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	3.0	hr	4.55038024494849e-06	1.5900514	1.308234219097729e-06	4.338922042650772e-06	mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	4.0	hr	3.7825039424621597e-06	1.3276157	1.109154618207543e-06	3.678649703084317e-06	mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	5.0	hr	3.5265446714123593e-06	1.2041166	9.100760121442572e-07	3.018380662985424e-06	mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	6.0	hr	2.872427598708936e-06	0.9879931	7.678765235589748e-07	2.5467583139676168e-06	mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	8.0	hr	2.0761108900384665e-06				mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	10.0	hr	1.6779527936213173e-06				mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	12.0	hr	1.2797944392860827e-06				mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	16.0	hr	7.10996927090242e-07				mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	20.0	hr	4.834779148428173e-07				mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	24.0	hr	3.6971841240364917e-07				mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	48.0	hr	2.8439876715155266e-08				mole/meter^3	dimensionless
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	72.0	hr					mole/meter^3	dimensionless

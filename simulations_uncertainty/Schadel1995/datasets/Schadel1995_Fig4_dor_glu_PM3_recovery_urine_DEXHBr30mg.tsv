@@ -1,0 +1,10 @@
+study	label	id	measurement	substance	tissue	intervention	time	time_unit	value	method	value_unit
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	0	hr		HPLC	mole
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	4	hr		HPLC	mole
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	8	hr	9.962616797191467e-08	HPLC	mole
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	12	hr	4.5902522009181755e-07	HPLC	mole
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	24	hr	2.531156386713476e-06	HPLC	mole
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	36	hr	3.1140160410477996e-06	HPLC	mole
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	48	hr	3.946173913043478e-06	HPLC	mole
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	60	hr	4.653333297326492e-06	HPLC	mole
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	72	hr	5.235029165541454e-06	HPLC	mole

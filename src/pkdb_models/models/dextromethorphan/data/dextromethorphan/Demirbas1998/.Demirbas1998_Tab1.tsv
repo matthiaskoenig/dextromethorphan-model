@@ -1,0 +1,13 @@
+study	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	sd	se	unit	method
+Demirbas1998	all	6	auc_end	dtf+dtfglu	plasma	A1_0hr, A2_0hr	24.0	hr	3883.6	1198.2	489.163101633801	ng*hr/ml	HPLC
+Demirbas1998	all	6	cmax	dtf+dtfglu	plasma	A1_0hr, A2_0hr	NA	NA	465.8	112.8	46.0504071643238	ng/ml	HPLC
+Demirbas1998	all	6	tmax	dtf+dtfglu	plasma	A1_0hr, A2_0hr	NA	NA	5.2	0.98	0.400083324654586	hr	HPLC
+Demirbas1998	all	6	auc_end	dtf+dtfglu	plasma	A1_24hr, A1_36hr, A1_48hr, A1_60hr, A1_72hr, A1_84hr, A1_96hr, A1_108hr, A1_120hr, A2_24hr, A2_36hr, A2_48hr, A2_60hr, A2_72hr, A2_84hr, A2_96hr, A2_108hr, A2_120hr	24.0	hr	4330.3	1406.3	574.119570879331	ng*hr/ml	HPLC
+Demirbas1998	all	6	cmax	dtf+dtfglu	plasma	A1_24hr, A1_36hr, A1_48hr, A1_60hr, A1_72hr, A1_84hr, A1_96hr, A1_108hr, A1_120hr, A2_24hr, A2_36hr, A2_48hr, A2_60hr, A2_72hr, A2_84hr, A2_96hr, A2_108hr, A2_120hr	NA	NA	580.4	142.9	58.338680707286	ng/ml	HPLC
+Demirbas1998	all	6	tmax	dtf+dtfglu	plasma	A1_24hr, A1_36hr, A1_48hr, A1_60hr, A1_72hr, A1_84hr, A1_96hr, A1_108hr, A1_120hr, A2_24hr, A2_36hr, A2_48hr, A2_60hr, A2_72hr, A2_84hr, A2_96hr, A2_108hr, A2_120hr	NA	NA	3.7	0.82	0.334763598180368	hr	HPLC
+Demirbas1998	all	6	auc_end	dtf+dtfglu	plasma	B_0hr	24.0	hr	3449.6	1773.8	724.1508176248	ng*hr/ml	HPLC
+Demirbas1998	all	6	cmax	dtf+dtfglu	plasma	B_0hr	NA	NA	436.6	174.7	71.3209763440369	ng/ml	HPLC
+Demirbas1998	all	6	tmax	dtf+dtfglu	plasma	B_0hr	NA	NA	3.7	0.82	0.334763598180368	hr	HPLC
+Demirbas1998	all	6	auc_end	dtf+dtfglu	plasma	B_24hr, B_36hr, B_48hr, B_60hr, B2_72hr, B2_84hr, B_96hr, B_108hr, B_120hr	24.0	hr	3962.8	1857.7	758.402849194718	ng*hr/ml	HPLC
+Demirbas1998	all	6	cmax	dtf+dtfglu	plasma	B_24hr, B_36hr, B_48hr, B_60hr, B2_72hr, B2_84hr, B_96hr, B_108hr, B_120hr	NA	NA	528.6	243.6	99.449283556997	ng/ml	HPLC
+Demirbas1998	all	6	tmax	dtf+dtfglu	plasma	B_24hr, B_36hr, B_48hr, B_60hr, B2_72hr, B2_84hr, B_96hr, B_108hr, B_120hr	NA	NA	3.9	1.05	0.428660704987056	hr	HPLC

@@ -1,0 +1,13 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	0.0	hr	0.0		HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	1.0	hr	0.10498896	0.06668972	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	2.5	hr	0.59860444	0.49997246	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	3.5	hr	0.8369257	0.8610808	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	4.5	hr	0.9808504	1.0999678	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	6.5	hr	1.2019157	1.3054982	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	7.5	hr	1.2569051	1.3277437	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	10.0	hr	1.3332678	1.4166085	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	12.0	hr	1.3543819	1.4666079	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	22.0	hr	1.4266429	1.5166075	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	26.0	hr	1.4354672	1.6943841	HPLC	micromol	dimensionless
+Nagai1996	Fig2_dextrorphan_free	pharmacokinetics	7	cumulative amount	dextrorphan	urine	dex_30mg	34.0	hr	1.4311062	1.7054714	HPLC	micromol	dimensionless

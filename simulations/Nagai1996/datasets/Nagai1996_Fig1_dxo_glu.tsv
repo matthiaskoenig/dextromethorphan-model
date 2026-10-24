@@ -1,0 +1,10 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Nagai1996	Fig1_dextrorphan-glucuronide	pharmacokinetics	7	concentration	dextrorphan-glucuronide	plasma	dex_30mg	0.0	hr			HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_dextrorphan-glucuronide	pharmacokinetics	7	concentration	dextrorphan-glucuronide	plasma	dex_30mg	0.5	hr	0.00032638728128528714	0.0005979154344943593	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_dextrorphan-glucuronide	pharmacokinetics	7	concentration	dextrorphan-glucuronide	plasma	dex_30mg	1.0	hr	0.0014890547352988876	0.00030836661801310225	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_dextrorphan-glucuronide	pharmacokinetics	7	concentration	dextrorphan-glucuronide	plasma	dex_30mg	2.0	hr	0.0018895172433407912	0.00047185914664865067	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_dextrorphan-glucuronide	pharmacokinetics	7	concentration	dextrorphan-glucuronide	plasma	dex_30mg	3.0	hr	0.0014861324907819717	0.0005980483556284154	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_dextrorphan-glucuronide	pharmacokinetics	7	concentration	dextrorphan-glucuronide	plasma	dex_30mg	4.0	hr	0.0010455772231380224	0.0004205421084128238	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_dextrorphan-glucuronide	pharmacokinetics	7	concentration	dextrorphan-glucuronide	plasma	dex_30mg	7.0	hr	0.0003779477427613544	0.000210271069748199	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_dextrorphan-glucuronide	pharmacokinetics	7	concentration	dextrorphan-glucuronide	plasma	dex_30mg	11.0	hr	0.0001107808403646321	5.1383360869494605e-05	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_dextrorphan-glucuronide	pharmacokinetics	7	concentration	dextrorphan-glucuronide	plasma	dex_30mg	24.0	hr	1.3105966313331909e-05	2.3422486852230944e-05	HPLC	mole/meter^3	dimensionless

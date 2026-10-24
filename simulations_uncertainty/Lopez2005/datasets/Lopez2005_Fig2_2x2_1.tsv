@@ -1,0 +1,4 @@
+study	group	individual	cyp2d6_genotype	measurement	substance	tissue	intervention	time	time_unit	x_log10_value	value	method	label	comments	activities	time_jitter	time_jitter_unit	value_unit
+Lopez2005	phenotyped	S2	*2x2/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-4.000769	9.98230878806498e-05	HPLC			3.0	7.83961631946037	hr	dimensionless
+Lopez2005	phenotyped	S3	*2x2/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-2.6633372	0.0021710148795411	HPLC			3.0	8.006409991400377	hr	dimensionless
+Lopez2005	phenotyped	S4	*2x2/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.8793219	0.013203166498905	HPLC			3.0	8.074089129587673	hr	dimensionless

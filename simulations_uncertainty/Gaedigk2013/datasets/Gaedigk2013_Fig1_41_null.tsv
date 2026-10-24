@@ -1,0 +1,15 @@
+study	group	individual	measurement	substance	tissue	intervention	time	time_unit	value	method	time_jitter	time_jitter_unit	value_unit
+Gaedigk2013	41_null	41_null-1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.0027958	RP-HPLC	3.8396163194603696	hr	dimensionless
+Gaedigk2013	41_null	41_null-2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.0048687	RP-HPLC	4.006409991400377	hr	dimensionless
+Gaedigk2013	41_null	41_null-3	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.018996	RP-HPLC	4.074089129587673	hr	dimensionless
+Gaedigk2013	41_null	41_null-4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.032524	RP-HPLC	4.015261919356566	hr	dimensionless
+Gaedigk2013	41_null	41_null-5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.037698	RP-HPLC	4.086374389132333	hr	dimensionless
+Gaedigk2013	41_null	41_null-6	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.049076	RP-HPLC	4.291309922250397	hr	dimensionless
+Gaedigk2013	41_null	41_null-7	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.050119	RP-HPLC	3.85211766393356	hr	dimensionless
+Gaedigk2013	41_null	41_null-8	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.065933	RP-HPLC	4.094547297464586	hr	dimensionless
+Gaedigk2013	41_null	41_null-9	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.083155	RP-HPLC	3.8333864542682035	hr	dimensionless
+Gaedigk2013	41_null	41_null-10	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.098428	RP-HPLC	4.034374458145268	hr	dimensionless
+Gaedigk2013	41_null	41_null-11	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.10053	RP-HPLC	3.9487556290715142	hr	dimensionless
+Gaedigk2013	41_null	41_null-12	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.13538	RP-HPLC	4.132375895668857	hr	dimensionless
+Gaedigk2013	41_null	41_null-13	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.16047	RP-HPLC	3.913971980641498	hr	dimensionless
+Gaedigk2013	41_null	41_null-14	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.16744	RP-HPLC	4.051949319901836	hr	dimensionless

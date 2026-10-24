@@ -1,0 +1,24 @@
+study	group	individual	cyp2d6_genotype	measurement	substance	tissue	intervention	time	time_unit	x_log_value	value	method	label	comments	comments2	time_jitter	time_jitter_unit	value_unit
+Dorado2017	all	S84	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-3.2109704	0.0006152188024528	HPLC		 … total concentrations of DM and DX …		8.013101788751833	hr	dimensionless
+Dorado2017	all	S85	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-3.0295358	0.0009342523522827	HPLC		 … total concentrations of DM and DX …		7.92269528938944	hr	dimensionless
+Dorado2017	all	S86	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-2.8565402	0.0013914249931307	HPLC		 … total concentrations of DM and DX …		8.289430741939922	hr	dimensionless
+Dorado2017	all	S87	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-2.822785	0.0015038862894566	HPLC		 … total concentrations of DM and DX …		8.137707844848935	hr	dimensionless
+Dorado2017	all	S88	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-2.649789	0.0022398090753208	HPLC		 … total concentrations of DM and DX …		8.01714558248132	hr	dimensionless
+Dorado2017	all	S89	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-2.2405064	0.0057476934866897	HPLC		 … total concentrations of DM and DX …		8.002224223035832	hr	dimensionless
+Dorado2017	all	S90	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-2.012658	0.009712745294161	HPLC		 … total concentrations of DM and DX …		8.165268581626847	hr	dimensionless
+Dorado2017	all	S91	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.5400844	0.0288347108014545	HPLC		 … total concentrations of DM and DX …		7.967812479950091	hr	dimensionless
+Dorado2017	all	S92	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.4810127	0.0330359880237519	HPLC		 … total concentrations of DM and DX …		8.152456461216675	hr	dimensionless
+Dorado2017	all	S93	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.4725739	0.0336841893498258	HPLC		 … total concentrations of DM and DX …		8.065460534789622	hr	dimensionless
+Dorado2017	all	S94	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.3966244	0.040121355755405	HPLC		 … total concentrations of DM and DX …		7.867817398259716	hr	dimensionless
+Dorado2017	all	S95	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.3459916	0.0450825424193904	HPLC		 … total concentrations of DM and DX …		8.07432453797864	hr	dimensionless
+Dorado2017	all	S96	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.2405063	0.0574769481014521	HPLC		 … total concentrations of DM and DX …		8.111738075576067	hr	dimensionless
+Dorado2017	all	S97	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.1983123	0.0633414061091496	HPLC		 … total concentrations of DM and DX …		8.054645944267001	hr	dimensionless
+Dorado2017	all	S98	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.1603376	0.0691293383201507	HPLC		 … total concentrations of DM and DX …		8.096405305845316	hr	dimensionless
+Dorado2017	all	S99	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.050633	0.0889952853714514	HPLC		 … total concentrations of DM and DX …		8.137477866506803	hr	dimensionless
+Dorado2017	all	S100	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.0253165	0.0943373125393402	HPLC		 … total concentrations of DM and DX …		7.9508717136234885	hr	dimensionless
+Dorado2017	all	S101	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-0.98312235	0.103962723944621	HPLC		 … total concentrations of DM and DX …		8.225392545863066	hr	dimensionless
+Dorado2017	all	S102	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-0.87763715	0.132544847563435	HPLC		 … total concentrations of DM and DX …		8.016161419530683	hr	dimensionless
+Dorado2017	all	S103	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-0.8565401	0.139142531351827	HPLC		 … total concentrations of DM and DX …		8.083377881370076	hr	dimensionless
+Dorado2017	all	S104	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-0.7805907	0.165733117625558	HPLC		 … total concentrations of DM and DX …		7.841989052750429	hr	dimensionless
+Dorado2017	all	S105	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-0.70464134	0.197405232470491	HPLC		 … total concentrations of DM and DX …		8.101058528586922	hr	dimensionless
+Dorado2017	all	S106	*1/*2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-0.56540084	0.272018950066634	HPLC		 … total concentrations of DM and DX …		8.072186786195978	hr	dimensionless

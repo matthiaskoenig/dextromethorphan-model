@@ -1,0 +1,13 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	unit	method
+Yeh2003	NA	all	12	auc_end	dextromethorphan	plasma	M	6.0	hr	58.36	18.590678667906	64.4	ng*hr/ml	LC-MS-MS
+Yeh2003	NA	all	12	auc_end	dextromethorphan	plasma	D	12.0	hr	130.0	39.5484934394894	137.0	ng*hr/ml	LC-MS-MS
+Yeh2003	NA	all	12	muliple_dosing_cmax	dextromethorphan	plasma	M	NA	NA	12.6	3.92598183048946	13.6	ng/ml	LC-MS-MS
+Yeh2003	NA	all	12	muliple_dosing_cmax	dextromethorphan	plasma	D	NA	NA	14.6	4.56106712659804	15.8	ng/ml	LC-MS-MS
+Yeh2003	NA	all	12	muliple_dosing_cmin	dextromethorphan	plasma	M	NA	NA	7.95	2.51436042232082	8.71	ng/ml	LC-MS-MS
+Yeh2003	NA	all	12	muliple_dosing_cmin	dextromethorphan	plasma	D	NA	NA	7.36	2.19681777426653	7.61	ng/ml	LC-MS-MS
+Yeh2003	NA	all	12	mrt	dextromethorphan	plasma	M	NA	NA	2.97	0.0433012701892219	0.15	hr	LC-MS-MS
+Yeh2003	NA	all	12	mrt	dextromethorphan	plasma	D	NA	NA	5.86	0.0837157890324957	0.29	hr	LC-MS-MS
+Yeh2003	NA	all	12	tmax	dextromethorphan	plasma	M	NA	NA	2.29	0.268467875173176	0.93	hr	LC-MS-MS
+Yeh2003	NA	all	12	tmax	dextromethorphan	plasma	D	NA	NA	4.83	0.513841739578767	1.78	hr	LC-MS-MS
+Yeh2003	NA	all	12	thalf	dextromethorphan	plasma	M	NA	NA	7.32	0.360843918243516	1.25	hr	LC-MS-MS
+Yeh2003	NA	all	12	thalf	dextromethorphan	plasma	D	NA	NA	7.75	0.305995642670502	1.06	hr	LC-MS-MS

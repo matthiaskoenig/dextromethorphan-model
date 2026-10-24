@@ -1,0 +1,6 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	comments_2	value_unit	count_unit
+Frank2009	Tab95_A01_test	A01	1	cumulative metabolic ratio	dmt/dtf	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse	2.43	HPLC	test		dimensionless	dimensionless
+Frank2009	Tab95_A01_test	A01	1	cumulative metabolic ratio	dmt/dtf	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	3.15	HPLC	test		dimensionless	dimensionless
+Frank2009	Tab95_A01_test	A01	1	cumulative metabolic ratio	dmt/dtf	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	6.69	HPLC	test		dimensionless	dimensionless
+Frank2009	Tab95_A01_test	A01	1	cumulative metabolic ratio	dmt/dtf	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	8.27	HPLC	test		dimensionless	dimensionless
+Frank2009	Tab95_A01_test	A01	1	cumulative metabolic ratio	dmt/dtf	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	16.1	HPLC	test		dimensionless	dimensionless

@@ -1,0 +1,20 @@
+study	individual	phenotype	measurement	tissue	intervention	unit	time	time_unit	method	x_substance	y_substance	x_label	y_label	x_value	y_value
+Hou1991	Fig8_1	em	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.0011221432	0.008175458
+Hou1991	Fig8_2	em	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.0015333205	0.07606949
+Hou1991	Fig8_3	em	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.0034276957	0.10256407
+Hou1991	Fig8_4	em	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.0036255121	0.06822286
+Hou1991	Fig8_5	em	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.0033764616	0.031519648
+Hou1991	Fig8_6	em	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.003999919	0.037409242
+Hou1991	Fig8_7	em	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.00734229	0.08813754
+Hou1991	Fig8_8	em	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.009599098	0.08260256
+Hou1991	Fig8_9	im	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.039415356	0.5929246
+Hou1991	Fig8_10	im	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.041114517	0.51020825
+Hou1991	Fig8_11	em	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.038828894	0.19854224
+Hou1991	Fig8_12	im	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.09455063	0.7823666
+Hou1991	Fig8_13	im	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.14045613	1.8839977
+Hou1991	Fig8_14	im	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	0.3052496	2.540317
+Hou1991	Fig8_15	pm	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	3.3171947	13.193309
+Hou1991	Fig8_16	pm	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	10.126565	78.117455
+Hou1991	Fig8_17	pm	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	12.683917	38.46894
+Hou1991	Fig8_18	pm	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	15.469655	136.34618
+Hou1991	Fig8_19	pm	cumulative metabolic ratio	urine	DEX_50mg	dimensionless	3	hr	HPLC	(dmt)/(dtf+dtfglu)	dmt/dtf	Fig8_dex_mr_total	Fig8_dex_mr_free	91.61177	442.21106

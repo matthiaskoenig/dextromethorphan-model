@@ -1,0 +1,6 @@
+study	group	individual	cyp2d6_genotype	measurement	substance	tissue	intervention	time	time_unit	x_log_value	value	method	label	comments	activities	time_jitter	time_jitter_unit	value_unit
+Montane2013	Afro-T	Afro-T-77	*2/*5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-2.03234	0.0092823940317475				1.0	4.83961631946037	hr	dimensionless
+Montane2013	Afro-T	Afro-T-78	*2/*5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.5665363	0.0271308687245727				1.0	5.006409991400377	hr	dimensionless
+Montane2013	Afro-T	Afro-T-79	*2/*5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.1832887	0.0655709234536181				1.0	5.074089129587673	hr	dimensionless
+Montane2013	Indo-T	Indo-T-116	*2/*5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.8338344	0.0146610677276184				1.0	5.015261919356566	hr	dimensionless
+Montane2013	Indo-T	Indo-T-117	*2/*5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	5	hr	-1.5036434	0.0313585952753478				1.0	5.086374389132333	hr	dimensionless

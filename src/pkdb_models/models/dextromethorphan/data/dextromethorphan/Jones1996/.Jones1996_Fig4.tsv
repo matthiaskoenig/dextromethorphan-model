@@ -1,0 +1,59 @@
+study	id	group	measurement	substance	tissue	intervention	time	time_unit	value	unit	method
+Jones1996	fig4_A_em1	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	1.1957684	dimensionless	HPLC
+Jones1996	fig4_A_em1	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.27691913	dimensionless	HPLC
+Jones1996	fig4_A_em2	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	4.8911586	dimensionless	HPLC
+Jones1996	fig4_A_em2	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.4812303	dimensionless	HPLC
+Jones1996	fig4_A_em3	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	2.814568	dimensionless	HPLC
+Jones1996	fig4_A_em3	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.766842	dimensionless	HPLC
+Jones1996	fig4_A_em4	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	3.5337458	dimensionless	HPLC
+Jones1996	fig4_A_em4	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	1.0386533	dimensionless	HPLC
+Jones1996	fig4_A_pm1	pm	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	1.4068094	dimensionless	HPLC
+Jones1996	fig4_A_pm1	pm	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.4971307	dimensionless	HPLC
+Jones1996	fig4_A_pm2	pm	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	3.1366827	dimensionless	HPLC
+Jones1996	fig4_A_pm2	pm	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	1.0274595	dimensionless	HPLC
+Jones1996	fig4_A_pm3	pm	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	6.7699933	dimensionless	HPLC
+Jones1996	fig4_A_pm3	pm	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	1.4068094	dimensionless	HPLC
+Jones1996	fig4_B_em1	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	1.201656	dimensionless	HPLC
+Jones1996	fig4_B_em1	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	3.0970964	dimensionless	HPLC
+Jones1996	fig4_B_em2	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	3.9380624	dimensionless	HPLC
+Jones1996	fig4_B_em2	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	2.559211	dimensionless	HPLC
+Jones1996	fig4_B_em3	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	2.0126963	dimensionless	HPLC
+Jones1996	fig4_B_em3	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	6.2777123	dimensionless	HPLC
+Jones1996	fig4_B_em4	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	1.7849016	dimensionless	HPLC
+Jones1996	fig4_B_em4	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	5.4504466	dimensionless	HPLC
+Jones1996	fig4_B_em5	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	1.0142311	dimensionless	HPLC
+Jones1996	fig4_B_em5	em	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	1.8490839	dimensionless	HPLC
+Jones1996	fig4_B_pm1	pm	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	3.695442	dimensionless	HPLC
+Jones1996	fig4_B_pm1	pm	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	4.2563343	dimensionless	HPLC
+Jones1996	fig4_B_pm2	pm	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	7.5436506	dimensionless	HPLC
+Jones1996	fig4_B_pm2	pm	metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	14.450421	dimensionless	HPLC
+Jones1996	fig4_C_em1	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.002562431	dimensionless	HPLC
+Jones1996	fig4_C_em1	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.00079968147	dimensionless	HPLC
+Jones1996	fig4_C_em2	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.015314471	dimensionless	HPLC
+Jones1996	fig4_C_em2	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.0062624374	dimensionless	HPLC
+Jones1996	fig4_C_em3	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.0026311718	dimensionless	HPLC
+Jones1996	fig4_C_em3	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.0031795544	dimensionless	HPLC
+Jones1996	fig4_C_em4	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.016600754	dimensionless	HPLC
+Jones1996	fig4_C_em4	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.012001139	dimensionless	HPLC
+Jones1996	fig4_C_em5	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.0016612	dimensionless	HPLC
+Jones1996	fig4_C_em5	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	9.40292e-05	dimensionless	HPLC
+Jones1996	fig4_C_pm1	pm	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	1.1370353	dimensionless	HPLC
+Jones1996	fig4_C_pm1	pm	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.40618795	dimensionless	HPLC
+Jones1996	fig4_C_pm2	pm	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	2.2367442	dimensionless	HPLC
+Jones1996	fig4_C_pm2	pm	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	2.1796496	dimensionless	HPLC
+Jones1996	fig4_C_pm3	pm	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	1.9540157	dimensionless	HPLC
+Jones1996	fig4_C_pm3	pm	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.4777269	dimensionless	HPLC
+Jones1996	fig4_D_em1	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.0024722773	dimensionless	HPLC
+Jones1996	fig4_D_em1	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	0.0011291663	dimensionless	HPLC
+Jones1996	fig4_D_em2	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.027381252	dimensionless	HPLC
+Jones1996	fig4_D_em2	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	0.008801327	dimensionless	HPLC
+Jones1996	fig4_D_em3	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.022690075	dimensionless	HPLC
+Jones1996	fig4_D_em3	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	0.03687066	dimensionless	HPLC
+Jones1996	fig4_D_em4	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.010928693	dimensionless	HPLC
+Jones1996	fig4_D_em4	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, erythromycin_pre-treatment	72	hr	0.015949115	dimensionless	HPLC
+Jones1996	fig4_D_em5	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.0017404625	dimensionless	HPLC
+Jones1996	fig4_D_em5	em	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.001992862	dimensionless	HPLC
+Jones1996	fig4_D_pm1	pm	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	3.5538914	dimensionless	HPLC
+Jones1996	fig4_D_pm1	pm	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	4.1794505	dimensionless	HPLC
+Jones1996	fig4_D_pm2	pm	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.3385995	dimensionless	HPLC
+Jones1996	fig4_D_pm2	pm	metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg,rifampicin_pre-treatment	72	hr	0.80321723	dimensionless	HPLC

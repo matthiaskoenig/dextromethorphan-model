@@ -1,0 +1,16 @@
+study	label	individual	measurement	substance	tissue	intervention	time	time_unit	value	method	value_unit
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	1	hr	1.363281307571001e-08	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	2	hr	7.000633741580816e-08	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	3	hr	1.4959248942535849e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	4	hr	1.9896538002387583e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	5	hr	2.2365182532313452e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	6	hr	2.2881018702745722e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	7	hr	2.2954709584236043e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	8	hr	2.3175782228707015e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	9	hr	2.3728463839884453e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	10	hr	2.4133763688081237e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	12	hr	2.424430001031672e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	16	hr	2.439168177329737e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	24	hr	2.5349663232671585e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	36	hr	2.55338904363974e-07	GC	mole
+Barnhart1980	Tab2_S4	S4	cumulative amount	dextromethorphan	urine	dex30mg	48	hr	2.557073587714256e-07	GC	mole

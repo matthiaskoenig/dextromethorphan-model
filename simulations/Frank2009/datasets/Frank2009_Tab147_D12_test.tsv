@@ -1,0 +1,6 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	comments_2	value_unit	count_unit
+Frank2009	Tab147_D12_test	D12	1	cumulative amount	dextromethorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	2	hr	timecourse	100.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab147_D12_test	D12	1	cumulative amount	dextromethorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4	hr	timecourse	488.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab147_D12_test	D12	1	cumulative amount	dextromethorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	6	hr	timecourse	524.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab147_D12_test	D12	1	cumulative amount	dextromethorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	8	hr	timecourse	565.0	HPLC	test		nmol	dimensionless
+Frank2009	Tab147_D12_test	D12	1	cumulative amount	dextromethorphan	urine	DEX, DIG ,MID_PO_DE, MID_IV, RIV	12	hr	timecourse	704.0	HPLC	test		nmol	dimensionless

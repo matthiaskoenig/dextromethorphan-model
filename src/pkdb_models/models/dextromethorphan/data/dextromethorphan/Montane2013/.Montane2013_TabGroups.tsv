@@ -1,0 +1,23 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	median	min	max	sd	unit	comments
+Montane2013	all	NA	species	270	homo sapiens	270	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	all	NA	ethnicity	270	afro trinidadians	103	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	all	NA	ethnicity	270	asian indian	167	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	all	NA	healthy	270	Y	270	NA	NA	NA	NA	NA	NA	NA	And no hypertension 
+Montane2013	all	NA	sex	270	M	123	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	all	NA	sex	270	F	147	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	all	NA	smoking	270	N	270	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	all	NA	abstinence medication	270	NA	270	NA	NA	NA	6.0	NA	NA	week	"Subjects denied taking any prescription medications or herbal supplements for at least 6 weeks prior to the study, Current
+use of illegal drugs was excluded by a drug screen that included marijuana, cocaine and opioids."
+Montane2013	all	NA	alcohol	270	N	270	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	NA	NA	abstinence	270	NA	270	ethanol	NA	NA	6.0	NA	NA	week	NA
+Montane2013	all	NA	pregnant	270	N	270	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	Afro-T	all	ethnicity	103	afro trinidadians	103	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	Afro-T	all	age	103	NA	103	NA	38.0	38.0	19.0	61.0	10.5	yr	Subjects qualified for the study if they had at least three grandparents of the same ethnic group. 
+Montane2013	Afro-T	all	sex	103	M	36	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	Afro-T	all	sex	103	F	67	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	Afro-T	all	bmi	103	NA	103	NA	27.3	26.9	17.3	58.9	6.1	kg/m^2	NA
+Montane2013	Indo-T	all	ethnicity	167	asian indian	167	NA	NA	NA	NA	NA	NA	NA	Subjects qualified for the study if they had at least three grandparents of the same ethnic group. 
+Montane2013	Indo-T	all	age	167	NA	167	NA	36.0	37.0	19.0	62.0	10.6	yr	NA
+Montane2013	Indo-T	all	sex	167	M	87	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	Indo-T	all	sex	167	F	80	NA	NA	NA	NA	NA	NA	NA	NA
+Montane2013	Indo-T	all	bmi	167	NA	167	NA	24.8	24.2	16.2	41.3	4.5	kg/m^2	NA

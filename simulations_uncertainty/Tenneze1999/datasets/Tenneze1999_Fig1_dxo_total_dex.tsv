@@ -1,0 +1,11 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	0.0	hr	1.7270220311825755e-05	6.813882100365792e-06	4.088329260219482e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	0.5	hr	0.0003934682764538896	7.620776716869477e-05	0.0004572466030121693	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	1.0	hr	0.002214896600879059	0.00021093112685545938	0.001265586761132757	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	2.0	hr	0.003416235673483528	0.00014969361698027273	0.0008981617018816364	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	3.0	hr	0.002837443864036406	0.00011296220918628915	0.0006777732551177356	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	4.0	hr	0.0019484141277020467	7.62123714231191e-05	0.0004572742285387154	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	6.0	hr	0.0009623913619369047	4.2184386259619885e-05	0.00025310631755772004	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	8.0	hr	0.0005152435790466559	2.5880786100482478e-05	0.00015528471660289483	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	12.0	hr	0.000225369014478962	2.3135897982051766e-05	0.00013881538789231067	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg	all	36	concentration	dtf+dtfglu	plasma	dex80mg	24.0	hr		1.6308207327646943e-05	9.784924396588174e-05	HPLC	mole/meter^3	dimensionless

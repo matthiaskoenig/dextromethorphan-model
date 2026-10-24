@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sensitivity | sbmlsim experiment</title>
+<style>
+:root {
+  --bg: #ffffff; --bg-soft: #f6f7f9; --bg-card: #ffffff;
+  --fg: #1b1f24; --fg-soft: #5b6472; --line: #e3e6ea;
+  --accent: #3b5bdb; --training: #2f9e44; --validation: #1c7ed6; --outlier: #e8590c;
+  --excluded: #868e96;
+  --radius: 10px; --shadow: 0 1px 2px rgba(16,24,40,.06), 0 1px 3px rgba(16,24,40,.1);
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14171c; --bg-soft: #1a1e24; --bg-card: #1a1e24;
+    --fg: #e6e9ee; --fg-soft: #9aa4b2; --line: #2a3038;
+    --accent: #748ffc; --training: #51cf66; --validation: #4dabf7; --outlier: #ff922b;
+    --excluded: #adb5bd;
+    --shadow: none;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--bg); color: var(--fg);
+  font: 15px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+code, .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .92em; }
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+header.top {
+  position: sticky; top: 0; z-index: 20; background: var(--bg);
+  border-bottom: 1px solid var(--line); padding: 14px 24px 0;
+}
+.top .row { display: flex; flex-wrap: wrap; gap: 12px; align-items: baseline; }
+.top h1 { margin: 0; font-size: 20px; font-weight: 650; letter-spacing: -.01em; }
+.top .sub { color: var(--fg-soft); font-size: 13px; }
+.badges { display: flex; flex-wrap: wrap; gap: 8px; margin-left: auto; }
+.badge {
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 999px;
+  padding: 2px 10px; font-size: 12px; color: var(--fg-soft); white-space: nowrap;
+}
+.badge b { color: var(--fg); font-weight: 600; }
+.badge.failed, .badge.failed b { color: var(--outlier); border-color: var(--outlier); }
+nav.sections { display: flex; gap: 4px; margin-top: 12px; }
+nav.sections a {
+  padding: 8px 14px; border-bottom: 2px solid transparent; color: var(--fg-soft);
+  font-size: 14px; font-weight: 550;
+}
+nav.sections a.active { color: var(--fg); border-bottom-color: var(--accent); }
+.search { display: flex; gap: 8px; align-items: center; padding: 10px 0 12px; }
+.search input {
+  flex: 1; max-width: 460px; padding: 8px 12px; font-size: 14px; color: var(--fg);
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 8px;
+}
+.search input:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+.chip {
+  border: 1px solid var(--line); background: var(--bg-soft); color: var(--fg-soft);
+  border-radius: 999px; padding: 5px 12px; font-size: 12.5px; cursor: pointer;
+}
+.chip[aria-pressed="true"] { color: #fff; border-color: transparent; }
+.chip[data-kind="training"][aria-pressed="true"] { background: var(--training); }
+.chip[data-kind="validation"][aria-pressed="true"] { background: var(--validation); }
+.chip[data-kind="outlier"][aria-pressed="true"] { background: var(--outlier); }
+.chip[data-kind="excluded"][aria-pressed="true"] { background: var(--excluded); }
+#hits { color: var(--fg-soft); font-size: 12.5px; margin-left: auto; }
+
+main { padding: 24px; max-width: 1400px; margin: 0 auto; }
+section { margin-bottom: 44px; scroll-margin-top: 150px; }
+section > h2 {
+  font-size: 17px; font-weight: 650; margin: 0 0 4px; padding-bottom: 8px;
+  border-bottom: 1px solid var(--line);
+}
+h3 { font-size: 14px; font-weight: 600; color: var(--fg-soft); margin: 26px 0 10px;
+     text-transform: uppercase; letter-spacing: .04em; }
+.card {
+  background: var(--bg-card); border: 1px solid var(--line); border-radius: var(--radius);
+  box-shadow: var(--shadow); padding: 16px; margin-bottom: 16px;
+}
+/* a heading which opens a card sits at the padding of the card */
+.card > h3:first-child { margin-top: 0; }
+.grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(330px, 1fr));
+        margin-bottom: 16px; }
+/* the gap of the grid is the space between its cards */
+.grid > .card { margin-bottom: 0; }
+.card.wide { grid-column: 1 / -1; }
+
+table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+/* two tables in one card, e.g. the networks and their arrays */
+table + table { margin-top: 24px; }
+th, td { text-align: left; padding: 7px 12px 7px 0; border-bottom: 1px solid var(--line); }
+th { color: var(--fg-soft); font-weight: 600; white-space: nowrap; }
+th[data-sort] { cursor: pointer; user-select: none; }
+th[data-sort]:hover { color: var(--fg); }
+th[data-sort]::after { content: " ⇅"; opacity: .35; }
+th[data-sort].asc::after { content: " ↑"; opacity: 1; }
+th[data-sort].desc::after { content: " ↓"; opacity: 1; }
+td.num, th.num { text-align: right; padding-right: 18px; font-variant-numeric: tabular-nums; }
+tbody tr:hover { background: var(--bg-soft); }
+tr.total td { font-weight: 650; border-top: 2px solid var(--line); }
+
+.kv { display: grid; grid-template-columns: max-content 1fr; gap: 4px 20px; font-size: 13.5px;
+      margin: 0; }
+.kv dt { color: var(--fg-soft); }
+.kv dd { margin: 0; word-break: break-word; white-space: pre-line; }
+
+.tag { border-radius: 999px; padding: 1px 9px; font-size: 11.5px; font-weight: 600; color: #fff; }
+.tag.training { background: var(--training); }
+.tag.validation { background: var(--validation); }
+.tag.outlier { background: var(--outlier); }
+.tag.excluded { background: var(--excluded); }
+.warn { color: var(--outlier); }
+
+/* what a value means, on the header of a column or next to a figure */
+.hint {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 14px; height: 14px; margin-left: 4px; border-radius: 50%;
+  border: 1px solid var(--line); color: var(--fg-soft);
+  font-size: 10px; font-weight: 700; line-height: 1; cursor: help;
+  position: relative; vertical-align: middle; user-select: none;
+}
+.hint:hover, .hint:focus { border-color: var(--accent); color: var(--accent); }
+.hint::after {
+  content: attr(data-tip);
+  position: absolute; bottom: calc(100% + 8px); left: 50%;
+  transform: translateX(-50%);
+  width: max-content; max-width: 320px; padding: 8px 10px;
+  border-radius: 6px; border: 1px solid var(--line);
+  background: var(--bg); color: var(--fg); box-shadow: 0 4px 16px rgb(0 0 0 / 18%);
+  font-size: 12px; font-weight: 400; line-height: 1.45; text-align: left;
+  white-space: normal; opacity: 0; visibility: hidden; transition: opacity .12s;
+  z-index: 20; pointer-events: none;
+}
+.hint:hover::after, .hint:focus::after { opacity: 1; visibility: visible; }
+/* a tooltip of the last columns would leave the page */
+td:last-child .hint::after, th:last-child .hint::after { left: auto; right: 0; transform: none; }
+/* on a phone a wide table scrolls inside its card and not the page; the
+   tooltips of its header open downwards, into the table, not above the card */
+@media (max-width: 700px) {
+  .card { overflow-x: auto; }
+  th .hint::after { bottom: auto; top: calc(100% + 8px); }
+  /* the header of a phone is not sticky, it would cover half of the screen,
+     and its rows wrap; the gutter is 16px */
+  header.top { position: static; padding: 12px 16px 0; }
+  main { padding: 16px; }
+  footer { padding: 8px 16px 24px; }
+  section { scroll-margin-top: 16px; }
+  nav.sections { overflow-x: auto; }
+  nav.sections a { padding: 8px 10px; white-space: nowrap; }
+  .search { flex-wrap: wrap; }
+  .search input { flex-basis: 100%; max-width: none; }
+}
+
+figure { margin: 0; }
+figure img {
+  width: 100%; height: auto; background: #fff; border: 1px solid var(--line);
+  border-radius: 8px; cursor: zoom-in;
+}
+figcaption { color: var(--fg-soft); font-size: 12.5px; margin-top: 6px; }
+
+.mapping { }
+.mapping header { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; margin-bottom: 10px; }
+.mapping header .name { font-weight: 650; }
+.mapping header .exp { color: var(--fg-soft); font-size: 13px; }
+.mapping .metrics { margin-left: auto; display: flex; gap: 14px; font-size: 12.5px; color: var(--fg-soft); }
+.mapping .metrics b { color: var(--fg); font-weight: 600; }
+.hidden { display: none !important; }
+.failed { color: var(--outlier); }
+.empty { color: var(--fg-soft); font-style: italic; padding: 16px 0; }
+
+pre.code {
+  margin: 0; padding: 14px 16px; overflow-x: auto; max-height: 70vh;
+  background: var(--bg-soft); border: 1px solid var(--line); border-radius: 8px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 12.5px; line-height: 1.5; tab-size: 4;
+}
+#lightbox {
+  position: fixed; inset: 0; background: rgba(8,10,14,.86); z-index: 50;
+  display: none; align-items: center; justify-content: center; padding: 24px; cursor: zoom-out;
+}
+#lightbox.open { display: flex; }
+#lightbox img { max-width: 100%; max-height: 100%; background: #fff; border-radius: 8px; }
+footer { color: var(--fg-soft); font-size: 12.5px; padding: 8px 24px 32px; max-width: 1400px; margin: 0 auto; }
+</style>
+<style>
+  /* an interactive figure is a page of its own, shown in place of the image */
+  figure iframe { width: 100%; height: 520px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg-card); }
+  /* a figure of one panel is not stretched to the width of the page, a figure
+     of many panels still uses it */
+  #figures figure img { width: auto; max-width: 100%; max-height: 70vh; display: block; margin: 0 auto; }
+  .mapping header .exp a + a::before { content: "·"; color: var(--fg-soft); margin: 0 6px; }
+</style>
+</head>
+<body data-items="figures">
+
+<header class="top">
+  <div class="row">
+    <h1>Sensitivity</h1>
+    <span class="sub">simulation experiment</span>
+    <div class="badges">
+<span class="badge">models <b>1</b></span>
+<span class="badge">datasets <b>0</b></span>
+<span class="badge">figures <b>1</b></span>
+    </div>
+  </div>
+  <nav class="sections">
+<a href="#overview">Overview</a>
+<a href="#figures">Figures</a>
+<a href="#code">Code</a>
+  </nav>
+  <div class="search">
+    <input id="search" type="search" placeholder="Search figures, models, datasets …" autocomplete="off">
+    <span id="hits"></span>
+  </div>
+</header>
+
+<main>
+
+<section id="overview">
+  <h2>Overview</h2>
+
+  <h3>Models</h3>
+  <div class="card">
+    <table data-filter="row">
+      <thead><tr><th data-sort="text">model</th><th data-sort="text">source</th></tr></thead>
+      <tbody>
+      <tr><td class="mono">model</td><td><a href="../../../../src/pkdb_models/models/dextromethorphan/models/output/models/dextromethorphan_body_flat.xml" title="../../../../src/pkdb_models/models/dextromethorphan/models/output/models/dextromethorphan_body_flat.xml">dextromethorphan_body_flat.xml</a></td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3>Datasets</h3>
+  <div class="card">
+    <p class="empty">The experiment has no datasets.</p>
+  </div>
+</section>
+
+<section id="figures">
+  <h2>Figures (1)</h2>
+  <div class="card mapping" data-filter="card">
+    <header>
+      <span class="name mono">fig_co_scan</span>
+      <span class="exp">
+<a href="Sensitivity_fig_co_scan.svg">svg</a>      </span>
+    </header>
+    <figure>
+      <img loading="lazy" src="Sensitivity_fig_co_scan.svg" alt="fig_co_scan">
+    </figure>
+  </div>
+  <p class="empty hidden" data-empty>No figure matches the search.</p>
+</section>
+
+<section id="code">
+  <h2>Code</h2>
+  <div class="card">
+    <p><a href="../../../../src/pkdb_models/models/dextromethorphan/experiments/manuscript/sensitivity_analysis.py" title="../../../../src/pkdb_models/models/dextromethorphan/experiments/manuscript/sensitivity_analysis.py">sensitivity_analysis.py</a></p>
+    <pre class="code"><code>&#34;&#34;&#34;Sensitivity of the urinary metabolic ratio to physiological parameters and the dose.
+
+The figure is drawn with the matplotlib style of the manuscript (`MPL_STYLE`),
+which is applied to this figure only and does not change the global settings.
+&#34;&#34;&#34;
+
+from collections.abc import Sequence
+from typing import ClassVar, override
+
+import matplotlib as mpl
+import numpy as np
+from matplotlib.axes import Axes
+from pkpdsim.scan import scan_dimensions
+from sbmlsim import Q
+from sbmlsim.plot.serialization_matplotlib import FigureMPL
+from sbmlsim.result import ScanResult
+from sbmlsim.simulation import Dimension, Scan, Simulation
+from scipy.stats.mstats import gmean
+
+from pkdb_models.models.dextromethorphan import MODEL
+from pkdb_models.models.dextromethorphan.experiments.base_experiment import (
+    DexSimulationExperiment,
+)
+from pkdb_models.models.dextromethorphan.experiments.genotype_phenotype import (
+    GenotypeStyle,
+)
+from pkdb_models.models.dextromethorphan.models.fits import FITS
+from pkdb_models.models.dextromethorphan.utils_plotting import (
+    MPL_STYLE,
+    keep_tick_label_sizes,
+)
+
+ACTIVITY_SCORES = [0.00, 0.25, 0.5, 1.0, 1.25, 1.5, 2.0, 3.0]
+
+PM_COLOR = (243 / 256, 243 / 256, 243 / 256, 1)
+IM_COLOR = (217 / 256, 217 / 256, 217 / 256, 1)
+EM_COLOR = (179 / 256, 179 / 256, 179 / 256, 1)
+UM_COLOR = (166 / 256, 166 / 256, 166 / 256, 1)
+
+
+def plot_metabolic_areas(axes: Sequence[Axes]) -&gt; None:
+    &#34;&#34;&#34;Shade the ranges of the metabolic ratio of the metabolic phenotypes.
+
+    The phenotypes (UM, EM, IM, PM) label a second y-axis of the last plot.
+    &#34;&#34;&#34;
+    for n in range(len(axes)):
+        axes[n].grid(False)
+        y_bottom, y_top = 10**-4.5, 50
+
+        axes[n].axhspan(
+            y_top,
+            0.03,
+            color=PM_COLOR,
+            linewidth=0,
+        )
+
+        axes[n].axhspan(
+            0.03,
+            0.3,
+            color=IM_COLOR,
+            linewidth=0,
+        )
+        axes[n].axhspan(
+            0.0003,
+            0.03,
+            color=EM_COLOR,
+            linewidth=0,
+        )
+        axes[n].axhspan(
+            y_bottom,
+            0.0003,
+            color=UM_COLOR,
+            linewidth=0,
+        )
+        axes[n].set_ylim(y_bottom, y_top)
+        if n == len(axes) - 1:
+            twin_x = axes[n].twinx()
+            twin_x.set_yscale(&#34;log&#34;)
+            twin_x.set_ylim(*axes[n].get_ylim())
+            ticks_position = [
+                gmean([y_bottom, 0.0003]),
+                gmean([0.0003, 0.03]),
+                gmean([0.03, 0.3]),
+                gmean([0.3, y_top]),
+            ]
+
+            twin_x.yaxis.set_ticks(ticks_position)
+            ticks_label = [&#34;UM&#34;, &#34;EM&#34;, &#34;IM&#34;, &#34;PM&#34;]
+            twin_x.yaxis.set_ticklabels(
+                ticks_label,
+            )
+
+
+class Sensitivity(DexSimulationExperiment):
+    &#34;&#34;&#34;Sensitivity of the urinary metabolic ratio, by CYP2D6 activity score.
+
+    The parameters are the liver volume, the cardiac output, the tissue/plasma
+    partition coefficient of dextromethorphan and the dose.
+    &#34;&#34;&#34;
+
+    #: the figure reads one observable, the urinary metabolic ratio; a run
+    #: over the draws of the fitted parameters simulates every one of the 320
+    #: points of the scans per draw, so the selections of the base would keep
+    #: 50 timecourses of every simulation in memory
+    selections = (&#34;time&#34;, &#34;dxm_dxo_total_urine&#34;)
+    #: transparency of the band of the draws
+    band_alpha = 0.15
+
+    gstyle: ClassVar[GenotypeStyle] = GenotypeStyle(activities=np.array([0, 3]))
+
+    activity_scores: ClassVar[list[float]] = ACTIVITY_SCORES
+
+    fvli_model_mean = 0.0210
+    fvli: ClassVar[np.ndarray] = np.linspace(0.1, 2, 10) * fvli_model_mean
+
+    cobw_model_mean = 1.548
+    cobw: ClassVar[np.ndarray] = np.linspace(0.2, 4, 10)
+
+    #: the tissue to plasma partition coefficient of the model, the value of
+    #: the adopted fit (`models/fits.py`)
+    kpdex_model_mean: ClassVar[float] = float(FITS.parameter(&#34;Kp_dxm&#34;)[&#34;value&#34;])
+    kpdexs: ClassVar[np.ndarray] = np.linspace(0.5, 2, 10) * kpdex_model_mean
+
+    dose_model_mean = 30
+    doses: ClassVar[np.ndarray] = np.linspace(0.3, 300, 10)
+
+    @override
+    def simulations(self) -&gt; dict[str, Scan]:
+        tcscans: dict[str, Scan] = {}
+
+        changes = {
+            **self.default_changes(),
+            # custom/custom
+            &#34;LI__cyp2d6_allele1&#34;: Q(-1, &#34;dimensionless&#34;),  # custom allele
+            &#34;LI__cyp2d6_allele2&#34;: Q(-1, &#34;dimensionless&#34;),  # custom allele
+        }
+        for activity_score in self.activity_scores:
+            # the dose scan sets the dose by its dimension, which would replace
+            # a dose of its simulation; the other scans give 30 mg
+            simulation_dose = Simulation(
+                time_unit=&#34;hr&#34;,
+                end=8,
+                preinit_changes={
+                    **changes,
+                    &#34;LI__cyp2d6_ac&#34;: Q(activity_score, &#34;dimensionless&#34;),
+                },
+            )
+            simulation = simulation_dose.with_values({&#34;PODOSE_dxm&#34;: Q(30, &#34;mg&#34;)})
+
+            tcscans[self.to_sid(f&#34;sample_ac_{activity_score}_fvli&#34;)] = Scan(
+                simulation=simulation,
+                dimensions=[
+                    Dimension(
+                        &#34;dim_FVli&#34;,
+                        values={&#34;FVli&#34;: Q(self.fvli, &#34;l/kg&#34;)},
+                    )
+                ],
+            )
+
+            tcscans[self.to_sid(f&#34;sample_ac_{activity_score}_cobw&#34;)] = Scan(
+                simulation=simulation,
+                dimensions=[
+                    Dimension(
+                        &#34;dim_COBW&#34;,
+                        values={&#34;COBW&#34;: Q(self.cobw, &#34;ml/s/kg&#34;)},
+                    )
+                ],
+            )
+            tcscans[self.to_sid(f&#34;sample_ac_{activity_score}_kpdex&#34;)] = Scan(
+                simulation=simulation,
+                dimensions=[
+                    Dimension(
+                        &#34;dim_Kp_dex&#34;,
+                        values={&#34;Kp_dxm&#34;: Q(self.kpdexs, &#34;dimensionless&#34;)},
+                    ),
+                ],
+            )
+
+            tcscans[self.to_sid(f&#34;sample_ac_{activity_score}_dose&#34;)] = Scan(
+                simulation=simulation_dose,
+                dimensions=[
+                    Dimension(
+                        &#34;dim_dosage&#34;,
+                        values={&#34;PODOSE_dxm&#34;: Q(self.doses, &#34;mg&#34;)},
+                    ),
+                ],
+            )
+        return tcscans
+
+    #: the time of the urinary metabolic ratio of the figure [min], the end
+    #: of the 0-8 hr collection of the phenotyping
+    mr_time_min = 8 * 60
+
+    def _ratio(
+        self, key: str
+    ) -&gt; tuple[np.ndarray, np.ndarray | None, np.ndarray | None]:
+        &#34;&#34;&#34;Get the urinary metabolic ratio at 8 hr at the points of a scan.
+
+        Returns:
+            The ratios (the median of the draws in a run over them), and the
+            lower and the upper quantile, `None` without draws.
+        &#34;&#34;&#34;
+        res: ScanResult = self.results[self.to_sid(f&#34;task_{key}&#34;)]
+        values = (
+            res.interpolate([self.mr_time_min])
+            .sel(time=self.mr_time_min)
+            .ds[&#34;dxm_dxo_total_urine&#34;]
+        )
+        run = self.uncertainty
+        if run is None:
+            return np.asarray(values.values, dtype=float), None, None
+        (scandim,) = scan_dimensions(res, run.id)
+        draws = np.asarray(values.transpose(scandim, run.id).values, dtype=float)
+        low, high = run.quantiles
+        return (
+            np.median(draws, axis=1),
+            np.quantile(draws, low, axis=1),
+            np.quantile(draws, high, axis=1),
+        )
+
+    def _plot_ratio(
+        self, ax: Axes, x: np.ndarray, key: str, color: str | tuple[float, ...]
+    ) -&gt; None:
+        &#34;&#34;&#34;Draw the ratio over the values of a scanned parameter with its band.&#34;&#34;&#34;
+        y, lower, upper = self._ratio(key)
+        if lower is not None and upper is not None:
+            ax.fill_between(
+                x, lower, upper, color=color, alpha=self.band_alpha, linewidth=0
+            )
+        ax.plot(x, y, color=color, linestyle=&#34;-&#34;, marker=&#34;o&#34;)
+
+    @override
+    def figures_mpl(self) -&gt; dict[str, FigureMPL]:
+        # the style is read when the figure, its axes and texts are created
+        with mpl.rc_context(MPL_STYLE):
+            figures = {**self.fig_cardiac_output_scan()}
+            for figure in figures.values():
+                keep_tick_label_sizes(figure)
+        return figures
+
+    def fig_cardiac_output_scan(self) -&gt; dict[str, FigureMPL]:
+        &#34;&#34;&#34;Metabolic ratio at 8 hr over the values of every scanned parameter.
+
+        One plot per parameter with a curve per activity score; the dashed line
+        is the value of the parameter in the model.
+        &#34;&#34;&#34;
+        figures = {}
+        # created without `pyplot`, which would keep the figure in its registry
+        f = FigureMPL(figsize=(20, 4))
+        axes = f.subplots(nrows=1, ncols=4, sharey=True)
+        plot_metabolic_areas(axes)
+        ax_fvli = axes[0]
+        ax_cobw = axes[1]
+        ax_kpdex = axes[2]
+        ax_dosage = axes[3]
+
+        ax_fvli.axvline(x=self.fvli_model_mean, color=&#34;black&#34;, linestyle=&#34;--&#34;)
+        ax_cobw.axvline(x=self.cobw_model_mean, color=&#34;black&#34;, linestyle=&#34;--&#34;)
+        ax_kpdex.axvline(x=self.kpdex_model_mean, color=&#34;black&#34;, linestyle=&#34;--&#34;)
+        ax_dosage.axvline(x=self.dose_model_mean, color=&#34;black&#34;, linestyle=&#34;--&#34;)
+
+        for activity_score in self.activity_scores:
+            color = self.gstyle.color(float(activity_score))
+            for ax, x, parameter in [
+                (ax_fvli, self.fvli, &#34;fvli&#34;),
+                (ax_cobw, self.cobw, &#34;cobw&#34;),
+                (ax_kpdex, self.kpdexs, &#34;kpdex&#34;),
+                (ax_dosage, self.doses, &#34;dose&#34;),
+            ]:
+                self._plot_ratio(
+                    ax, x, f&#34;sample_ac_{activity_score}_{parameter}&#34;, color
+                )
+
+        y_label = &#34;Urinary cumulative metabolic ratio\n DXM/(DXO + DXO-Glu) [-]&#34;
+        axes[0].set_ylabel(y_label)
+
+        for ax in axes:
+            ax.set_yscale(&#34;log&#34;)
+
+        ax_fvli.set_xlabel(
+            &#34;Liver volume per bodyweight\n FVli [l/kg]&#34;,
+        )
+        ax_cobw.set_xlabel(
+            &#34;Cardiac output per bodyweight\n COBW [ml/s/kg]&#34;,
+        )
+        ax_kpdex.set_xlabel(
+            &#34;DXM tissue/plasma\n  partition coefficient \n Kp_dxm [-]&#34;,
+        )
+        ax_dosage.set_xlabel(
+            &#34;oral DXM dose\n PODOSE_dxm [mg]&#34;,
+        )
+
+        figures[&#34;fig_co_scan&#34;] = f
+        return figures
+
+
+if __name__ == &#34;__main__&#34;:
+    MODEL.run_experiments(Sensitivity, output_dir=&#34;sensitivity&#34;, save_results=True)
+</code></pre>
+  </div>
+</section>
+
+</main>
+
+<footer>
+<a href="../index.html">all experiments</a> · <a href="../../../../src/pkdb_models/models/dextromethorphan/experiments/manuscript/sensitivity_analysis.py" title="../../../../src/pkdb_models/models/dextromethorphan/experiments/manuscript/sensitivity_analysis.py">sensitivity_analysis.py</a>
+</footer>
+
+<div id="lightbox"><img alt=""></div>
+
+<script>
+(function () {
+  "use strict";
+
+  // ---- search and the filter chips ------------------------------------
+  const search = document.getElementById("search");
+  const hits = document.getElementById("hits");
+  const chips = Array.from(document.querySelectorAll(".chip"));
+  const cards = Array.from(document.querySelectorAll('[data-filter="card"]'));
+  const rows = Array.from(document.querySelectorAll('table[data-filter="row"] tbody tr'));
+  const empty = document.querySelector("[data-empty]");
+  const itemLabel = document.body.dataset.items || "items";
+
+  const haystack = new Map();
+  for (const node of [...cards, ...rows]) {
+    haystack.set(node, node.textContent.toLowerCase());
+  }
+
+  function activeKinds() {
+    return new Set(chips.filter((c) => c.getAttribute("aria-pressed") === "true")
+                        .map((c) => c.dataset.kind));
+  }
+
+  function matches(node, query, kinds) {
+    const kind = node.dataset.kind;
+    if (kind && !kinds.has(kind)) return false;
+    return !query || haystack.get(node).includes(query);
+  }
+
+  function apply() {
+    const query = search.value.trim().toLowerCase();
+    const kinds = activeKinds();
+    let shownCards = 0;
+    for (const node of cards) {
+      const show = matches(node, query, kinds);
+      node.classList.toggle("hidden", !show);
+      if (show) shownCards += 1;
+    }
+    for (const node of rows) {
+      node.classList.toggle("hidden", !matches(node, query, kinds));
+    }
+    if (empty) empty.classList.toggle("hidden", shownCards > 0 || cards.length === 0);
+    const filtering = Boolean(query) || (chips.length > 0 && kinds.size < chips.length);
+    hits.textContent = filtering
+      ? shownCards + " / " + cards.length + " " + itemLabel
+      : "";
+  }
+
+  search.addEventListener("input", apply);
+  for (const chip of chips) {
+    chip.addEventListener("click", () => {
+      chip.setAttribute("aria-pressed", chip.getAttribute("aria-pressed") === "true" ? "false" : "true");
+      apply();
+    });
+  }
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "/" && document.activeElement !== search) {
+      event.preventDefault();
+      search.focus();
+    } else if (event.key === "Escape") {
+      if (document.activeElement === search && search.value) { search.value = ""; apply(); }
+      closeLightbox();
+    }
+  });
+
+  // ---- sortable tables -------------------------------------------------
+  function cellValue(row, index, kind) {
+    const text = row.cells[index] ? row.cells[index].textContent.trim() : "";
+    if (kind !== "num") return text.toLowerCase();
+    // the AIC of a perfect fit is -inf, a cell without a value sorts last
+    if (text === "-inf") return Number.NEGATIVE_INFINITY;
+    const value = parseFloat(text);
+    return Number.isNaN(value) ? Number.POSITIVE_INFINITY : value;
+  }
+
+  for (const table of document.querySelectorAll("table")) {
+    const headers = Array.from(table.querySelectorAll("th[data-sort]"));
+    headers.forEach((th, index) => {
+      th.addEventListener("click", () => {
+        const body = table.tBodies[0];
+        if (!body) return;
+        const kind = th.dataset.sort;
+        const descending = th.classList.contains("asc");
+        for (const other of headers) other.classList.remove("asc", "desc");
+        th.classList.add(descending ? "desc" : "asc");
+        const sorted = Array.from(body.rows).sort((a, b) => {
+          const left = cellValue(a, index, kind);
+          const right = cellValue(b, index, kind);
+          if (left < right) return descending ? 1 : -1;
+          if (left > right) return descending ? -1 : 1;
+          return 0;
+        });
+        for (const row of sorted) body.appendChild(row);
+      });
+    });
+  }
+
+  // ---- the section the page is scrolled to -----------------------------
+  // a tab (data-tab) is not a section, its page marks the tab which is shown
+  const links = Array.from(document.querySelectorAll("nav.sections a:not([data-tab])"));
+  const sections = links.map((link) => document.querySelector(link.getAttribute("href")));
+  function scrollspy() {
+    let current = 0;
+    sections.forEach((section, index) => {
+      if (section && section.getBoundingClientRect().top < 200) current = index;
+    });
+    links.forEach((link, index) => link.classList.toggle("active", index === current));
+  }
+  window.addEventListener("scroll", scrollspy, { passive: true });
+  scrollspy();
+
+  // ---- click a figure to enlarge it ------------------------------------
+  const lightbox = document.getElementById("lightbox");
+  const lightboxImage = lightbox.querySelector("img");
+  function closeLightbox() { lightbox.classList.remove("open"); lightboxImage.src = ""; }
+  for (const image of document.querySelectorAll("figure img")) {
+    image.addEventListener("click", () => {
+      lightboxImage.src = image.getAttribute("src");
+      lightbox.classList.add("open");
+    });
+  }
+  lightbox.addEventListener("click", closeLightbox);
+
+  apply();
+})();
+</script>
+</body>
+</html>

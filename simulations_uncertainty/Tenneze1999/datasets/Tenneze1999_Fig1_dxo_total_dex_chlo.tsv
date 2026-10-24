@@ -1,0 +1,11 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	0.0	hr				HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	0.5	hr	0.000246487303564439	4.763273132998144e-05	0.00028579638797988867	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	1.0	hr	0.0016269449672313076	0.00013201070264445337	0.0007920642158667192	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	2.0	hr	0.002705799876334	0.0001279232838739272	0.0007675397032435632	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	3.0	hr	0.002380169518934287	0.00010477816313638859	0.0006286689788183315	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	4.0	hr	0.0017769639320969997	7.349509069914963e-05	0.0004409705441948978	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	6.0	hr	0.0009623913619369047	3.5375108413678546e-05	0.0002122506504820713	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	8.0	hr	0.0006132861453593818	2.7227905465215032e-05	0.00016336743279129017	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	12.0	hr	0.0003151907447414558	2.585777000895646e-05	0.00015514662005373887	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dtf+dtfglu_dex80mg, chloroguanide	all	36	concentration	dtf+dtfglu	plasma	dex80mg, chloroguanide	24.0	hr	8.773198934175325e-06	1.0896686902850543e-05	6.538012141710326e-05	HPLC	mole/meter^3	dimensionless

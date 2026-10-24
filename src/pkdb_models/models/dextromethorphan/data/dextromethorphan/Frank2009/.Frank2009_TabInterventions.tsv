@@ -1,0 +1,13 @@
+study	name	substance	measurement	route	application	form	time	time_unit	value	unit	comments
+Frank2009	CAF	caffeine	dosing	oral	single dose	NR	0	hr	150	mg	Used in studies: A, B, C
+Frank2009	DEX	dextromethorphan hydrobromide	dosing	oral	single dose	capsule	0	hr	30	mg	Used in studies: A, B, C, D, E 
+Frank2009	DIG	digoxin	dosing	oral	single dose	NR	0	hr	0.5	mg	Used in studies: B, D, E 
+Frank2009	MEP	mephenytoin	dosing	oral	single dose	NR	0	hr	50	mg	Used in studies: A, B, C
+Frank2009	MID_PO_ABC	midazolam	dosing	oral	single dose	NR	0	hr	2	mg	Used in studies: A, B, C
+Frank2009	MID_PO_DE	midazolam	dosing	oral	single dose	NR	0	hr	1.5	mg	Used in studies: D, E 
+Frank2009	MID_IV	midazolam	dosing	iv	single dose	NR	240	min	1	mg	Used in studies: A, B, C, D, E 
+Frank2009	TOL	tolbutamide	dosing	oral	single dose	NR	0	hr	125	mg	Used in studies: A, B, C
+Frank2009	PRO	propiverine	qualitative dosing	oral	multiple dose	NR	S-6T0.5R12	day	12	mg	twice daily (in the morning and evening, ~12hr apart)15 mg for 6 days before the cocktail, Used in studies: A
+Frank2009	NR_B	NR	qualitative dosing	oral	multiple dose	NR	S-26T24R2	hr	na	mg	In the morning of day 1 and 2  of the study, a not specified substance was administered to the subjects.  On day two and two hours after this administration, the cocktail was administered.  
+Frank2009	NR_C	NR	qualitative dosing	oral	multiple dose	NR	S-6T1R6	day	na	mg	NA
+Frank2009	RIV	ritonavir	qualitative dosing	oral	multiple dose	NR	0	hr	na	mg	Used in studies: D as test substance

@@ -1,0 +1,3 @@
+study	group	individual	cyp2d6_genotype	measurement	substance	tissue	intervention	time	time_unit	x_log_value	value	method	label	comments	comments2	time_jitter	time_jitter_unit	value_unit
+Dorado2017	all	S155	*1/*2x2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-1.6835443	0.0207231466333934	HPLC		 … total concentrations of DM and DX …	assuming N=2	8.07862612475625	hr	dimensionless
+Dorado2017	all	S156	*1/*2x2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	8	hr	-0.56962025	0.269388932921963	HPLC		 … total concentrations of DM and DX …	assuming N=2	8.03172792644991	hr	dimensionless

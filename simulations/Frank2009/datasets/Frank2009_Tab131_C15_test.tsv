@@ -1,0 +1,3 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	comments_2	value_unit	count_unit
+Frank2009	Tab131_C15_test	C15	1	cumulative metabolic ratio	dmt/dtf	urine	NR_C, CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	6	hr	timecourse	0.03064	HPLC	test		dimensionless	dimensionless
+Frank2009	Tab131_C15_test	C15	1	cumulative metabolic ratio	dmt/dtf	urine	NR_C, CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0244	HPLC	test		dimensionless	dimensionless

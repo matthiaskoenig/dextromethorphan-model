@@ -1,0 +1,13 @@
+study	group	count	interventions	tissue	substance	time	time_unit	median	method	label	median_unit	count_unit
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	0.7017544	hr	0.8412162	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	1.0526316	hr	1.5	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	1.5087719	hr	2.3817568	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	1.9298246	hr	3.2027028	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	2.4561403	hr	2.9087837	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	2.9824562	hr	3.0304055	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	4.0350876	hr	2.5844595	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	4.8421054	hr	2.0777028	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	5.9298244	hr	1.8445946	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	8.0	hr	1.3074324	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	12.0	hr	0.7804054	LC/MS	dex_silexan	nmol/l	dimensionless
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	16.0	hr	0.2635135	LC/MS	dex_silexan	nmol/l	dimensionless

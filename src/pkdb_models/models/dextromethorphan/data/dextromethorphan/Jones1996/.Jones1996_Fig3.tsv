@@ -1,0 +1,225 @@
+study	label	individual	phenotype	measurement	substance	tissue	intervention	time	time_unit	value	unit	method	comments
+Jones1996	fig3_A_em1_(dmt)/(hm3+hm3glu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	hr	31.359528	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(hm3+hm3glu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	hr	22.513493	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(hm3+hm3glu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	hr	17.678488	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(hm3+hm3glu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	hr	17.098003	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(hm3+hm3glu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	24	hr	17.414326	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(hm3+hm3glu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	48	hr	18.369793	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(hm3+hm3glu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	18.17866	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em2_(dmt)/(hm3+hm3glu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	hr	12.689945	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em2_(dmt)/(hm3+hm3glu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	hr	9.821382	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em2_(dmt)/(hm3+hm3glu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	hr	8.752141	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em2_(dmt)/(hm3+hm3glu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	hr	10.383559	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em2_(dmt)/(hm3+hm3glu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	24	hr	16.26753	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em2_(dmt)/(hm3+hm3glu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	48	hr	13.046621	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em2_(dmt)/(hm3+hm3glu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	11.709678	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em3_(dmt)/(hm3+hm3glu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	hr	32.669502	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(hm3+hm3glu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	hr	16.044706	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(hm3+hm3glu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	hr	15.876604	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(hm3+hm3glu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	hr	13.9863405	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(hm3+hm3glu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	24	hr	12.255518	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(hm3+hm3glu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	48	hr	11.654562	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(hm3+hm3glu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	10.808933	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em4_(dmt)/(hm3+hm3glu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	hr	15.474261	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(hm3+hm3glu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	hr	9.985153	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(hm3+hm3glu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	hr	8.91552	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(hm3+hm3glu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	hr	7.926984	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(hm3+hm3glu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	24	hr	6.93274	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(hm3+hm3glu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	48	hr	6.332572	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(hm3+hm3glu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	5.978258	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em5_(dmt)/(hm3+hm3glu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	hr	2.0449812	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(hm3+hm3glu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	hr	1.8786505	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(hm3+hm3glu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	hr	2.2835524	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(hm3+hm3glu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	hr	1.8674306	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(hm3+hm3glu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	24	hr	2.1012776	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(hm3+hm3glu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	48	hr	1.9928182	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(hm3+hm3glu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	1.5556344	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em6_(dmt)/(hm3+hm3glu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	hr	12.771635	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(hm3+hm3glu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	hr	8.593488	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(hm3+hm3glu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	hr	6.6238966	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(hm3+hm3glu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	hr	5.8794436	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(hm3+hm3glu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	24	hr	5.1308575	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(hm3+hm3glu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	48	hr	5.594615	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(hm3+hm3glu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	4.503722	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em7_(dmt)/(hm3+hm3glu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	hr	0.0	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(hm3+hm3glu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	hr	1.4692212	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(hm3+hm3glu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	hr	0.72752434	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(hm3+hm3glu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	hr	1.5394934	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(hm3+hm3glu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	24	hr	1.5280766	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(hm3+hm3glu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	48	hr	1.0912865	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(hm3+hm3glu)_hr	fig3_A_em7	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	1.064713	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	hr	4.1508355	dimensionless	HPLC	empty circle in FigA
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	hr	2.4008176	dimensionless	HPLC	empty circle in FigA
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	hr	1.7421124	dimensionless	HPLC	empty circle in FigA
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	hr	1.3003697	dimensionless	HPLC	empty circle in FigA
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	24	hr	0.91053987	dimensionless	HPLC	empty circle in FigA
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	48	hr	0.5644539	dimensionless	HPLC	empty circle in FigA
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	0.38253918	dimensionless	HPLC	empty circle in FigA
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	1	day	6.419788	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	day	4.434475	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	3	day	3.4658535	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	day	2.9433544	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	5	day	2.6689095	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	6	day	2.4191785	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	7	day	2.2438276	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	day	2.1181436	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	9	day	2.017173	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	10	day	1.9657496	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	11	day	1.963993	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	12	day	NA	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	13	day	1.8860193	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm1_(dmt)/(hm3+hm3glu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	day	1.8346757	dimensionless	HPLC	empty squares in FigC
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	hr	25.513212	dimensionless	HPLC	empty triangle in FigA, assume to be empty diamond in FigC
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	hr	12.617557	dimensionless	HPLC	empty triangle in FigA, assume to be empty diamond in FigC
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	hr	7.479146	dimensionless	HPLC	empty triangle in FigA, assume to be empty diamond in FigC
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	hr	6.9281316	dimensionless	HPLC	empty triangle in FigA, assume to be empty diamond in FigC
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	24	hr	5.718412	dimensionless	HPLC	empty triangle in FigA, assume to be empty diamond in FigC
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	48	hr	4.279608	dimensionless	HPLC	empty triangle in FigA, assume to be empty diamond in FigC
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	3.3872507	dimensionless	HPLC	empty triangle in FigA, assume to be empty diamond in FigC
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	1	day	11.254472	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	day	10.310564	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	3	day	9.936905	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	day	8.94337	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	5	day	8.619259	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	6	day	8.295267	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	7	day	8.119956	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	day	8.043739	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	9	day	8.017149	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	10	day	7.990559	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	11	day	7.964009	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	12	day	7.9126253	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	13	day	7.9108286	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm2_(dmt)/(hm3+hm3glu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	day	7.8346915	dimensionless	HPLC	empty diamond in FigC, assume to be empty circle in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	hr	27.42582	dimensionless	HPLC	empty square in FigA, assume to be empty circle in FigC
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	hr	12.563008	dimensionless	HPLC	empty square in FigA, assume to be empty circle in FigC
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	hr	9.063499	dimensionless	HPLC	empty square in FigA, assume to be empty circle in FigC
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	hr	6.982943	dimensionless	HPLC	empty square in FigA, assume to be empty circle in FigC
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	24	hr	5.062693	dimensionless	HPLC	empty square in FigA, assume to be empty circle in FigC
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	48	hr	3.0230696	dimensionless	HPLC	empty square in FigA, assume to be empty circle in FigC
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	72	hr	2.1307125	dimensionless	HPLC	empty square in FigA, assume to be empty circle in FigC
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	1	day	14.799856	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	2	day	6.318857	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	3	day	5.399743	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	4	day	4.480509	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	5	day	3.8093686	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	6	day	3.7332714	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	7	day	3.4587069	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	8	day	3.2834358	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	9	day	2.9591646	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	10	day	2.9079008	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	11	day	2.7822168	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	12	day	2.656413	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	13	day	2.580276	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_pm3_(dmt)/(hm3+hm3glu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(hm3+hm3glu)	urine	dextromethorphan_30mg	14	day	2.553686	dimensionless	HPLC	empty circle in FigC, assumed to be emtpy square in FigA
+Jones1996	fig3_A_em1_(dmt)/(dtf+dtfglu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	0.0119972015	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(dtf+dtfglu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.009727477	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(dtf+dtfglu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.009536205	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(dtf+dtfglu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.008992118	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(dtf+dtfglu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.0108458195	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(dtf+dtfglu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	0.01017965	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em1_(dmt)/(dtf+dtfglu)_hr	fig3_A_em1	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.010505841	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em2_(dmt)/(dtf+dtfglu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	0.011770703	dimensionless	HPLC	filled square in FigA
+Jones1996	fig3_A_em2_(dmt)/(dtf+dtfglu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.010104821	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em2_(dmt)/(dtf+dtfglu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.01562683	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em2_(dmt)/(dtf+dtfglu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.019226309	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em2_(dmt)/(dtf+dtfglu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.033907816	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em2_(dmt)/(dtf+dtfglu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	0.03305867	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em2_(dmt)/(dtf+dtfglu)_hr	fig3_A_em2	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.03222781	dimensionless	HPLC	filled circle in FigA
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	0.04987315	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.05079847	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.059078597	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.06736771	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.06718364	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	0.06550521	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em3_(dmt)/(dtf+dtfglu)_hr	fig3_A_em3	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.060324736	dimensionless	HPLC	filled circle lower half in FigA
+Jones1996	fig3_A_em4_(dmt)/(dtf+dtfglu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	0.005299727	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(dtf+dtfglu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.0061669913	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(dtf+dtfglu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.0078849755	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(dtf+dtfglu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.00757817	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(dtf+dtfglu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.0074163806	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(dtf+dtfglu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	0.0072306534	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em4_(dmt)/(dtf+dtfglu)_hr	fig3_A_em4	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.007185008	dimensionless	HPLC	driangle down in FigA
+Jones1996	fig3_A_em5_(dmt)/(dtf+dtfglu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	0.0004235625	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(dtf+dtfglu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.00031831794	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(dtf+dtfglu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.00031803426	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(dtf+dtfglu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.0002050832	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(dtf+dtfglu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.00020069863	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(dtf+dtfglu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	0.00019941942	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em5_(dmt)/(dtf+dtfglu)_hr	fig3_A_em5	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.00020195502	dimensionless	HPLC	triangle up in FigA
+Jones1996	fig3_A_em6_(dmt)/(dtf+dtfglu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	0.048933085	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(dtf+dtfglu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.049842495	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(dtf+dtfglu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.059076782	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(dtf+dtfglu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.06736978	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(dtf+dtfglu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.069789805	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(dtf+dtfglu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	0.06675748	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em6_(dmt)/(dtf+dtfglu)_hr	fig3_A_em6	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.061485536	dimensionless	HPLC	filled circle upper half in FigA
+Jones1996	fig3_A_em7_(dmt)/(dtf+dtfglu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	0.0009958156	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(dtf+dtfglu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.0017266853	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(dtf+dtfglu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.0017917922	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(dtf+dtfglu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.004537516	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(dtf+dtfglu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.004115688	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(dtf+dtfglu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	0.004945239	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_em7_(dmt)/(dtf+dtfglu)_hr	fig3_A_em7	em	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.0047300807	dimensionless	HPLC	fillled circles (low values) in FigA
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	0.82983583	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.74002564	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.8284594	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.6840195	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.72227	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	0.7454141	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	0.94810164	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	1.284463	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	0.9839721	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	0.634979	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	0.87556714	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	0.9787529	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	1.0695236	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	1.1466128	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	hr	2.5942767	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	hr	2.2700393	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	hr	2.7421293	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	hr	2.5860753	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	24	hr	2.2579987	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	48	hr	2.201452	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_hr	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	72	hr	2.0273504	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	1	day	9.345406	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	day	7.1369634	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	3	day	8.077313	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	day	8.249109	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	5	day	10.131566	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	6	day	11.5678215	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	7	day	12.508171	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	day	13.101455	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	9	day	13.521184	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	10	day	13.593767	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	11	day	13.790358	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	12	day	13.962114	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	13	day	14.1091175	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	day	14.231247	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	1	day	0.3454696	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	day	0.49231315	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	3	day	0.540183	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	day	0.6375597	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	5	day	0.635803	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	6	day	0.6340463	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	7	day	0.63216984	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	day	0.6304131	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	9	day	0.62865645	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	10	day	0.65161324	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	11	day	0.6250233	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	12	day	0.6480599	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	13	day	0.52229667	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm2_(dmt)/(dtf+dtfglu)_day	fig3_A_pm2	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	day	0.5700867	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	1	day	4.1883545	dimensionless	HPLC	NA
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	day	4.657791	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	3	day	5.300581	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	day	5.596304	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	5	day	6.313434	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	6	day	6.7084103	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	7	day	7.103307	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	day	7.2254767	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	9	day	7.496367	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	10	day	7.544037	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	11	day	7.716073	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	12	day	NA	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	13	day	7.762027	dimensionless	HPLC	empty squares in FigD
+Jones1996	fig3_A_pm1_(dmt)/(dtf+dtfglu)_day	fig3_A_pm1	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	day	7.933624	dimensionless	HPLC	empty squares in FigD

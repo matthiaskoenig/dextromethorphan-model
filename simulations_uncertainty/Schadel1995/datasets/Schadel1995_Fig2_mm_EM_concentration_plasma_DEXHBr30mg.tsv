@@ -1,0 +1,9 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg	1.0	hr	0.08365756	0.04197424	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg	1.5	hr	0.1715757	0.09232443	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg	2.0	hr	0.26401347	0.14206499	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg	4.0	hr	0.36102867	0.16835827	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg	6.0	hr	0.25262257	0.10907108	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg	8.0	hr	0.16452588	0.05473501	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg	10.0	hr	0.09062958	0.03912978	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg	24.0	hr	0.021344844	0.007784417	HPLC	nmol/ml	dimensionless

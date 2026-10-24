@@ -1,0 +1,11 @@
+study	name_data	image	name_subset	dimensions	data_type
+Doroshyenko2013	Fig1	Fig1	caf_silexan	caf_silexan	timecourse
+Doroshyenko2013	Fig1	Fig1	caf	caf	timecourse
+Doroshyenko2013	Fig1	Fig1	tol_silexan	tol_silexan	timecourse
+Doroshyenko2013	Fig1	Fig1	tol	tol	timecourse
+Doroshyenko2013	Fig1	Fig1	ome_silexan	ome_silexan	timecourse
+Doroshyenko2013	Fig1	Fig1	ome	ome	timecourse
+Doroshyenko2013	Fig1	Fig1	dex_silexan	dex_silexan	timecourse
+Doroshyenko2013	Fig1	Fig1	dex	dex	timecourse
+Doroshyenko2013	Fig1	Fig1	mid_silexan	mid_silexan	timecourse
+Doroshyenko2013	Fig1	Fig1	mid	mid	timecourse

@@ -1,0 +1,7 @@
+study	group	individual	measurement	substance	tissue	intervention	time	time_unit	value	method	time_jitter	time_jitter_unit	value_unit
+Gaedigk2013	1_1	1_1-1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.0018094	RP-HPLC	3.8396163194603696	hr	dimensionless
+Gaedigk2013	1_1	1_1-2	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.0020173	RP-HPLC	4.006409991400377	hr	dimensionless
+Gaedigk2013	1_1	1_1-3	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.0022987	RP-HPLC	4.074089129587673	hr	dimensionless
+Gaedigk2013	1_1	1_1-4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.0025076	RP-HPLC	4.015261919356566	hr	dimensionless
+Gaedigk2013	1_1	1_1-5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.0042271	RP-HPLC	4.086374389132333	hr	dimensionless
+Gaedigk2013	1_1	1_1-6	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX	4	hr	0.010089	RP-HPLC	4.291309922250397	hr	dimensionless

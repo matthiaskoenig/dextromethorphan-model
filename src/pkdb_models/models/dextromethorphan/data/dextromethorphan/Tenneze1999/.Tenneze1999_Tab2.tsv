@@ -1,0 +1,13 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	unit	method
+Tenneze1999	NA	all	36	recovery	dextromethorphan	urine	dex80mg	24	hr	0.4	0.2	1.2	percent	HPLC
+Tenneze1999	NA	all	36	recovery	dtf+dtfglu	urine	dex80mg	24	hr	34.8	1.66666666666667	10.0	percent	HPLC
+Tenneze1999	NA	all	36	recovery	3-methoxymorphinan	urine	dex80mg	24	hr	0.07	0.0166666666666667	0.1	percent	HPLC
+Tenneze1999	NA	all	36	recovery	hm3+hm3glu	urine	dex80mg	24	hr	15.7	0.616666666666667	3.7	percent	HPLC
+Tenneze1999	NA	all	36	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dex80mg	24	hr	0.00301995172040202	0.000887865805798193	0.00532719483478916	dimensionless	HPLC
+Tenneze1999	NA	all	36	cumulative metabolic ratio	dmt/mom3	urine	dex80mg	24	hr	2.81838293126445	0.0634136159534502	0.380481695720701	dimensionless	HPLC
+Tenneze1999	NA	all	36	recovery	dextromethorphan	urine	dex80mg, chloroguanide	24	hr	0.7	0.25	1.5	percent	HPLC
+Tenneze1999	NA	all	36	recovery	dtf+dtfglu	urine	dex80mg, chloroguanide	24	hr	35.1	1.16666666666667	7.0	percent	HPLC
+Tenneze1999	NA	all	36	recovery	3-methoxymorphinan	urine	dex80mg, chloroguanide	24	hr	0.11	0.0166666666666667	0.1	percent	HPLC
+Tenneze1999	NA	all	36	recovery	hm3+hm3glu	urine	dex80mg, chloroguanide	24	hr	16.2	0.583333333333333	3.5	percent	HPLC
+Tenneze1999	NA	all	36	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dex80mg, chloroguanide	24	hr	0.00954992586021436	0.0019290850237633	0.0115745101425798	dimensionless	HPLC
+Tenneze1999	NA	all	36	cumulative metabolic ratio	dmt/mom3	urine	dex80mg, chloroguanide	24	hr	3.63078054770101	0.101661855335628	0.60997113201377	dimensionless	HPLC

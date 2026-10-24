@@ -1,0 +1,12 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	method	mean_unit	count_unit
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	0.67	hr	4.748721463206142e-06	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	1.0	hr	3.6498938851306535e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	2.0	hr	6.597801801005141e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	3.0	hr	8.664490574936255e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	4.0	hr	7.315685104125213e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	6.0	hr	6.534674138922049e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	8.0	hr	6.060717601803952e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	12.0	hr	5.464273555290267e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	24.0	hr	3.166249207823024e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	48.0	hr	6.162558031569172e-06	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg, quinidine_50mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	72.0	hr	1.8308784689982456e-06	HPLC	mole/meter^3	dimensionless

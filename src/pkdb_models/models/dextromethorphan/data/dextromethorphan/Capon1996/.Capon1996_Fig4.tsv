@@ -1,0 +1,7 @@
+study	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	sd	se	unit	method
+Capon1996	EM	6	clearance_intrinsic	dextromethorphan	plasma	dextromethorphan_30mg	NA	NA	7683.2007	9573.1043	23449.2207894435	l/hr	HPLC
+Capon1996	EM	6	clearance_intrinsic	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	NA	NA	77.18807	45.37325	111.141310471737	l/hr	HPLC
+Capon1996	PM	6	clearance_intrinsic	dextromethorphan	plasma	dextromethorphan_30mg	NA	NA	22.150398	2.146015	5.25664173035885	l/hr	HPLC
+Capon1996	EM	6	clearance_partial	dextromethorphan	plasma	dextromethorphan_30mg	NA	NA	1388.578	1877.7233	4599.46396313498	l/hr	HPLC
+Capon1996	EM	6	clearance_partial	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_50mg	NA	NA	12.717966	7.475966	18.3123020343958	l/hr	HPLC
+Capon1996	PM	6	clearance_partial	dextromethorphan	plasma	dextromethorphan_30mg	NA	NA	1.3505855	0.604495	1.48070430206372	l/hr	HPLC

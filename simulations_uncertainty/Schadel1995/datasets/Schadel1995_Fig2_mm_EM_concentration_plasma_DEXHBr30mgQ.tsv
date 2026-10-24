@@ -1,0 +1,9 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	1.5	hr	0.031490687	0.016610935031560654	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	4.0	hr	0.09158274	0.04141321521244866	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	6.0	hr	0.097521194	0.033646561813880496	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	8.0	hr	0.097063403	0.031644714412449815	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	10.0	hr	0.088273111	0.02283305554512626	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	24.0	hr	0.0633890025	0.013742464830510946	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	36.0	hr	0.06237846	0.02096954798026817	HPLC	nmol/ml	dimensionless
+Schadel1995	3-methoxymorphinan+3-hydroxymorphinan	EM	5	concentration	3-methoxymorphinan+3-hydroxymorphinan	plasma	dextromethorphan_30mg, quinidine_100mg	48.0	hr	0.0335954986	0.009015671952631626	HPLC	nmol/ml	dimensionless

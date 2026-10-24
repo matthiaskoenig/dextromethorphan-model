@@ -1,0 +1,134 @@
+study	group	count	interventions	tissue	substance	time	time_unit	median	unit	method	label
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	0.07017544	hr	0.9202454	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	0.14035088	hr	10.2453985	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	0.28070176	hr	17.055214	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	0.45614034	hr	19.631903	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	0.9122807	hr	20.06135	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	1.4736842	hr	17.055214	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	1.9649123	hr	17.055214	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	2.5614035	hr	17.73006	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	2.9473684	hr	16.871166	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	4.0350876	hr	13.435583	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	4.9473686	hr	12.14724	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	5.894737	hr	10.7361965	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	7.9649124	hr	6.8711658	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	11.964912	hr	4.1104293	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	caffeine	15.964912	hr	1.9631902	µmol/l	LC/MS	caf_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	0.10526316	hr	0.9815951	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	0.1754386	hr	9.93865	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	0.42105263	hr	16.625767	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	0.80701756	hr	18.957056	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	1.122807	hr	19.386503	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	1.5438596	hr	19.325153	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	2.0350878	hr	18.711657	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	2.491228	hr	17.97546	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	3.0877192	hr	16.748466	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	4.1754384	hr	13.374233	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	5.017544	hr	13.496933	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	6.0350876	hr	12.08589	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	7.9298244	hr	9.693252	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	12.035088	hr	5.153374	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	15.859649	hr	2.9447854	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	caffeine	23.894737	hr	0.8588957	µmol/l	LC/MS	caf
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	0.31578946	hr	6.7901235	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	0.5263158	hr	14.351851	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	0.7017544	hr	22.530865	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	0.94736844	hr	34.5679	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	1.5438596	hr	34.25926	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	2.0350878	hr	41.820988	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	2.5263157	hr	44.598766	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	3.0877192	hr	52.623455	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	4.0350876	hr	44.444443	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	4.982456	hr	48.61111	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	5.9649124	hr	41.358025	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	8.175439	hr	33.487656	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	12.0	hr	19.753086	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	16.035088	hr	13.734568	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	tolbutamide	23.964912	hr	6.4814816	µmol/l	LC/MS	tol_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	0.3508772	hr	5.2469134	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	0.5614035	hr	11.574074	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	0.7368421	hr	16.97531	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	1.0175439	hr	20.52469	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	1.5087719	hr	22.067902	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	2.0701754	hr	33.487656	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	2.491228	hr	38.425926	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	2.9122808	hr	47.0679	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	4.0	hr	43.82716	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	5.0877194	hr	43.82716	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	6.0	hr	34.876545	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	8.0	hr	25.462963	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	11.964912	hr	18.055555	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	15.894737	hr	13.117284	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	tolbutamide	23.929825	hr	5.0925927	µmol/l	LC/MS	tol
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	omeprazole	0.84210527	hr	9.003216	nmol/l	LC/MS	ome_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	omeprazole	1.0526316	hr	27.652733	nmol/l	LC/MS	ome_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	omeprazole	1.4736842	hr	129.90353	nmol/l	LC/MS	ome_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	omeprazole	1.9298246	hr	129.90353	nmol/l	LC/MS	ome_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	omeprazole	2.491228	hr	157.55627	nmol/l	LC/MS	ome_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	omeprazole	2.9122808	hr	187.78136	nmol/l	LC/MS	ome_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	omeprazole	3.9649122	hr	218.00642	nmol/l	LC/MS	ome_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	omeprazole	4.982456	hr	97.10611	nmol/l	LC/MS	ome_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	omeprazole	6.0	hr	35.369774	nmol/l	LC/MS	ome_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	omeprazole	8.070175	hr	8.360128	nmol/l	LC/MS	ome_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	omeprazole	0.7368421	hr	31.511253	nmol/l	LC/MS	ome
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	omeprazole	0.94736844	hr	78.45659	nmol/l	LC/MS	ome
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	omeprazole	1.6140351	hr	83.60129	nmol/l	LC/MS	ome
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	omeprazole	2.0	hr	126.04501	nmol/l	LC/MS	ome
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	omeprazole	2.4561403	hr	171.0611	nmol/l	LC/MS	ome
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	omeprazole	2.9473684	hr	149.19614	nmol/l	LC/MS	ome
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	omeprazole	4.140351	hr	112.54019	nmol/l	LC/MS	ome
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	omeprazole	4.9473686	hr	71.38264	nmol/l	LC/MS	ome
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	omeprazole	6.0	hr	26.36656	nmol/l	LC/MS	ome
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	omeprazole	7.8245616	hr	8.360128	nmol/l	LC/MS	ome
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	0.7017544	hr	0.8412162	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	1.0526316	hr	1.5	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	1.5087719	hr	2.3817568	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	1.9298246	hr	3.2027028	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	2.4561403	hr	2.9087837	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	2.9824562	hr	3.0304055	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	4.0350876	hr	2.5844595	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	4.8421054	hr	2.0777028	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	5.9298244	hr	1.8445946	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	8.0	hr	1.3074324	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	12.0	hr	0.7804054	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	dextromethorphan	16.0	hr	0.2635135	nmol/l	LC/MS	dex_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	0.7719298	hr	0.8209459	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	0.9122807	hr	1.3074324	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	1.5438596	hr	2.0979729	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	2.0	hr	2.6655405	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	2.4210527	hr	2.8277028	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	3.0175438	hr	2.3513513	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	3.9298246	hr	1.8547298	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	5.0526314	hr	1.6317568	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	6.0701756	hr	1.3581082	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	8.035088	hr	1.2466216	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	dextromethorphan	11.894737	hr	0.75	nmol/l	LC/MS	dex
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	0.1754386	hr	3.5643563	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	0.31578946	hr	16.138615	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	0.45614034	hr	21.386139	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	0.3859649	hr	26.435644	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	0.80701756	hr	29.30693	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	0.98245615	hr	22.574257	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	1.6140351	hr	17.128714	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	2.0701754	hr	12.871287	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	2.5263157	hr	10.594059	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	3.0526316	hr	8.118812	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	4.0701756	hr	5.643564	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	4.877193	hr	5.1485147	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	6.0350876	hr	4.356436	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	7.9649124	hr	3.1683168	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg, silexan	plasma	midazolam	11.894737	hr	1.1881188	nmol/l	LC/MS	mid_silexan
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	0.21052632	hr	3.0693069	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	0.28070176	hr	21.881187	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	0.5263158	hr	33.366337	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	0.7719298	hr	30.39604	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	0.98245615	hr	26.930693	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	1.4736842	hr	16.732674	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	2.0350878	hr	12.871287	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	2.5263157	hr	9.60396	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	3.0175438	hr	8.217822	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	3.8947368	hr	5.1485147	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	5.017544	hr	4.356436	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	6.105263	hr	3.960396	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	8.0	hr	2.3762376	nmol/l	LC/MS	mid
+Doroshyenko2013	all	16	caffeine150mg, tolbutamide125mg, omeprazole20mg, dextromethorphan30mg, midazolam2mg	plasma	midazolam	12.070175	hr	0.990099	nmol/l	LC/MS	mid

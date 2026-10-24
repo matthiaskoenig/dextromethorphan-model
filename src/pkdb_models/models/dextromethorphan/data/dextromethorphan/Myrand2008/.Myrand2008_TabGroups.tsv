@@ -1,0 +1,29 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	median	min	max	sd	unit	comments
+Myrand2008	all	NA	species	631	homo sapiens	631	NA	NA	NA	NA	NA	NA	NA	This is only the CYP2D6 group from table 2, and all subjects in table 6
+Myrand2008	all	NA	healthy	631	Y	631	NA	NA	NA	NA	NA	NA	NA	This is only the CYP2D6 group from table 2, and all subjects in table 6
+Myrand2008	all	NA	sex	631	M	631	NA	NA	NA	NA	NA	NA	NA	This is only the CYP2D6 group from table 2, and all subjects in table 6
+Myrand2008	all	NA	smoking	631	N	631	NA	NA	NA	NA	NA	NA	NA	NA
+Myrand2008	native_japanese	all	ethnicity	100	japanese	100	NA	NA	NA	NA	NA	NA	NA	NA
+Myrand2008	native_japanese	all	age	100	NA	100	NA	22.9	NA	NA	NA	2.3	yr	NA
+Myrand2008	native_japanese	all	height	100	NA	100	NA	171.9	NA	NA	NA	5.4	cm	NA
+Myrand2008	native_japanese	all	weight	100	NA	100	NA	63.8	NA	NA	NA	7.6	kg	NA
+Myrand2008	1st-generation_japanese	all	ethnicity	105	japanese	105	NA	NA	NA	NA	NA	NA	NA	NA
+Myrand2008	1st-generation_japanese	all	age	105	NA	105	NA	26.1	NA	NA	NA	5.5	yr	NA
+Myrand2008	1st-generation_japanese	all	height	105	NA	105	NA	172.7	NA	NA	NA	6.4	cm	NA
+Myrand2008	1st-generation_japanese	all	weight	105	NA	105	NA	65.8	NA	NA	NA	9.4	kg	NA
+Myrand2008	3st-generation_japanese	all	ethnicity	83	japanese	83	NA	NA	NA	NA	NA	NA	NA	NA
+Myrand2008	3st-generation_japanese	all	age	83	NA	83	NA	36.5	NA	NA	NA	7.3	yr	NA
+Myrand2008	3st-generation_japanese	all	height	83	NA	83	NA	169.3	NA	NA	NA	5.9	cm	NA
+Myrand2008	3st-generation_japanese	all	weight	83	NA	83	NA	72.6	NA	NA	NA	8.5	kg	NA
+Myrand2008	korean	all	ethnicity	100	korean	100	NA	NA	NA	NA	NA	NA	NA	NA
+Myrand2008	korean	all	age	100	NA	100	NA	23.5	NA	NA	NA	3.1	yr	NA
+Myrand2008	korean	all	height	100	NA	100	NA	173.4	NA	NA	NA	5.9	cm	NA
+Myrand2008	korean	all	weight	100	NA	100	NA	68.8	NA	NA	NA	7.5	kg	NA
+Myrand2008	chinese	all	ethnicity	101	chinese	101	NA	NA	NA	NA	NA	NA	NA	NA
+Myrand2008	chinese	all	age	101	NA	101	NA	26.3	NA	NA	NA	6.4	yr	NA
+Myrand2008	chinese	all	height	101	NA	101	NA	171.0	NA	NA	NA	6.3	cm	NA
+Myrand2008	chinese	all	weight	101	NA	101	NA	66.1	NA	NA	NA	8.7	kg	NA
+Myrand2008	caucasian	all	ethnicity	142	caucasian	142	NA	NA	NA	NA	NA	NA	NA	NA
+Myrand2008	caucasian	all	age	142	NA	142	NA	29.9	NA	NA	NA	7.7	yr	NA
+Myrand2008	caucasian	all	height	142	NA	142	NA	180.0	NA	NA	NA	6.4	cm	NA
+Myrand2008	caucasian	all	weight	142	NA	142	NA	78.8	NA	NA	NA	9.2	kg	NA

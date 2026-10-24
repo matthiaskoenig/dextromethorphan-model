@@ -1,0 +1,13 @@
+study	group	count	intervention	measurement_type	substance	method	tissue	time	time_unit	mean	min	max	sd	unit
+Armani2017	all	19.0	caffeine+osi/caffeine	auc_end	caffeine	HPLC MS/MS	plasma	48	hr	2.33	2.1	2.59	0.65	dimensionless
+Armani2017	all	19.0	caffeine+osi/caffeine	auc_inf	caffeine	HPLC MS/MS	plasma	na	na	2.54	2.34	2.75	0.54	dimensionless
+Armani2017	all	19.0	caffeine+osi/caffeine	cmax	caffeine	HPLC MS/MS	plasma	na	na	1.07	0.99	1.15	0.21	dimensionless
+Armani2017	all	19.0	omeprazole+osi/omeprazole	auc_end	omeprazole	HPLC MS/MS	plasma	48	hr	1.91	1.74	2.11	0.49	dimensionless
+Armani2017	all	19.0	omeprazole+osi/omeprazole	auc_inf	omeprazole	HPLC MS/MS	plasma	na	na	1.86	1.61	2.15	0.72	dimensionless
+Armani2017	all	19.0	omeprazole+osi/omeprazole	cmax	omeprazole	HPLC MS/MS	plasma	na	na	1.61	1.4	1.84	0.58	dimensionless
+Armani2017	all	19.0	dextromethorphan+osi/dextromethorphan	auc_end	dextromethorphan	HPLC MS/MS	plasma	48	hr	1.48	1.34	1.63	0.38	dimensionless
+Armani2017	all	19.0	dextromethorphan+osi/dextromethorphan	auc_inf	dextromethorphan	HPLC MS/MS	plasma	na	na	1.54	1.4	1.69	0.38	dimensionless
+Armani2017	all	19.0	dextromethorphan+osi/dextromethorphan	cmax	dextromethorphan	HPLC MS/MS	plasma	na	na	1.35	1.21	1.5	0.38	dimensionless
+Armani2017	all	19.0	midazolam+osi/midazolam	auc_end	midazolam	HPLC MS/MS	plasma	48	hr	1.5	1.41	1.6	0.25	dimensionless
+Armani2017	all	19.0	midazolam+osi/midazolam	auc_inf	midazolam	HPLC MS/MS	plasma	na	na	1.5	1.41	1.59	0.24	dimensionless
+Armani2017	all	19.0	midazolam+osi/midazolam	cmax	midazolam	HPLC MS/MS	plasma	na	na	1.47	1.32	1.62	0.4	dimensionless

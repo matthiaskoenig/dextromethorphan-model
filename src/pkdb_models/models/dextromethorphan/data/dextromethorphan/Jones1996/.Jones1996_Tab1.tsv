@@ -1,0 +1,56 @@
+study	id	group	measurement	substance	tissue	intervention	time	time_unit	value	unit	method	comments
+Jones1996	em1	em	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	3	day	9.75	micromol	HPLC	Treated with beta-glucuronidase → 3hm+3hmglu
+Jones1996	em2	em	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	3	day	12.1	micromol	HPLC	NA
+Jones1996	em3	em	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	3	day	11.07	micromol	HPLC	NA
+Jones1996	em4	em	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	3	day	15.72	micromol	HPLC	NA
+Jones1996	em5	em	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	3	day	10.78	micromol	HPLC	NA
+Jones1996	em6	em	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	3	day	20.25	micromol	HPLC	NA
+Jones1996	em7	em	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	3	day	11.05	micromol	HPLC	NA
+Jones1996	em8	em	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	3	day	13.03	micromol	HPLC	NA
+Jones1996	em1	em	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	46.11	micromol	HPLC	NA
+Jones1996	em2	em	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	42.92	micromol	HPLC	NA
+Jones1996	em3	em	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	61.83	micromol	HPLC	NA
+Jones1996	em4	em	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	42.72	micromol	HPLC	NA
+Jones1996	em5	em	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	35.79	micromol	HPLC	NA
+Jones1996	em6	em	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	62.0	micromol	HPLC	NA
+Jones1996	em7	em	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	55.78	micromol	HPLC	NA
+Jones1996	em8	em	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	44.26	micromol	HPLC	NA
+Jones1996	em1	em	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.03	micromol	HPLC	NA
+Jones1996	em2	em	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.18	micromol	HPLC	NA
+Jones1996	em3	em	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.01	micromol	HPLC	NA
+Jones1996	em4	em	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.06	micromol	HPLC	NA
+Jones1996	em5	em	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.1	micromol	HPLC	NA
+Jones1996	em6	em	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.12	micromol	HPLC	NA
+Jones1996	em7	em	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.05	micromol	HPLC	NA
+Jones1996	em8	em	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.27	micromol	HPLC	NA
+Jones1996	em1	em	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	3	day	0.49	micromol	HPLC	NA
+Jones1996	em2	em	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	3	day	0.21	micromol	HPLC	NA
+Jones1996	em3	em	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	3	day	0.01	micromol	HPLC	NA
+Jones1996	em4	em	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	3	day	0.37	micromol	HPLC	NA
+Jones1996	em5	em	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	3	day	1.21	micromol	HPLC	NA
+Jones1996	em6	em	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	3	day	0.46	micromol	HPLC	NA
+Jones1996	em7	em	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	3	day	0.21	micromol	HPLC	NA
+Jones1996	em8	em	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	3	day	3.0	micromol	HPLC	NA
+Jones1996	pm1	pm	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	14	day	2.36	micromol	HPLC	NA
+Jones1996	pm2	pm	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	14	day	6.92	micromol	HPLC	NA
+Jones1996	pm3	pm	cumulative amount	hm3+hm3glu	urine	dextromethorphan_30mg	14	day	5.51	micromol	HPLC	NA
+Jones1996	pm1	pm	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	14	day	2.44	micromol	HPLC	NA
+Jones1996	pm2	pm	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	14	day	1.77	micromol	HPLC	NA
+Jones1996	pm3	pm	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	14	day	23.14	micromol	HPLC	NA
+Jones1996	pm1	pm	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	14	day	10.2	micromol	HPLC	NA
+Jones1996	pm2	pm	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	14	day	9.77	micromol	HPLC	NA
+Jones1996	pm3	pm	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	14	day	1.82	micromol	HPLC	NA
+Jones1996	pm1	pm	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	14	day	19.5	micromol	HPLC	NA
+Jones1996	pm2	pm	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	14	day	25.34	micromol	HPLC	NA
+Jones1996	pm3	pm	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	14	day	14.5	micromol	HPLC	NA
+Jones1996	em1	em	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	3	day	66.0	percent	HPLC	NA
+Jones1996	em2	em	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	3	day	65.0	percent	HPLC	NA
+Jones1996	em3	em	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	3	day	85.0	percent	HPLC	NA
+Jones1996	em4	em	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	3	day	69.0	percent	HPLC	NA
+Jones1996	em5	em	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	3	day	56.0	percent	HPLC	NA
+Jones1996	em6	em	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	3	day	97.0	percent	HPLC	NA
+Jones1996	em7	em	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	3	day	78.0	percent	HPLC	NA
+Jones1996	em8	em	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	3	day	71.0	percent	HPLC	NA
+Jones1996	pm1	pm	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	14	day	40.0	percent	HPLC	NA
+Jones1996	pm2	pm	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	14	day	51.0	percent	HPLC	NA
+Jones1996	pm3	pm	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	14	day	53.0	percent	HPLC	NA

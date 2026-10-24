@@ -1,0 +1,2 @@
+study	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Schadel1995	EM	5	recovery	3-methoxymorphinan+3-hydroxymorphinan	urine	dextromethorphan_30mg	72	hr	1.3270321361058605e-05	4.949012791689391e-06	HPLC	mole	dimensionless

@@ -1,0 +1,5 @@
+study	name	parent	count	males	females	phenotype
+Tamminga2001b	Fig4_males_homozygous	all	2	2	0	NR
+Tamminga2001b	Fig4_males_heterozygous	all	2	2	0	NR
+Tamminga2001b	Fig4_females_homozygous	all	2	0	2	NR
+Tamminga2001b	Fig4_females_heterozygous	all	2	0	2	NR

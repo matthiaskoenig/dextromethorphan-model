@@ -1,0 +1,91 @@
+study	id	measurement	tissue	substance	intervention	time	time_unit	value	unit	method
+Wyen2008	Fig6a_1	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	1.3599663	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_1	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	6.3938823	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_2	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	1.9922552	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_2	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	8.114879	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_3	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	3.258543	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_3	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	8.177449	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_4	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	4.135829	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_4	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	6.781845	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_5	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	4.062355	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_5	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	6.9936976	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_6	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	4.114685	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_6	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	10.458241	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_7	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	4.523847	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_7	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	9.885056	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_8	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	4.7255297	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_8	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	8.325471	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_9	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	4.432075	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_9	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	9.1534815	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_10	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	5.16902	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_10	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	7.889199	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_11	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	11.092977	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_11	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	12.072018	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_12	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	8.135643	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_12	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	10.756949	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_13	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	7.6898623	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_13	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	8.76313	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_14	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	7.32429	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_14	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	14.933377	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_15	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	6.4927254	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_15	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	14.22335	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_16	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	7.0661125	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_16	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	8.585728	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_17	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	6.328628	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_17	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	11.527873	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_18	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	6.1056786	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_18	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	8.283026	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_19	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	5.0122614	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_19	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	13.582623	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_20	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	5.845217	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_20	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	11.322348	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_21	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	5.951278	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_21	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	10.458317	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_22	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	5.5108356	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_22	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	8.563385	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_23	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	5.682984	microg*hr/ml	LCMSMS
+Wyen2008	Fig6a_23	auc_end	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	7.4371967	microg*hr/ml	LCMSMS
+Wyen2008	Fig6b_1	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	2.800934	microg/ml	LCMSMS
+Wyen2008	Fig6b_1	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	2.5077524	microg/ml	LCMSMS
+Wyen2008	Fig6b_2	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	2.3082664	microg/ml	LCMSMS
+Wyen2008	Fig6b_2	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.9022352	microg/ml	LCMSMS
+Wyen2008	Fig6b_3	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	2.026267	microg/ml	LCMSMS
+Wyen2008	Fig6b_3	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.8761193	microg/ml	LCMSMS
+Wyen2008	Fig6b_4	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.9135237	microg/ml	LCMSMS
+Wyen2008	Fig6b_4	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.9172732	microg/ml	LCMSMS
+Wyen2008	Fig6b_5	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.9022352	microg/ml	LCMSMS
+Wyen2008	Fig6b_5	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.3980231	microg/ml	LCMSMS
+Wyen2008	Fig6b_6	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.8070434	microg/ml	LCMSMS
+Wyen2008	Fig6b_6	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	3.2930808	microg/ml	LCMSMS
+Wyen2008	Fig6b_7	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.7132298	microg/ml	LCMSMS
+Wyen2008	Fig6b_7	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.8070633	microg/ml	LCMSMS
+Wyen2008	Fig6b_8	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.6243402	microg/ml	LCMSMS
+Wyen2008	Fig6b_8	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.817787	microg/ml	LCMSMS
+Wyen2008	Fig6b_9	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.5129172	microg/ml	LCMSMS
+Wyen2008	Fig6b_9	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	2.867999	microg/ml	LCMSMS
+Wyen2008	Fig6b_10	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.3047119	microg/ml	LCMSMS
+Wyen2008	Fig6b_10	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	2.197089	microg/ml	LCMSMS
+Wyen2008	Fig6b_11	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.309895	microg/ml	LCMSMS
+Wyen2008	Fig6b_11	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.5099335	microg/ml	LCMSMS
+Wyen2008	Fig6b_12	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.2996424	microg/ml	LCMSMS
+Wyen2008	Fig6b_12	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.865072	microg/ml	LCMSMS
+Wyen2008	Fig6b_13	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.111856	microg/ml	LCMSMS
+Wyen2008	Fig6b_13	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	3.2930808	microg/ml	LCMSMS
+Wyen2008	Fig6b_14	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.1075298	microg/ml	LCMSMS
+Wyen2008	Fig6b_14	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.7752409	microg/ml	LCMSMS
+Wyen2008	Fig6b_15	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	0.999468	microg/ml	LCMSMS
+Wyen2008	Fig6b_15	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	2.372872	microg/ml	LCMSMS
+Wyen2008	Fig6b_16	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	0.99751896	microg/ml	LCMSMS
+Wyen2008	Fig6b_16	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	2.0584989	microg/ml	LCMSMS
+Wyen2008	Fig6b_17	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	0.70194423	microg/ml	LCMSMS
+Wyen2008	Fig6b_17	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	2.2631085	microg/ml	LCMSMS
+Wyen2008	Fig6b_18	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	0.600576	microg/ml	LCMSMS
+Wyen2008	Fig6b_18	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	2.3357308	microg/ml	LCMSMS
+Wyen2008	Fig6b_19	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	0.6017826	microg/ml	LCMSMS
+Wyen2008	Fig6b_19	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.7857265	microg/ml	LCMSMS
+Wyen2008	Fig6b_20	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.2056295	microg/ml	LCMSMS
+Wyen2008	Fig6b_20	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	2.4929583	microg/ml	LCMSMS
+Wyen2008	Fig6b_21	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.8724296	microg/ml	LCMSMS
+Wyen2008	Fig6b_21	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	2.1798203	microg/ml	LCMSMS
+Wyen2008	Fig6b_22	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	NA	NA	1.1891035	microg/ml	LCMSMS
+Wyen2008	Fig6b_22	cmax	plasma	digoxin	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	NA	NA	1.5925885	microg/ml	LCMSMS

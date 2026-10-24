@@ -1,0 +1,2 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Tenneze1999		all	36	recovery	dextromethorphan	urine	dex80mg, chloroguanide	24	hr	2.0633446817290827e-06	7.369088149032439e-07	4.421452889419464e-06	HPLC	mole	dimensionless

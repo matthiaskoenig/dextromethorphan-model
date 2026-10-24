@@ -1,0 +1,43 @@
+study	group	measurement	tissue	substance	intervention	time	time_unit	median	min	max	mean	type	sd	unit	method
+Qiu2016	*1/*1	cmax	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	0.453	geometric mean	NA	ng/ml	LCMSMS
+Qiu2016	*1/*1	tmax	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	2.5	0.75	3.0	NA	NA	NA	hr	LCMSMS
+Qiu2016	*1/*1	auc_end	plasma	dextromethorphan	dex15mg, meal1, meal2	24.0	hr	NA	NA	NA	2.86	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*1/*1	auc_inf	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	2.97	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*1/*1	thalf	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	6.47	geometric mean	2.68	hr	LCMSMS
+Qiu2016	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	5384.0	geometric mean	NA	l/hr	LCMSMS
+Qiu2016	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	12.0	hr	NA	NA	NA	0.0102	geometric mean	NA	dimensionless	LCMSMS
+Qiu2016	*1/*10	cmax	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	1.5	geometric mean	NA	ng/ml	LCMSMS
+Qiu2016	*1/*10	tmax	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	2.0	1.0	4.0	NA	NA	NA	hr	LCMSMS
+Qiu2016	*1/*10	auc_end	plasma	dextromethorphan	dex15mg, meal1, meal2	24.0	hr	NA	NA	NA	10.1	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*1/*10	auc_inf	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	10.8	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*1/*10	thalf	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	7.0	geometric mean	0.71	hr	LCMSMS
+Qiu2016	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	1423.0	geometric mean	NA	l/hr	LCMSMS
+Qiu2016	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	12.0	hr	NA	NA	NA	0.0214	geometric mean	NA	dimensionless	LCMSMS
+Qiu2016	*10/*10	cmax	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	5.11	geometric mean	NA	ng/ml	LCMSMS
+Qiu2016	*10/*10	tmax	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	2.5	2.0	3.0	NA	NA	NA	hr	LCMSMS
+Qiu2016	*10/*10	auc_end	plasma	dextromethorphan	dex15mg, meal1, meal2	24.0	hr	NA	NA	NA	37.2	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*10/*10	auc_inf	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	44.4	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*10/*10	thalf	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	8.84	geometric mean	1.7	hr	LCMSMS
+Qiu2016	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	NA	NA	NA	NA	NA	338.0	geometric mean	NA	l/hr	LCMSMS
+Qiu2016	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	12.0	hr	NA	NA	NA	0.101	geometric mean	NA	dimensionless	LCMSMS
+Qiu2016	*1/*1	cmax	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	1.18	geometric mean	NA	ng/ml	LCMSMS
+Qiu2016	*1/*1	tmax	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	2.0	1.0	4.0	NA	NA	NA	hr	LCMSMS
+Qiu2016	*1/*1	auc_end	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	24.0	hr	NA	NA	NA	8.58	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*1/*1	auc_inf	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	10.0	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*1/*1	thalf	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	8.09	geometric mean	2.72	hr	LCMSMS
+Qiu2016	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	1580.0	geometric mean	NA	l/hr	LCMSMS
+Qiu2016	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	12.0	hr	NA	NA	NA	0.0512	geometric mean	NA	dimensionless	LCMSMS
+Qiu2016	*1/*10	cmax	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	2.55	geometric mean	NA	ng/ml	LCMSMS
+Qiu2016	*1/*10	tmax	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	2.0	2.0	3.0	NA	NA	NA	hr	LCMSMS
+Qiu2016	*1/*10	auc_end	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	24.0	hr	NA	NA	NA	17.2	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*1/*10	auc_inf	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	19.2	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*1/*10	thalf	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	8.19	geometric mean	0.95	hr	LCMSMS
+Qiu2016	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	812.0	geometric mean	NA	l/hr	LCMSMS
+Qiu2016	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	12.0	hr	NA	NA	NA	0.0886	geometric mean	NA	dimensionless	LCMSMS
+Qiu2016	*10/*10	cmax	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	4.51	geometric mean	NA	ng/ml	LCMSMS
+Qiu2016	*10/*10	tmax	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	3.0	1.5	4.0	NA	NA	NA	hr	LCMSMS
+Qiu2016	*10/*10	auc_end	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	24.0	hr	NA	NA	NA	40.8	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*10/*10	auc_inf	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	51.3	geometric mean	NA	ng*hr/ml	LCMSMS
+Qiu2016	*10/*10	thalf	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	10.4	geometric mean	1.66	hr	LCMSMS
+Qiu2016	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	NA	NA	NA	NA	NA	293.0	geometric mean	NA	l/hr	LCMSMS
+Qiu2016	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	12.0	hr	NA	NA	NA	0.132	geometric mean	NA	dimensionless	LCMSMS

@@ -1,0 +1,8 @@
+study	label	individual	count	genotype	measurement	substance	tissue	intervention	time	time_unit	value	method	output_type	comments	comments_2	value_unit	count_unit
+Frank2009	Tab123_C04	C04	1	*2x2/*3	metabolic ratio	dmt/dtf	plasma	CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	80	min	0.0452	HPLC	timecourse	reference		dimensionless	dimensionless
+Frank2009	Tab123_C04	C04	1	*2x2/*3	metabolic ratio	dmt/dtf	plasma	CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	120	min	0.0505	HPLC	timecourse	reference		dimensionless	dimensionless
+Frank2009	Tab123_C04	C04	1	*2x2/*3	metabolic ratio	dmt/dtf	plasma	CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	195	min	0.0701	HPLC	timecourse	reference		dimensionless	dimensionless
+Frank2009	Tab123_C04	C04	1	*2x2/*3	metabolic ratio	dmt/dtf	plasma	CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	255	min	0.0408	HPLC	timecourse	reference		dimensionless	dimensionless
+Frank2009	Tab123_C04	C04	1	*2x2/*3	metabolic ratio	dmt/dtf	plasma	CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	360	min	0.0395	HPLC	timecourse	reference		dimensionless	dimensionless
+Frank2009	Tab123_C04	C04	1	*2x2/*3	metabolic ratio	dmt/dtf	plasma	CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	600	min		HPLC	timecourse	reference		dimensionless	dimensionless
+Frank2009	Tab123_C04	C04	1	*2x2/*3	metabolic ratio	dmt/dtf	plasma	CAF, DEX, MEP ,MID_PO_ABC, MID_IV, TOL	720	min		HPLC	timecourse	reference		dimensionless	dimensionless

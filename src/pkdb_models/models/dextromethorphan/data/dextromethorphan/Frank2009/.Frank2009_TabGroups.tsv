@@ -1,0 +1,54 @@
+study	name	parent	group_count	measurement_type	choice	count	substance	mean	unit	sd	min	max	comments
+Frank2009	all	NA	72	species	homo sapiens	72	NA	NA	NA	NA	NA	NA	NA
+Frank2009	all	NA	72	healthy	NR	72	NA	NA	NA	NA	NA	NA	NA
+Frank2009	all	NA	72	sex	NR	72	NA	NA	NA	NA	NA	NA	NA
+Frank2009	all	NA	72	sex	NR	72	NA	NA	NA	NA	NA	NA	NA
+Frank2009	A	all	16	sex	M	16	NA	NA	NA	NA	NA	NA	NA
+Frank2009	A	all	16	healthy	Y	16	NA	NA	NA	NA	NA	NA	NA
+Frank2009	A	all	16	ethnicity	caucasian	16	NA	NA	NA	NA	NA	NA	NA
+Frank2009	A	all	16	smoking	N	16	NA	NA	NA	NA	NA	NA	NA
+Frank2009	A	all	16	age	NA	16	NA	29.0	yr	5.7	23.0	42.0	NA
+Frank2009	A	all	16	height	NA	16	NA	182.0	cm	7.2	171.0	195.0	NA
+Frank2009	A	all	16	weight	NA	16	NA	78.0	kg	9.9	71.0	101.0	NA
+Frank2009	A	all	16	medication	N	16	NA	NA	NA	NA	NA	NA	NA
+Frank2009	A	all	16	abstinence medication	NA	16	NA	NA	week	NA	2.0	NA	NA
+Frank2009	B	all	12	sex	M	12	NA	NA	NA	NA	NA	NA	NA
+Frank2009	B	all	12	ethnicity	caucasian	12	NA	NA	NA	NA	NA	NA	NA
+Frank2009	B	all	12	healthy	Y	12	NA	NA	NA	NA	NA	NA	NA
+Frank2009	B	all	12	smoking	N	10	NA	NA	NA	NA	NA	NA	NA
+Frank2009	B	all	12	smoking	Y	2	NA	NA	NA	NA	NA	NA	less than 3 cigarettes per day
+Frank2009	B	all	12	age	NA	12	NA	36.0	yr	7.4	24.0	49.0	NA
+Frank2009	B	all	12	height	NA	12	NA	181.0	cm	10.2	172.0	198.0	NA
+Frank2009	B	all	12	weight	NA	12	NA	80.0	kg	15.2	60.0	103.0	NA
+Frank2009	B	all	12	medication	N	12	NA	NA	NA	NA	NA	NA	NA
+Frank2009	B	all	12	abstinence medication	NA	12	NA	NA	week	NA	2.0	NA	NA
+Frank2009	C	all	16	sex	M	16	NA	NA	NA	NA	NA	NA	NA
+Frank2009	C	all	16	ethnicity	caucasian	16	NA	NA	NA	NA	NA	NA	NA
+Frank2009	C	all	16	smoking	N	16	NA	NA	NA	NA	NA	NA	NA
+Frank2009	C	all	16	age	NA	12	NA	29.0	yr	5.6	21.0	43.0	NA
+Frank2009	C	all	16	height	NA	12	NA	182.0	cm	5.9	173.0	194.0	NA
+Frank2009	C	all	16	weight	NA	12	NA	80.0	kg	9.2	66.0	99.0	NA
+Frank2009	C	all	16	medication	N	12	NA	NA	NA	NA	NA	NA	NA
+Frank2009	C	all	16	abstinence medication	NA	12	NA	NA	week	NA	2.0	NA	NA
+Frank2009	D	all	12	sex	M	12	NA	NA	NA	NA	NA	NA	NA
+Frank2009	D	all	12	ethnicity	caucasian	12	NA	NA	NA	NA	NA	NA	NA
+Frank2009	D	all	12	healthy	Y	12	NA	NA	NA	NA	NA	NA	NA
+Frank2009	D	all	12	smoking	N	5	NA	NA	NA	NA	NA	NA	in text: 12 man caucasian non smoker, probably not true, contradicting table info.
+Frank2009	D	all	12	smoking	Y	7	NA	NA	NA	NA	NA	NA	1 light smoker (<3 cigarettes per day), 5 moderate smoker  (5 cigarettes per day), 1 heavy smoker (10 cigarettes per day) 
+Frank2009	D	all	12	age	NA	12	NA	31.8	yr	10.2	18.0	48.0	reporting error, calculated manually
+Frank2009	D	all	12	height	NA	12	NA	179.75	cm	5.98	171.0	190.0	reporting error, calculated manually
+Frank2009	D	all	12	weight	NA	12	NA	71.9	kg	5.2	60.0	82.0	reporting error, calculated manually
+Frank2009	D	all	12	medication	N	12	NA	NA	NA	NA	NA	NA	2 male patients withdraw from study E.
+Frank2009	D	all	12	abstinence medication	NA	12	NA	NA	week	NA	2.0	NA	2 male patients withdraw from study E.
+Frank2009	E	all	28	sex	M	21	NA	NA	NA	NA	NA	NA	2 male patients withdraw from study E.
+Frank2009	E	all	28	sex	F	7	NA	NA	NA	NA	NA	NA	2 male patients withdraw from study E.
+Frank2009	E	all	28	ethnicity	caucasian	23	NA	NA	NA	NA	NA	NA	2 male patients withdraw from study E.
+Frank2009	E	all	28	ethnicity	african	5	NA	NA	NA	NA	NA	NA	2 male patients withdraw from study E.
+Frank2009	E	all	28	healthy	N	28	NA	NA	NA	NA	NA	NA	2 male patients withdraw from study E.
+Frank2009	E	all	28	smoking	N	28	NA	NA	NA	NA	NA	NA	2 male patients withdraw from study E.
+Frank2009	E	all	28	smoking	Y	28	NA	NA	NA	NA	NA	NA	2 male patients withdraw from study E.
+Frank2009	E	all	28	age	NA	28	NA	40.0	yr	10.0	25.0	60.0	2 male patients withdraw from study E.
+Frank2009	E	all	28	height	NA	28	NA	174.0	cm	7.0	156.0	190.0	2 male patients withdraw from study E.
+Frank2009	E	all	28	weight	NA	28	NA	72.0	kg	13.0	49.0	106.0	2 male patients withdraw from study E.
+Frank2009	E	all	28	medication	N	28	NA	NA	NA	NA	NA	NA	2 male patients withdraw from study E.
+Frank2009	E	all	28	abstinence medication	NA	28	NA	NA	week	NA	2.0	NA	2 male patients withdraw from study E.

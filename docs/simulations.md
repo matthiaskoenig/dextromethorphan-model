@@ -1,0 +1,54 @@
+# Simulations
+
+* [Simulation report](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/index.html)
+* [Simulation report with the confidence interval](https://matthiaskoenig.github.io/dextromethorphan-model/simulations_uncertainty/index.html)
+
+| Experiment |
+| --- |
+| [ABSORBRATEScan](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/ABSORBRATEScan/ABSORBRATEScan.html) |
+| [Abdelrahman1999](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Abdelrahman1999/Abdelrahman1999.html) |
+| [Abduljalil2010](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Abduljalil2010/Abduljalil2010.html) |
+| [ActivityScoreExperiment](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/ActivityScoreExperiment/ActivityScoreExperiment.html) |
+| [Armani2017](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Armani2017/Armani2017.html) |
+| [Barnhart1980](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Barnhart1980/Barnhart1980.html) |
+| [CYP2D6ActivityScan](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/CYP2D6ActivityScan/CYP2D6ActivityScan.html) |
+| [CYP2D6InhibitionScan](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/CYP2D6InhibitionScan/CYP2D6InhibitionScan.html) |
+| [CYP3A4ActivityScan](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/CYP3A4ActivityScan/CYP3A4ActivityScan.html) |
+| [Capon1996](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Capon1996/Capon1996.html) |
+| [Chen2017](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Chen2017/Chen2017.html) |
+| [Chladek2000](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Chladek2000/Chladek2000.html) |
+| [DEXDoseScan](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/DEXDoseScan/DEXDoseScan.html) |
+| [DISRATEScan](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/DISRATEScan/DISRATEScan.html) |
+| [Demirbas1998](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Demirbas1998/Demirbas1998.html) |
+| [Dorado2017](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Dorado2017/Dorado2017.html) |
+| [Doroshyenko2013](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Doroshyenko2013/Doroshyenko2013.html) |
+| [Duedahl2005](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Duedahl2005/Duedahl2005.html) |
+| [Dumond2010](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Dumond2010/Dumond2010.html) |
+| [Edwards2017](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Edwards2017/Edwards2017.html) |
+| [Eichhold1997](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Eichhold1997/Eichhold1997.html) |
+| [Eichhold2007](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Eichhold2007/Eichhold2007.html) |
+| [Frank2009](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Frank2009/Frank2009.html) |
+| [Gaedigk2013](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Gaedigk2013/Gaedigk2013.html) |
+| [GenotypeExperiment](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/GenotypeExperiment/GenotypeExperiment.html) |
+| [Hou1991](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Hou1991/Hou1991.html) |
+| [Hu2011](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Hu2011/Hu2011.html) |
+| [Jones1996](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Jones1996/Jones1996.html) |
+| [Koehler1997](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Koehler1997/Koehler1997.html) |
+| [Lenuzza2016](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Lenuzza2016/Lenuzza2016.html) |
+| [Lopez2005](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Lopez2005/Lopez2005.html) |
+| [Montane2013](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Montane2013/Montane2013.html) |
+| [Myrand2008](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Myrand2008/Myrand2008.html) |
+| [Nagai1996](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Nagai1996/Nagai1996.html) |
+| [Nakashima2007](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Nakashima2007/Nakashima2007.html) |
+| [Nyunt2008](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Nyunt2008/Nyunt2008.html) |
+| [Oh2012](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Oh2012/Oh2012.html) |
+| [PKParameterScan](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/PKParameterScan/PKParameterScan.html) |
+| [Pope2004](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Pope2004/Pope2004.html) |
+| [Qiu2016](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Qiu2016/Qiu2016.html) |
+| [Schadel1995](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Schadel1995/Schadel1995.html) |
+| [Schoedel2012](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Schoedel2012/Schoedel2012.html) |
+| [Sensitivity](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Sensitivity/Sensitivity.html) |
+| [Tamminga2001b](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Tamminga2001b/Tamminga2001b.html) |
+| [Tenneze1999](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Tenneze1999/Tenneze1999.html) |
+| [Yamazaki2016](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Yamazaki2016/Yamazaki2016.html) |
+| [Zawertailo2010](https://matthiaskoenig.github.io/dextromethorphan-model/simulations/Zawertailo2010/Zawertailo2010.html) |

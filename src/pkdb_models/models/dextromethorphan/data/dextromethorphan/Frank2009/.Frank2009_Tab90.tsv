@@ -1,0 +1,97 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	unit	method	comments
+Frank2009	Tab90_A01_reference	A01	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.0665	nmol/ml	HPLC	NA
+Frank2009	Tab90_A01_reference	A01	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.0604	nmol/ml	HPLC	NA
+Frank2009	Tab90_A01_reference	A01	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.585	nmol/ml	HPLC	NA
+Frank2009	Tab90_A02_reference	A02	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	1.39	nmol/ml	HPLC	NA
+Frank2009	Tab90_A02_reference	A02	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.854	nmol/ml	HPLC	NA
+Frank2009	Tab90_A02_reference	A02	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.576	nmol/ml	HPLC	NA
+Frank2009	Tab90_A03_reference	A03	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	na	nmol/ml	HPLC	NA
+Frank2009	Tab90_A03_reference	A03	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.643	nmol/ml	HPLC	NA
+Frank2009	Tab90_A03_reference	A03	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.454	nmol/ml	HPLC	NA
+Frank2009	Tab90_A04_reference	A04	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.958	nmol/ml	HPLC	NA
+Frank2009	Tab90_A04_reference	A04	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.542	nmol/ml	HPLC	NA
+Frank2009	Tab90_A04_reference	A04	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.459	nmol/ml	HPLC	NA
+Frank2009	Tab90_A05_reference	A05	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.919	nmol/ml	HPLC	NA
+Frank2009	Tab90_A05_reference	A05	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.58	nmol/ml	HPLC	NA
+Frank2009	Tab90_A05_reference	A05	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.349	nmol/ml	HPLC	NA
+Frank2009	Tab90_A06_reference	A06	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.946	nmol/ml	HPLC	NA
+Frank2009	Tab90_A06_reference	A06	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.556	nmol/ml	HPLC	NA
+Frank2009	Tab90_A06_reference	A06	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.426	nmol/ml	HPLC	NA
+Frank2009	Tab90_A07_reference	A07	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.976	nmol/ml	HPLC	suspicious timecourse
+Frank2009	Tab90_A07_reference	A07	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.374	nmol/ml	HPLC	suspicious timecourse, fixed 0.0374 -> 0.374
+Frank2009	Tab90_A07_reference	A07	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.37	nmol/ml	HPLC	suspicious timecourse
+Frank2009	Tab90_A08_reference	A08	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.0358	nmol/ml	HPLC	NA
+Frank2009	Tab90_A08_reference	A08	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.0557	nmol/ml	HPLC	NA
+Frank2009	Tab90_A08_reference	A08	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.173	nmol/ml	HPLC	NA
+Frank2009	Tab90_A09_reference	A09	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.789	nmol/ml	HPLC	NA
+Frank2009	Tab90_A09_reference	A09	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.359	nmol/ml	HPLC	NA
+Frank2009	Tab90_A09_reference	A09	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.249	nmol/ml	HPLC	NA
+Frank2009	Tab90_A10_reference	A10	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.967	nmol/ml	HPLC	NA
+Frank2009	Tab90_A10_reference	A10	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.541	nmol/ml	HPLC	NA
+Frank2009	Tab90_A10_reference	A10	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.444	nmol/ml	HPLC	NA
+Frank2009	Tab90_A11_reference	A11	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.586	nmol/ml	HPLC	NA
+Frank2009	Tab90_A11_reference	A11	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.416	nmol/ml	HPLC	NA
+Frank2009	Tab90_A11_reference	A11	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.246	nmol/ml	HPLC	NA
+Frank2009	Tab90_A12_reference	A12	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	1.16	nmol/ml	HPLC	NA
+Frank2009	Tab90_A12_reference	A12	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.537	nmol/ml	HPLC	NA
+Frank2009	Tab90_A12_reference	A12	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.276	nmol/ml	HPLC	NA
+Frank2009	Tab90_A13_reference	A13	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.952	nmol/ml	HPLC	NA
+Frank2009	Tab90_A13_reference	A13	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.535	nmol/ml	HPLC	NA
+Frank2009	Tab90_A13_reference	A13	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.394	nmol/ml	HPLC	NA
+Frank2009	Tab90_A14_reference	A14	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	1.01	nmol/ml	HPLC	NA
+Frank2009	Tab90_A14_reference	A14	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.506	nmol/ml	HPLC	NA
+Frank2009	Tab90_A14_reference	A14	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.333	nmol/ml	HPLC	NA
+Frank2009	Tab90_A15_reference	A15	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	0.737	nmol/ml	HPLC	NA
+Frank2009	Tab90_A15_reference	A15	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.4	nmol/ml	HPLC	NA
+Frank2009	Tab90_A15_reference	A15	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.237	nmol/ml	HPLC	NA
+Frank2009	Tab90_A16_reference	A16	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	3.25	hr	timecourse	na	nmol/ml	HPLC	NA
+Frank2009	Tab90_A16_reference	A16	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	4.25	hr	timecourse	0.526	nmol/ml	HPLC	NA
+Frank2009	Tab90_A16_reference	A16	1	concentration	dtf+dtfglu	plasma	CAF, DEX, DIG, MEP, MID_PO_ABC, MID_IV, TOL	6.0	hr	timecourse	0.363	nmol/ml	HPLC	NA
+Frank2009	Tab90_A01_test	A01	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.0624	nmol/ml	HPLC	NA
+Frank2009	Tab90_A01_test	A01	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.0646	nmol/ml	HPLC	NA
+Frank2009	Tab90_A01_test	A01	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.0587	nmol/ml	HPLC	NA
+Frank2009	Tab90_A02_test	A02	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	1.24	nmol/ml	HPLC	NA
+Frank2009	Tab90_A02_test	A02	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.963	nmol/ml	HPLC	NA
+Frank2009	Tab90_A02_test	A02	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.444	nmol/ml	HPLC	NA
+Frank2009	Tab90_A03_test	A03	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	na	nmol/ml	HPLC	NA
+Frank2009	Tab90_A03_test	A03	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.732	nmol/ml	HPLC	NA
+Frank2009	Tab90_A03_test	A03	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	1.01	nmol/ml	HPLC	NA
+Frank2009	Tab90_A04_test	A04	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.736	nmol/ml	HPLC	NA
+Frank2009	Tab90_A04_test	A04	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.554	nmol/ml	HPLC	NA
+Frank2009	Tab90_A04_test	A04	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.399	nmol/ml	HPLC	NA
+Frank2009	Tab90_A05_test	A05	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.837	nmol/ml	HPLC	NA
+Frank2009	Tab90_A05_test	A05	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.676	nmol/ml	HPLC	NA
+Frank2009	Tab90_A05_test	A05	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.385	nmol/ml	HPLC	NA
+Frank2009	Tab90_A06_test	A06	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.956	nmol/ml	HPLC	NA
+Frank2009	Tab90_A06_test	A06	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.609	nmol/ml	HPLC	NA
+Frank2009	Tab90_A06_test	A06	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.463	nmol/ml	HPLC	NA
+Frank2009	Tab90_A07_test	A07	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.835	nmol/ml	HPLC	NA
+Frank2009	Tab90_A07_test	A07	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.675	nmol/ml	HPLC	NA
+Frank2009	Tab90_A07_test	A07	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.389	nmol/ml	HPLC	NA
+Frank2009	Tab90_A08_test	A08	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.0336	nmol/ml	HPLC	NA
+Frank2009	Tab90_A08_test	A08	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.039	nmol/ml	HPLC	NA
+Frank2009	Tab90_A08_test	A08	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.04	nmol/ml	HPLC	NA
+Frank2009	Tab90_A09_test	A09	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.766	nmol/ml	HPLC	NA
+Frank2009	Tab90_A09_test	A09	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.432	nmol/ml	HPLC	NA
+Frank2009	Tab90_A09_test	A09	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.254	nmol/ml	HPLC	NA
+Frank2009	Tab90_A10_test	A10	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.917	nmol/ml	HPLC	NA
+Frank2009	Tab90_A10_test	A10	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.534	nmol/ml	HPLC	NA
+Frank2009	Tab90_A10_test	A10	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.373	nmol/ml	HPLC	NA
+Frank2009	Tab90_A11_test	A11	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.609	nmol/ml	HPLC	NA
+Frank2009	Tab90_A11_test	A11	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.399	nmol/ml	HPLC	NA
+Frank2009	Tab90_A11_test	A11	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.297	nmol/ml	HPLC	NA
+Frank2009	Tab90_A12_test	A12	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.901	nmol/ml	HPLC	NA
+Frank2009	Tab90_A12_test	A12	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.521	nmol/ml	HPLC	NA
+Frank2009	Tab90_A12_test	A12	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.306	nmol/ml	HPLC	NA
+Frank2009	Tab90_A13_test	A13	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	1.06	nmol/ml	HPLC	NA
+Frank2009	Tab90_A13_test	A13	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.485	nmol/ml	HPLC	NA
+Frank2009	Tab90_A13_test	A13	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.341	nmol/ml	HPLC	NA
+Frank2009	Tab90_A14_test	A14	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.909	nmol/ml	HPLC	NA
+Frank2009	Tab90_A14_test	A14	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.392	nmol/ml	HPLC	NA
+Frank2009	Tab90_A14_test	A14	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.569	nmol/ml	HPLC	NA
+Frank2009	Tab90_A15_test	A15	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	0.787	nmol/ml	HPLC	NA
+Frank2009	Tab90_A15_test	A15	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.489	nmol/ml	HPLC	NA
+Frank2009	Tab90_A15_test	A15	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.266	nmol/ml	HPLC	NA
+Frank2009	Tab90_A16_test	A16	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	3.25	hr	timecourse	na	nmol/ml	HPLC	NA
+Frank2009	Tab90_A16_test	A16	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4.25	hr	timecourse	0.443	nmol/ml	HPLC	NA
+Frank2009	Tab90_A16_test	A16	1	concentration	dtf+dtfglu	plasma	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6.0	hr	timecourse	0.268	nmol/ml	HPLC	NA

@@ -1,0 +1,73 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	unit	method	comments
+Frank2009	Tab113_B01_reference	B01	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	na	dimensionless	HPLC	reference
+Frank2009	Tab113_B01_reference	B01	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0121	dimensionless	HPLC	reference
+Frank2009	Tab113_B01_reference	B01	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0386	dimensionless	HPLC	reference
+Frank2009	Tab113_B02_reference	B02	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.441	dimensionless	HPLC	reference
+Frank2009	Tab113_B02_reference	B02	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.586	dimensionless	HPLC	reference
+Frank2009	Tab113_B02_reference	B02	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.86	dimensionless	HPLC	reference
+Frank2009	Tab113_B03_reference	B03	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.00535	dimensionless	HPLC	reference
+Frank2009	Tab113_B03_reference	B03	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.00353	dimensionless	HPLC	reference
+Frank2009	Tab113_B03_reference	B03	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.00577	dimensionless	HPLC	reference
+Frank2009	Tab113_B04_reference	B04	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0161	dimensionless	HPLC	reference
+Frank2009	Tab113_B04_reference	B04	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0197	dimensionless	HPLC	reference
+Frank2009	Tab113_B04_reference	B04	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0174	dimensionless	HPLC	reference
+Frank2009	Tab113_B05_reference	B05	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.00153	dimensionless	HPLC	reference
+Frank2009	Tab113_B05_reference	B05	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0011	dimensionless	HPLC	reference
+Frank2009	Tab113_B05_reference	B05	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.00095	dimensionless	HPLC	reference
+Frank2009	Tab113_B06_reference	B06	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	6.49	dimensionless	HPLC	reference
+Frank2009	Tab113_B06_reference	B06	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	27.9	dimensionless	HPLC	reference
+Frank2009	Tab113_B06_reference	B06	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	31.5	dimensionless	HPLC	reference
+Frank2009	Tab113_B07_reference	B07	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0331	dimensionless	HPLC	reference
+Frank2009	Tab113_B07_reference	B07	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0427	dimensionless	HPLC	reference
+Frank2009	Tab113_B07_reference	B07	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0474	dimensionless	HPLC	reference
+Frank2009	Tab113_B08_reference	B08	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.00612	dimensionless	HPLC	reference
+Frank2009	Tab113_B08_reference	B08	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0208	dimensionless	HPLC	reference
+Frank2009	Tab113_B08_reference	B08	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0511	dimensionless	HPLC	reference
+Frank2009	Tab113_B09_reference	B09	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.013	dimensionless	HPLC	reference
+Frank2009	Tab113_B09_reference	B09	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0107	dimensionless	HPLC	reference
+Frank2009	Tab113_B09_reference	B09	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0181	dimensionless	HPLC	reference
+Frank2009	Tab113_B10_reference	B10	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0219	dimensionless	HPLC	reference
+Frank2009	Tab113_B10_reference	B10	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0222	dimensionless	HPLC	reference
+Frank2009	Tab113_B10_reference	B10	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0287	dimensionless	HPLC	reference
+Frank2009	Tab113_B11_reference	B11	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0216	dimensionless	HPLC	reference
+Frank2009	Tab113_B11_reference	B11	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0447	dimensionless	HPLC	reference
+Frank2009	Tab113_B11_reference	B11	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0517	dimensionless	HPLC	reference
+Frank2009	Tab113_B12_reference	B12	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0364	dimensionless	HPLC	reference
+Frank2009	Tab113_B12_reference	B12	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.104	dimensionless	HPLC	reference
+Frank2009	Tab113_B12_reference	B12	1	cumulative metabolic ratio	dmt/dtf	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.136	dimensionless	HPLC	reference
+Frank2009	Tab113_B01_test	B01	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0451	dimensionless	HPLC	test
+Frank2009	Tab113_B01_test	B01	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0527	dimensionless	HPLC	test
+Frank2009	Tab113_B01_test	B01	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0694	dimensionless	HPLC	test
+Frank2009	Tab113_B02_test	B02	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.183	dimensionless	HPLC	test
+Frank2009	Tab113_B02_test	B02	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.625	dimensionless	HPLC	test
+Frank2009	Tab113_B02_test	B02	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.834	dimensionless	HPLC	test
+Frank2009	Tab113_B03_test	B03	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	na	dimensionless	HPLC	test
+Frank2009	Tab113_B03_test	B03	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	na	dimensionless	HPLC	test
+Frank2009	Tab113_B03_test	B03	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.00112	dimensionless	HPLC	test
+Frank2009	Tab113_B04_test	B04	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0379	dimensionless	HPLC	test
+Frank2009	Tab113_B04_test	B04	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0371	dimensionless	HPLC	test
+Frank2009	Tab113_B04_test	B04	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0282	dimensionless	HPLC	test
+Frank2009	Tab113_B05_test	B05	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.00333	dimensionless	HPLC	test
+Frank2009	Tab113_B05_test	B05	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.00172	dimensionless	HPLC	test
+Frank2009	Tab113_B05_test	B05	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0011	dimensionless	HPLC	test
+Frank2009	Tab113_B06_test	B06	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	9.66	dimensionless	HPLC	test
+Frank2009	Tab113_B06_test	B06	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	30.2	dimensionless	HPLC	test
+Frank2009	Tab113_B06_test	B06	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	32.5	dimensionless	HPLC	test
+Frank2009	Tab113_B07_test	B07	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.00548	dimensionless	HPLC	test
+Frank2009	Tab113_B07_test	B07	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0133	dimensionless	HPLC	test
+Frank2009	Tab113_B07_test	B07	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0207	dimensionless	HPLC	test
+Frank2009	Tab113_B08_test	B08	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0278	dimensionless	HPLC	test
+Frank2009	Tab113_B08_test	B08	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.121	dimensionless	HPLC	test
+Frank2009	Tab113_B08_test	B08	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.13	dimensionless	HPLC	test
+Frank2009	Tab113_B09_test	B09	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0064	dimensionless	HPLC	test
+Frank2009	Tab113_B09_test	B09	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.00577	dimensionless	HPLC	test
+Frank2009	Tab113_B09_test	B09	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0103	dimensionless	HPLC	test
+Frank2009	Tab113_B10_test	B10	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0708	dimensionless	HPLC	test
+Frank2009	Tab113_B10_test	B10	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.093	dimensionless	HPLC	test
+Frank2009	Tab113_B10_test	B10	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.101	dimensionless	HPLC	test
+Frank2009	Tab113_B11_test	B11	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0043	dimensionless	HPLC	test
+Frank2009	Tab113_B11_test	B11	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0429	dimensionless	HPLC	test
+Frank2009	Tab113_B11_test	B11	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0433	dimensionless	HPLC	test
+Frank2009	Tab113_B12_test	B12	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0426	dimensionless	HPLC	test
+Frank2009	Tab113_B12_test	B12	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0426	dimensionless	HPLC	test
+Frank2009	Tab113_B12_test	B12	1	cumulative metabolic ratio	dmt/dtf	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0665	dimensionless	HPLC	test

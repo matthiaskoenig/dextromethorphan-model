@@ -1,0 +1,2 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Tenneze1999		all	36	recovery	mm	urine	dex80mg	24	hr	4.648420804409663e-05	1.8183721707193468e-06	1.0910233024316074e-05	HPLC	mole	dimensionless

@@ -1,0 +1,13 @@
+study	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	median	min	max	unit	method
+Schoedel2012	group1_evaluabel	12	auc_end	paroxetine	plasma	paroxetine_20mg_daily(12days)	24.0	hr	651.3	118.934155453063	412.0	NA	NA	NA	ng*hr/ml	LC/MS
+Schoedel2012	group1_evaluabel	12	tmax	paroxetine	plasma	paroxetine_20mg_daily(12days)	NA	NA	NA	NA	NA	4.0	2.0	6.0	hr	LC/MS
+Schoedel2012	group1_evaluabel	12	thalf	paroxetine	plasma	paroxetine_20mg_daily(12days)	NA	NA	40.3	10.3345698184943	35.8	NA	NA	NA	hr	LC/MS
+Schoedel2012	group1_evaluabel	12	auc_end	paroxetine	plasma	paroxetine_20mg_daily(12days),DM_30mg_twice_daily(8days)_after_P,Q_30mg_twice_daily(8days)_after_P	24.0	hr	869.9	180.85497182365	626.5	NA	NA	NA	ng*hr/ml	LC/MS
+Schoedel2012	group1_evaluabel	12	tmax	paroxetine	plasma	paroxetine_20mg_daily(12days),DM_30mg_twice_daily(8days)_after_P,Q_30mg_twice_daily(8days)_after_P	NA	NA	NA	NA	NA	4.0	1.0	6.1	hr	LC/MS
+Schoedel2012	group1_evaluabel	12	thalf	paroxetine	plasma	paroxetine_20mg_daily(12days),DM_30mg_twice_daily(8days)_after_P,Q_30mg_twice_daily(8days)_after_P	NA	NA	56.7	16.4544826719043	57.0	NA	NA	NA	hr	LC/MS
+Schoedel2012	group1_subgroup	9	auc_end	paroxetine	plasma	paroxetine_20mg_daily(12days)	24.0	hr	648.1	150.666666666667	452.0	NA	NA	NA	ng*hr/ml	LC/MS
+Schoedel2012	group1_subgroup	9	tmax	paroxetine	plasma	paroxetine_20mg_daily(12days)	NA	NA	NA	NA	NA	4.0	3.0	6.0	hr	LC/MS
+Schoedel2012	group1_subgroup	9	thalf	paroxetine	plasma	paroxetine_20mg_daily(12days)	NA	NA	41.6	13.0	39.0	NA	NA	NA	hr	LC/MS
+Schoedel2012	group1_subgroup	9	auc_end	paroxetine	plasma	paroxetine_20mg_daily(12days),DM_30mg_twice_daily(8days)_after_P,Q_30mg_twice_daily(8days)_after_P	24.0	hr	1099.9	178.633333333333	535.9	NA	NA	NA	ng*hr/ml	LC/MS
+Schoedel2012	group1_subgroup	9	tmax	paroxetine	plasma	paroxetine_20mg_daily(12days),DM_30mg_twice_daily(8days)_after_P,Q_30mg_twice_daily(8days)_after_P	NA	NA	NA	NA	NA	5.0	4.0	6.1	hr	LC/MS
+Schoedel2012	group1_subgroup	9	thalf	paroxetine	plasma	paroxetine_20mg_daily(12days),DM_30mg_twice_daily(8days)_after_P,Q_30mg_twice_daily(8days)_after_P	NA	NA	68.6	20.6333333333333	61.9	NA	NA	NA	hr	LC/MS

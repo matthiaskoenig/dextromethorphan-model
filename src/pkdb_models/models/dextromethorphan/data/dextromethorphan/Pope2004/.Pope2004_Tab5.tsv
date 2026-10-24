@@ -1,0 +1,17 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	day_offset	time_unit	mean	se	sd	unit	method
+Pope2004	NA	Study3_em	7.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose1	12.0	1.0	hr	0.27	0.0869318287921223	0.23	dimensionless	HPLC
+Pope2004	NA	Study3_em	7.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose8	180.0	8.0	hr	0.8	0.139846855013414	0.37	dimensionless	HPLC
+Pope2004	NA	Study3_em	7.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose9	204.0	9.0	hr	0.45	0.0642539604115686	0.17	dimensionless	HPLC
+Pope2004	NA	Study3_em	7.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose10	228.0	10.0	hr	0.2	0.0566946709513841	0.15	dimensionless	HPLC
+Pope2004	NA	Study3_em	7.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose11	252.0	11.0	hr	0.15	0.0491353814911995	0.13	dimensionless	HPLC
+Pope2004	NA	Study3_em	7.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose12	276.0	12.0	hr	0.09	0.0340168025708304	0.09	dimensionless	HPLC
+Pope2004	NA	Study3_em	7.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose13	300.0	13.0	hr	0.04	0.0226778683805536	0.06	dimensionless	HPLC
+Pope2004	NA	Study3_em	7.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose14	324.0	14.0	hr	0.03	0.0226778683805536	0.06	dimensionless	HPLC
+Pope2004	NA	Study3_pm	2.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose1	12.0	1.0	hr	1.79	0.346482322781408	0.49	dimensionless	HPLC
+Pope2004	NA	Study3_pm	2.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose8	180.0	8.0	hr	1.86	0.360624458405139	0.51	dimensionless	HPLC
+Pope2004	NA	Study3_pm	2.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose9	204.0	9.0	hr	1.4	0.424264068711928	0.6	dimensionless	HPLC
+Pope2004	NA	Study3_pm	2.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose10	228.0	10.0	hr	2.54	1.12429978208661	1.59	dimensionless	HPLC
+Pope2004	NA	Study3_pm	2.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose11	252.0	11.0	hr	2.2	0.806101730552664	1.14	dimensionless	HPLC
+Pope2004	NA	Study3_pm	2.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose12	276.0	12.0	hr	3.33	0.0636396103067893	0.09	dimensionless	HPLC
+Pope2004	NA	Study3_pm	2.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose13	300.0	13.0	hr	2.25	0.388908729652601	0.55	dimensionless	HPLC
+Pope2004	NA	Study3_pm	2.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose14	324.0	14.0	hr	2.06	0.0848528137423857	0.12	dimensionless	HPLC

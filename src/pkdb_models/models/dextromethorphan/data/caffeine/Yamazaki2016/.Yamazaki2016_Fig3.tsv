@@ -1,0 +1,97 @@
+study	group	count	substance	measurement_type	intervention	method	tissue	label	time	time_unit	mean	sepm	se	sd	unit
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	0.0	hr	na	na	na	na	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	0.5	hr	0.100343056	na	na	na	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	1.0	hr	0.9108062	0.37821612	0.53259008	1.84494615633435	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	1.5	hr	3.1646655	2.037736	1.1269295	3.90379830109638	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	2.0	hr	5.295026	3.944254	1.350772	4.67921146688286	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	3.0	hr	5.6037736	4.353345	1.2504286	4.33161173287444	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	4.0	hr	5.4030876	4.2530017	1.1500859	3.98401442373716	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	5.0	hr	5.0711837	3.9982848	1.0728989	3.71663081236952	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	6.0	hr	4.276158	3.380789	0.895369	3.10164919904428	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	8.0	hr	3.558319	2.8018868	0.7564322	2.6203580057622	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	10.0	hr	2.7864494	2.1535163	0.6329331	2.19254457398415	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	12.0	hr	2.1149228	1.5900514	0.5248714	1.81820786447961	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	16.0	hr	1.4125215	1.0343053	0.3782162	1.31017934929126	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	20.0	hr	1.0497427	0.787307	0.2624357	0.909103932239807	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	24.0	hr	0.9108062	0.6715266	0.2392796	0.828888848829516	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	48.0	hr	0.22384219	na	na	na	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_im	72.0	hr	0.077186964	na	na	na	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	1.0	hr	1.651801	2.2461407	0.5943397	2.05885311471049	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	1.5	hr	3.5660377	4.577187	1.0111493	3.50272392327541	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	2.0	hr	6.09777	7.6183534	1.5205834	5.26745541189166	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	3.0	hr	6.668954	8.243567	1.574613	5.4546194365169	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	4.0	hr	5.5574613	6.792453	1.2349917	4.27813674265172	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	5.0	hr	5.642367	6.86964	1.227273	4.25139838151496	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	6.0	hr	4.9399657	6.0283017	1.088336	3.77010649541256	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	8.0	hr	4.9399657	6.0283017	1.088336	3.77010649541256	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	10.0	hr	3.1646655	3.890223	0.7255575	2.51340490762531	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	12.0	hr	2.315609	2.8096056	0.4939966	1.71125441993256	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	16.0	hr	1.7753001	2.2075472	0.4322471	1.49734787724861	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	20.0	hr	1.4433962	1.829331	0.3859348	1.33691736401787	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	24.0	hr	1.119211	1.4125215	0.2933105	1.01605737678686	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	48.0	hr	0.2161235	na	na	na	ng/ml
+Yamazaki2016	dex_group_im	12	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_im	72.0	hr	0.06174957	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	0.0	hr	na	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	0.5	hr	0.02315609	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	1.0	hr	0.46312177	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	1.5	hr	0.81046313	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	2.0	hr	1.2504288	1.5977701	0.3473413	1.15200076629427	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	3.0	hr	1.2349914	1.5900514	0.35506	1.17760079806359	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	4.0	hr	1.0265867	1.3276157	0.301029	0.998400244015896	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	5.0	hr	0.95711833	1.2041166	0.24699827	0.819200585456896	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	6.0	hr	0.77958834	0.9879931	0.20840476	0.691200393444067	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	8.0	hr	0.5634648	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	10.0	hr	0.4554031	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	12.0	hr	0.34734133	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	16.0	hr	0.19296741	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	20.0	hr	0.13121784	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	24.0	hr	0.100343056	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	48.0	hr	0.0077186963	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dmt_em	72.0	hr	na	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	0.0	hr	na	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	0.5	hr	0.100343056	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	1.5	hr	0.80274445	0.50171524	0.30102921	0.998400940507102	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	2.0	hr	1.042024	0.75643224	0.28559176	0.94720071113723	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	3.0	hr	1.1423671	0.8490566	0.2933105	0.972800875571537	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	4.0	hr	0.91852486	0.6792453	0.23927956	0.793600520521332	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	5.0	hr	0.7409949	0.55574614	0.18524876	0.614400629798598	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	6.0	hr	0.6560892	0.47855917	0.17753003	0.588800498530538	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	8.0	hr	0.51715267	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	10.0	hr	0.4245283	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	12.0	hr	0.23156089	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	16.0	hr	0.16209263	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	20.0	hr	0.09262436	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	24.0	hr	0.08490566	na	na	na	ng/ml
+Yamazaki2016	dex_group_em	11	dextromethorphan	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dmt_em	48.0	hr	na	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	0.0	hr	na	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	0.5	hr	8.356174	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	1.0	hr	142.59967	162.80621	20.20654	98.9914249342759	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	1.5	hr	264.06937	289.85028	25.78091	126.300149209233	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	2.0	hr	314.23572	337.22937	22.99365	112.645419648293	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	3.0	hr	299.59982	314.92914	15.32932	75.098024207682	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	4.0	hr	248.26773	260.11288	11.84515	58.0291468534564	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	5.0	hr	191.12901	202.50955	11.38054	55.7530319946673	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	6.0	hr	147.46115	153.2676	5.80644999999998	28.4456794339667	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	8.0	hr	90.78368	95.89346	5.10978	25.0327073957573	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	10.0	hr	58.26136	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	12.0	hr	39.209705	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	16.0	hr	18.990269	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	20.0	hr	11.080707	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	24.0	hr	7.119138	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	48.0	hr	0.5385908	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	72.0	hr	na	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	1.0	hr	114.26437	100.79351	13.47086	65.9934667929364	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	1.5	hr	225.28206	204.37914	20.90292	102.402976268435	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	2.0	hr	281.02252	261.97736	19.04516	93.301848139329	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	3.0	hr	297.04507	281.9484	15.09667	73.9582766303651	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	4.0	hr	245.01582	234.79677	10.21905	50.0629163119768	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	5.0	hr	200.88374	187.18082	13.70292	67.1303239723568	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	6.0	hr	163.71931	156.28705	7.43226000000001	36.4104892713955	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	8.0	hr	100.77098	106.80959	6.03861000000001	29.5830265113359	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	10.0	hr	65.92587	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	12.0	hr	44.783604	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	16.0	hr	24.099947	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	20.0	hr	14.796934	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	24.0	hr	9.673976	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	48.0	hr	0.5386892	na	na	na	ng/ml
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan, isavuconazole	LC/MS	plasma	fig3_day10_dtf	72.0	hr	na	na	na	na	ng/ml

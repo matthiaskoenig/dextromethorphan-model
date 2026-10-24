@@ -1,0 +1,45 @@
+study	label	group	measurement	tissue	substance	intervention	time	time_unit	mean	sd	unit	method
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	0.0	hr	0.07633588	0.76335882	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	0.19277108	hr	4.961832	3.969465	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	0.31325302	hr	13.053435	6.030535	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	0.5	hr	18.70229	7.480917	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	0.75	hr	23.740458	8.854962	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	1.0	hr	22.366413	6.183205	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	1.33	hr	21.374046	5.877864	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	1.67	hr	20.76336	6.183206	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	2.0	hr	19.465649	5.877863	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	2.5	hr	17.404581	6.870228	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	3.25	hr	15.114504	7.557251	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	3.9759035	hr	12.59542	7.099236	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	4.120482	hr	35.87786	18.473287	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	4.25	hr	32.748093	12.519081	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	4.5	hr	34.427483	12.824424	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	4.75	hr	27.93893	11.29771	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	5.0	hr	26.793894	10.763356	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	5.5	hr	23.740458	8.702292	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	6.5	hr	21.145039	9.923664	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	8.0	hr	16.717558	6.793892	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	10.0	hr	12.671756	5.190839	ng/ml	LCMSMS
+Wyen2008	FIg1_control	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	9.923664	4.351145	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	0.0	hr	0.0	0.6870229	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	0.18072289	hr	6.412214	3.206106	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	0.3253012	hr	15.877863	6.183207	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	0.48192772	hr	16.564886	5.343512	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	0.74698794	hr	14.122137	4.961833	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	1.0	hr	11.679389	4.122138	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	1.3253012	hr	9.694656	3.282443	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	1.6506025	hr	8.091603	2.59542	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	2.0	hr	6.7938933	3.1297707	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	2.4939759	hr	4.961832	2.2137404	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	3.240964	hr	3.2824428	1.5267172	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	3.9638555	hr	2.8244274	6.3358776	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	4.0963855	hr	28.931297	10.458016	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	4.253012	hr	28.015266	14.809164	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	4.506024	hr	24.580153	19.46565	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	4.746988	hr	17.022902	10.0	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	5.0120482	hr	13.969465	7.022902	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	5.506024	hr	10.610687	5.725191	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	6.506024	hr	6.8702292	4.8854958	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	8.0	hr	4.6564884	4.3511446	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	10.012048	hr	2.6717558	2.8244276	ng/ml	LCMSMS
+Wyen2008	FIg1_ART	all	concentration	plasma	midazolam	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.012048	hr	1.908397	1.6030533	ng/ml	LCMSMS

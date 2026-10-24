@@ -1,0 +1,13 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	unit	method	comments
+Hu2011	NA	all	6	cmax	dtf+dtfglu	plasma	dex30mg_floating	NA	NA	226.63	9.00595728763282	22.06	ng/ml	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	tmax	dtf+dtfglu	plasma	dex30mg_floating	NA	NA	4.67	0.420495739177779	1.03	hr	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	auc_end	dtf+dtfglu	plasma	dex30mg_floating	24.0	hr	3133.69	139.837286932587	342.53	ng*hr/ml	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	auc_inf	dtf+dtfglu	plasma	dex30mg_floating	NA	NA	3581.35	197.253326503425	483.17	ng*hr/ml	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	kel	dtf+dtfglu	plasma	dex30mg_floating	NA	NA	0.09	0.00408248290463863	0.01	1/hr	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	thalf	dtf+dtfglu	plasma	dex30mg_floating	NA	NA	8.01	0.473568016938081	1.16	hr	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	cmax	dtf+dtfglu	plasma	dex30mg_conventional	NA	NA	259.14	4.66219547709732	11.42	ng/ml	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	tmax	dtf+dtfglu	plasma	dex30mg_conventional	NA	NA	3.17	0.306186217847897	0.75	hr	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	auc_end	dtf+dtfglu	plasma	dex30mg_conventional	24.0	hr	2652.95	188.655617506256	462.11	ng*hr/ml	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	auc_inf	dtf+dtfglu	plasma	dex30mg_conventional	NA	NA	2950.95	220.805170380285	540.86	ng*hr/ml	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	kel	dtf+dtfglu	plasma	dex30mg_conventional	NA	NA	0.09	0.00408248290463863	0.01	1/hr	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu
+Hu2011	NA	all	6	thalf	dtf+dtfglu	plasma	dex30mg_conventional	NA	NA	7.51	0.404165807559224	0.99	hr	HPLC	From text and meta analysis: This is porbabbly dtf+dtfglu

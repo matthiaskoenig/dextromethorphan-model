@@ -1,0 +1,3 @@
+study	name_data	image	name_subset	dimensions	data_type	shared
+Hou1991	Fig5	Fig5	Fig5	Fig5_saliva, Fig5_urine	scatter	individual
+Hou1991	Fig8	Fig8	Fig8	Fig8_dex_mr_total, Fig8_dex_mr_free	scatter	individual

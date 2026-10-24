@@ -1,0 +1,93 @@
+study	id	cyp2d6_phenotype	measurement	tissue	substance	intervention	time	time_unit	value	unit	method
+Wyen2008	Fig4a_1	pm	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	262.07758	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_1	pm	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	181.38136	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_2	pm	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	174.32065	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_2	pm	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	167.45955	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_3	pm	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	139.31915	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_3	pm	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	107.02075	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_4	pm	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	107.89919	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_4	pm	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	124.57742	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_5	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	32.004295	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_5	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	13.495039	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_6	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	27.937096	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_6	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	26.630983	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_7	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	22.50891	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_7	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	17.014854	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_8	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	21.283802	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_8	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	10.703357	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_9	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	18.287565	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_9	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	22.691628	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_10	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	13.282163	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_10	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	46.59739	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_11	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	14.38638	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_11	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	18.140308	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_12	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	14.38638	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_12	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	8.2879925	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_13	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	13.604586	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_13	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	9.802257	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_14	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	12.654374	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_14	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	14.852557	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_15	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	10.448753	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_15	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	22.151855	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_16	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	9.04989	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_16	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	24.388958	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_17	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	8.834618	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_17	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	19.490198	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_18	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	7.8361926	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_18	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	13.71379	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_19	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	7.590238	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_19	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	12.871056	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_20	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	6.467461	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_20	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	13.385171	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_21	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	5.3821006	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_21	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	4.5859594	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_22	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	3.3844452	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_22	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	14.851223	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_23	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	3.6376014	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_23	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	4.067322	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_24	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	2.5585878	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_24	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	2.7494757	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_25	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	1.9340786	ng*hr/ml	LCMSMS
+Wyen2008	Fig4a_25	NR	auc_end	plasma	dextromethorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	3.1999505	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_1	pm	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	0.6865911	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_1	pm	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	0.70766735	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_2	pm	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	3.514242	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_2	pm	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	3.2449915	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_3	pm	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	17.131931	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_3	pm	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	10.054779	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_4	pm	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	25.026001	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_4	pm	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	10.562582	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_5	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	65.90398	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_5	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	13.577414	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_6	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	33.361485	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_6	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	28.865276	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_7	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	32.15654	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_7	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	15.030898	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_8	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	26.445728	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_8	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	8.704257	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_9	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	11.231299	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_9	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	7.7972746	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_10	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	12.537728	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_10	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	6.7612686	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_11	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	12.590682	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_11	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	11.299421	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_12	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	12.798289	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_12	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	9.253628	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_13	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	14.885626	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_13	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	7.8284135	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_14	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	31.63781	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_14	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	12.062769	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_15	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	16.41361	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_15	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	24.12267	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_16	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	19.478405	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_16	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	4.82037	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_17	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	25.799541	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_17	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	5.040787	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_18	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	21.218666	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_18	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	6.031825	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_19	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	23.391367	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_19	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	10.8499775	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_20	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	22.006697	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_20	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	10.124342	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_21	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv	12.0	hr	20.869688	ng*hr/ml	LCMSMS
+Wyen2008	Fig4b_21	NR	auc_end	plasma	dextrorphan	midazolam1.5mg_po, dexhbr30mg,digoxin0.5mg,midazolam1mg_iv, ART	12.0	hr	9.522842	ng*hr/ml	LCMSMS

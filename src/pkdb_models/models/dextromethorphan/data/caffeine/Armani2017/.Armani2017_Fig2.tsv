@@ -1,0 +1,103 @@
+study	group	count	label	intervention	measurement_type	substance	method	tissue	time	time_unit	mean	sdpm	sd	se	unit
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	0.0	hr	0.0	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	0.25	hr	1631.2991	350.27493	1281.02417	293.887100066477	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	0.5	hr	2310.066	3050.955	740.889	169.971593651627	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	1.0	hr	2204.0752	1656.635	547.4402	125.591395233247	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	1.5	hr	2025.0978	1517.7976	507.3002	116.382647675683	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	2.0	hr	1904.4844	1364.3374	540.147	123.918220402982	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	2.5	hr	1762.0033	1236.455	525.5483	120.569048928926	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	3.0	hr	1666.9677	1108.5604	558.4073	128.107420528179	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	4.0	hr	1352.7903	819.93665	532.85365	122.245011160357	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	6.0	hr	1085.7501	571.15076	514.59934	118.057185235407	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	8.0	hr	877.1285	366.1666	510.9619	117.222699268397	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	12.0	hr	510.9498	54.726494	456.223306	104.664804554844	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_caffeine	caf, ome, dex, mid	concentration	caffeine	HPLC MS/MS	plasma	24.0	hr	76.63643	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	0.0	hr	0.0	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	0.25	hr	1109.3822	558.28033	551.10187	126.431439943489	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	0.5	hr	2211.5195	1485.2288	726.2907	166.622513943864	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	1.0	hr	2426.6973	2959.563	532.8657	122.247775619951	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	1.5	hr	2514.1377	3057.9524	543.8147	124.759648490099	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	2.0	hr	2554.1387	3094.2915	540.1528	123.919551014239	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	2.5	hr	2513.8354	3046.7012	532.8658	122.247798561524	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	3.0	hr	2488.143	3017.341	529.198	121.406347532834	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	4.0	hr	2400.2434	2914.8308	514.5874	118.054446011544	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	6.0	hr	2293.7876	2819.336	525.5484	120.569071870499	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	8.0	hr	2238.4387	2793.184	554.7453	127.267300110745	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	12.0	hr	1748.1782	2266.4272	518.249	118.894474662685	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_caffeine	caf, ome, dex, mid, osi	concentration	caffeine	HPLC MS/MS	plasma	24.0	hr	616.7773	1120.4279	503.6506	115.545372013349	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	0.0	hr	0.0	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	0.5	hr	21.552288	58.957462	37.405174	8.58133544376606	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	1.0	hr	106.30027	275.94843	169.64816	38.9199571261905	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	1.5	hr	122.02862	299.99274	177.96412	40.8277691924287	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	2.0	hr	151.90239	327.37173	175.46934	40.2554274078831	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	2.5	hr	209.21603	433.7384	224.52237	51.5089642839078	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	3.0	hr	154.26158	328.88824	174.62666	40.0621033572651	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	4.0	hr	113.372284	262.22226	148.849976	34.1485264806555	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	6.0	hr	31.601997	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	8.0	hr	14.687823	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	12.0	hr	4.1635103	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_omeprazole	caf, ome, dex, mid	concentration	omeprazole	HPLC MS/MS	plasma	24.0	hr	0.0	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	0.0	hr	0.0	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	0.5	hr	112.19615	406.57803	294.38188	67.5358350383956	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	1.0	hr	296.7383	756.6104	459.8721	105.501895308096	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	1.5	hr	253.42342	541.9897	288.56628	66.201644896498	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	2.0	hr	305.74472	542.7548	237.01008	54.3738414379206	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	2.5	hr	266.59332	445.38904	178.79572	41.0185513167155	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	3.0	hr	239.08151	393.75543	154.67392	35.4846308674365	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	4.0	hr	153.28609	284.67532	131.38923	30.142756623138	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	6.0	hr	48.222828	118.91118	70.688352	16.2170201501806	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	8.0	hr	23.83537	61.262684	37.427314	8.58641470811395	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	12.0	hr	7.478821	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_omeprazole	caf, ome, dex, mid, osi	concentration	omeprazole	HPLC MS/MS	plasma	24.0	hr	0.823293	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	0.0	hr	0.0	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	0.25	hr	0.0	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	0.5	hr	0.09362908	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	1.0	hr	0.9427995	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	1.5	hr	2.4341536	7.2883067	4.8541531	1.11361909575656	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	2.0	hr	3.88767	12.009405	8.121735	1.86325379532723	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	2.5	hr	3.9624424	11.347555	7.3851126	1.69426102684573	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	3.0	hr	4.3771634	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	4.0	hr	4.394525	12.308464	7.913939	1.81558212349186	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	6.0	hr	3.5603185	10.869849	7.3095305	1.67692130390675	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	8.0	hr	2.9149895	9.072367	6.1573775	1.41259927788058	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	12.0	hr	2.2664528	7.6306376	5.3641848	1.23062839250931	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	24.0	hr	2.1154287	7.5361834	5.4207547	1.2436064176328	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	0.0	hr	0.20773417	0.8876311	0.67989693	0.155979053152292	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	0.25	hr	0.30173695	1.0762906	0.77455365	0.177694794036872	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	0.5	hr	0.35799536	1.0002414	0.64224604	0.147341346592062	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	1.0	hr	1.0749515	2.7182796	1.6433281	0.377005322051616	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	1.5	hr	2.1508062	5.3050923	3.1542861	0.723642860469212	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	2.0	hr	3.9254456	10.876108	6.9506624	1.59459131538252	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	2.5	hr	5.8511868	17.297197	11.4460102	2.62589482992293	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	3.0	hr	4.792663	13.027662	8.234999	1.88923833900834	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	4.0	hr	4.8099623	13.573943	8.7639807	2.01059506391794	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	6.0	hr	4.5991764	13.098604	8.4994276	1.94990242033371	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	8.0	hr	3.8593462	11.5845	7.7251538	1.77227182828996	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	12.0	hr	3.173034	10.180485	7.007451	1.607619513727	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_dextromethorphan	caf, ome, dex, mid, osi	concentration	dextromethorphan	HPLC MS/MS	plasma	24.0	hr	2.6441612	8.763887	6.1197258	1.40396138549361	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	0.0	hr	0.0	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	0.25	hr	3.3427746	6.4194283	3.0766537	0.705832766451079	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	0.5	hr	8.491445	5.448435	3.04301	0.698114372325458	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	1.0	hr	7.068563	4.259822	2.808741	0.644369377767336	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	1.5	hr	4.709504	3.054422	1.655082	0.379701851645957	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	2.0	hr	3.6545033	2.0326517	1.6218516	0.372078275043145	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	2.5	hr	2.632802	1.4792808	1.1535212	0.264635912633251	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	3.0	hr	2.1798122	1.2936523	0.8861599	0.203299023785164	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	4.0	hr	1.4573935	1.0060576	0.4513359	0.10354355672063	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	6.0	hr	0.8149848	0.4139428	0.401042	0.0920053447429178	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	8.0	hr	0.6407685	0.3231822	0.3175863	0.0728592940817364	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	12.0	hr	0.34283668	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_midazolam	caf, ome, dex, mid	concentration	midazolam	HPLC MS/MS	plasma	24.0	hr	0.10031218	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	0.0	hr	0.050087176	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	0.25	hr	3.3428435	6.4027786	3.0599351	0.701997256562791	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	0.5	hr	12.002371	15.964771	3.9624	0.909036903888714	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	1.0	hr	9.643105	12.101028	2.457923	0.563886208842333	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	1.5	hr	7.0667024	9.039716	1.9730136	0.452640362980599	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	2.0	hr	5.276148	7.232167	1.956019	0.448741534349762	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	2.5	hr	3.8867042	5.374875	1.4881708	0.341409796206741	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	3.0	hr	3.2330213	4.4703426	1.2373213	0.283860974073178	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	4.0	hr	2.2933283	3.1126134	0.8192851	0.187956892465717	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	6.0	hr	1.2665274	1.7514386	0.4849112	0.111246258810055	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	8.0	hr	0.9419118	1.2929356	0.3510238	0.0805303826830333	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	12.0	hr	0.47672406	na	na	na	ng/ml
+Armani2017	all	19	caf_ome_dex_mid_osi_midazolam	caf, ome, dex, mid, osi	concentration	midazolam	HPLC MS/MS	plasma	24.0	hr	0.15046827	na	na	na	ng/ml

@@ -1,0 +1,15 @@
+study	count	label	group	measurement	tissue	substance	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.0	hr	0.0	1.6019756525327556e-07	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.25	hr	4.805926957598266e-07	2.9369552401585826e-07	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.5	hr	1.655374902359582e-06	8.543870760932042e-07	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	0.75	hr	4.218535835875669e-06	2.3495644868903918e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	1.0	hr	5.820511488408425e-06	4.485532269237004e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	1.5	hr	7.31568878866929e-06	3.6311450826074777e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	2.0	hr	9.932249340466611e-06	5.259820415321808e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	3.0	hr	8.223474967207557e-06	2.883556616704249e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	4.0	hr	6.4346022903125965e-06	2.2160660859825205e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	6.0	hr	4.031638811513463e-06	1.1747822434451959e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	8.0	hr	3.1772516248839372e-06	9.878852190829908e-07	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	10.0	hr	2.3495644868903918e-06	7.742879987030404e-07	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	12.0	hr	1.815572430767417e-06	7.47588760666755e-07	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group2_zuojin	*1/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	24.0	hr	6.67489867503795e-07	2.6699599121604693e-07	LCMSMS	mole/meter^3	dimensionless

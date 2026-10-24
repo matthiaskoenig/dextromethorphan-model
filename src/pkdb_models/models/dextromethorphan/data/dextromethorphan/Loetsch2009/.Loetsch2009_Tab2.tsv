@@ -1,0 +1,17 @@
+study	id	group	cyp2d6_genotype	cyp2d6_phenotype	measurement	substance	tissue	intervention	time	time_unit	value	unit	method
+Loetsch2009	Tab2_1	NA	*4/*4 	NA	metabolic ratio	dmt/dtf	urine	NA	NA	NA	4.99	NA	NA
+Loetsch2009	Tab2_2	NA	*4/*4 	NA	NA	NA	NA	NA	NA	NA	3.91	NA	NA
+Loetsch2009	Tab2_3	NA	*3/*4 	NA	NA	NA	NA	NA	NA	NA	3.17	NA	NA
+Loetsch2009	Tab2_4	NA	*4/6 	NA	NA	NA	NA	NA	NA	NA	2.32	NA	NA
+Loetsch2009	Tab2_5	NA	*4/*41 	NA	NA	NA	NA	NA	NA	NA	0.09	NA	NA
+Loetsch2009	Tab2_6	NA	*4/*4 	NA	NA	NA	NA	NA	NA	NA	3.23	NA	NA
+Loetsch2009	Tab2_7	NA	*4/*4 	NA	NA	NA	NA	NA	NA	NA	1.84	NA	NA
+Loetsch2009	Tab2_8	NA	*4/*4 	NA	NA	NA	NA	NA	NA	NA	2.1	NA	NA
+Loetsch2009	Tab2_9	NA	*1/*1 	NA	NA	NA	NA	NA	NA	NA	0.0002	NA	NA
+Loetsch2009	Tab2_10	NA	*1/*1 	NA	NA	NA	NA	NA	NA	NA	0.0007	NA	NA
+Loetsch2009	Tab2_11	NA	*1/*1 	NA	NA	NA	NA	NA	NA	NA	0.0002	NA	NA
+Loetsch2009	Tab2_12	NA	*1/*1 	NA	NA	NA	NA	NA	NA	NA	0.0002	NA	NA
+Loetsch2009	Tab2_13	NA	2x*1/*1 	NA	NA	NA	NA	NA	NA	NA	0.0002	NA	NA
+Loetsch2009	Tab2_14	NA	2x*1/*1 	NA	NA	NA	NA	NA	NA	NA	0.0002	NA	NA
+Loetsch2009	Tab2_15	NA	2x*1/*1 	NA	NA	NA	NA	NA	NA	NA	0.0008	NA	NA
+Loetsch2009	Tab2_16	NA	2x*1/*1 	NA	NA	NA	NA	NA	NA	NA	0.001	NA	NA

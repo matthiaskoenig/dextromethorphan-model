@@ -1,0 +1,5 @@
+study	group	measurement	substance	tissue	intervention	time	time_unit	mean	sd	unit	method
+Duedahl2005	all	cmax	dextromethorphan	serum	DEX	NA	NA	79.9	26.0	ng/ml	HPLC
+Duedahl2005	all	thalf	dextromethorphan	serum	DEX	NA	NA	3.1	3.5	hr	HPLC
+Duedahl2005	all	auc_end	dextromethorphan	serum	DEX	24.0	hr	152.0	103.7	hr*ng/ml	HPLC
+Duedahl2005	all	clearance	dextromethorphan	serum	DEX	NA	NA	388.3	335.8	l/hr	HPLC

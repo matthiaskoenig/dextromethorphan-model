@@ -1,0 +1,6 @@
+study	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	sd	unit	method
+Nagai1996	pharmacokinetics	7	recovery	dextromethorphan	urine	dex_30mg	34	hr	0.195857142857143	0.229616657766394	percent	HPLC
+Nagai1996	pharmacokinetics	7	recovery	dtf+dtfglu	urine	dex_30mg	34	hr	38.5971428571429	8.19229661386377	percent	HPLC
+Nagai1996	pharmacokinetics	7	recovery	hm3+hm3glu	urine	dex_30mg	34	hr	33.3485714285714	8.35633178807429	percent	HPLC
+Nagai1996	pharmacokinetics	7	cumulative metabolic ratio	(dtf+dtfglu)/(dmt)	urine	dex_30mg	34	hr	1089.31428571429	1930.71376044247	dimensionless	HPLC
+Nagai1996	pharmacokinetics	7	cumulative metabolic ratio	(dtf+dtfglu)/(hm3+hm3glu)	urine	dex_30mg	34	hr	1.19142857142857	0.287020822207993	dimensionless	HPLC

@@ -1,0 +1,55 @@
+study	individual	measurement	substance	tissue	intervention	value	min	max	unit	time	time_unit	method	comments
+Hou1996	P1	concentration	dextromethorphan	saliva	DEX	37.7	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P2	concentration	dextromethorphan	saliva	DEX	10.8	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P3	concentration	dextromethorphan	saliva	DEX	4.5	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P4	concentration	dextromethorphan	saliva	DEX	14.9	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P5	concentration	dextromethorphan	saliva	DEX	46.5	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P6	concentration	dextromethorphan	saliva	DEX	21.4	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P7	concentration	dextromethorphan	saliva	DEX	2.1	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P8	concentration	dextromethorphan	saliva	DEX	23.6	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P9	concentration	dextromethorphan	saliva	DEX	42.4	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P1	concentration	dextrorphan	saliva	DEX	9.2	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P2	concentration	dextrorphan	saliva	DEX	2	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P3	concentration	dextrorphan	saliva	DEX	9.7	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P4	concentration	dextrorphan	saliva	DEX	6.7	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P5	concentration	dextrorphan	saliva	DEX	8.6	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P6	concentration	dextrorphan	saliva	DEX	7.5	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P7	concentration	dextrorphan	saliva	DEX	4.7	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P8	concentration	dextrorphan	saliva	DEX	2.2	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P9	concentration	dextrorphan	saliva	DEX	7.3	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P1	metabolic ratio	dmt/dtf	saliva	DEX	4.1	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P2	metabolic ratio	dmt/dtf	saliva	DEX	5.4	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P3	metabolic ratio	dmt/dtf	saliva	DEX	0.46	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P4	metabolic ratio	dmt/dtf	saliva	DEX	2.2	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P5	metabolic ratio	dmt/dtf	saliva	DEX	5.4	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P6	metabolic ratio	dmt/dtf	saliva	DEX	2.9	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P7	metabolic ratio	dmt/dtf	saliva	DEX	0.44	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P8	metabolic ratio	dmt/dtf	saliva	DEX	10.7	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P9	metabolic ratio	dmt/dtf	saliva	DEX	5.8	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P1	concentration	dextromethorphan	saliva	QUI, DEX	701	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P2	concentration	dextromethorphan	saliva	QUI, DEX	197	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P3	concentration	dextromethorphan	saliva	QUI, DEX	56	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P4	concentration	dextromethorphan	saliva	QUI, DEX	83	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P5	concentration	dextromethorphan	saliva	QUI, DEX	106	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P6	concentration	dextromethorphan	saliva	QUI, DEX	93	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P7	concentration	dextromethorphan	saliva	QUI, DEX	37	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P8	concentration	dextromethorphan	saliva	QUI, DEX	144	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P9	concentration	dextromethorphan	saliva	QUI, DEX	170	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P1	concentration	dextrorphan	saliva	QUI, DEX	na	NA	1.0	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P2	concentration	dextrorphan	saliva	QUI, DEX	na	NA	1.0	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P3	concentration	dextrorphan	saliva	QUI, DEX	na	NA	1.0	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P4	concentration	dextrorphan	saliva	QUI, DEX	1.09	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P5	concentration	dextrorphan	saliva	QUI, DEX	na	NA	1.0	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P6	concentration	dextrorphan	saliva	QUI, DEX	2.56	NA	NA	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P7	concentration	dextrorphan	saliva	QUI, DEX	na	NA	1.0	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P8	concentration	dextrorphan	saliva	QUI, DEX	na	NA	1.0	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P9	concentration	dextrorphan	saliva	QUI, DEX	na	NA	1.0	ng/ml	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P1	metabolic ratio	dmt/dtf	saliva	QUI, DEX	na	701.0	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P2	metabolic ratio	dmt/dtf	saliva	QUI, DEX	na	197.0	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P3	metabolic ratio	dmt/dtf	saliva	QUI, DEX	na	56.0	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P4	metabolic ratio	dmt/dtf	saliva	QUI, DEX	76	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P5	metabolic ratio	dmt/dtf	saliva	QUI, DEX	na	106.0	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P6	metabolic ratio	dmt/dtf	saliva	QUI, DEX	36.5	NA	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P7	metabolic ratio	dmt/dtf	saliva	QUI, DEX	na	37.0	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P8	metabolic ratio	dmt/dtf	saliva	QUI, DEX	na	144.0	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text
+Hou1996	P9	metabolic ratio	dmt/dtf	saliva	QUI, DEX	na	170.0	NA	dimensionless	3	hr	HPLC	 time and method from Hou1991 as referenced in text

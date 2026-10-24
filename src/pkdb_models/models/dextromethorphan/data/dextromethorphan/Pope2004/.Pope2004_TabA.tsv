@@ -1,0 +1,17 @@
+study	group	parent	cyp2d6_phenotype	count
+Pope2004	Study1_Q0mg	Study1	em	7
+Pope2004	Study1_Q2.5mg	Study1	em	8
+Pope2004	Study1_Q10mg	Study1	em	7
+Pope2004	Study1_Q25mg	Study1	em	8
+Pope2004	Study1_Q50mg	Study1	em	8
+Pope2004	Study1_Q75mg	Study1	em	8
+Pope2004	Study2_DM60mg_Q0mg	Study2	em	8
+Pope2004	Study2_DM60mg_Q30mg	Study2	em	8
+Pope2004	Study2_DM60mg_Q45mg	Study2	em	8
+Pope2004	Study2_DM60mg_Q60mg	Study2	em	8
+Pope2004	Study2_DM45mg_Q0mg	Study2	em	9
+Pope2004	Study2_DM45mg_Q30mg	Study2	em	8
+Pope2004	Study2_DM45mg_Q45mg	Study2	em	8
+Pope2004	Study2_DM45mg_Q60mg	Study2	em	8
+Pope2004	Study3_em	Study3	em	7
+Pope2004	Study3_pm	Study3	pm	2

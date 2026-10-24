@@ -1,0 +1,11 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	1	hr	1.1223746327572848e-07	4.5473093164543316e-08	1.0168092746309974e-07	GC	mole	dimensionless
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	2	hr	4.6511859588035407e-07	9.479538188230159e-08	2.1196891784187833e-07	GC	mole	dimensionless
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	4	hr	9.207862310334831e-07	9.097540488880901e-08	2.0342718961194373e-07	GC	mole	dimensionless
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	6	hr	1.1300180836463645e-06	1.326724654628465e-07	2.9666465151741775e-07	GC	mole	dimensionless
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	8	hr	1.252050525106475e-06	1.8196553562088236e-07	4.068873072104529e-07	GC	mole	dimensionless
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	10	hr	1.3362202979935631e-06	1.8951760080189405e-07	4.237742383257051e-07	GC	mole	dimensionless
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	12	hr	1.3976609455017134e-06	2.2740941022570328e-07	5.085028999878075e-07	GC	mole	dimensionless
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	16	hr	1.4825625422882314e-06	2.8808897642023377e-07	6.441865348439757e-07	GC	mole	dimensionless
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	24	hr	1.561390486390329e-06	3.2978603699427127e-07	7.374239967494508e-07	GC	mole	dimensionless
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	48	hr	1.6417990302391114e-06	3.56291194963715e-07	7.966913317234957e-07	GC	mole	dimensionless

@@ -1,0 +1,49 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	unit	method	comments
+Frank2009	Tab145_D01_reference	D01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00062	dimensionless	HPLC	NA
+Frank2009	Tab145_D01_reference	D01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.00061	dimensionless	HPLC	NA
+Frank2009	Tab145_D02_reference	D02	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00577	dimensionless	HPLC	NA
+Frank2009	Tab145_D02_reference	D02	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.00462	dimensionless	HPLC	NA
+Frank2009	Tab145_D03_reference	D03	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00019	dimensionless	HPLC	NA
+Frank2009	Tab145_D03_reference	D03	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.00025	dimensionless	HPLC	NA
+Frank2009	Tab145_D04_reference	D04	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00472	dimensionless	HPLC	NA
+Frank2009	Tab145_D04_reference	D04	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.00444	dimensionless	HPLC	NA
+Frank2009	Tab145_D05_reference	D05	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00337	dimensionless	HPLC	NA
+Frank2009	Tab145_D05_reference	D05	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.00353	dimensionless	HPLC	NA
+Frank2009	Tab145_D06_reference	D06	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00219	dimensionless	HPLC	NA
+Frank2009	Tab145_D06_reference	D06	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	na	dimensionless	HPLC	- 
+Frank2009	Tab145_D07_reference	D07	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00081	dimensionless	HPLC	NA
+Frank2009	Tab145_D07_reference	D07	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.00082	dimensionless	HPLC	NA
+Frank2009	Tab145_D08_reference	D08	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.0181	dimensionless	HPLC	NA
+Frank2009	Tab145_D08_reference	D08	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.0206	dimensionless	HPLC	NA
+Frank2009	Tab145_D09_reference	D09	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00044	dimensionless	HPLC	NA
+Frank2009	Tab145_D09_reference	D09	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.00043	dimensionless	HPLC	NA
+Frank2009	Tab145_D10_reference	D10	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00153	dimensionless	HPLC	NA
+Frank2009	Tab145_D10_reference	D10	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.00116	dimensionless	HPLC	NA
+Frank2009	Tab145_D11_reference	D11	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00488	dimensionless	HPLC	NA
+Frank2009	Tab145_D11_reference	D11	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.00414	dimensionless	HPLC	NA
+Frank2009	Tab145_D12_reference	D12	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	3.25	hr	timecourse	0.00146	dimensionless	HPLC	NA
+Frank2009	Tab145_D12_reference	D12	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV	4.25	hr	timecourse	0.0013	dimensionless	HPLC	NA
+Frank2009	Tab145_D01_test	D01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.00112	dimensionless	HPLC	NA
+Frank2009	Tab145_D01_test	D01	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	0.00097	dimensionless	HPLC	NA
+Frank2009	Tab145_D02_test	D02	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.00762	dimensionless	HPLC	NA
+Frank2009	Tab145_D02_test	D02	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	na	dimensionless	HPLC	- 
+Frank2009	Tab145_D03_test	D03	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.0002	dimensionless	HPLC	NA
+Frank2009	Tab145_D03_test	D03	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	0.00018	dimensionless	HPLC	NA
+Frank2009	Tab145_D04_test	D04	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.0113	dimensionless	HPLC	NA
+Frank2009	Tab145_D04_test	D04	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	0.00809	dimensionless	HPLC	NA
+Frank2009	Tab145_D05_test	D05	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.00225	dimensionless	HPLC	NA
+Frank2009	Tab145_D05_test	D05	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	0.00232	dimensionless	HPLC	NA
+Frank2009	Tab145_D06_test	D06	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.00349	dimensionless	HPLC	NA
+Frank2009	Tab145_D06_test	D06	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	na	dimensionless	HPLC	- 
+Frank2009	Tab145_D07_test	D07	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.00157	dimensionless	HPLC	NA
+Frank2009	Tab145_D07_test	D07	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	0.00143	dimensionless	HPLC	NA
+Frank2009	Tab145_D08_test	D08	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.00832	dimensionless	HPLC	NA
+Frank2009	Tab145_D08_test	D08	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	0.00882	dimensionless	HPLC	NA
+Frank2009	Tab145_D09_test	D09	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.00045	dimensionless	HPLC	NA
+Frank2009	Tab145_D09_test	D09	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	0.00048	dimensionless	HPLC	NA
+Frank2009	Tab145_D10_test	D10	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.00204	dimensionless	HPLC	NA
+Frank2009	Tab145_D10_test	D10	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	0.00136	dimensionless	HPLC	NA
+Frank2009	Tab145_D11_test	D11	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.00498	dimensionless	HPLC	NA
+Frank2009	Tab145_D11_test	D11	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	0.00389	dimensionless	HPLC	NA
+Frank2009	Tab145_D12_test	D12	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	3.25	hr	timecourse	0.00221	dimensionless	HPLC	NA
+Frank2009	Tab145_D12_test	D12	1	metabolic ratio	(dmt)/(dtf+dtfglu)	plasma	DEX, DIG ,MID_PO_DE, MID_IV, RIV	4.25	hr	timecourse	0.00183	dimensionless	HPLC	NA

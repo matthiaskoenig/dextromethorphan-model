@@ -1,0 +1,8 @@
+study	name	parent	count	age	age_sd	age_min	age_max	age_unit	males	females	africans	whites	hispanics	asians	weight	weight_sd	weight_unit	bmi	bmi_sd	bmi_unit	pms	ims	ems
+Schoedel2012	all	NA	27	33.6	9.4	19	55	yr	21.0	6.0	12.0	10.0	4.0	1.0	74.3	11.1	kg	25.2	2.6	kg/m^2	1.0	1.0	25.0
+Schoedel2012	group1	all	14	33.6	9.2	19	55	yr	12.0	2.0	9.0	4.0	NA	1.0	75.3	11.7	kg	25.3	2.9	kg/m^2	NA	NA	14.0
+Schoedel2012	group1_evaluabel	group1	12	NA	NA	NA	NA	yr	NA	NA	NA	NA	NA	NA	NA	NA	kg	NA	NA	kg/m^2	NA	NA	NA
+Schoedel2012	group1_subgroup	group1_evaluabel	9	NR	NR	NR	NR	yr	NA	NA	NA	NA	NA	NA	NA	NA	kg	NA	NA	kg/m^2	NA	NA	NA
+Schoedel2012	group2	all	13	33.5	9.7	23	50	yr	9.0	4.0	3.0	6.0	NA	NA	73.3	10.4	kg	25.1	2.3	kg/m^2	1.0	1.0	11.0
+Schoedel2012	group2_evaluabel	group2	10	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	kg	NA	NA	kg/m^2	NA	NA	NA
+Schoedel2012	group2_subgroup	group2_evaluabel	9	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	kg	NA	NA	kg/m^2	NA	NA	NA

@@ -1,0 +1,14 @@
+study	group	count	label	intervention	measurement_type	substance	method	tissue	time	time_unit	mean	sdpm	mean_sd	mean_se	mean_unit	count_unit
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	0.0	hr	0.0				mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	0.25	hr	0.0				mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	0.5	hr	3.449804719164051e-07				mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	1.0	hr	3.4737863111818543e-06				mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	1.5	hr	8.968746223342324e-06	7.2883067	1.788534104139954e-05	4.1031786405379425e-06	mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	2.0	hr	1.4324291462174471e-05	12.009405	2.9924890569040984e-05	6.865240730892801e-06	mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	2.5	hr	1.4599793665531828e-05	11.347555	2.721077286996507e-05	6.2425794271482005e-06	mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	3.0	hr	1.6127851468659265e-05				mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	4.0	hr	1.6191821049063388e-05	12.308464	2.9159257048532816e-05	6.689592354909508e-06	mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	6.0	hr	1.3118150432565475e-05	10.869849	2.6932287291270576e-05	6.178690453739628e-06	mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	8.0	hr	1.0740407289501996e-05	9.072367	2.2687128782184493e-05	5.204784298980782e-06	mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	12.0	hr	8.350845234410694e-06	7.6306376	1.9764575319449974e-05	4.534304551551598e-06	mole/meter^3	dimensionless
+Armani2017	all	19	caf_ome_dex_mid_dextromethorphan	caf, ome, dex, mid	concentration	dextromethorphan	HPLC MS/MS	plasma	24.0	hr	7.794390281646548e-06	7.5361834	1.9973009609290943e-05	4.582122657119277e-06	mole/meter^3	dimensionless

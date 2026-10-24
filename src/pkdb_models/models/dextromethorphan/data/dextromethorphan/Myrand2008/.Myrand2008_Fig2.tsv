@@ -1,0 +1,527 @@
+study	individual	measurement	substance	tissue	intervention	time	time_unit	group	cyp1a2_genotype	log_value	value	unit	method	label	comments
+Myrand2008	Fig2_S1	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.21888788	0.604104568410178	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S2	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.22457062	0.596251356376774	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S3	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.24129786	0.573722840580099	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S4	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.2637504	0.544815682204148	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S5	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.28747854	0.515847654268279	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S6	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.31050938	0.489204699055817	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S7	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.30483648	0.495636772197173	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S8	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.34915784	0.447550616804521	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S9	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.35349298	0.443105376852016	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S10	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.3447638	0.452101762378569	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S11	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.34600112	0.450815541933877	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S12	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.3528175	0.443795097118276	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S13	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.36900795	0.427555059448795	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S14	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.37527335	0.421431166254726	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S15	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.41709816	0.382738226375074	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S16	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.41448808	0.385045382802706	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S17	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.43818346	0.36459989563145	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S18	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.4668872	0.341281541711777	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S19	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.47119394	0.337913902542446	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S20	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.48923606	0.324163371025661	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S21	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.4967672	0.318590484228467	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S22	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.48744333	0.325504254962553	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S23	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.49684578	0.318532844593233	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S24	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.5036229	0.313600755298812	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S25	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.50607795	0.31183298357288	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S26	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.5197696	0.302155427697037	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S27	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.5303701	0.29486953166004	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S28	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.56276196	0.273676835815705	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S29	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.5728202	0.267411327525441	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S30	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.57591575	0.265512058627959	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S31	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.6145926	0.242888750091875	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S32	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.6369808	0.230684917142281	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S33	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.64943075	0.224165745857417	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S34	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.6544129	0.221608849973485	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S35	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.76032406	0.173650460762018	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S36	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.7684914	0.170415306501543	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S37	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1F,*1F	-0.79400784	0.160691224434195	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S38	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1F,*1F	-0.83102334	0.14756272274905	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S39	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1F,*1F	-0.7591009	0.174140224495042	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S40	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1F,*1F	-0.72631896	0.187793709209705	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S41	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1F,*1F	-0.659053	0.219253734832087	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S42	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1F,*1F	-0.711744	0.194203029290576	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S43	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1F,*1F	-0.682426	0.207765771020547	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S44	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1F,*1F	-0.6101483	0.245387084105919	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S45	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1F,*1F	-0.4039225	0.394527699397832	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S46	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F and *6	-0.73569924	0.183781063346502	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S47	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F and *6	-0.39312476	0.404459685664275	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S48	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F and *1F	-0.45634493	0.349667340185646	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S49	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1F and *1F	-0.69743943	0.200706099043663	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S50	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F and *1F	-0.82023394	0.151274616285698	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S51	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F and *1B	-0.6305654	0.23411788926818	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S52	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F and *1B	-0.46104908	0.345900285122857	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S53	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.99122643	0.102040733079301	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S54	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.97074455	0.106968387731309	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S55	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.8678487	0.135566161701134	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S56	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.8366209	0.145673012005157	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S57	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.8221171	0.150620089039557	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S58	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.81091046	0.154557306285176	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S59	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.7768479	0.16716759714977	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S60	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.7580435	0.174564729585091	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S61	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.7178522	0.19149074994392	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S62	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.6622732	0.217634027943477	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S63	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1F	-0.6660312	0.215758940094922	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S64	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1F	-0.83056915	0.147717126210254	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S65	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1F	-0.7641657	0.172121174140272	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S66	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1F	-0.7347481	0.184183999792677	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S67	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1F	-0.582925	0.261261249763756	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S68	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1F	-0.54035306	0.28816878804716	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S69	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1F	-0.52441794	0.298938643856332	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S70	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1F	-0.47031286	0.338600145192966	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S71	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.80251247	0.157575077719024	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S72	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.80248296	0.15758578519684	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S73	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.74496776	0.179900445988571	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S74	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.7267486	0.187608020014342	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S75	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.7230889	0.189195629590056	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S76	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.73620075	0.183568961077243	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S77	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.6122395	0.244208344765098	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S78	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.6123328	0.244155886830987	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S79	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.6015918	0.250269657919403	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S80	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.5921528	0.255768584517685	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S81	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.58380884	0.260730093269007	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S82	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.5678704	0.270476538632771	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S83	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.5632893	0.273344726696947	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S84	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.52403414	0.299202942316707	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S85	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.48473808	0.327538171331552	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S86	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1F	-0.7595207	0.173971977490873	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S87	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.7875381	0.163102981516506	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S88	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.7067487	0.19644966836611	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S89	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.72112644	0.190052488272334	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S90	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.68613255	0.206000108921409	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S91	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.6744783	0.211602941232939	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S92	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.67492265	0.211386549623447	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S93	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.6500993	0.223820932088332	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S94	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.5791393	0.263548591785985	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S95	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.55899364	0.276061828363643	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S96	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.5389217	0.289120109700016	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S97	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.532406	0.293490467478318	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S98	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.51186514	0.307705217302915	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S99	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.510419	0.30873154053107	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S100	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.50107336	0.315447173244042	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S101	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.4987271	0.317155976738576	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S102	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.49217367	0.321978097574496	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S103	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.4800161	0.331118846143021	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S104	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.46423817	0.343369590075361	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S105	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.45619935	0.349784571940431	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S106	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.43852937	0.364309612096895	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S107	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.43433198	0.367847678890478	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S108	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.41647694	0.383286091435996	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S109	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.40857244	0.390326070976121	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S110	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.39219782	0.4053238694323	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S111	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.3664497	0.430081042745392	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S112	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.3501652	0.446513711805963	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S113	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.3319575	0.465631657945321	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S114	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.33094597	0.466717440399852	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S115	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.31231192	0.487178461963394	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S116	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.28568327	0.517984459146812	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S117	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1F	-0.07866502	0.834324467609592	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S118	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1F	-0.76045364	0.173598656580562	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S119	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1F	-0.7328577	0.184987464565327	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S120	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1F	-0.67673117	0.210508109006302	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S121	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1F	-0.66924155	0.214169907940636	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S122	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1F	-0.6608403	0.218353269907628	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S123	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1F	-0.6347395	0.231878509451423	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S124	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1F	-0.62958467	0.234647175023919	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S125	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1F	-0.5328388	0.293198132650566	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S126	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1F	-0.36282444	0.4336861570473	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S127	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.6239887	0.237690213093968	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S128	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.55161864	0.280789821001651	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S129	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.53712463	0.290318940322141	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S130	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.4786372	0.332171830677757	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S131	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.47683847	0.333550449305002	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S132	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.470713	0.338288317456752	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S133	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.45583034	0.350081902119396	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S134	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.4445402	0.359302136801566	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S135	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.3987005	0.399300174511583	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S136	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.35012427	0.446555795387986	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S137	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.32071322	0.47784470725368	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S138	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1F	-0.25804475	0.552020555775102	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S139	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1E,*1F and *1K	-0.40147254	0.39675961484696	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S140	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1E,*1F and *1K	-0.47900894	0.33188762553877	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S141	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1F and *1F, C(-730)T	-0.35686058	0.43968274255784	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S142	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1F	-0.8932054	0.127877636258349	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S143	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1F	-0.76005566	0.173757812318868	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S144	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1F	-0.74605846	0.179449205556946	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S145	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1F	-0.6838835	0.207069674110511	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S146	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1F	-0.36654198	0.42998966773584	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S147	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1F	-0.79600215	0.159955010992956	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S148	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1F	-0.7778485	0.166782891926149	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S149	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1F	-0.6717194	0.212951449235733	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S150	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1F	-0.74691767	0.179094533464208	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S151	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1F	-0.6413115	0.228396003339798	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S152	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1F	-0.5993215	0.251581382878827	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S153	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1F	-0.7129075	0.193683444468419	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S154	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1F	-0.6978398	0.200521156163331	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S155	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1F	-0.60355324	0.249141893040661	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S156	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1F	-0.5783297	0.26404035014522	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S157	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1F	-0.56894964	0.269805227555188	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S158	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1F	-0.5596318	0.27565647611476	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S159	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1F	-0.5184273	0.303090762300567	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S160	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1F	-0.4805609	0.330703735072092	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S161	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1F and *1F	-0.45962483	0.347036512257076	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S162	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1F and *1F	-0.43627536	0.366205312269436	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S163	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1F and *1F	-0.42496556	0.37586720976373	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S164	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1F and *1F	-0.39837787	0.399596918043746	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S165	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1F	-0.3287673	0.469064645079528	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S166	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B,*1D,*1F	-0.71735543	0.191709912954831	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S167	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B,*1D,*1F	-0.6921581	0.20316172889774	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S168	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B,*1D,*1F	-0.6963948	0.201189448430811	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S169	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B,*1D,*1F	-0.5137146	0.30639762881092	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S170	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1D,*1F	-0.33847326	0.458697887473901	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S171	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1D,*1E, *1F	-0.64907575	0.224349057818626	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S172	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1D,*1E, *1F	-0.44390696	0.359826413417361	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S173	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1D,*1E, *1F	-0.42376626	0.376906597887939	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S174	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B,*1D,*1E, *1F	-0.595825	0.253615037248462	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S175	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.86990565	0.134925597513466	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S176	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.8363496	0.14576404110319	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S177	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.77466816	0.168008726540723	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S178	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.7441686	0.180231791665094	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S179	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.6844414	0.206803840659065	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S180	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.5615031	0.274471275161115	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S181	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.8675561	0.135657528333694	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S182	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.6077249	0.246760192290125	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S183	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.52464175	0.29878462803516	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S184	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.52226925	0.300421319998224	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S185	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.4712993	0.337831934449363	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S186	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.45453602	0.351126801162416	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S187	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.24890979	0.563754744658901	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S188	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.8152875	0.153007422758605	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S189	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.7923938	0.161289538774508	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S190	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.7558458	0.175450334280072	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S191	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.673648	0.212007878402379	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S192	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.6058787	0.247811410710423	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S193	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.5979202	0.252394449531384	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S194	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.54185426	0.287174411664993	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S195	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.7703922	0.169671070527487	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S196	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.73061407	0.185945610199509	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S197	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.6647647	0.216389059837216	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S198	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.6255636	0.236829828233848	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S199	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.5941999	0.254565825008889	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S200	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.45310143	0.352288584010094	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S201	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.69701713	0.200901356895589	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S202	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.6919507	0.203258773200679	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S203	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.62690324	0.236100420191558	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S204	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.6148341	0.242753723446103	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S205	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.51056427	0.308628288169808	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S206	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.5086558	0.309987513128469	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S207	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.46569026	0.342223430173734	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S208	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.46099448	0.345943774836862	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S209	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.44746616	0.356889556848617	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S210	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.44232112	0.36114273274443	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S211	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.43716955	0.365452090056488	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S212	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.39000988	0.407371010195312	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S213	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.29850248	0.502918393971501	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S214	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B,*1C,*1D, *1F	-0.26152483	0.547614791183532	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S215	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B	-1.001553	0.099643047131921	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S216	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B	-0.9716813	0.106737911284645	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S217	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B	-0.97394073	0.106184046115774	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S218	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B	-0.8917151	0.128317207582672	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S219	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B	-0.8837893	0.13068047367948	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S220	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B	-0.80946493	0.155072600543629	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S221	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B	-0.65478414	0.221419497080001	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S222	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1F and *1B	-0.6183933	0.240772399005469	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S223	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B	-0.9249758	0.118856845566799	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S224	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B	-0.740302	0.181843591361676	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S225	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B	-0.7155245	0.192519843515035	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S226	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B	-0.5651704	0.272163323717986	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S227	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B	-0.5656557	0.271859366155866	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S228	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B	-0.49034277	0.323338359101928	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S229	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1F and *1B	-0.43802333	0.364734353121467	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S230	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B	-0.8370364	0.145533709770486	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S231	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B	-0.65161794	0.223039642341927	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S232	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B	-0.5361906	0.29094399640061	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S233	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B	-0.52778935	0.296626979882136	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S234	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B	-0.44642788	0.357743803451835	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S235	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B	-0.42167658	0.378724516658223	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S236	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B	-0.38427585	0.412785230695976	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S237	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1F and *1B	-0.3599296	0.436586598060963	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S238	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.82630354	0.149175142026867	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S239	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.7234994	0.189016884254986	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S240	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.7104155	0.194798002850859	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S241	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.70670503	0.196469423137844	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S242	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.67732185	0.210221993445361	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S243	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.6670465	0.215255124827812	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S244	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.63993096	0.229123186203478	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S245	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.6226627	0.238417044494585	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S246	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.6100461	0.245444836419311	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S247	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.5936289	0.254900742190763	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S248	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.57352257	0.266979201618039	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S249	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.50251013	0.314405308377741	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S250	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.47399437	0.335741966623883	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S251	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1F and *1B	-0.457141	0.349026980412222	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S252	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.7563092	0.175263225469184	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S253	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.7047868	0.197339125812208	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S254	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.69126666	0.203579170282525	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S255	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.661795	0.217873795922359	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S256	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.6413655	0.228367606438704	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S257	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.56835955	0.270172069833495	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S258	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.5062828	0.311685931454216	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S259	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.49732417	0.318182163115076	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S260	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.4913428	0.322594679228222	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S261	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.4754781	0.334596890015958	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S262	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1F and *1B	-0.40204245	0.396239302056089	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S263	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1E,*1F and *1F	-0.65279925	0.222433783977716	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S264	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1E,*1F and *1F	-0.64095265	0.228584800986482	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S265	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1E,*1F and *1F	-0.6329033	0.232860968812908	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S266	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1E,*1F and *1F	-0.5307719	0.294596850811616	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S267	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1E,*1F and *1F	-0.5943422	0.254482428179319	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S268	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1E,*1F and *1F	-0.4896553	0.323850595517847	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S269	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1E,*1F and *1F	-0.3668455	0.429689261273422	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S270	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1E,*1F and *1F	-0.26838905	0.539027534127794	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S271	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1E,*1F and *1B,*1D,*1E,*1F	-0.5161682	0.304671478426748	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S272	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1E,*1F and *1B,*1D,*1E,*1F	-0.3479023	0.448846352202388	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S273	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1E,*1F and *1B,*1D,*1E,*1F	-0.25633866	0.55419338803397	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S274	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1D,*1E,*1F and *1B,*1D,*1E,*1F	-0.3803181	0.416564158319156	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S275	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1E,*1F and *1B	-0.8940787	0.127620752189193	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S276	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1E,*1F and *1B	-0.79683775	0.159647547018376	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S277	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1E,*1F and *1B	-0.6939588	0.202321110454251	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S278	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1E,*1F and *1B	-0.6504068	0.223662512905818	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S279	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1D,*1E,*1F and *1B	-0.60747784	0.246900608343284	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S280	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1E,*1F and *1B	-0.86106163	0.137701404527936	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S281	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1E,*1F and *1B	-0.8012427	0.158036462558938	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S282	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1E,*1F and *1B	-0.65792483	0.219824032299161	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S283	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1D,*1E,*1F and *1B	-0.64538753	0.226262441969835	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S284	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1D,*1E,*1F and *1B	-0.7650122	0.171786012914644	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S285	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1E,*1F and *1B	-0.6466598	0.225600573845851	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S286	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1E,*1F and *1B	-0.52822006	0.296332946962309	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S287	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1E,*1F and *1B	-0.4660247	0.341959993378657	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S288	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1E,*1F and *1B	-0.41309422	0.386283163997448	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S289	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1E,*1F and *1B	-0.39868122	0.399317901373358	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S290	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1D,*1E,*1F and *1B	-0.35816798	0.438361112055483	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S291	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1D,*1E,*1F and *1B	-0.2728479	0.533521714449724	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S292	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.93113095	0.117184197435837	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S293	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-1.1149052	0.0767529011198889	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S294	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.72617525	0.187855861276484	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S295	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.70554703	0.196993986974075	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S296	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.701776	0.198711956775246	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S297	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.6744385	0.2116223340259	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S298	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.64258015	0.227729792274233	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S299	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.63266605	0.232988212791582	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S300	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.611441	0.244657762721262	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S301	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.6039841	0.248894843976199	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S302	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.5790623	0.263595322844071	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S303	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.5092921	0.30953367215638	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S304	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.47752118	0.333026520624823	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S305	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B	-0.43949795	0.363498020361534	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S306	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-1.0071687	0.098362894470893	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S307	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.96417856	0.108597903197706	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S308	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.83516884	0.146160883656106	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S309	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.78529465	0.163947708157904	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S310	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.7802928	0.165846839615481	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S311	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.75294435	0.176626413325938	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S312	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.7615862	0.173146533049441	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S313	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.7385357	0.18258466541338	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S314	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.64825743	0.224772186367477	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S315	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.6370579	0.230643967442952	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S316	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.5965993	0.253163271963349	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S317	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.5934753	0.254990910682799	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S318	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.5510296	0.281170918755819	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S319	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.5317567	0.293929584004403	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S320	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.46319988	0.344191483372037	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S321	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.4170705	0.382762603559026	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S322	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.96910393	0.1073732429189	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S323	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.96039224	0.109548834141089	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S324	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.94673324	0.113049009097601	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S325	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.9398885	0.114844843427771	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S326	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.9148597	0.121657895627292	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S327	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.86815315	0.135471160138032	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S328	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.8650248	0.13645052155078	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S329	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.8389661	0.144888494566259	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S330	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.82516956	0.149565160032365	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S331	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.80397946	0.157043707655232	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S332	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.7953464	0.16019671272034	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S333	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.7635099	0.172381279524519	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S334	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.75790685	0.174619664714451	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S335	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.7453957	0.179723265106834	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S336	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.7235782	0.188982591442338	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S337	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.71987706	0.190600019177726	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S338	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.6582349	0.219667142183857	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S339	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.6339361	0.232307857781444	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S340	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B	-0.5404859	0.288080657781895	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S341	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1C,*1D,*1F and *1B	-0.6127176	0.24393965204227	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S342	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1C,*1D,*1F and *1B	-0.45443138	0.351211412726007	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S343	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.9472864	0.112905110465351	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S344	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.93859	0.115188732641719	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S345	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.8239082	0.150000186835665	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S346	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.79087585	0.161854265773339	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S347	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.7740864	0.168233933754899	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S348	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.738575	0.182568143783484	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S349	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.70925695	0.195318351431204	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S350	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.69125193	0.203586075210305	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S351	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.67196375	0.212831668641638	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S352	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.6663301	0.215610496671239	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S353	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.59896916	0.25178557186867	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S354	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.5610617	0.274750378888344	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S355	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.5099305	0.309079001102576	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S356	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.47944054	0.331557960871752	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S357	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B	-0.40094995	0.397237326202556	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S358	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.7548353	0.175859040789298	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S359	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.62453365	0.237392147945242	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S360	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.5660046	0.271641049676165	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S361	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.55787873	0.276771437884432	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S362	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.54862696	0.282730746589377	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S363	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.53356034	0.292711415577474	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S364	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.49928412	0.316749457692865	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S365	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.4669469	0.341234630897642	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S366	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.4457699	0.358286215756793	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S367	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.43081027	0.370842696251201	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S368	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.4152101	0.384405771872925	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S369	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.36668244	0.429850622489878	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S370	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.35667443	0.439871242502733	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S371	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.35972196	0.436795383848977	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S372	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.32113463	0.477381263943079	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S373	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B	-0.3062296	0.494049427074082	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S374	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.9488884	0.11248939991497	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S375	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.7707652	0.169525408673335	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S376	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.6884817	0.204888838277778	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S377	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.6691804	0.214200065846096	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S378	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.64544356	0.226233252865664	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S379	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.58875513	0.257777418409056	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S380	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.3488827	0.447834244841324	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S381	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.84798133	0.141911852723836	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S382	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.8192885	0.151604293192751	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S383	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.7950465	0.160307374006397	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S384	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.7850319	0.164046927226312	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S385	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.7743877	0.168117258763086	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S386	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.7600992	0.173740393179913	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S387	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.7607091	0.17349657268541	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S388	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.70460665	0.197421001174226	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S389	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.68283063	0.207572286837353	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S390	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.6628954	0.217322453783641	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S391	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.6510619	0.223325389442928	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S392	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1F	-0.42742136	0.373747795746357	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S393	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.82238406	0.150527531604883	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S394	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.80183226	0.15782207170593	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S395	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.69527406	0.201709308250346	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S396	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.68966883	0.204329545979276	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S397	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.6734544	0.212102408443163	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S398	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.63295645	0.232832472472977	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S399	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.6287174	0.23511622492607	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S400	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.4778771	0.332753705179797	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S401	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1F	-0.46851397	0.340005568630362	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S402	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.8167854	0.152480602733447	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S403	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.74398077	0.180309757792918	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S404	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.71338826	0.19346915730432	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S405	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.64231086	0.227871042911864	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S406	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.6267828	0.236165905430565	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S407	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.62179184	0.238895604978263	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S408	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.61989653	0.239940450540228	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S409	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.6155789	0.242337765993455	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S410	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.5620297	0.274138669091632	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S411	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.47849143	0.332283342144825	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S412	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1F	-0.4155857	0.384073461891751	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S413	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1F	-0.6623247	0.217608221748871	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S414	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1F	-0.59556496	0.253766938332272	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S415	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1F	-0.54331	0.286213424521598	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S416	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1F	-0.5389574	0.28909634434234	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S417	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1F	-0.5177127	0.303589886641291	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S418	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1F	-0.46422252	0.343381963778303	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S419	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1F	-0.4424094	0.361069329922924	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S420	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1F	-0.43799347	0.364759431363655	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S421	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1F	-0.32396746	0.474277519702844	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S422	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1F	-0.16890123	0.677795638657624	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S423	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B,*1D,*1E,*1F	-0.88438	0.130502851153035	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S424	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B,*1D,*1E,*1F	-0.43588123	0.366537800978639	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S425	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1D,*1E,*1F	-0.7541897	0.176120658264689	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S426	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B,*1D,*1E,*1F	-0.6963098	0.201228829029575	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S427	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B,*1D,*1E,*1F	-0.62583363	0.236682621018606	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S428	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B,*1D,*1E,*1F	-0.5561443	0.277878982523082	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S429	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B,*1D,*1E,*1F	-0.37911424	0.417720471942421	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S430	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B,*1D,*1E,*1F	-0.64395875	0.227008045759801	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S431	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.9010137	0.125599034233239	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S432	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.8262155	0.149205385816135	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S433	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.75894845	0.174201363511032	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S434	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.73212475	0.185299927756886	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S435	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.6367704	0.230796702733589	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S436	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.60130924	0.250432540956396	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S437	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.50341904	0.313747995615397	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S438	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.86666757	0.135935356341763	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S439	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.72338897	0.189064952534404	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S440	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.7208793	0.190160670486747	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S441	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.68294346	0.207518366421488	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S442	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.55263525	0.280133308167938	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S443	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.5457905	0.28458335825358	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S444	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.5171785	0.303963544395952	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S445	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.42492628	0.375901206814825	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S446	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.8249694	0.149634108323201	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S447	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.62501335	0.237130081191393	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S448	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.47354782	0.336087360558324	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S449	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.4317601	0.370032525663208	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S450	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.221879	0.599958209006013	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S451	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	chinese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.638058	0.230113448052535	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S452	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.7925186	0.161243196848918	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S453	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.7028001	0.198243930639907	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S454	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.65175843	0.222967502876776	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S455	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.6436588	0.227164885382404	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S456	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.567608	0.27064000948472	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S457	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.53964084	0.288641757347586	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S458	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.5295804	0.295406195874093	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S459	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.47288546	0.336600332000794	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S460	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.3987933	0.399214861206763	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S461	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.77382725	0.168334351411751	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S462	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.76020545	0.173697892849786	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S463	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.7321553	0.185286893481923	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S464	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.67915714	0.209335488392906	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S465	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.6747565	0.211467436201351	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S466	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.65305257	0.22230407821728	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S467	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.6337229	0.232421928294115	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S468	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1C,*1D,*1F and *1B,*1C,*1D,*1F	-0.53151506	0.294093170949163	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S469	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.95368576	0.111253642780587	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S470	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.9405887	0.114659831707135	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S471	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.8601438	0.137992727883302	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S472	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.81787497	0.152098534654659	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S473	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.81285566	0.153866593885369	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S474	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.78288835	0.164858616155859	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S475	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.7598488	0.173840595094374	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S476	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.7007206	0.199195443534938	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S477	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.6851423	0.206470352862837	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S478	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.6446444	0.226649935602667	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S479	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.6365426	0.230917794025711	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S480	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.6296039	0.234636785379412	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S481	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.61160547	0.244565126858915	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S482	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.5991249	0.251695296591316	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S483	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.57668877	0.265039882293489	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S484	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.5400055	0.288399497935417	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S485	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	3st-generation_japanese	*1B,*1B	-0.5156609	0.305027573549743	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S486	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1B	-0.8489312	0.141601808473644	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S487	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1B	-0.8078626	0.155645797840922	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S488	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1B	-0.7723162	0.168921060773394	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S489	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1B	-0.71873873	0.191100256509964	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S490	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1B	-0.7063324	0.196638068655787	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S491	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1B	-0.67956984	0.209136656208435	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S492	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1B	-0.6558963	0.220853201908642	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S493	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1B	-0.66581917	0.215864303020578	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S494	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1B	-0.5804598	0.262748472550083	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S495	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	korean	*1B,*1B	-0.53999674	0.288405315198097	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S496	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1B	-0.7430659	0.180689992556691	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S497	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1B	-0.7094476	0.195232627865617	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S498	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1B	-0.64895767	0.224410064208311	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S499	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1B	-0.6314884	0.233620850148447	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S500	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1B	-0.48263294	0.329129689450436	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S501	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	native_japanese	*1B,*1B	-0.45587692	0.350044356303774	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S502	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1B	-0.7256271	0.188093115504723	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S503	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1B	-0.48329747	0.328626461079316	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S504	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1B	-0.4727188	0.336729526772501	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S505	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1B	-0.60470617	0.248481368357842	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S506	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1B	-0.4551447	0.35063502848472	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S507	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	caucasian	*1B,*1B	-0.40604204	0.392606928943466	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S508	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.68263483	0.207665891105023	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S509	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.6608152	0.218365889974618	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S510	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.6465397	0.225662970161656	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S511	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.61533064	0.242476335501674	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S512	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.53065985	0.294672867977819	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S513	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.5231396	0.299819862047783	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S514	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.54611367	0.284371671027527	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S515	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.45026296	0.354598619090524	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S516	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.4359089	0.366514448672098	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S517	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.42223683	0.37823626820173	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S518	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.5362672	0.290892684800392	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S519	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.5237998	0.29936443213637	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S520	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.46947473	0.33925422892408	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S521	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.46205714	0.345098331860589	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S522	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.44022435	0.362890542542832	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S523	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.43218374	0.369671747082872	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S524	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.41724592	0.382608029508212	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S525	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.38610676	0.411048663063597	dimensionless	HPLC	NA	NA
+Myrand2008	Fig2_S526	cumulative metabolic ratio	px/caf	urine	DEX, CAF, OME, CHL	4	hr	1st-generation_japanese	*1B,*1B	-0.25707525	0.553254238809307	dimensionless	HPLC	NA	NA

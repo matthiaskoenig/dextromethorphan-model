@@ -1,0 +1,37 @@
+study	id	group	measurement	tissue	substance	intervention	value	unit	method
+Qiu2016	Fig2_group1_1	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	8828.526	l/hr	LCMSMS
+Qiu2016	Fig2_group1_1	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	2928.4543	l/hr	LCMSMS
+Qiu2016	Fig2_group1_2	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	7688.5522	l/hr	LCMSMS
+Qiu2016	Fig2_group1_2	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	1822.2892	l/hr	LCMSMS
+Qiu2016	Fig2_group1_3	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	7124.251	l/hr	LCMSMS
+Qiu2016	Fig2_group1_3	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	2804.2322	l/hr	LCMSMS
+Qiu2016	Fig2_group1_4	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	6074.571	l/hr	LCMSMS
+Qiu2016	Fig2_group1_4	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	1653.0057	l/hr	LCMSMS
+Qiu2016	Fig2_group1_5	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	5171.6177	l/hr	LCMSMS
+Qiu2016	Fig2_group1_5	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	817.77277	l/hr	LCMSMS
+Qiu2016	Fig2_group1_6	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	1582.481	l/hr	LCMSMS
+Qiu2016	Fig2_group1_6	*1/*1	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	671.02856	l/hr	LCMSMS
+Qiu2016	Fig2_group2_1	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	2786.3616	l/hr	LCMSMS
+Qiu2016	Fig2_group2_1	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	2044.2439	l/hr	LCMSMS
+Qiu2016	Fig2_group2_2	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	1612.5618	l/hr	LCMSMS
+Qiu2016	Fig2_group2_2	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	836.54974	l/hr	LCMSMS
+Qiu2016	Fig2_group2_3	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	1556.0769	l/hr	LCMSMS
+Qiu2016	Fig2_group2_3	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	915.52246	l/hr	LCMSMS
+Qiu2016	Fig2_group2_4	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	1319.0563	l/hr	LCMSMS
+Qiu2016	Fig2_group2_4	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	543.06134	l/hr	LCMSMS
+Qiu2016	Fig2_group2_5	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	1082.0697	l/hr	LCMSMS
+Qiu2016	Fig2_group2_5	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	667.26636	l/hr	LCMSMS
+Qiu2016	Fig2_group2_6	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	811.206	l/hr	LCMSMS
+Qiu2016	Fig2_group2_6	*1/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	520.5734	l/hr	LCMSMS
+Qiu2016	Fig2_group3_1	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	175.303	l/hr	LCMSMS
+Qiu2016	Fig2_group3_1	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	618.3744	l/hr	LCMSMS
+Qiu2016	Fig2_group3_2	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	186.7265	l/hr	LCMSMS
+Qiu2016	Fig2_group3_2	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	144.23036	l/hr	LCMSMS
+Qiu2016	Fig2_group3_3	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	491.39902	l/hr	LCMSMS
+Qiu2016	Fig2_group3_3	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	189.37717	l/hr	LCMSMS
+Qiu2016	Fig2_group3_4	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	570.40594	l/hr	LCMSMS
+Qiu2016	Fig2_group3_4	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	448.98837	l/hr	LCMSMS
+Qiu2016	Fig2_group3_5	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	480.061	l/hr	LCMSMS
+Qiu2016	Fig2_group3_5	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	313.53088	l/hr	LCMSMS
+Qiu2016	Fig2_group3_6	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2	525.242	l/hr	LCMSMS
+Qiu2016	Fig2_group3_6	*10/*10	clearance	plasma	dextromethorphan	dex15mg, meal1, meal2, zuojin pre-treatment	403.84158	l/hr	LCMSMS

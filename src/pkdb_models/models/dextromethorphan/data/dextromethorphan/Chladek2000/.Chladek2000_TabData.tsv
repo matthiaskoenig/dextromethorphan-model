@@ -1,0 +1,5 @@
+study	name_data	image	name_subset	dimensions	data_type	shared
+Chladek2000	Fig3A	Fig3	Fig3A	Fig3A_x ,Fig3A_y	scatter	individual
+Chladek2000	Fig3B	Fig3	Fig3B	Fig3B_x ,Fig3B_y	scatter	individual
+Chladek2000	Fig4A	Fig4	Fig4A	Fig4A_x ,Fig4A_y	scatter	individual
+Chladek2000	Fig4B	Fig4	Fig4B	Fig4B_x ,Fig4B_y	scatter	individual

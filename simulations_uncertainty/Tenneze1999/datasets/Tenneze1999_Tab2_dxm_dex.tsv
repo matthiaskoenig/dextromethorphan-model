@@ -1,0 +1,2 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Tenneze1999		all	36	recovery	dextromethorphan	urine	dex80mg	24	hr	1.1790541038451904e-06	5.895270519225952e-07	3.537162311535571e-06	HPLC	mole	dimensionless

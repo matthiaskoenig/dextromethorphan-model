@@ -1,0 +1,2 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	day_offset	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Pope2004		Study3_em	7.0	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg, quinidine_30mg, dose1	12.0	1.0	hr	0.27	0.0869318287921223	0.23	HPLC	dimensionless	dimensionless

@@ -1,0 +1,22 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	unit	sd	min	max
+Hou1991	all	NA	species	62	homo sapiens	62	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	healthy	62	Y	62	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	sex	62	M	35	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	sex	62	F	27	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	medication	62	N	62	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	smoking	62	N	62	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	age	62	NA	62	NA	NA	yr	NA	22.0	64.0
+Hou1991	all	NA	ethnicity	62	caucasian	29	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	ethnicity	62	chinese	27	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	ethnicity	62	korean	1	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	ethnicity	62	japanese	1	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	ethnicity	62	african	3	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	ethnicity	62	hispanic	1	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	cyp2d6 phenotype	62	pm	6	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	cyp2d6 phenotype	62	im	17	NA	NA	NA	NA	NA	NA
+Hou1991	all	NA	cyp2d6 phenotype	62	em	38	NA	NA	NA	NA	NA	NA
+Hou1991	GroupA	all	species	12	homo sapiens	12	NA	NA	NA	NA	NA	NA
+Hou1991	GroupA_EM	GroupA	cyp2d6 phenotype	10	em	10	NA	NA	NA	NA	NA	NA
+Hou1991	GroupA_PM	GroupA	cyp2d6 phenotype	2	pm	2	NA	NA	NA	NA	NA	NA
+Hou1991	all	GroupB	species	12	homo sapiens	12	NA	NA	NA	NA	NA	NA
+Hou1991	all	GroupC	species	38	homo sapiens	38	NA	NA	NA	NA	NA	NA

@@ -1,0 +1,12 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	method	mean_unit	count_unit
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	0.17	hr	1.35342367835404e-06	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	0.72	hr	1.0913193246967618e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	0.32	hr	1.1872746901298431e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	2.12	hr	1.418422720372581e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	3.0	hr	1.0513397002254939e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	3.75	hr	9.222553831188927e-06	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	5.5	hr	9.575322766060926e-06	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	8.0	hr	1.1656692605856949e-05	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	12.0	hr	7.033258537088618e-06	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	24.0	hr	4.5327456485534465e-06	HPLC	mole/meter^3	dimensionless
+Capon1996	EM_dextromethorphan_30mg_dextromethorphan	EM	6	concentration	dextromethorphan	plasma	dextromethorphan_30mg	48.0	hr	1.3568935608907752e-06	HPLC	mole/meter^3	dimensionless

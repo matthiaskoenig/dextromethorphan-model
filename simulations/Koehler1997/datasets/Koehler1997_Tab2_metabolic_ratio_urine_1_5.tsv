@@ -1,0 +1,3 @@
+study	individual	cyp2d6_genotype	measurement	substance	label	tissue	intervention	time	time_unit	value	method	activities	time_jitter	time_jitter_unit	value_unit
+Koehler1997	patient12	*1/*5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.099	HPLC	1.0	7.83961631946037	hr	dimensionless
+Koehler1997	patient6	*1/*5	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	Tab2_urine	urine	dextromethorphan_20mg	8	hr	0.024	HPLC	1.0	8.006409991400377	hr	dimensionless

@@ -1,0 +1,13 @@
+study	group	count	measurement	substance	tissue	intervention	method	time	time_unit	median	min	max	unit
+Capon1996	EM	6	recovery	dextromethorphan	urine	dextromethorphan_30mg	HPLC	168	hr	0.2	0.1	2.3	percent
+Capon1996	EM	6	recovery	dtf+dtfglu	urine	dextromethorphan_30mg	HPLC	168	hr	27.0	17.0	35.0	percent
+Capon1996	EM	6	recovery	hm3+hm3glu	urine	dextromethorphan_30mg	HPLC	168	hr	16.0	13.0	19.0	percent
+Capon1996	EM	6	recovery	3-methoxymorphinan	urine	dextromethorphan_30mg	HPLC	168	hr	0.0	0.0	0.4	percent
+Capon1996	PM	6	recovery	dextromethorphan	urine	dextromethorphan_30mg	HPLC	168	hr	26.0	19.0	47.0	percent
+Capon1996	PM	6	recovery	dtf+dtfglu	urine	dextromethorphan_30mg	HPLC	168	hr	8.0	4.0	13.0	percent
+Capon1996	PM	6	recovery	hm3+hm3glu	urine	dextromethorphan_30mg	HPLC	168	hr	14.0	5.0	30.0	percent
+Capon1996	PM	6	recovery	3-methoxymorphinan	urine	dextromethorphan_30mg	HPLC	168	hr	11.0	9.0	19.0	percent
+Capon1996	EM	6	recovery	dextromethorphan	urine	dextromethorphan_30mg, quinidine_50mg	HPLC	168	hr	4.0	2.0	13.0	percent
+Capon1996	EM	6	recovery	dtf+dtfglu	urine	dextromethorphan_30mg, quinidine_50mg	HPLC	168	hr	24.0	19.0	27.0	percent
+Capon1996	EM	6	recovery	hm3+hm3glu	urine	dextromethorphan_30mg, quinidine_50mg	HPLC	168	hr	23.0	19.0	28.0	percent
+Capon1996	EM	6	recovery	3-methoxymorphinan	urine	dextromethorphan_30mg, quinidine_50mg	HPLC	168	hr	1.4	0.9	3.1	percent

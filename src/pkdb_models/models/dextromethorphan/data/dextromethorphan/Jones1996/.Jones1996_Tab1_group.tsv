@@ -1,0 +1,11 @@
+study	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	sd	se	unit	method
+Jones1996	em	8	cumulative amount	3-hydroxymorphinan	urine	dextromethorphan_30mg	3	day	12.96875	3.45960954650748	1.22315668529658	micromol	HPLC
+Jones1996	em	8	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	3	day	48.92625	9.71936496676315	3.43631443841259	micromol	HPLC
+Jones1996	em	8	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	3	day	0.1025	0.0868084920138248	0.0306914366837769	micromol	HPLC
+Jones1996	em	8	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	3	day	0.745	0.978395187466262	0.345914935868839	micromol	HPLC
+Jones1996	pm	3	cumulative amount	3-hydroxymorphinan	urine	dextromethorphan_30mg	14	day	4.93	2.33467342469991	1.34792433022036	micromol	HPLC
+Jones1996	pm	3	cumulative amount	dtf+dtfglu	urine	dextromethorphan_30mg	14	day	9.11666666666667	12.1491824141929	7.01433373726814	micromol	HPLC
+Jones1996	pm	3	cumulative amount	3-methoxymorphinan	urine	dextromethorphan_30mg	14	day	7.26333333333333	4.71896528206484	2.72449587589663	micromol	HPLC
+Jones1996	pm	3	cumulative amount	dextromethorphan	urine	dextromethorphan_30mg	14	day	19.78	5.42542164260069	3.13236864582273	micromol	HPLC
+Jones1996	em	8	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	3	day	73.375	12.9055635843062	4.56280576274854	percent	HPLC
+Jones1996	pm	3	fraction_absorbed	dextromethorphan	urine	dextromethorphan_30mg	14	day	48.0	7.0	4.04145188432738	percent	HPLC

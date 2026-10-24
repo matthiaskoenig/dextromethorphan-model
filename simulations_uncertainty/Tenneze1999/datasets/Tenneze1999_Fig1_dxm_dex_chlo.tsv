@@ -1,0 +1,11 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	0.0	hr				HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	0.5	hr	2.585765869331329e-06	1.7481401035602534e-06	1.0488840621361511e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	1.0	hr	1.5024325359979956e-05	3.817810963238088e-06	2.2906865779428456e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	2.0	hr	5.0383752634449015e-05	6.762251723138458e-06	4.057351033883067e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	3.0	hr	6.228898616085245e-05	9.981755365924342e-06	5.989053219554612e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	4.0	hr	5.128175708537826e-05	7.635932656359781e-06	4.581559593815861e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	6.0	hr	3.727588760666755e-05	5.980103461997613e-06	3.588062077198567e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	8.0	hr	3.182501731735715e-05	5.657950263567707e-06	3.394770158140632e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	12.0	hr	2.0094342751027987e-05	4.4619601528840035e-06	2.6771760917304092e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg, chloroguanide	all	36	concentration	dextromethorphan	plasma	dex80mg, chloroguanide	24.0	hr				HPLC	mole/meter^3	dimensionless

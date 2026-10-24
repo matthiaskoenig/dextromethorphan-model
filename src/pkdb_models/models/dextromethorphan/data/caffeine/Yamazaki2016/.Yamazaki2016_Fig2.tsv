@@ -1,0 +1,111 @@
+study	group	count	intervention	measurement_type	substance	method	tissue	label	time	time_unit	mean	sepm	se	sd	unit
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	0.0	hr	0.0	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	0.56274724	hr	12.912383	8.799442	4.112941	20.1492135843448	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	1.112546	hr	110.4359	100.8398	9.59610000000001	47.0110970414433	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	1.6404016	hr	142.74509	132.75731	9.98778000000002	48.92992932635	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	2.108523	hr	115.71544	124.332344	8.61690400000001	42.2140359250947	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	3.088817	hr	74.38533	79.67363	5.28830000000001	25.9072732135206	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	4.034812	hr	49.310173	52.639435	3.329262	16.3099862400756	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	6.0553317	hr	26.576319	29.514227	2.937908	14.3927510224813	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	8.040828	hr	17.943186	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	9.987544	hr	12.247958	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	12.014852	hr	9.685504	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	16.030355	hr	6.5193076	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	20.04652	hr	5.3114996	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	24.063013	hr	5.0828857	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	bupropion	LC/MS	plasma	bupropion_bupropion	47.96254	hr	1.9502757	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	0.0	hr	0.0	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	0.523177	hr	13.500223	17.02435	3.524127	17.2646258775305	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	1.1002895	hr	74.00988	83.01911	9.00923	44.136032950749	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	1.5828419	hr	89.86893	97.31113	7.4422	36.4591851274819	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	2.0559714	hr	77.72303	84.18571	6.46268000000001	31.66053674178	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	3.0809093	hr	50.88467	55.58448	4.69981	23.0242727760596	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	4.0697694	hr	35.013615	38.14671	3.133095	15.3489681313305	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	6.0124006	hr	17.17638	18.938929	1.762549	8.6346913933055	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	8.078157	hr	10.696824	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	10.025665	hr	7.351663	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	12.053103	hr	5.1808863	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	16.0295	hr	3.9734027	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	20.04553	hr	2.373917	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	24.061958	hr	1.9494644	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	bupropion	LC/MS	plasma	bupropion_isavuconazole_bupropion	48.041546	hr	0.38291603	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	0.0	hr	0.0	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	0.4355955	hr	58.564144	77.33803	18.773886	91.9728823783614	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	0.94794995	hr	241.88857	208.76163	33.12694	162.288199479587	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	1.3841405	hr	308.1562	276.13263	32.02357	156.882812484598	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	1.9416181	hr	314.79477	284.97797	29.8168	146.071891525235	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	2.897502	hr	319.23392	289.41986	29.81406	146.058468321444	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	3.9730527	hr	318.1544	287.23328	30.92112	151.481932550736	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	5.9651494	hr	304.9487	264.0917	40.857	200.157604841784	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	7.997113	hr	290.63965	261.92804	28.71161	140.657588387582	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	9.909707	hr	271.91064	244.30518	27.60546	135.238582229623	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	11.941704	hr	256.4973	229.99612	26.50118	129.828737163301	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	16.005762	hr	223.462	200.27187	23.19013	113.607971137617	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	19.98956	hr	210.30214	188.21722	22.08492	108.193570020374	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	24.052362	hr	219.22997	197.1432	22.08677	108.202633132422	ng/ml
+Yamazaki2016	bup_group	24	bupropion	concentration	hydroxybupropion	LC/MS	plasma	bupropion_hydroxybupropion	48.035107	hr	130.33397	110.457634	19.876336	97.373762312224	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	0.0	hr	0.0	na	na	na	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	0.47106594	hr	204.33163	148.01273	56.3189	275.905135749663	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	0.9374378	hr	593.0535	513.54535	79.50815	389.508795785333	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	1.4509162	hr	738.832	676.99164	61.84036	302.954655020038	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	1.8881315	hr	770.8665	709.02893	61.83757	302.940986867274	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	3.003252	hr	778.62225	721.1981	57.4241500000001	281.319732826085	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	4.0392995	hr	766.49884	712.3867	54.11214	265.094263780094	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	5.993777	hr	679.3047	615.25574	64.0489600000001	313.77454111186	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	7.986204	hr	655.0561	607.5706	47.4855	232.630490361861	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	9.979524	hr	600.9916	559.0275	41.9640999999999	205.581265030255	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	11.973372	hr	529.2584	492.81766	36.4407400000001	178.522437698858	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	16.038424	hr	463.09433	434.38275	28.71158	140.657441418197	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	19.943808	hr	407.96954	372.63403	35.33551	173.107938602025	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	24.006645	hr	415.79306	378.24805	37.54501	183.932233775384	ng/ml
+Yamazaki2016	bup_group	24	bupropion, isavuconazole	concentration	hydroxybupropion	LC/MS	plasma	bupropion_isavuconazole_hydroxybupropion	48.033222	hr	193.27863	213.1559	19.87727	97.3783379590636	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	0.0	hr	0.0	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	0.49098074	hr	8.228226	9.059543	0.831317	4.07260492900257	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	0.7508266	hr	7.0793405	7.568299	0.4889585	2.3953976607933	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	0.99283785	hr	5.2091627	5.6370764	0.4279137	2.09634043789279	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	1.4730885	hr	2.8869026	3.143667	0.2567644	1.25788352822376	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	1.9699057	hr	1.7627089	1.6282344	0.1344745	0.658787816831793	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	2.979814	hr	0.822413	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	3.9881942	hr	0.45669043	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	5.9644403	hr	0.10417882	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	7.9794774	hr	0.020656666	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	11.989376	hr	0.012516753	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	24	repaglinide	concentration	repaglinide	LC/MS	plasma	repaglinide_repaglinide	24.038757	hr	0.012567061	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	0.0	hr	0.0	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	0.43507072	hr	6.9689937	6.1866164	0.7823773	3.6696748180481	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	0.73377234	hr	6.0646486	5.52677	0.5378786	2.52287426231176	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	0.93487936	hr	4.7201037	4.3167605	0.4033432	1.89184730189761	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	1.4536932	hr	2.7524078	2.5201335	0.2322743	1.08946303732195	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	1.9697107	hr	1.8360587	2.0194533	0.1833946	0.860196922106514	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	2.999177	hr	0.9691327	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	3.9881618	hr	0.4689154	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	6.004142	hr	0.03086929	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	7.999198	hr	0.032901753	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	12.048635	hr	0.012577123	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	repaglinide, isavuconazole	concentration	repaglinide	LC/MS	plasma	repaglinide_isavuconazole_repaglinide	24.038725	hr	0.024792025	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	0.0	hr	5.9195495	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	0.43492204	hr	3683.3394	3912.7976	229.4582	1124.11101459498	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	0.83380586	hr	4099.906	4275.056	175.15	858.056256896946	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	1.0288078	hr	3894.5427	3997.1897	102.647	502.865547254929	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	2.0115306	hr	3586.3242	3713.1553	126.8311	621.342957031814	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	2.9941888	hr	3272.0671	3398.8784	126.8113	621.245957238	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	4.05547	hr	2933.6355	2812.8728	120.7627	591.613989921603	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	5.9824467	hr	2407.788	2601.0442	193.2562	946.758159258508	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	8.06829	hr	1984.5576	2123.4463	138.8887	680.41289207698	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	11.925614	hr	1246.8715	1144.2048	102.6667	502.962057150795	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	23.986048	hr	446.73495	513.15	66.41505	325.365967482864	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	36.051926	hr	153.84378	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	24	caffeine	concentration	caffeine	LC/MS	plasma	caffeine_caffeine	48.080242	hr	36.082954	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	0.0	hr	0.0	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	0.5501991	hr	3399.4937	3121.7263	277.7674	1302.84459052518	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	0.7119823	hr	3773.8494	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	1.0261502	hr	3646.9587	3544.292	102.6667	481.549507689065	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	2.010688	hr	3507.822	3405.185	102.637	481.410202340998	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	2.9548771	hr	3284.1543	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	4.096013	hr	3036.2825	3145.0076	108.7251	509.965922528379	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	6.0621715	hr	2486.2705	2685.5752	199.3047	934.821905886881	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	8.147626	hr	2026.8082	2171.7651	144.9569	679.90812825515	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	12.04491	hr	1337.4213	1452.1454	114.7241	538.10372667156	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	23.94732	hr	513.16986	639.9713	126.80144	594.751472544305	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	36.092014	hr	214.22021	na	na	na	ng/ml
+Yamazaki2016	rep_caf_group	22	caffeine, isavuconazole	concentration	caffeine	LC/MS	plasma	caffeine_isavuconazole_caffeine	48.04132	hr	84.40196	na	na	na	ng/ml

@@ -1,0 +1,69 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	unit	method	comment
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	0.0	hr	0.0	NA	NA	pg/ml	HPLC MS/MS	groups are subset of complete study group, new groups must be defined !
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	0.33	hr	172.16118	26.1697605343572	128.20512	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	0.5	hr	622.71063	100.940506376265	494.50547	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	0.66	hr	908.4249	82.9955302319448	406.5934	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	1.0	hr	974.35895	69.5367986340154	340.65935	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	1.5	hr	853.47986	48.6009873487916	238.09524	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	2.0	hr	663.00366	44.8624536288688	219.78024	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	2.5	hr	560.4396	36.6376631151069	179.48716	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	3.0	hr	476.1905	29.9082962955215	146.52013	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	4.0	hr	362.63736	18.6926890120287	91.5751	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	6.0	hr	216.11722	11.9633201512018	58.60806	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	8.0	hr	190.4762	10.4679025807497	51.28204	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	10.0	hr	175.82417	8.97248909278059	43.95604	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	12.0	hr	157.50916	26.1697646168401	128.20514	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	24.0	hr	153.84616	8.97248909278059	43.95604	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	36.0	hr	106.227104	8.97249031752547	43.956046	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg	48.0	hr	102.5641	5.23395129037486	25.64102	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	0.0	hr	NA	NA	29.30403	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	0.33	hr	157.50916	25.4220517491312	124.54211	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	0.5	hr	684.9817	79.256996512022	388.2784	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	0.66	hr	871.79486	79.2569842645733	388.27834	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	1.0	hr	838.8278	81.5001167439757	399.2674	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	1.5	hr	732.6007	59.0688940120242	289.3773	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	2.0	hr	652.01465	38.1330745618346	186.81315	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	2.5	hr	611.7216	41.8716184879647	205.1282	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	3.0	hr	531.13556	29.1605915927784	142.85714	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	4.0	hr	391.9414	17.9449822680441	87.9121	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	6.0	hr	241.75824	14.2064444656384	69.59708	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	8.0	hr	212.45421	12.7110289364278	62.27107	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	10.0	hr	179.48718	11.9633221924432	58.60807	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	12.0	hr	201.4652	16.4495626563506	80.58607	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	24.0	hr	157.50916	8.97248909278059	43.95604	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	36.0	hr	109.89011	7.47707356357001	36.63003	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_10mg_digoxin_0.25mg_OCA pre-treatment 10mg_digoxin	Study IV 10mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 10mg	48.0	hr	102.5641	5.98166007560088	29.30403	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	0.0	hr	0.0	2.30648751097877	11.299435	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	0.33	hr	207.15631	48.4362407924164	237.28815	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	0.5	hr	659.1337	90.7218332531187	444.4444	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	0.66	hr	896.4219	93.0283340321669	455.7439	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	1.0	hr	937.8531	72.2699494952201	354.049	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	1.5	hr	877.5895	54.5868585055086	267.4199	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	2.0	hr	693.03204	33.0596526229945	161.95856	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	2.5	hr	580.03766	29.9843345808618	146.89264	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	3.0	hr	482.10922	26.9090287861779	131.82678	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	4.0	hr	384.1808	23.0648730685463	112.99434	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	6.0	hr	218.45575	12.3012660448063	60.26365	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	8.0	hr	192.0904	11.5324365342731	56.49717	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	10.0	hr	188.32391	9.22595004391508	45.19774	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	12.0	hr	165.72505	9.22595004391508	45.19774	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	24.0	hr	165.72505	9.99477955444824	48.96422	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	36.0	hr	112.99435	5.38180453249071	26.36535	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg	48.0	hr	109.227875	3.07531600089121	15.06591	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	0.0	hr	0.0	5.38180432836656	26.365349	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	0.33	hr	237.28813	38.4414612379681	188.32393	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	0.5	hr	843.69116	89.9530078250684	440.67794	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	0.66	hr	1209.0396	103.023109504132	504.7081	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	1.0	hr	1133.71	79.1893905951212	387.9472	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	1.5	hr	994.3503	62.2751536108403	305.0847	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	2.0	hr	741.9962	41.5167792801008	203.38985	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	2.5	hr	598.87006	33.0596485405116	161.95854	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	3.0	hr	527.30695	26.9090226624535	131.82675	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	4.0	hr	406.77966	20.7583886194297	101.69492	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	6.0	hr	252.35405	14.6077545764058	71.56309	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	8.0	hr	225.9887	13.0700955553395	64.03013	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	10.0	hr	214.68927	11.5324344930317	56.49716	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	12.0	hr	192.0904	10.76360702374	52.73069	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	24.0	hr	192.0904	9.22594800267363	45.19773	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	36.0	hr	128.06026	6.91946355355704	33.89831	pg/ml	HPLC MS/MS	NA
+Edwards2017	Fig6_Study_4_25mg_digoxin_0.25mg_OCA pre-treatment 25mg_digoxin	Study IV 25mg	24	concentration	digoxin	plasma	digoxin_0.25mg,OCA pre-treatment 25mg	48.0	hr	120.527306	3.84414632792096	18.832394	pg/ml	HPLC MS/MS	NA

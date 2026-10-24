@@ -1,0 +1,2 @@
+study	individual	measurement	substance	tissue	intervention	time	time_unit	group	cyp2d6_genotype	log_value	value	method	label	comments	activities	time_jitter	time_jitter_unit	value_unit
+Myrand2008	Fig5_S406	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	DEX, CAF, OME, CHL	12	hr	chinese	*10/*14	-1.2525681	0.055902586206311	HPLC		I assume this is (dmt)/(dtf+dtfglu) although,nothing specified in publication. (dmt)/(dtf+dtfglu). Values look normal for upper  assumption.	0.75	11.83961631946037	hr	dimensionless

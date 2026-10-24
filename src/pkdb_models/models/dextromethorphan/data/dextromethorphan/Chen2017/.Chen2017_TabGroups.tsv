@@ -1,0 +1,29 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	unit	mean_sd	min	max	comments
+Chen2017	all	NA	species	421	homo sapiens	421	NA	NA	NA	NA	NA	NA	NA
+Chen2017	all	NA	ethnicity	421	chinese	421	NA	NA	NA	NA	NA	NA	Of the investigated subjects, 404 subjects were ethnically Han; the remaining 17 subjects included Hui, Manchu, Khalkhas, Korean, Zhuang, Tujia, and Mongol ethnicities
+Chen2017	all	NA	healthy	421	Y	421	NA	NA	NA	NA	NA	NA	NA
+Chen2017	all	NA	sex	421	M	295	NA	NA	NA	NA	NA	NA	NA
+Chen2017	all	NA	sex	421	F	126	NA	NA	NA	NA	NA	NA	NA
+Chen2017	all	NA	age	421	NA	421	NA	30.6	yr	8.5	NA	NA	NA
+Chen2017	all	NA	weight	421	NA	421	NA	65.1	kg	8.5	NA	NA	NA
+Chen2017	all	NA	bmi	421	NA	421	NA	23.2	kg/m^2	2.4	NA	NA	NA
+Chen2017	all	NA	abstinence	421	NA	421	grapefruit juice	NA	day	NA	1.0	NA	NA
+Chen2017	all	NA	abstinence alcohol	421	NA	421	NA	NA	day	NA	1.0	NA	NA
+Chen2017	all	NA	abstinence smoking	421	NA	421	NA	NA	day	NA	3.0	NA	NA
+Chen2017	all	NA	abstinence medication	421	NA	421	NA	NA	day	NA	7.0	NA	Alcohol and herbal remedies abstinence
+Chen2017	1_1	all	cyp2d6 genotype	22	*1/*1	22	NA	NA	NA	NA	NA	NA	NA
+Chen2017	1_1	all	age	22	NA	22	NA	31.1	yr	7.0	NA	NA	NA
+Chen2017	1_1	all	weight	22	NA	22	NA	68.2	kg	10.8	NA	NA	NA
+Chen2017	1_1	all	bmi	22	NA	22	NA	24.1	kg/m^2	2.6	NA	NA	NA
+Chen2017	1_10	all	cyp2d6 genotype	93	*1/*10	93	NA	NA	NA	NA	NA	NA	NA
+Chen2017	1_10	all	age	93	NA	93	NA	29.0	yr	7.1	NA	NA	NA
+Chen2017	1_10	all	weight	93	NA	93	NA	65.0	kg	8.6	NA	NA	NA
+Chen2017	1_10	all	bmi	93	NA	93	NA	22.9	kg/m^2	2.4	NA	NA	NA
+Chen2017	10_10	all	cyp2d6 genotype	85	*10/*10	85	NA	NA	NA	NA	NA	NA	NA
+Chen2017	10_10	all	age	85	NA	85	NA	31.8	yr	9.6	NA	NA	NA
+Chen2017	10_10	all	weight	85	NA	85	NA	63.6	kg	8.1	NA	NA	NA
+Chen2017	10_10	all	bmi	85	NA	85	NA	22.7	kg/m^2	2.5	NA	NA	NA
+Chen2017	5_10	all	cyp2d6 genotype	46	*5/*10	46	NA	NA	NA	NA	NA	NA	NA
+Chen2017	5_10	all	age	46	NA	46	NA	30.5	yr	6.5	NA	NA	NA
+Chen2017	5_10	all	weight	46	NA	46	NA	64.2	kg	7.6	NA	NA	NA
+Chen2017	5_10	all	bmi	46	NA	46	NA	23.1	kg/m^2	2.0	NA	NA	NA

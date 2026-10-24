@@ -1,0 +1,22 @@
+study	group	individual	measurement	substance	tissue	intervention	time	time_unit	x_log10_value	value	method	label	time_jitter	time_jitter_unit	count	value_unit	count_unit
+Chen2017	1_1	1_1-1	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-1.094828	0.0803844417421591	HPLC MS/MS	Fig2A_plasma	2.8396163194603696	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-2	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.85974294	0.138120155938876	HPLC MS/MS	Fig2A_plasma	3.0064099914003766	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-3	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.8493881	0.14145291446696	HPLC MS/MS	Fig2A_plasma	3.0740891295876724	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-4	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.86904526	0.135193166429235	HPLC MS/MS	Fig2A_plasma	3.0152619193565653	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-5	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-1.0350763	0.0922409357361843	HPLC MS/MS	Fig2A_plasma	3.086374389132333	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-6	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-1.2832836	0.0520854475215548	HPLC MS/MS	Fig2A_plasma	3.291309922250397	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-7	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-1.0461552	0.0899176193418358	HPLC MS/MS	Fig2A_plasma	2.85211766393356	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-8	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-1.0002245	0.0999483203232099	HPLC MS/MS	Fig2A_plasma	3.094547297464586	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-9	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.97555876	0.105789177366162	HPLC MS/MS	Fig2A_plasma	2.8333864542682035	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-10	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.8668204	0.135887528551174	HPLC MS/MS	Fig2A_plasma	3.034374458145268	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-11	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.9837504	0.103812488097035	HPLC MS/MS	Fig2A_plasma	2.9487556290715142	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-12	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.9409483	0.114564931560349	HPLC MS/MS	Fig2A_plasma	3.132375895668857	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-13	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.88760626	0.129536971714458	HPLC MS/MS	Fig2A_plasma	2.913971980641498	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-14	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.90561193	0.12427622994903	HPLC MS/MS	Fig2A_plasma	3.051949319901836	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-15	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.8646082	0.136581475461056	HPLC MS/MS	Fig2A_plasma	2.8734856282450476	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-16	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.82923377	0.148172029698753	HPLC MS/MS	Fig2A_plasma	2.7840860988703655	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-17	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.7703115	0.169702601500589	HPLC MS/MS	Fig2A_plasma	3.0434733949991726	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-18	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.7752058	0.167800866834639	HPLC MS/MS	Fig2A_plasma	3.17332893199459	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-19	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.71814173	0.19136313183581	HPLC MS/MS	Fig2A_plasma	3.052013415623552	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-20	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.57128686	0.268357130878767	HPLC MS/MS	Fig2A_plasma	2.899783420624556	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-21	metabolic ratio	dmt/dtf	plasma	DEX	3	hr	-0.40012735	0.39799044902542	HPLC MS/MS	Fig2A_plasma	3.0268345540392136	hr	1	dimensionless	dimensionless

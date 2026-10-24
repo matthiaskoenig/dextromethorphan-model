@@ -1,0 +1,6 @@
+study	label	individual	genotype	count	measurement	substance	tissue	intervention	time	time_unit	value	output_type	method	comments	value_unit	count_unit
+Frank2009	Tab83_A09	A09	*1/*2	1	concentration	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	1.33333333333333	hr	0.00196	timecourse	HPLC		nmol/ml	dimensionless
+Frank2009	Tab83_A09	A09	*1/*2	1	concentration	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	2.0	hr	0.00152	timecourse	HPLC		nmol/ml	dimensionless
+Frank2009	Tab83_A09	A09	*1/*2	1	concentration	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	3.25	hr	0.00082	timecourse	HPLC		nmol/ml	dimensionless
+Frank2009	Tab83_A09	A09	*1/*2	1	concentration	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4.25	hr		timecourse	HPLC		nmol/ml	dimensionless
+Frank2009	Tab83_A09	A09	*1/*2	1	concentration	dextromethorphan	plasma	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	6.0	hr	0.00064	timecourse	HPLC		nmol/ml	dimensionless

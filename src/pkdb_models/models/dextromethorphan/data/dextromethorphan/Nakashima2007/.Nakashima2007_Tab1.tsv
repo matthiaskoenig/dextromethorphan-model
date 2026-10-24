@@ -1,0 +1,21 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	unit	method	comments
+Nakashima2007	NA	em	23	cmax	dextromethorphan	plasma	dextromethorphan_30mg	NA	NA	4.54	1.00295433161453	4.81	ng/ml	LC MS/MS	NA
+Nakashima2007	NA	em	23	tmax	dextromethorphan	plasma	dextromethorphan_30mg	NA	NA	2.9	0.271068738274197	1.3	hr	LC MS/MS	NA
+Nakashima2007	NA	em	23	auc_end	dextromethorphan	plasma	dextromethorphan_30mg	24.0	hr	51.0	13.9913171832297	67.1	ng*hr/ml	LC MS/MS	NA
+Nakashima2007	NA	em	23	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg	NA	NA	53.8	14.2415344800982	68.3	ng*hr/ml	LC MS/MS	NA
+Nakashima2007	NA	em	23	kel	dextromethorphan	plasma	dextromethorphan_30mg	NA	NA	0.10169	0.00782763110370259	0.03754	1/hr	LC MS/MS	NA
+Nakashima2007	NA	em	23	cmax	dextrorphan	plasma	dextromethorphan_30mg	NA	NA	4.33	0.373240801162164	1.79	ng/ml	LC MS/MS	This is assumed to be only unconjugated dextrorphan. 
+Nakashima2007	NA	em	23	tmax	dextrorphan	plasma	dextromethorphan_30mg	NA	NA	2.6	0.271068738274197	1.3	hr	LC MS/MS	This is assumed to be only unconjugated dextrorphan. 
+Nakashima2007	NA	em	23	auc_end	dextrorphan	plasma	dextromethorphan_30mg	24.0	hr	23.9	2.04344125775933	9.8	ng*hr/ml	LC MS/MS	This is assumed to be only unconjugated dextrorphan. 
+Nakashima2007	NA	em	23	auc_inf	dextrorphan	plasma	dextromethorphan_30mg	NA	NA	26.8	1.85577828510797	8.9	ng*hr/ml	LC MS/MS	This is assumed to be only unconjugated dextrorphan. 
+Nakashima2007	NA	em	23	kel	dextrorphan	plasma	dextromethorphan_30mg	NA	NA	0.20456	0.0147711610918032	0.07084	1/hr	LC MS/MS	This is assumed to be only unconjugated dextrorphan. 
+Nakashima2007	NA	em	23	cmax	dextromethorphan	plasma	dextromethorphan_30mg, cinacalcet25mg_pre-treatment	NA	NA	18.41	0.934144574975695	4.48	ng/ml	LC MS/MS	NA
+Nakashima2007	NA	em	23	tmax	dextromethorphan	plasma	dextromethorphan_30mg, cinacalcet25mg_pre-treatment	NA	NA	4.7	0.312771621085612	1.5	hr	LC MS/MS	NA
+Nakashima2007	NA	em	23	auc_end	dextromethorphan	plasma	dextromethorphan_30mg, cinacalcet25mg_pre-treatment	24.0	hr	261.7	19.4960977143365	93.5	ng*hr/ml	LC MS/MS	NA
+Nakashima2007	NA	em	23	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg, cinacalcet25mg_pre-treatment	NA	NA	265.3	19.5586520385536	93.8	ng*hr/ml	LC MS/MS	NA
+Nakashima2007	NA	em	23	kel	dextromethorphan	plasma	dextromethorphan_30mg, cinacalcet25mg_pre-treatment	NA	NA	0.0816	0.00369070512881022	0.0177	1/hr	LC MS/MS	NA
+Nakashima2007	NA	em	23	cmax	dextrorphan	plasma	dextromethorphan_30mg, cinacalcet25mg_pre-treatment	NA	NA	2.78	0.239791576165636	1.15	ng/ml	LC MS/MS	This is assumed to be only unconjugated dextrorphan. 
+Nakashima2007	NA	em	23	tmax	dextrorphan	plasma	dextromethorphan_30mg, cinacalcet25mg_pre-treatment	NA	NA	4.0	0.500434593736979	2.4	hr	LC MS/MS	This is assumed to be only unconjugated dextrorphan. 
+Nakashima2007	NA	em	23	auc_end	dextrorphan	plasma	dextromethorphan_30mg, cinacalcet25mg_pre-treatment	24.0	hr	32.8	1.6681153124566	8.0	ng*hr/ml	LC MS/MS	This is assumed to be only unconjugated dextrorphan. 
+Nakashima2007	NA	em	23	auc_inf	dextrorphan	plasma	dextromethorphan_30mg, cinacalcet25mg_pre-treatment	NA	NA	39.5	1.33449224996528	6.4	ng*hr/ml	LC MS/MS	This is assumed to be only unconjugated dextrorphan. 
+Nakashima2007	NA	em	23	kel	dextrorphan	plasma	dextromethorphan_30mg, cinacalcet25mg_pre-treatment	NA	NA	0.08088	0.00706238320411312	0.03387	1/hr	LC MS/MS	This is assumed to be only unconjugated dextrorphan. 

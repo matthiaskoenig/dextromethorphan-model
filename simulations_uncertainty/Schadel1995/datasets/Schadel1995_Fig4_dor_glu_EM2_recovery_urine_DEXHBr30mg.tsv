@@ -1,0 +1,10 @@
+study	label	id	measurement	substance	tissue	intervention	time	time_unit	value	method	value_unit
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	0	hr		HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	4	hr	1.3333913583580884e-05	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	8	hr	2.2529776397515534e-05	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	12	hr	2.598720874966244e-05	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	24	hr	2.6880675668376992e-05	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	36	hr	2.684035916824197e-05	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	48	hr	2.6668327842290038e-05	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	60	hr	2.6761982446664867e-05	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	72	hr	2.685438293275723e-05	HPLC	mole

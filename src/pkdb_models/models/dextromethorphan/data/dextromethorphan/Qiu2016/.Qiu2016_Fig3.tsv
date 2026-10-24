@@ -1,0 +1,37 @@
+study	id	group	measurement	tissue	substance	intervention	value	time	time_unit	unit	method
+Qiu2016	Fig3_group1_1	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.00054205063	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_1	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.014140984	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_2	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.00054205063	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_2	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.005150162	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_3	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.0086339945	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_3	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.08874785	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_4	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.014478063	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_4	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.06537703	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_5	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.025711995	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_5	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.13414255	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_6	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.02750975	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group1_6	*1/*1	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.11751263	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_1	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.078149945	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_1	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.18028903	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_2	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.04174607	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_2	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.089951806	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_3	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.007139951	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_3	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.031522695	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_4	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.008937025	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_4	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.04185843	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_5	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.014330293	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_5	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.07916527	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_6	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.028713703	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group2_6	*1/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.097592264	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_1	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.03980259	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_1	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.09879418	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_2	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.06811724	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_2	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.12800702	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_3	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.10047548	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_3	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.13025558	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_4	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.119804084	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_4	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.087559566	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_5	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.09013907	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_5	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.10014181	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_6	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2	0.32025182	12	hr	dimensionless	LCMSMS
+Qiu2016	Fig3_group3_6	*10/*10	metabolic ratio	urine	dtf/dmt	dex15mg, meal1, meal2, zuojin pre-treatment	0.34059438	12	hr	dimensionless	LCMSMS

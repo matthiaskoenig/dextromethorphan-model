@@ -1,0 +1,10 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Nagai1996	Fig1_3-hydroxymorphinan-glucuronide	pharmacokinetics	7	concentration	3-hydroxymorphinan-glucuronide	plasma	dex_30mg	0.0	hr			HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_3-hydroxymorphinan-glucuronide	pharmacokinetics	7	concentration	3-hydroxymorphinan-glucuronide	plasma	dex_30mg	0.5	hr	8.321324429833573e-05	3.966326279021985e-05	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_3-hydroxymorphinan-glucuronide	pharmacokinetics	7	concentration	3-hydroxymorphinan-glucuronide	plasma	dex_30mg	1.0	hr	0.0005174018656256421	8.89964824327101e-05	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_3-hydroxymorphinan-glucuronide	pharmacokinetics	7	concentration	3-hydroxymorphinan-glucuronide	plasma	dex_30mg	2.0	hr	0.0013212736798849393	0.0003951575508526813	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_3-hydroxymorphinan-glucuronide	pharmacokinetics	7	concentration	3-hydroxymorphinan-glucuronide	plasma	dex_30mg	3.0	hr	0.001275265255804397	0.0004890944318882269	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_3-hydroxymorphinan-glucuronide	pharmacokinetics	7	concentration	3-hydroxymorphinan-glucuronide	plasma	dex_30mg	4.0	hr	0.0010514745428395315	0.0003804067803575098	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_3-hydroxymorphinan-glucuronide	pharmacokinetics	7	concentration	3-hydroxymorphinan-glucuronide	plasma	dex_30mg	7.0	hr	0.0004738987466611876	0.00028152952537497435	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_3-hydroxymorphinan-glucuronide	pharmacokinetics	7	concentration	3-hydroxymorphinan-glucuronide	plasma	dex_30mg	11.0	hr	0.00012210384220258887	9.40070885555784e-05	HPLC	mole/meter^3	dimensionless
+Nagai1996	Fig1_3-hydroxymorphinan-glucuronide	pharmacokinetics	7	concentration	3-hydroxymorphinan-glucuronide	plasma	dex_30mg	24.0	hr	5.331360591740292e-05	8.412638586398191e-05	HPLC	mole/meter^3	dimensionless

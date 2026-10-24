@@ -1,0 +1,18 @@
+study	group	count	substance	measurement_type	intervention	method	tissue	label	time	time_unit	mean	sepm	mean_se	mean_sd	mean_unit	count_unit
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	0.0	hr					mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	0.5	hr	3.2467469291177166e-05				mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	1.0	hr	0.0005540634274318603	162.80621	7.85114356080837e-05	0.00038462591242636557	mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	1.5	hr	0.001026027481143344	289.85028	0.00010017035352825376	0.0004907325069968465	mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	2.0	hr	0.0012209461637934956	337.22937	8.934060315966086e-05	0.000437677782107304	mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	3.0	hr	0.001164079153389124	314.92914	5.956125690473032e-05	0.00029178937571082116	mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	4.0	hr	0.0009646310500194545	260.11288	4.602369982654589e-05	0.00022546916130011246	mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	5.0	hr	0.0007426215948624447	202.50955	4.421848240199563e-05	0.00021662543817025338	mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	6.0	hr	0.0005729524492030289	153.2676	2.256065240692152e-05	0.00011052417332250187	mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	8.0	hr	0.00035273515636941684	95.89346	1.985377820455525e-05	9.72632521351008e-05	mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	10.0	hr	0.00022637141312067198				mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	12.0	hr	0.00015234722170740054				mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	16.0	hr	7.378567937775037e-05				mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	20.0	hr	4.305349724012831e-05				mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	24.0	hr	2.76610317586317e-05				mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	48.0	hr	2.092665885070194e-06				mole/meter^3	dimensionless
+Yamazaki2016	dex_group	24	dtf+dtfglu	concentration	dextromethorphan	LC/MS	plasma	fig3_day1_dtf	72.0	hr					mole/meter^3	dimensionless

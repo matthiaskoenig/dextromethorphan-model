@@ -1,0 +1,21 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	unit	method
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	1	hr	0.02888663	0.01170344	0.0261696874105901	mg	GC
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	2	hr	0.11970788	0.02439755	0.05455458028445	mg	GC
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	4	hr	0.23698336	0.0234144	0.0523561900523711	mg	GC
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	6	hr	0.2908335	0.034146	0.0763527771597078	mg	GC
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	8	hr	0.32224107	0.04683259	0.104720854802377	mg	GC
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	10	hr	0.3439039	0.04877627	0.109067055408884	mg	GC
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	12	hr	0.35971692	0.05852851	0.130873726981776	mg	GC
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	16	hr	0.3815681	0.07414565	0.165794713635907	mg	GC
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	24	hr	0.4018561	0.08487725	0.189791300743244	mg	GC
+Barnhart1980	Fig4_dextrorphan	all	5	cumulative amount	dextrorphan	urine	dex30mg	48	hr	0.4225509	0.0916989	0.205044973861955	mg	GC
+Barnhart1980	Fig4_3-hydroxymorphinan	all	5	cumulative amount	3-hydroxymorphinan	urine	dex30mg	1	hr	0.006444049	0.008780405	0.019633582449979	mg	GC
+Barnhart1980	Fig4_3-hydroxymorphinan	all	5	cumulative amount	3-hydroxymorphinan	urine	dex30mg	2	hr	0.032886967	0.007804803	0.0174520700589943	mg	GC
+Barnhart1980	Fig4_3-hydroxymorphinan	all	5	cumulative amount	3-hydroxymorphinan	urine	dex30mg	4	hr	0.07698487	0.01268281	0.0283596253057141	mg	GC
+Barnhart1980	Fig4_3-hydroxymorphinan	all	5	cumulative amount	3-hydroxymorphinan	urine	dex30mg	6	hr	0.11034363	0.01268657	0.0283680329213095	mg	GC
+Barnhart1980	Fig4_3-hydroxymorphinan	all	5	cumulative amount	3-hydroxymorphinan	urine	dex30mg	8	hr	0.13103087	0.01268281	0.0283596253057141	mg	GC
+Barnhart1980	Fig4_3-hydroxymorphinan	all	5	cumulative amount	3-hydroxymorphinan	urine	dex30mg	10	hr	0.14683636	0.01756458	0.0392755948762333	mg	GC
+Barnhart1980	Fig4_3-hydroxymorphinan	all	5	cumulative amount	3-hydroxymorphinan	urine	dex30mg	12	hr	0.16361368	0.01854017	0.0414570804344023	mg	GC
+Barnhart1980	Fig4_3-hydroxymorphinan	all	5	cumulative amount	3-hydroxymorphinan	urine	dex30mg	16	hr	0.18644424	0.0185364	0.0414486504581271	mg	GC
+Barnhart1980	Fig4_3-hydroxymorphinan	all	5	cumulative amount	3-hydroxymorphinan	urine	dex30mg	24	hr	0.21747135	0.02536562	0.0567192506114282	mg	GC
+Barnhart1980	Fig4_3-hydroxymorphinan	all	5	cumulative amount	3-hydroxymorphinan	urine	dex30mg	48	hr	0.24888644	0.02926802	0.0654452822868234	mg	GC

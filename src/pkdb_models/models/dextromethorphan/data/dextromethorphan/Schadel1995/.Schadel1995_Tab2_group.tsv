@@ -1,0 +1,13 @@
+study	group	count	measurement	substance	tissue	intervention	mean	sd	unit	method
+Schadel1995	EM	5	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	3.29	1.68	nmol/ml*hr	HPLC
+Schadel1995	EM	5	cmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	0.11	0.05	nmol/ml	HPLC
+Schadel1995	EM	5	tmax	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	5.7	2.6	hr	HPLC
+Schadel1995	EM	5	thalf	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	16.4	3.7	hr	HPLC
+Schadel1995	EM	5	clearance	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	516.0	282.0	ml/min	HPLC
+Schadel1995	EM	5	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg, quinidine_100mg	71.0	54.7	ml/min	HPLC
+Schadel1995	PM	4	auc_inf	dextromethorphan	plasma	dextromethorphan_30mg	5.48	2.29	nmol/ml*hr	HPLC
+Schadel1995	PM	4	cmax	dextromethorphan	plasma	dextromethorphan_30mg	0.12	0.03	nmol/ml	HPLC
+Schadel1995	PM	4	tmax	dextromethorphan	plasma	dextromethorphan_30mg	5.5	1.0	hr	HPLC
+Schadel1995	PM	4	thalf	dextromethorphan	plasma	dextromethorphan_30mg	29.5	8.4	hr	HPLC
+Schadel1995	PM	4	clearance	dextromethorphan	plasma	dextromethorphan_30mg	275.0	95.0	ml/min	HPLC
+Schadel1995	PM	4	clearance_renal	dextromethorphan	plasma	dextromethorphan_30mg	40.8	23.1	ml/min	HPLC

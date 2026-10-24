@@ -1,0 +1,2 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Tenneze1999		all	36	recovery	mm	urine	dex80mg, chloroguanide	24	hr	4.807593108428763e-05	1.720155576190141e-06	1.0320933457140853e-05	HPLC	mole	dimensionless

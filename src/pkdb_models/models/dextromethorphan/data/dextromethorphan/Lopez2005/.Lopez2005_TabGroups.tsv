@@ -1,0 +1,9 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	median	min	max	sd	unit	comments
+Lopez2005	all	NA	species	243	homo sapiens	243	NA	NA	NA	NA	NA	NA	NA	NA
+Lopez2005	all	NA	ethnicity	243	hispanic	243	NA	NA	NA	NA	NA	NA	NA	unrelated subjects, To assess an ethnic homogeneity, only subjects with both parents and four grandparents, both maternal and paternal, from Mexican Mestizo origin were included. We considered as Mexican Mestizo only those who for two generations, including their own, had been born in Mexico.
+Lopez2005	all	NA	healthy	243	Y	243	NA	NA	NA	NA	NA	NA	NA	NA
+Lopez2005	all	NA	sex	243	M	138	NA	NA	NA	NA	NA	NA	NA	NA
+Lopez2005	all	NA	sex	243	F	97	NA	NA	NA	NA	NA	NA	NA	NA
+Lopez2005	all	NA	age	243	NA	243	NA	25.3	NA	20.0	50.0	6.2	yr	NA
+Lopez2005	phenotyped	all	species	100	homo sapiens	100	NA	NA	NA	NA	NA	NA	NA	NA
+Lopez2005	phenotyped	NA	abstinence medication	100	NA	100	NA	NA	NA	1.0	NA	NA	week	Protocol required not to take any natural remedy or over-the-counter drugs for 1 week before the phenotype test.

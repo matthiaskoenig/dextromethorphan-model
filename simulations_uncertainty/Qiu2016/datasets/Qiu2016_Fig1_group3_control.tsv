@@ -1,0 +1,15 @@
+study	count	label	group	measurement	tissue	substance	intervention	time	time_unit	mean	mean_sd	method	mean_unit	count_unit
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.0	hr	1.0156476691574185e-07	3.046943081163137e-07	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.25	hr	5.58606210667492e-07	3.5547666946692013e-07	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.5	hr	2.0312952646239555e-06	1.1679947237328852e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	0.75	hr	5.992321041694301e-06	3.0977251624883937e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	1.0	hr	1.0004129636998718e-05	4.722761639474732e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	1.5	hr	1.3711243386243386e-05	5.129020574494112e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	2.0	hr	1.960199923361483e-05	1.0461170063816305e-05	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	3.0	hr	1.787539866766886e-05	7.414227866943744e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	4.0	hr	1.426984974429264e-05	6.550927399743556e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	6.0	hr	7.515792324357783e-06	3.5039840975077743e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	8.0	hr	6.703274454319022e-06	4.265720107293924e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	10.0	hr	5.230585400362559e-06	3.4024196400937347e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	12.0	hr	4.214937510132496e-06	3.6563312994650043e-06	LCMSMS	mole/meter^3	dimensionless
+Qiu2016	6	group3_control	*10/*10	concentration	plasma	dextromethorphan	dex15mg, meal1, meal2	24.0	hr	2.183642613962948e-06	1.8281659444960283e-06	LCMSMS	mole/meter^3	dimensionless

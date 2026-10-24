@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sbml xmlns="http://www.sbml.org/sbml/level3/version2/core" xmlns:comp="http://www.sbml.org/sbml/level3/version1/comp/version1" xmlns:distrib="http://www.sbml.org/sbml/level3/version1/distrib/version1" level="3" version="2" comp:required="true" distrib:required="true">
+  <notes>
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <p>Created with <a href="https://github.com/matthiaskoenig/sbmlutils">https://github.com/matthiaskoenig/sbmlutils</a>.
+<a href="https://doi.org/10.5281/zenodo.5525390">
+        <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5525390.svg" alt="DOI"/></a></p>
+      </body>
+    </notes>
+  <model metaid="meta_dextromethorphan_kidney" id="dextromethorphan_kidney" name="Dextromethorphan (DXM) kidney model" substanceUnits="mmole" timeUnits="min" volumeUnits="litre" areaUnits="m2" lengthUnits="metre" extentUnits="mmole">
+    <notes>
+      <body xmlns="http://www.w3.org/1999/xhtml">
+        <h1>Kidney model of the renal excretion of dextromethorphan</h1>
+        <p>The renal clearance of a substance is <code>GFR * fu_&lt;sid&gt; * &lt;X&gt;EX_f</code>, the
+filtration of its unbound fraction times a factor: 1 is filtration alone,
+above 1 a net tubular secretion, below 1 a net reabsorption. The glomerular
+filtration rate is <code>GFR = f_renal_function * GFR_base</code>, <code>GFR_base</code> is 101
+ml/min at 75 kg and scales with the renal blood flow; a measured creatinine
+clearance of X ml/min is the renal function X/101.</p>
+        <p>The factors are of the renal clearances and the urinary recoveries of the
+literature: the renal clearance of dextromethorphan in poor metabolizers is
+41-78 ml/min (Schadel1995, Capon1996) with 11-26 % of an oral dose excreted
+unchanged, extensive metabolizers excrete 0.2 % unchanged and 27-39 % as
+total dextrorphan.</p>
+        <p>The content of this model has been carefully created in a manual research effort.</p>
+        <h2>Terms of use</h2>
+        <p>Copyright © 2026 <a href="https://livermetabolism.com" title="Matthias König" target="_blank">Matthias König</a>.</p>
+        <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+          <img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png"/>
+        </a>
+        <br/>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<p>Redistribution and use of any part of this model, with or without modification, are permitted provided
+that the following conditions are met:</p>
+        <ul>
+          <li>Redistributions of this SBML file must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
+          <li>Redistributions in a different form must reproduce the above copyright notice, this list of conditions
+and the following disclaimer in the documentation and/or other materials provided
+with the distribution.</li>
+        </ul>
+        <p>This model is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the
+implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</p></body>
+      </notes>
+    <annotation>
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+        <rdf:Description rdf:about="#meta_dextromethorphan_kidney">
+          <dcterms:creator>
+            <rdf:Bag>
+              <rdf:li rdf:parseType="Resource">
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>Grzegorzewski</vCard4:family-name>
+                  <vCard4:given-name>Jan</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>janekG89@hotmail.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-Universität zu Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>Brandhorst</vCard4:family-name>
+                  <vCard4:given-name>Janosch</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>jbrandhorst1@googlemail.com</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-Universität zu Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+              </rdf:li>
+              <rdf:li rdf:parseType="Resource">
+                <vCard4:hasName rdf:parseType="Resource">
+                  <vCard4:family-name>König</vCard4:family-name>
+                  <vCard4:given-name>Matthias</vCard4:given-name>
+                </vCard4:hasName>
+                <vCard4:hasEmail>koenigmx@hu-berlin.de</vCard4:hasEmail>
+                <vCard4:organization-name>Humboldt-University Berlin, Institute for Theoretical Biology</vCard4:organization-name>
+              </rdf:li>
+            </rdf:Bag>
+          </dcterms:creator>
+          <dcterms:created rdf:parseType="Resource">
+            <dcterms:W3CDTF>2026-10-24T23:08:15Z</dcterms:W3CDTF>
+          </dcterms:created>
+          <dcterms:modified rdf:parseType="Resource">
+            <dcterms:W3CDTF>2026-10-24T23:08:15Z</dcterms:W3CDTF>
+          </dcterms:modified>
+          <bqbiol:occursIn>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/FMA:7203"/>
+              <rdf:li rdf:resource="https://identifiers.org/BTO:0000671"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit:C12415"/>
+            </rdf:Bag>
+          </bqbiol:occursIn>
+          <bqbiol:hasProperty>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/ncit:C79372"/>
+              <rdf:li rdf:resource="https://identifiers.org/mamo:MAMO_0000046"/>
+              <rdf:li rdf:resource="https://identifiers.org/ncit:C15299"/>
+            </rdf:Bag>
+          </bqbiol:hasProperty>
+          <bqbiol:hasTaxon>
+            <rdf:Bag>
+              <rdf:li rdf:resource="https://identifiers.org/taxonomy:9606"/>
+              <rdf:li rdf:resource="https://identifiers.org/snomedct:337915000"/>
+            </rdf:Bag>
+          </bqbiol:hasTaxon>
+        </rdf:Description>
+      </rdf:RDF>
+    </annotation>
+    <listOfUnitDefinitions>
+      <unitDefinition id="g_per_mole" name="g/mole">
+        <listOfUnits>
+          <unit kind="gram" exponent="1" scale="0" multiplier="1"/>
+          <unit kind="mole" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="litre_per_min" name="litre/min">
+        <listOfUnits>
+          <unit kind="litre" exponent="1" scale="0" multiplier="1"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="l_per_ml" name="l/ml">
+        <listOfUnits>
+          <unit kind="litre" exponent="1" scale="0" multiplier="1"/>
+          <unit kind="litre" exponent="-1" scale="0" multiplier="0.001"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="m2" name="meter^2">
+        <listOfUnits>
+          <unit kind="metre" exponent="2" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mM" name="mmole/liter">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="litre" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mg" name="mg">
+        <listOfUnits>
+          <unit kind="gram" exponent="1" scale="0" multiplier="0.001"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="microM" name="micromole/liter">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="1e-06"/>
+          <unit kind="litre" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="min" name="min">
+        <listOfUnits>
+          <unit kind="second" exponent="1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="min_per_hr" name="min/hr">
+        <listOfUnits>
+          <unit kind="second" exponent="1" scale="0" multiplier="60"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="3600"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="ml_per_min" name="ml/min">
+        <listOfUnits>
+          <unit kind="litre" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mmole" name="mmole">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mmole_per_min" name="mmole/min">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="mmole_per_min_l" name="mmole/min/liter">
+        <listOfUnits>
+          <unit kind="mole" exponent="1" scale="0" multiplier="0.001"/>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+          <unit kind="litre" exponent="-1" scale="0" multiplier="1"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="per_hr" name="1/hr">
+        <listOfUnits>
+          <unit kind="second" exponent="-1" scale="0" multiplier="3600"/>
+        </listOfUnits>
+      </unitDefinition>
+      <unitDefinition id="per_min" name="1/min">
+        <listOfUnits>
+          <unit kind="second" exponent="-1" scale="0" multiplier="60"/>
+        </listOfUnits>
+      </unitDefinition>
+    </listOfUnitDefinitions>
+    <listOfCompartments>
+      <compartment metaid="meta_Vext" sboTerm="SBO:0000290" id="Vext" name="plasma" size="1" units="litre" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C13356"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0000131"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+      <compartment metaid="meta_Vurine" sboTerm="SBO:0000290" id="Vurine" name="urine" size="1" units="litre" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_Vurine">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/FMA:12274"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C13283"/>
+                  <rdf:li rdf:resource="https://identifiers.org/BTO:0001419"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </compartment>
+    </listOfCompartments>
+    <listOfSpecies>
+      <species metaid="meta_dxm_ext" sboTerm="SBO:0000247" id="dxm_ext" name="dextromethorphan (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_dxm_ext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:4470"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C62022"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_dxm_urine" sboTerm="SBO:0000247" id="dxm_urine" name="dextromethorphan (urine)" compartment="Vurine" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_dxm_urine">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:4470"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C62022"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:MKXZASYAUGDDCJ-NJAFHUGGSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_dxo_ext" sboTerm="SBO:0000247" id="dxo_ext" name="dextrorphan (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_dxo_ext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:29133"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C171857"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_dxo_urine" sboTerm="SBO:0000247" id="dxo_urine" name="dextrorphan (urine)" compartment="Vurine" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_dxo_urine">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:29133"/>
+                  <rdf:li rdf:resource="https://identifiers.org/ncit:C171857"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:JAQUASYNZVUNQP-PVAVHDDUSA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_dxo_glu_ext" sboTerm="SBO:0000247" id="dxo_glu_ext" name="dextrorphan glucuronide (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_dxo_glu_ext">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:32645"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:24883428"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species metaid="meta_dxo_glu_urine" sboTerm="SBO:0000247" id="dxo_glu_urine" name="dextrorphan glucuronide (urine)" compartment="Vurine" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#meta_dxo_glu_urine">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="https://identifiers.org/CHEBI:32645"/>
+                  <rdf:li rdf:resource="https://identifiers.org/pubchem.compound:24883428"/>
+                  <rdf:li rdf:resource="https://identifiers.org/inchikey:YQAUTKINOXBFCA-DCWOAAMISA-N"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </species>
+      <species sboTerm="SBO:0000247" id="mm_ext" name="N-demethylated morphinans (plasma)" compartment="Vext" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="false" boundaryCondition="false" constant="false"/>
+      <species sboTerm="SBO:0000247" id="mm_urine" name="N-demethylated morphinans (urine)" compartment="Vurine" initialConcentration="0" substanceUnits="mmole" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false"/>
+    </listOfSpecies>
+    <listOfParameters>
+      <parameter sboTerm="SBO:0000002" id="f_renal_function" name="renal function" value="1" units="dimensionless" constant="true">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <blockquote>
+              <p>1.0: increased kidney function
+1.0: normal kidney function (healthy control)
+&lt;1.0: decreased kidney function</p>
+            </blockquote>
+            <p>Renal function relative to the healthy glomerular filtration rate
+<code>GFR_base</code>, which is 101 ml/min at 75 kg; a measured creatinine
+clearance of X ml/min is the renal function X/101.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="GFR_base" name="glomerular filtration rate (healthy)" value="101" units="ml_per_min" constant="false">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Overwritten by the whole-body model, which scales it with
+the renal blood flow and so with the body weight.</p>
+          </body>
+        </notes>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="GFR" name="glomerular filtration rate" value="101" units="ml_per_min" constant="false"/>
+      <parameter sboTerm="SBO:0000002" id="fu_dxm" name="fraction unbound in plasma dextromethorphan" value="0.5" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000009" id="DXMEX_f" name="renal clearance of unbound dextromethorphan relative to the GFR" value="0.656113552124429" units="dimensionless" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_094137__4239e">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>KI__DXMEX_f</code> is the result of the fit <code>PK_20261020_094137__4239e</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_094137__4239e</code> |
+| record | <code>PK_20261020_094137__4239e/</code> |
+| cost | 308.95 |
+| data points | 2165 |
+| value | 0.656114 dimensionless |
+| bounds | [0.05, 10] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [0.481568, 0.856334] |
+| Fisher confidence interval | [0.563462, 0.764] |
+| distribution of the draws | <code>lognormal(-0.42142140726708105, 0.14684270128211008, 0.05, 10.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="dimensionless" distrib:type="confidenceInterval" distrib:valueLower="0.481567983644349" distrib:valueUpper="0.856333775210204"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.0509326468906526" distrib:units="dimensionless" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <apply>
+                    <minus/>
+                    <cn> 0.421421407267081 </cn>
+                  </apply>
+                  <cn> 0.14684270128211 </cn>
+                  <cn> 0.05 </cn>
+                  <cn> 10 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="fu_dxo" name="fraction unbound in plasma dextrorphan" value="0.55" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000009" id="DXOEX_f" name="renal clearance of unbound dextrorphan relative to the GFR" value="1.86913741202018" units="dimensionless" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_094137__4239e">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>KI__DXOEX_f</code> is the result of the fit <code>PK_20261020_094137__4239e</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_094137__4239e</code> |
+| record | <code>PK_20261020_094137__4239e/</code> |
+| cost | 308.95 |
+| data points | 2165 |
+| value | 1.86914 dimensionless |
+| bounds | [0.05, 50] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [1.44026, 2.39228] |
+| Fisher confidence interval | [1.61936, 2.15744] |
+| distribution of the draws | <code>lognormal(0.6254770474509808, 0.12944670048376475, 0.05, 50.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="dimensionless" distrib:type="confidenceInterval" distrib:valueLower="1.44026222426426" distrib:valueUpper="2.3922801263858"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.136721495584361" distrib:units="dimensionless" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <cn> 0.625477047450981 </cn>
+                  <cn> 0.129446700483765 </cn>
+                  <cn> 0.05 </cn>
+                  <cn> 50 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="fu_dxo_glu" name="fraction unbound in plasma dextrorphan glucuronide" value="0.44" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000009" id="DXOGLUEX_f" name="renal clearance of unbound dextrorphan glucuronide relative to the GFR" value="2.2657913496198" units="dimensionless" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_094137__4239e">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>KI__DXOGLUEX_f</code> is the result of the fit <code>PK_20261020_094137__4239e</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_094137__4239e</code> |
+| record | <code>PK_20261020_094137__4239e/</code> |
+| cost | 308.95 |
+| data points | 2165 |
+| value | 2.26579 dimensionless |
+| bounds | [0.05, 20] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [1.86817, 2.73616] |
+| Fisher confidence interval | [2.04578, 2.50946] |
+| distribution of the draws | <code>lognormal(0.8179240796460098, 0.09734750086998196, 0.05, 20.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="dimensionless" distrib:type="confidenceInterval" distrib:valueLower="1.86817126040207" distrib:valueUpper="2.73615926276724"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.118015969129397" distrib:units="dimensionless" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <cn> 0.81792407964601 </cn>
+                  <cn> 0.097347500869982 </cn>
+                  <cn> 0.05 </cn>
+                  <cn> 20 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+      <parameter sboTerm="SBO:0000002" id="fu_mm" name="fraction unbound in plasma N-demethylated morphinans" value="0.5" units="dimensionless" constant="true"/>
+      <parameter sboTerm="SBO:0000009" id="MMEX_f" name="renal clearance of unbound N-demethylated morphinans relative to the GFR" value="1.66127389767754" units="dimensionless" constant="true">
+        <distrib:listOfUncertainties>
+          <distrib:uncertainty distrib:name="fit PK_20261020_094137__4239e">
+            <notes>
+              <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>The value of <code>KI__MMEX_f</code> is the result of the fit <code>PK_20261020_094137__4239e</code>, its uncertainty is the profile likelihood of the fit.</p>
+                <p>| | |
+|---|---|
+| fit | <code>PK_20261020_094137__4239e</code> |
+| record | <code>PK_20261020_094137__4239e/</code> |
+| cost | 308.95 |
+| data points | 2165 |
+| value | 1.66127 dimensionless |
+| bounds | [0.05, 20] |
+| scale | LOG10 |
+| method | profile likelihood |
+| identifiability | identifiable |
+| 95 % confidence interval | [1.13102, 2.46715] |
+| Fisher confidence interval | [1.35364, 2.03882] |
+| distribution of the draws | <code>lognormal(0.5075847163007927, 0.19896857154780034, 0.05, 20.0)</code> |</p>
+              </body>
+            </notes>
+            <distrib:uncertSpan distrib:name="95 % confidence interval (profile likelihood)" distrib:units="dimensionless" distrib:type="confidenceInterval" distrib:valueLower="1.13102232844208" distrib:valueUpper="2.4671518983159"/>
+            <distrib:uncertParameter distrib:name="standard error (Fisher information)" distrib:value="0.173479424994869" distrib:units="dimensionless" distrib:type="standardError"/>
+            <distrib:uncertParameter distrib:name="distribution of the draws" distrib:type="distribution">
+              <math xmlns="http://www.w3.org/1998/Math/MathML">
+                <apply>
+                  <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/lognormal"> lognormal </csymbol>
+                  <cn> 0.507584716300793 </cn>
+                  <cn> 0.1989685715478 </cn>
+                  <cn> 0.05 </cn>
+                  <cn> 20 </cn>
+                </apply>
+              </math>
+            </distrib:uncertParameter>
+          </distrib:uncertainty>
+        </distrib:listOfUncertainties>
+      </parameter>
+    </listOfParameters>
+    <listOfRules>
+      <assignmentRule name="glomerular filtration rate" variable="GFR">
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+          <apply>
+            <times/>
+            <ci> f_renal_function </ci>
+            <ci> GFR_base </ci>
+          </apply>
+        </math>
+      </assignmentRule>
+    </listOfRules>
+    <listOfReactions>
+      <reaction sboTerm="SBO:0000655" id="DXMEX" name="dextromethorphan renal excretion" reversible="false">
+        <listOfReactants>
+          <speciesReference species="dxm_ext" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="dxm_urine" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <ci> GFR </ci>
+              <cn sbml:units="l_per_ml"> 0.001 </cn>
+              <ci> fu_dxm </ci>
+              <ci> DXMEX_f </ci>
+              <ci> dxm_ext </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="DXOEX" name="dextrorphan renal excretion" reversible="false">
+        <listOfReactants>
+          <speciesReference species="dxo_ext" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="dxo_urine" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <ci> GFR </ci>
+              <cn sbml:units="l_per_ml"> 0.001 </cn>
+              <ci> fu_dxo </ci>
+              <ci> DXOEX_f </ci>
+              <ci> dxo_ext </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="DXOGLUEX" name="dextrorphan glucuronide renal excretion" reversible="false">
+        <listOfReactants>
+          <speciesReference species="dxo_glu_ext" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="dxo_glu_urine" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <ci> GFR </ci>
+              <cn sbml:units="l_per_ml"> 0.001 </cn>
+              <ci> fu_dxo_glu </ci>
+              <ci> DXOGLUEX_f </ci>
+              <ci> dxo_glu_ext </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+      <reaction sboTerm="SBO:0000655" id="MMEX" name="N-demethylated morphinans renal excretion" reversible="false">
+        <listOfReactants>
+          <speciesReference species="mm_ext" stoichiometry="1" constant="true"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference species="mm_urine" stoichiometry="1" constant="true"/>
+        </listOfProducts>
+        <kineticLaw>
+          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
+            <apply>
+              <times/>
+              <ci> GFR </ci>
+              <cn sbml:units="l_per_ml"> 0.001 </cn>
+              <ci> fu_mm </ci>
+              <ci> MMEX_f </ci>
+              <ci> mm_ext </ci>
+            </apply>
+          </math>
+        </kineticLaw>
+      </reaction>
+    </listOfReactions>
+    <comp:listOfPorts>
+      <comp:port metaid="GFR_base_port" sboTerm="SBO:0000599" comp:idRef="GFR_base" comp:id="GFR_base_port" comp:name="Port of GFR_base"/>
+      <comp:port metaid="fu_dxm_port" sboTerm="SBO:0000599" comp:idRef="fu_dxm" comp:id="fu_dxm_port" comp:name="Port of fu_dxm"/>
+      <comp:port metaid="fu_dxo_port" sboTerm="SBO:0000599" comp:idRef="fu_dxo" comp:id="fu_dxo_port" comp:name="Port of fu_dxo"/>
+      <comp:port metaid="fu_dxo_glu_port" sboTerm="SBO:0000599" comp:idRef="fu_dxo_glu" comp:id="fu_dxo_glu_port" comp:name="Port of fu_dxo_glu"/>
+      <comp:port metaid="fu_mm_port" sboTerm="SBO:0000599" comp:idRef="fu_mm" comp:id="fu_mm_port" comp:name="Port of fu_mm"/>
+      <comp:port metaid="Vext_port" sboTerm="SBO:0000599" comp:idRef="Vext" comp:id="Vext_port" comp:name="Port of Vext"/>
+      <comp:port metaid="Vurine_port" sboTerm="SBO:0000599" comp:idRef="Vurine" comp:id="Vurine_port" comp:name="Port of Vurine"/>
+      <comp:port metaid="dxm_ext_port" sboTerm="SBO:0000599" comp:idRef="dxm_ext" comp:id="dxm_ext_port" comp:name="Port of dxm_ext"/>
+      <comp:port metaid="dxm_urine_port" sboTerm="SBO:0000599" comp:idRef="dxm_urine" comp:id="dxm_urine_port" comp:name="Port of dxm_urine"/>
+      <comp:port metaid="dxo_ext_port" sboTerm="SBO:0000599" comp:idRef="dxo_ext" comp:id="dxo_ext_port" comp:name="Port of dxo_ext"/>
+      <comp:port metaid="dxo_urine_port" sboTerm="SBO:0000599" comp:idRef="dxo_urine" comp:id="dxo_urine_port" comp:name="Port of dxo_urine"/>
+      <comp:port metaid="dxo_glu_ext_port" sboTerm="SBO:0000599" comp:idRef="dxo_glu_ext" comp:id="dxo_glu_ext_port" comp:name="Port of dxo_glu_ext"/>
+      <comp:port metaid="dxo_glu_urine_port" sboTerm="SBO:0000599" comp:idRef="dxo_glu_urine" comp:id="dxo_glu_urine_port" comp:name="Port of dxo_glu_urine"/>
+      <comp:port metaid="mm_ext_port" sboTerm="SBO:0000599" comp:idRef="mm_ext" comp:id="mm_ext_port" comp:name="Port of mm_ext"/>
+      <comp:port metaid="mm_urine_port" sboTerm="SBO:0000599" comp:idRef="mm_urine" comp:id="mm_urine_port" comp:name="Port of mm_urine"/>
+    </comp:listOfPorts>
+  </model>
+</sbml>

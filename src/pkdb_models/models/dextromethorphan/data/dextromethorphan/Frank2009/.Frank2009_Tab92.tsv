@@ -1,0 +1,129 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	value	unit	method	output_type	comments
+Frank2009	NA	A01 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	2908.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A02 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	1542.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A03 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	80741.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A04 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	1798.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A05 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	4575.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A06 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	5077.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A07 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	2901.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A08 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	2765.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A09 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	2709.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A10 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	2606.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A11 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	6099.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A12 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	32397.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A13 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	1084.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A14 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	37584.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A15 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	28012.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A16 	1	clearance_renal	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	3669.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A01 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	9447.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A02 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	5078.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A03 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	8115.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A04 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	7049.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A05 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	4607.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A06 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	9927.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A07 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	9318.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A08 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	8174.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A09 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	5368.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A10 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	7026.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A11 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	12734.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A12 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	8234.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A13 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	6207.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A14 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	8727.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A15 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	8658.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A16 	1	clearance_renal	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	NA	NA	16054.0	ml/hr	HPLC	output	reference
+Frank2009	NA	A01 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	2154.0	nmol	HPLC	output	reference
+Frank2009	NA	A02 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	54.3	nmol	HPLC	output	reference
+Frank2009	NA	A03 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	40.0	nmol	HPLC	output	reference
+Frank2009	NA	A04 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	48.9	nmol	HPLC	output	reference
+Frank2009	NA	A05 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	106.0	nmol	HPLC	output	reference
+Frank2009	NA	A06 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	15.8	nmol	HPLC	output	reference
+Frank2009	NA	A07 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	139.0	nmol	HPLC	output	reference
+Frank2009	NA	A08 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	3839.0	nmol	HPLC	output	reference
+Frank2009	NA	A09 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	27.5	nmol	HPLC	output	reference
+Frank2009	NA	A10 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	91.6	nmol	HPLC	output	reference
+Frank2009	NA	A11 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	226.0	nmol	HPLC	output	reference
+Frank2009	NA	A12 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	91.4	nmol	HPLC	output	reference
+Frank2009	NA	A13 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	46.1	nmol	HPLC	output	reference
+Frank2009	NA	A14 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	119.0	nmol	HPLC	output	reference
+Frank2009	NA	A15 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	137.0	nmol	HPLC	output	reference
+Frank2009	NA	A16 	1	cumulative amount	dextromethorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	115.0	nmol	HPLC	output	reference
+Frank2009	NA	A01 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	175.0	nmol	HPLC	output	reference
+Frank2009	NA	A02 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	564.0	nmol	HPLC	output	reference
+Frank2009	NA	A03 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	494.0	nmol	HPLC	output	reference
+Frank2009	NA	A04 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	740.0	nmol	HPLC	output	reference
+Frank2009	NA	A05 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	460.0	nmol	HPLC	output	reference
+Frank2009	NA	A06 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	1052.0	nmol	HPLC	output	reference
+Frank2009	NA	A07 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	846.0	nmol	HPLC	output	reference
+Frank2009	NA	A08 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	188.0	nmol	HPLC	output	reference
+Frank2009	NA	A09 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	531.0	nmol	HPLC	output	reference
+Frank2009	NA	A10 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	495.0	nmol	HPLC	output	reference
+Frank2009	NA	A11 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	1168.0	nmol	HPLC	output	reference
+Frank2009	NA	A12 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	803.0	nmol	HPLC	output	reference
+Frank2009	NA	A13 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	767.0	nmol	HPLC	output	reference
+Frank2009	NA	A14 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	1252.0	nmol	HPLC	output	reference
+Frank2009	NA	A15 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	634.0	nmol	HPLC	output	reference
+Frank2009	NA	A16 	1	cumulative amount	dextrorphan	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12.0	hr	1155.0	nmol	HPLC	output	reference
+Frank2009	NA	A01 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	1731.0	ml/hr	HPLC	output	test
+Frank2009	NA	A02 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	1391.0	ml/hr	HPLC	output	test
+Frank2009	NA	A03 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	9478.0	ml/hr	HPLC	output	test
+Frank2009	NA	A04 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	968.0	ml/hr	HPLC	output	test
+Frank2009	NA	A05 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	769.0	ml/hr	HPLC	output	test
+Frank2009	NA	A06 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	2654.0	ml/hr	HPLC	output	test
+Frank2009	NA	A07 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	1527.0	ml/hr	HPLC	output	test
+Frank2009	NA	A08 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	1773.0	ml/hr	HPLC	output	test
+Frank2009	NA	A09 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	2611.0	ml/hr	HPLC	output	test
+Frank2009	NA	A10 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	3194.0	ml/hr	HPLC	output	test
+Frank2009	NA	A11 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	2142.0	ml/hr	HPLC	output	test
+Frank2009	NA	A12 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	189.0	ml/hr	HPLC	output	test
+Frank2009	NA	A13 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	1860.0	ml/hr	HPLC	output	test
+Frank2009	NA	A14 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	151.0	ml/hr	HPLC	output	test
+Frank2009	NA	A15 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	1973.0	ml/hr	HPLC	output	test
+Frank2009	NA	A16 	1	clearance_renal	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	586.0	ml/hr	HPLC	output	test
+Frank2009	NA	A01 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	12810.0	ml/hr	HPLC	output	test
+Frank2009	NA	A02 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	16563.0	ml/hr	HPLC	output	test
+Frank2009	NA	A03 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	9069.0	ml/hr	HPLC	output	test
+Frank2009	NA	A04 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	18568.0	ml/hr	HPLC	output	test
+Frank2009	NA	A05 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	13136.0	ml/hr	HPLC	output	test
+Frank2009	NA	A06 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	4341.0	ml/hr	HPLC	output	test
+Frank2009	NA	A07 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	3896.0	ml/hr	HPLC	output	test
+Frank2009	NA	A08 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	7843.0	ml/hr	HPLC	output	test
+Frank2009	NA	A09 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	15770.0	ml/hr	HPLC	output	test
+Frank2009	NA	A10 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	19719.0	ml/hr	HPLC	output	test
+Frank2009	NA	A11 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	9818.0	ml/hr	HPLC	output	test
+Frank2009	NA	A12 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	7945.0	ml/hr	HPLC	output	test
+Frank2009	NA	A13 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	4192.0	ml/hr	HPLC	output	test
+Frank2009	NA	A14 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	15987.0	ml/hr	HPLC	output	test
+Frank2009	NA	A15 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	1796.0	ml/hr	HPLC	output	test
+Frank2009	NA	A16 	1	clearance_renal	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	NA	NA	12522.0	ml/hr	HPLC	output	test
+Frank2009	NA	A01 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	2163.0	nmol	HPLC	output	test
+Frank2009	NA	A02 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	81.2	nmol	HPLC	output	test
+Frank2009	NA	A03 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	13.1	nmol	HPLC	output	test
+Frank2009	NA	A04 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	60.1	nmol	HPLC	output	test
+Frank2009	NA	A05 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	47.2	nmol	HPLC	output	test
+Frank2009	NA	A06 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	37.4	nmol	HPLC	output	test
+Frank2009	NA	A07 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	132.0	nmol	HPLC	output	test
+Frank2009	NA	A08 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	2832.0	nmol	HPLC	output	test
+Frank2009	NA	A09 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	55.7	nmol	HPLC	output	test
+Frank2009	NA	A10 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	131.0	nmol	HPLC	output	test
+Frank2009	NA	A11 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	121.0	nmol	HPLC	output	test
+Frank2009	NA	A12 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	1.28	nmol	HPLC	output	test
+Frank2009	NA	A13 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	198.0	nmol	HPLC	output	test
+Frank2009	NA	A14 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	3.23	nmol	HPLC	output	test
+Frank2009	NA	A15 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	38.7	nmol	HPLC	output	test
+Frank2009	NA	A16 	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	49.2	nmol	HPLC	output	test
+Frank2009	NA	A01 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	132.0	nmol	HPLC	output	test
+Frank2009	NA	A02 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	1909.0	nmol	HPLC	output	test
+Frank2009	NA	A03 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	546.0	nmol	HPLC	output	test
+Frank2009	NA	A04 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	1645.0	nmol	HPLC	output	test
+Frank2009	NA	A05 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	1569.0	nmol	HPLC	output	test
+Frank2009	NA	A06 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	560.0	nmol	HPLC	output	test
+Frank2009	NA	A07 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	516.0	nmol	HPLC	output	test
+Frank2009	NA	A08 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	176.0	nmol	HPLC	output	test
+Frank2009	NA	A09 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	1561.0	nmol	HPLC	output	test
+Frank2009	NA	A10 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	1314.0	nmol	HPLC	output	test
+Frank2009	NA	A11 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	853.0	nmol	HPLC	output	test
+Frank2009	NA	A12 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	977.0	nmol	HPLC	output	test
+Frank2009	NA	A13 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	692.0	nmol	HPLC	output	test
+Frank2009	NA	A14 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	1385.0	nmol	HPLC	output	test
+Frank2009	NA	A15 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	617.0	nmol	HPLC	output	test
+Frank2009	NA	A16 	1	cumulative amount	dextrorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12.0	hr	1405.0	nmol	HPLC	output	test

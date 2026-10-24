@@ -1,0 +1,11 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	0.0	hr				HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	0.5	hr	2.035637499815773e-06	5.523062728134699e-07	3.3138376368808127e-06	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	1.0	hr	1.585138502011761e-05	3.0819728154338177e-06	1.8491836892602906e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	2.0	hr	2.9132873133778425e-05	6.209633977391637e-06	3.725780386434983e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	3.0	hr	3.0271399831984787e-05	7.8660858597024e-06	4.719651515821432e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	4.0	hr	2.395799619755052e-05	6.945938527066661e-06	4.167563116239997e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	6.0	hr	1.657513890731161e-05	5.106110325075053e-06	3.063666195045025e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	8.0	hr	1.278118377032026e-05	4.2318068881323416e-06	2.5390841328793975e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	12.0	hr	8.5033772530987e-06	3.863965773041923e-06	2.3183794638251462e-05	HPLC	mole/meter^3	dimensionless
+Tenneze1999	Fig1_dextromethorphan_dex80mg	all	36	concentration	dextromethorphan	plasma	dex80mg	24.0	hr	6.360468158170107e-07	5.978391315775264e-07	3.5870347894651515e-06	HPLC	mole/meter^3	dimensionless

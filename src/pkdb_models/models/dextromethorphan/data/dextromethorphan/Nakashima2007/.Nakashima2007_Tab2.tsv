@@ -1,0 +1,9 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	se	sd	min	max	unit	method
+Nakashima2007	NA	em	23	cmax	cinacalcet	plasma	cinacalcet25mg_pre-treatment	NA	NA	19.97	1.83492684370226	8.8	5.85	40.64	ng/ml	LC MS/MS
+Nakashima2007	NA	em	23	tmax	cinacalcet	plasma	cinacalcet25mg_pre-treatment	NA	NA	4.1	0.291920179679905	1.4	1.5	6.0	hr	LC MS/MS
+Nakashima2007	NA	em	23	auc_end	cinacalcet	plasma	cinacalcet25mg_pre-treatment	12.0	hr	201.0	18.1824569057769	87.2	65.4	371.7	ng*hr/ml	LC MS/MS
+Nakashima2007	NA	em	23	kel	cinacalcet	plasma	cinacalcet25mg_pre-treatment	NA	NA	0.01628	0.000765247899589464	0.00367	0.00691	0.02381	1/hr	LC MS/MS
+Nakashima2007	NA	pm	1	cmax	cinacalcet	plasma	cinacalcet25mg_pre-treatment	NA	NA	22.45	NA	NA	NA	NA	ng/ml	LC MS/MS
+Nakashima2007	NA	pm	1	tmax	cinacalcet	plasma	cinacalcet25mg_pre-treatment	NA	NA	4.0	NA	NA	NA	NA	hr	LC MS/MS
+Nakashima2007	NA	pm	1	auc_end	cinacalcet	plasma	cinacalcet25mg_pre-treatment	12.0	hr	321.0	NA	NA	NA	NA	ng*hr/ml	LC MS/MS
+Nakashima2007	NA	pm	1	kel	cinacalcet	plasma	cinacalcet25mg_pre-treatment	NA	NA	0.1986	NA	NA	NA	NA	1/hr	LC MS/MS

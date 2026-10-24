@@ -1,0 +1,4 @@
+study	individual	cyp2d6_genotype	measurement	substance	tissue	label	intervention	time	time_unit	value	method	activities	time_jitter	time_jitter_unit	value_unit
+Koehler1997	control4	*4/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	2.53	HPLC	0.0	0.8396163194603699	hr	dimensionless
+Koehler1997	control9	*4/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	1.09	HPLC	0.0	1.0064099914003763	hr	dimensionless
+Koehler1997	control12	*4/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.664	HPLC	0.0	1.0740891295876727	hr	dimensionless

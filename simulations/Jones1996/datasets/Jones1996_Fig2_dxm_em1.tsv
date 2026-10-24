@@ -1,0 +1,8 @@
+study	label	individual	phenotype	measurement	substance	tissue	intervention	time	time_unit	value	method	value_unit
+Jones1996	fig2_dex_em1	fig2_dex_em1	em	recovery	dextromethorphan	urine	dextromethorphan_30mg	0	hr		HPLC	micromole
+Jones1996	fig2_dex_em1	fig2_dex_em1	em	recovery	dextromethorphan	urine	dextromethorphan_30mg	2	hr	0.30211962461864966	HPLC	micromole
+Jones1996	fig2_dex_em1	fig2_dex_em1	em	recovery	dextromethorphan	urine	dextromethorphan_30mg	4	hr	0.8213901481186718	HPLC	micromole
+Jones1996	fig2_dex_em1	fig2_dex_em1	em	recovery	dextromethorphan	urine	dextromethorphan_30mg	8	hr	1.660691570057921	HPLC	micromole
+Jones1996	fig2_dex_em1	fig2_dex_em1	em	recovery	dextromethorphan	urine	dextromethorphan_30mg	14	hr	2.530403228102754	HPLC	micromole
+Jones1996	fig2_dex_em1	fig2_dex_em1	em	recovery	dextromethorphan	urine	dextromethorphan_30mg	24	hr	2.949216385462263	HPLC	micromole
+Jones1996	fig2_dex_em1	fig2_dex_em1	em	recovery	dextromethorphan	urine	dextromethorphan_30mg	72	hr	2.997331728345934	HPLC	micromole

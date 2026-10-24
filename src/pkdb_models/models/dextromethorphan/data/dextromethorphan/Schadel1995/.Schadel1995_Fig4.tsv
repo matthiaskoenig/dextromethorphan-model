@@ -1,0 +1,96 @@
+study	label	id	measurement	substance	tissue	intervention	time	time_unit	value	unit	method
+Schadel1995	EM2_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	0	hr	na	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	4	hr	5.420843	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	8	hr	15.45302	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	12	hr	19.88508	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	24	hr	20.988226	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	36	hr	20.939081	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	48	hr	21.055918	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	60	hr	21.171518	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	72	hr	21.120827	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	0	hr	na	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	4	hr	16.458494	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	8	hr	27.809254	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	12	hr	32.076878	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	24	hr	33.179714	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	36	hr	33.12995	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	48	hr	32.917606	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	60	hr	33.033207	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	72	hr	33.14726	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	0	hr	na	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	4	hr	22.389647	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	8	hr	43.95464	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	12	hr	53.823303	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	24	hr	56.408543	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	36	hr	56.68889	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	48	hr	56.64067	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	60	hr	56.75627	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	72	hr	56.70558	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	0	hr	na	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	4	hr	0.6669451	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	8	hr	2.1910238	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	12	hr	4.229447	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	24	hr	5.204485	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	36	hr	8.065345	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	48	hr	10.584059	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_3-hydroxymorphinan-glucuronide	EM2	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	10.479969	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	0	hr	na	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	4	hr	3.9203906	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	8	hr	8.185498	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	12	hr	11.593151	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	24	hr	16.164745	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	36	hr	21.421595	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	48	hr	24.796478	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	25.035822	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM2	recovery	dextromethorphan	urine	dextromethorphan_30mg, quinidine_100mg	0	hr	na	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM2	recovery	dextromethorphan	urine	dextromethorphan_30mg, quinidine_100mg	4	hr	2.5514827	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM2	recovery	dextromethorphan	urine	dextromethorphan_30mg, quinidine_100mg	8	hr	4.7595334	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM2	recovery	dextromethorphan	urine	dextromethorphan_30mg, quinidine_100mg	12	hr	7.3113375	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM2	recovery	dextromethorphan	urine	dextromethorphan_30mg, quinidine_100mg	24	hr	10.8568125	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM2	recovery	dextromethorphan	urine	dextromethorphan_30mg, quinidine_100mg	36	hr	12.173676	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM2	recovery	dextromethorphan	urine	dextromethorphan_30mg, quinidine_100mg	48	hr	13.151605	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextromethorphan	EM2	recovery	dextromethorphan	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	13.390626	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg, quinidine_100mg	0	hr	na	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg, quinidine_100mg	4	hr	5.9764833	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg, quinidine_100mg	8	hr	15.891027	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg, quinidine_100mg	12	hr	24.4357	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg, quinidine_100mg	24	hr	35.34263	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg, quinidine_100mg	36	hr	46.250843	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg, quinidine_100mg	48	hr	54.077488	percent	HPLC
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	EM2	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	55.17204	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM3	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	0	hr	na	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM3	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	4	hr	na	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM3	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	8	hr	0.7340962	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM3	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	12	hr	0.8728706	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM3	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	24	hr	2.8174355	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM3	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	36	hr	1.8537726	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM3	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	48	hr	2.726356	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM3	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	60	hr	3.752654	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_3-hydroxymorphinan-glucuronide	PM3	recovery	3-hydroxymorphinan-glucuronide	urine	dextromethorphan_30mg	72	hr	4.3183823	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	0	hr	na	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	4	hr	na	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	8	hr	0.1229719	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	12	hr	0.56659013	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	24	hr	3.1242907	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	36	hr	3.8437338	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	48	hr	4.870894	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	60	hr	5.7437644	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextrorphan-glucuronide	PM3	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg	72	hr	6.461771	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextromethorphan	PM3	recovery	dextromethorphan	urine	dextromethorphan_30mg	0	hr	na	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextromethorphan	PM3	recovery	dextromethorphan	urine	dextromethorphan_30mg	4	hr	1.0556046	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextromethorphan	PM3	recovery	dextromethorphan	urine	dextromethorphan_30mg	8	hr	1.6543742	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextromethorphan	PM3	recovery	dextromethorphan	urine	dextromethorphan_30mg	12	hr	3.170549	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextromethorphan	PM3	recovery	dextromethorphan	urine	dextromethorphan_30mg	24	hr	5.267679	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextromethorphan	PM3	recovery	dextromethorphan	urine	dextromethorphan_30mg	36	hr	6.29369	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextromethorphan	PM3	recovery	dextromethorphan	urine	dextromethorphan_30mg	48	hr	7.6268435	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextromethorphan	PM3	recovery	dextromethorphan	urine	dextromethorphan_30mg	60	hr	9.418268	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_dextromethorphan	PM3	recovery	dextromethorphan	urine	dextromethorphan_30mg	72	hr	10.903987	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	PM3	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	0	hr	na	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	PM3	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	4	hr	2.2821631	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	PM3	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	8	hr	4.257758	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	PM3	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	12	hr	5.77422	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	PM3	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	24	hr	10.474734	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	PM3	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	36	hr	15.176398	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	PM3	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	48	hr	19.113224	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	PM3	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	60	hr	24.427736	percent	HPLC
+Schadel1995	PM3_dextromethorphan_30mg_hm3+hm3glu+dtf+dtfglu+dex+mom3	PM3	recovery	hm3+hm3glu+dtf+dtfglu+dex+mom3	urine	dextromethorphan_30mg	72	hr	29.433956	percent	HPLC

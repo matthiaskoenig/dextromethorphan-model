@@ -1,0 +1,6 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	method	comments	comments_2	value_unit	count_unit
+Frank2009	Tab93_A09_test	A09	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	2	hr	timecourse		HPLC	test	BQL 	nmol	dimensionless
+Frank2009	Tab93_A09_test	A09	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	4	hr	timecourse	12.7	HPLC	test		nmol	dimensionless
+Frank2009	Tab93_A09_test	A09	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	6	hr	timecourse	22.9	HPLC	test		nmol	dimensionless
+Frank2009	Tab93_A09_test	A09	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	8	hr	timecourse	22.9	HPLC	test		nmol	dimensionless
+Frank2009	Tab93_A09_test	A09	1	cumulative amount	dextromethorphan	urine	PRO, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL 	12	hr	timecourse	37.6	HPLC	test		nmol	dimensionless

@@ -1,0 +1,19 @@
+study	group	measurement	substance	tissue	intervention	geometric_mean	cv	unit	time	time_unit	method
+Gazzaz2018	all	auc_end	caffeine	plasma	etoh_qualitative, caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	218.0	0.489	µM*hr	24.0	hr	LC/MSMS
+Gazzaz2018	all	auc_end	caffeine	plasma	caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	158.0	0.59	µM*hr	24.0	hr	LC/MSMS
+Gazzaz2018	all	metabolic ratio	(AFMU+AAMU)/(AFMU+AAMU+1X+1U)	urine	etoh_qualitative, caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	28.5	0.622	dimensionless	10.0	hr	LC/MSMS
+Gazzaz2018	all	metabolic ratio	(AFMU+AAMU)/(AFMU+AAMU+1X+1U)	urine	caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	29.9	0.55	dimensionless	10.0	hr	LC/MSMS
+Gazzaz2018	all	auc_end	tolbutamide	plasma	etoh_qualitative, caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	459.0	22.0	µM*hr	24.0	hr	LC/MSMS
+Gazzaz2018	all	auc_end	tolbutamide	plasma	caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	520.0	243.0	µM*hr	24.0	hr	LC/MSMS
+Gazzaz2018	all	auc_end	omeprazole	plasma	etoh_qualitative, caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	1.83	0.904	µM*hr	24.0	hr	LC/MSMS
+Gazzaz2018	all	auc_end	omeprazole	plasma	caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	1.65	1.09	µM*hr	24.0	hr	LC/MSMS
+Gazzaz2018	all	auc_end	dextromethorphan	plasma	etoh_qualitative, caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	0.362	6.84	µM*hr	24.0	hr	LC/MSMS
+Gazzaz2018	all	auc_end	dextromethorphan	plasma	caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	0.25	13.29	µM*hr	24.0	hr	LC/MSMS
+Gazzaz2018	all	clearance_hepatic	midazolam	plasma	etoh_qualitative, caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	40.2	0.209	L/hr	NA	NA	LC/MSMS
+Gazzaz2018	all	clearance_hepatic	midazolam	plasma	caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	38.3	0.193	L/hr	NA	NA	LC/MSMS
+Gazzaz2018	all	bioavailability	midazolam	plasma	etoh_qualitative, caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	0.428	0.3	dimensionless	NA	NA	LC/MSMS
+Gazzaz2018	all	bioavailability	midazolam	plasma	caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	0.555	0.209	dimensionless	NA	NA	LC/MSMS
+Gazzaz2018	all	cmax	digoxin	plasma	etoh_qualitative, caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	3.22	0.325	nM	NA	NA	LC/MSMS
+Gazzaz2018	all	cmax	digoxin	plasma	caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	3.06	0.315	nM	NA	NA	LC/MSMS
+Gazzaz2018	all	clearance_renal	digoxin	plasma	etoh_qualitative, caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	3.22	0.729	L/hr	NA	NA	LC/MSMS
+Gazzaz2018	all	clearance_renal	digoxin	plasma	caf150mg, tol125mg, ome20mg, dex30mg, mid1mg, mid2mg, dig0.5mg	2.87	0.724	L/hr	NA	NA	LC/MSMS

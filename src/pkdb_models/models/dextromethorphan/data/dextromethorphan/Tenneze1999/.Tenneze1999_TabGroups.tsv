@@ -1,0 +1,14 @@
+study	name	parent	measurement_type	group_count	choice	count	substance	mean	median	min	max	sd	unit	comments
+Tenneze1999	all	NA	species	36	homo sapiens	36	NA	NA	NA	NA	NA	NA	NA	NA
+Tenneze1999	all	NA	healthy	36	Y	36	NA	NA	NA	NA	NA	NA	NA	NA
+Tenneze1999	all	NA	sex	36	M	36	NA	NA	NA	NA	NA	NA	NA	NA
+Tenneze1999	all	NA	age	36	NA	36	NA	25.7	NA	NA	NA	3.2	yr	NA
+Tenneze1999	all	NA	weight	36	NA	36	NA	73.0	NA	NA	NA	9.0	kg	NA
+Tenneze1999	all	NA	overnight fast	36	Y	36	NA	NA	NA	NA	NA	NA	NA	NA
+Tenneze1999	all	NA	cyp2d6 phenotype	36	em	36	NA	NA	NA	NA	NA	NA	NA	"From text: The log10(dextromethorphan/dextrorphan) urinary ratio was
+lower than zero in all 36 subjects, who were therefore
+classified as extensive metabolizers for CYP2D6.4 "
+Tenneze1999	all	NA	cyp2c19 phenotype	36	em	36	NA	NA	NA	NA	NA	NA	NA	"From text: All 36 subjects had a mephenytoin S/R metabolic ratio
+lower than 0.9 and were classified as extensive metabolizers for CYP2C19.5"
+Tenneze1999	all	NA	ethnicity	36	caucasian	36	NA	NA	NA	NA	NA	NA	NA	NA
+Tenneze1999	all	NA	abstinence medication	36	NA	36	NA	NA	NA	1.0	NA	NA	week	NA

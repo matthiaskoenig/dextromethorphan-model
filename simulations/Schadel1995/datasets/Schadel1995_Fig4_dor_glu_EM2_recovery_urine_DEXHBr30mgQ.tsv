@@ -1,0 +1,9 @@
+study	label	id	measurement	substance	tissue	intervention	time	time_unit	value	method	value_unit
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	0	hr		HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	4	hr	3.176119848771267e-06	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	8	hr	6.631513367539834e-06	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	12	hr	9.392236834998652e-06	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	24	hr	1.3095931677018636e-05	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	36	hr	1.7354789359978396e-05	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	48	hr	2.0088964083175808e-05	HPLC	mole
+Schadel1995	EM2_dextromethorphan_30mg, quinidine_100mg_dextrorphan-glucuronide	EM2	recovery	dextrorphan-glucuronide	urine	dextromethorphan_30mg, quinidine_100mg	72	hr	2.028286956521739e-05	HPLC	mole

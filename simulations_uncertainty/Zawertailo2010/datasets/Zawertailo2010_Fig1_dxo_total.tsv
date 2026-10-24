@@ -1,0 +1,8 @@
+study	label	group	count	measurement	substance	tissue	intervention	time	time_unit	mean	mean_se	mean_sd	method	mean_unit	count_unit
+Zawertailo2010	dex_dtf+dtfglu	all	8	concentration	dtf+dtfglu	plasma	dex	0	hr	0.020840969			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dtf+dtfglu	all	8	concentration	dtf+dtfglu	plasma	dex	1	hr	4.0528655			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dtf+dtfglu	all	8	concentration	dtf+dtfglu	plasma	dex	2	hr	9.330493			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dtf+dtfglu	all	8	concentration	dtf+dtfglu	plasma	dex	3	hr	9.213735			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dtf+dtfglu	all	8	concentration	dtf+dtfglu	plasma	dex	4	hr	8.123125			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dtf+dtfglu	all	8	concentration	dtf+dtfglu	plasma	dex	5	hr	6.4915075			NR	nmol/ml	dimensionless
+Zawertailo2010	dex_dtf+dtfglu	all	8	concentration	dtf+dtfglu	plasma	dex	6	hr	4.846595			NR	nmol/ml	dimensionless

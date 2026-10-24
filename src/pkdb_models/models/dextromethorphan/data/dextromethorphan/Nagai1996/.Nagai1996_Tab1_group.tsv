@@ -1,0 +1,7 @@
+study	group	measurement	substance	tissue	intervention	time	time_unit	mean	sd	unit	method
+Nagai1996	pharmacokinetics	thalf	dtf+dtfglu	plasma	dex_30mg	NA	NA	3.1	2.0	hr	HPLC
+Nagai1996	pharmacokinetics	auc_inf	dtf+dtfglu	plasma	dex_30mg	NA	NA	2375.0	607.0	ng*hr/ml	HPLC
+Nagai1996	pharmacokinetics	clearance_renal	dtf+dtfglu	plasma	dex_30mg	NA	NA	62.8	19.7	ml/min	HPLC
+Nagai1996	pharmacokinetics	thalf	3-hydroxymorphinan	plasma	dex_30mg	NA	NA	3.2	1.7	hr	HPLC
+Nagai1996	pharmacokinetics	auc_inf	3-hydroxymorphinan	plasma	dex_30mg	NA	NA	2241.0	590.0	ng*hr/ml	HPLC
+Nagai1996	pharmacokinetics	clearance_renal	3-hydroxymorphinan	plasma	dex_30mg	NA	NA	57.8	24.0	ml/min	HPLC

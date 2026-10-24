@@ -1,0 +1,14 @@
+study	id	activity_score	parent_group	measurement	substance	tissue	intervention	time	time_unit	value	method	time_jitter	time_jitter_unit	value_unit
+Koehler1997	Fig2_EM_panel3_1	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.001979817746125374	HPLC	0.8396163194603699	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_2	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.0015867559651127291	HPLC	1.0064099914003763	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_3	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.0011130404685600137	HPLC	1.0740891295876727	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_4	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.0010206861574664338	HPLC	1.0152619193565653	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_5	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.0009363473287903136	HPLC	1.0863743891323332	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_6	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.0008963309570717968	HPLC	1.2913099222503972	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_7	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.0005588660339138892	HPLC	0.8521176639335598	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_8	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.00046667001592178383	HPLC	1.094547297464586	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_9	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.0002741772896724126	HPLC	0.8333864542682036	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_10	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.0002178134213122817	HPLC	1.034374458145268	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_11	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.00021373873774112404	HPLC	0.9487556290715142	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_12	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.0002018190418441636	HPLC	1.1323758956688572	hr	mole/meter^3
+Koehler1997	Fig2_EM_panel3_13	ambiguous	control	concentration	dtf+dtfglu	serum	dextromethorphan_20mg	1	hr	0.00019782957000615377	HPLC	0.9139719806414976	hr	mole/meter^3

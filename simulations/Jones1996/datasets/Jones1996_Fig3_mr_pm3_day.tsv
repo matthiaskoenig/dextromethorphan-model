@@ -1,0 +1,15 @@
+study	label	individual	phenotype	measurement	substance	tissue	intervention	time	time_unit	value	method	comments	value_unit
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	1	day	9.345406	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	2	day	7.1369634	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	3	day	8.077313	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	4	day	8.249109	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	5	day	10.131566	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	6	day	11.5678215	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	7	day	12.508171	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	8	day	13.101455	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	9	day	13.521184	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	10	day	13.593767	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	11	day	13.790358	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	12	day	13.962114	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	13	day	14.1091175	HPLC		dimensionless
+Jones1996	fig3_A_pm3_(dmt)/(dtf+dtfglu)_day	fig3_A_pm3	pm	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	dextromethorphan_30mg	14	day	14.231247	HPLC		dimensionless

@@ -1,0 +1,113 @@
+study	id	group	measurement	tissue	substance	intervention	time	time_unit	value	unit	method
+Droll1998	Fig1_1	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0643738524146663	dimensionless	HPLC
+Droll1998	Fig1_1	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.672973557119421	dimensionless	HPLC
+Droll1998	Fig1_2	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0422197638678362	dimensionless	HPLC
+Droll1998	Fig1_2	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	1.36552840960966	dimensionless	HPLC
+Droll1998	Fig1_3	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0117522250659026	dimensionless	HPLC
+Droll1998	Fig1_3	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.161255783602708	dimensionless	HPLC
+Droll1998	Fig1_4	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0119166312313368	dimensionless	HPLC
+Droll1998	Fig1_4	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.30155550425339	dimensionless	HPLC
+Droll1998	Fig1_5	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00984430362373033	dimensionless	HPLC
+Droll1998	Fig1_5	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.345453327275594	dimensionless	HPLC
+Droll1998	Fig1_6	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00526761954007157	dimensionless	HPLC
+Droll1998	Fig1_6	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.245889679001306	dimensionless	HPLC
+Droll1998	Fig1_7	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00498610936431948	dimensionless	HPLC
+Droll1998	Fig1_7	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0794945948003437	dimensionless	HPLC
+Droll1998	Fig1_8	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00465854827179473	dimensionless	HPLC
+Droll1998	Fig1_8	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.172631542075831	dimensionless	HPLC
+Droll1998	Fig1_9	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00492085649432228	dimensionless	HPLC
+Droll1998	Fig1_9	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.117954469036471	dimensionless	HPLC
+Droll1998	Fig1_10	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00429585881820353	dimensionless	HPLC
+Droll1998	Fig1_10	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0923274200439926	dimensionless	HPLC
+Droll1998	Fig1_11	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00364931035972078	dimensionless	HPLC
+Droll1998	Fig1_11	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0936257910276869	dimensionless	HPLC
+Droll1998	Fig1_12	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00309694933136184	dimensionless	HPLC
+Droll1998	Fig1_12	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.161278991845353	dimensionless	HPLC
+Droll1998	Fig1_13	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00266668795938675	dimensionless	HPLC
+Droll1998	Fig1_13	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.385257320719388	dimensionless	HPLC
+Droll1998	Fig1_14	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00235920021976887	dimensionless	HPLC
+Droll1998	Fig1_14	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0752841757701605	dimensionless	HPLC
+Droll1998	Fig1_15	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00200398469325749	dimensionless	HPLC
+Droll1998	Fig1_15	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.170262066423473	dimensionless	HPLC
+Droll1998	Fig1_16	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00177329381780522	dimensionless	HPLC
+Droll1998	Fig1_16	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.041365425881052	dimensionless	HPLC
+Droll1998	Fig1_17	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00113204580579895	dimensionless	HPLC
+Droll1998	Fig1_17	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.187287347974657	dimensionless	HPLC
+Droll1998	Fig1_18	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00104323416167908	dimensionless	HPLC
+Droll1998	Fig1_18	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0862434060558463	dimensionless	HPLC
+Droll1998	Fig1_19	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.000974629606751891	dimensionless	HPLC
+Droll1998	Fig1_19	caucasians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0630757611565965	dimensionless	HPLC
+Droll1998	Fig1_20	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.539816729896114	dimensionless	HPLC
+Droll1998	Fig1_20	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	1.41041084921388	dimensionless	HPLC
+Droll1998	Fig1_21	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.213738767129653	dimensionless	HPLC
+Droll1998	Fig1_21	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.2500050607464	dimensionless	HPLC
+Droll1998	Fig1_22	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0210832665762333	dimensionless	HPLC
+Droll1998	Fig1_22	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.332761137341891	dimensionless	HPLC
+Droll1998	Fig1_23	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0202362483191515	dimensionless	HPLC
+Droll1998	Fig1_23	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.294410978037201	dimensionless	HPLC
+Droll1998	Fig1_24	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0183962414060023	dimensionless	HPLC
+Droll1998	Fig1_24	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.114978675110397	dimensionless	HPLC
+Droll1998	Fig1_25	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0102407414132066	dimensionless	HPLC
+Droll1998	Fig1_25	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0500767689977051	dimensionless	HPLC
+Droll1998	Fig1_26	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00983016935592494	dimensionless	HPLC
+Droll1998	Fig1_26	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.294398233674056	dimensionless	HPLC
+Droll1998	Fig1_27	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00532465777319334	dimensionless	HPLC
+Droll1998	Fig1_27	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.912126003370282	dimensionless	HPLC
+Droll1998	Fig1_28	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00525351528298364	dimensionless	HPLC
+Droll1998	Fig1_28	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0989844102739062	dimensionless	HPLC
+Droll1998	Fig1_29	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00662163594913702	dimensionless	HPLC
+Droll1998	Fig1_29	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.163870092930974	dimensionless	HPLC
+Droll1998	Fig1_30	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00539863542324916	dimensionless	HPLC
+Droll1998	Fig1_30	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.733467998243342	dimensionless	HPLC
+Droll1998	Fig1_31	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00893441250234055	dimensionless	HPLC
+Droll1998	Fig1_31	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.639988912343636	dimensionless	HPLC
+Droll1998	Fig1_32	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00445977244625686	dimensionless	HPLC
+Droll1998	Fig1_32	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.246643344034214	dimensionless	HPLC
+Droll1998	Fig1_33	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00363527525284504	dimensionless	HPLC
+Droll1998	Fig1_33	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.221134854527219	dimensionless	HPLC
+Droll1998	Fig1_34	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00300424605808045	dimensionless	HPLC
+Droll1998	Fig1_34	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0574011244470281	dimensionless	HPLC
+Droll1998	Fig1_35	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00205169594448992	dimensionless	HPLC
+Droll1998	Fig1_35	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.528896471914118	dimensionless	HPLC
+Droll1998	Fig1_36	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00196918491414948	dimensionless	HPLC
+Droll1998	Fig1_36	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.236693406455645	dimensionless	HPLC
+Droll1998	Fig1_37	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00156218872864191	dimensionless	HPLC
+Droll1998	Fig1_37	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0507681221866645	dimensionless	HPLC
+Droll1998	Fig1_38	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00490712024335937	dimensionless	HPLC
+Droll1998	Fig1_38	ghanaians	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0113430148330133	dimensionless	HPLC
+Droll1998	Fig1_39	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0788418851616457	dimensionless	HPLC
+Droll1998	Fig1_39	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.24510216081551	dimensionless	HPLC
+Droll1998	Fig1_40	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0399750669709267	dimensionless	HPLC
+Droll1998	Fig1_40	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0999875668134826	dimensionless	HPLC
+Droll1998	Fig1_41	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0296466959933444	dimensionless	HPLC
+Droll1998	Fig1_41	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	1.06287131896968	dimensionless	HPLC
+Droll1998	Fig1_42	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0265902303731482	dimensionless	HPLC
+Droll1998	Fig1_42	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.445628501856109	dimensionless	HPLC
+Droll1998	Fig1_43	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0208267162452005	dimensionless	HPLC
+Droll1998	Fig1_43	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.208251385760382	dimensionless	HPLC
+Droll1998	Fig1_44	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0158745491563754	dimensionless	HPLC
+Droll1998	Fig1_44	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.216894994756121	dimensionless	HPLC
+Droll1998	Fig1_45	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.014237321756787	dimensionless	HPLC
+Droll1998	Fig1_45	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.093437777540094	dimensionless	HPLC
+Droll1998	Fig1_46	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0111479650888581	dimensionless	HPLC
+Droll1998	Fig1_46	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.229036553563762	dimensionless	HPLC
+Droll1998	Fig1_47	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00999864847388979	dimensionless	HPLC
+Droll1998	Fig1_47	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.199908992310027	dimensionless	HPLC
+Droll1998	Fig1_48	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.0063868629923581	dimensionless	HPLC
+Droll1998	Fig1_48	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.368512182836292	dimensionless	HPLC
+Droll1998	Fig1_49	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00542449483479993	dimensionless	HPLC
+Droll1998	Fig1_49	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.317320719248547	dimensionless	HPLC
+Droll1998	Fig1_50	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00542590268113938	dimensionless	HPLC
+Droll1998	Fig1_50	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0580706517071822	dimensionless	HPLC
+Droll1998	Fig1_51	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00397023304721839	dimensionless	HPLC
+Droll1998	Fig1_51	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.255264252521829	dimensionless	HPLC
+Droll1998	Fig1_52	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00328232816981446	dimensionless	HPLC
+Droll1998	Fig1_52	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.184285132828752	dimensionless	HPLC
+Droll1998	Fig1_53	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00315152241235769	dimensionless	HPLC
+Droll1998	Fig1_53	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.148284104915388	dimensionless	HPLC
+Droll1998	Fig1_54	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00580775516881144	dimensionless	HPLC
+Droll1998	Fig1_54	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0909293737460604	dimensionless	HPLC
+Droll1998	Fig1_55	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00173353294644236	dimensionless	HPLC
+Droll1998	Fig1_55	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.163055840716928	dimensionless	HPLC
+Droll1998	Fig1_56	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg	8	hr	0.00159763438852114	dimensionless	HPLC
+Droll1998	Fig1_56	chinese	metabolic ratio	urine	dmt/dtf	dexhbr15mg, Q50mg	8	hr	0.0741697815671876	dimensionless	HPLC

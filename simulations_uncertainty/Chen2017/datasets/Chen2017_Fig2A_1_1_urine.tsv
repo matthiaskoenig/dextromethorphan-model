@@ -1,0 +1,22 @@
+study	group	individual	measurement	substance	tissue	intervention	time	time_unit	x_log10_value	value	method	label	time_jitter	time_jitter_unit	count	value_unit	count_unit
+Chen2017	1_1	1_1-1	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-2.111687	0.0077323766377286	HPLC MS/MS	Fig2A_urine	2.8396163194603696	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-2	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-2.031089	0.009309170830129	HPLC MS/MS	Fig2A_urine	3.0064099914003766	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-3	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.8486822	0.0141683018255097	HPLC MS/MS	Fig2A_urine	3.0740891295876724	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-4	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.8193692	0.0151576124909834	HPLC MS/MS	Fig2A_urine	3.0152619193565653	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-5	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.6584401	0.0219563376070742	HPLC MS/MS	Fig2A_urine	3.086374389132333	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-6	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.3891009	0.0408224532167559	HPLC MS/MS	Fig2A_urine	3.291309922250397	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-7	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.4496706	0.0355082607171806	HPLC MS/MS	Fig2A_urine	2.85211766393356	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-8	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.2317898	0.0586421926035867	HPLC MS/MS	Fig2A_urine	3.094547297464586	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-9	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.078723	0.0834213089487779	HPLC MS/MS	Fig2A_urine	2.8333864542682035	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-10	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.0958219	0.0802006891289399	HPLC MS/MS	Fig2A_urine	3.034374458145268	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-11	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.4670031	0.0341190476190913	HPLC MS/MS	Fig2A_urine	2.9487556290715142	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-12	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.4844345	0.0327767206705997	HPLC MS/MS	Fig2A_urine	3.132375895668857	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-13	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.4194591	0.0380663205148539	HPLC MS/MS	Fig2A_urine	2.913971980641498	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-14	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.319549	0.047912739151062	HPLC MS/MS	Fig2A_urine	3.051949319901836	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-15	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.3281658	0.0469714752023804	HPLC MS/MS	Fig2A_urine	2.8734856282450476	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-16	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.1838684	0.0654834572108303	HPLC MS/MS	Fig2A_urine	2.7840860988703655	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-17	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.2453367	0.0568412081228729	HPLC MS/MS	Fig2A_urine	3.0434733949991726	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-18	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.4894812	0.0323980446791183	HPLC MS/MS	Fig2A_urine	3.17332893199459	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-19	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-1.509782	0.030918470375723	HPLC MS/MS	Fig2A_urine	3.052013415623552	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-20	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-0.93844795	0.115226414989518	HPLC MS/MS	Fig2A_urine	2.899783420624556	hr	1	dimensionless	dimensionless
+Chen2017	1_1	1_1-21	cumulative metabolic ratio	dmt/dtf	urine	DEX	3	hr	-0.981703	0.104303048048065	HPLC MS/MS	Fig2A_urine	3.0268345540392136	hr	1	dimensionless	dimensionless

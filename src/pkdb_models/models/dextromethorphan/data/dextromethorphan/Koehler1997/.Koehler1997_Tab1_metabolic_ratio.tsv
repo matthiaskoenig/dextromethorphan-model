@@ -1,0 +1,29 @@
+study	individual	cyp2d6_genotype	measurement	substance	tissue	label	intervention	time	time_unit	value	unit	method
+Koehler1997	control1	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.016	dimensionless	HPLC
+Koehler1997	control2	*1/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.065	dimensionless	HPLC
+Koehler1997	control3	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.02	dimensionless	HPLC
+Koehler1997	control4	*4/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	2.53	dimensionless	HPLC
+Koehler1997	control5	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.017	dimensionless	HPLC
+Koehler1997	control6	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.093	dimensionless	HPLC
+Koehler1997	control7	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.018	dimensionless	HPLC
+Koehler1997	control8	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.086	dimensionless	HPLC
+Koehler1997	control9	*4/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	1.09	dimensionless	HPLC
+Koehler1997	control10	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.039	dimensionless	HPLC
+Koehler1997	control11	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.088	dimensionless	HPLC
+Koehler1997	control12	*4/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.664	dimensionless	HPLC
+Koehler1997	control13	*1/*4	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.085	dimensionless	HPLC
+Koehler1997	control14	*1/*1	metabolic ratio	(dmt)/(dtf+dtfglu)	serum	Tab1_serum	dextromethorphan_20mg	1	hr	0.033	dimensionless	HPLC
+Koehler1997	control1	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.002	dimensionless	HPLC
+Koehler1997	control2	*1/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.022	dimensionless	HPLC
+Koehler1997	control3	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.137	dimensionless	HPLC
+Koehler1997	control4	*4/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	1.546	dimensionless	HPLC
+Koehler1997	control5	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.005	dimensionless	HPLC
+Koehler1997	control6	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.118	dimensionless	HPLC
+Koehler1997	control7	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.0007	dimensionless	HPLC
+Koehler1997	control8	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.06	dimensionless	HPLC
+Koehler1997	control9	*4/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	1.247	dimensionless	HPLC
+Koehler1997	control10	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.001	dimensionless	HPLC
+Koehler1997	control11	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.002	dimensionless	HPLC
+Koehler1997	control12	*4/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	4.252	dimensionless	HPLC
+Koehler1997	control13	*1/*4	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.007	dimensionless	HPLC
+Koehler1997	control14	*1/*1	cumulative metabolic ratio	(dmt)/(dtf+dtfglu)	urine	Tab1_urine	dextromethorphan_20mg	8	hr	0.006	dimensionless	HPLC

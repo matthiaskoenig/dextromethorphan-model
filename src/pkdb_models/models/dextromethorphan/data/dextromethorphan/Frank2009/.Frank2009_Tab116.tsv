@@ -1,0 +1,73 @@
+study	label	individual	count	measurement	substance	tissue	intervention	time	time_unit	output_type	value	unit	method	comments
+Frank2009	Tab116_B01_reference	B01	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	na	nmol	HPLC	reference
+Frank2009	Tab116_B01_reference	B01	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0121	nmol	HPLC	reference
+Frank2009	Tab116_B01_reference	B01	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0386	nmol	HPLC	reference
+Frank2009	Tab116_B02_reference	B02	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.441	nmol	HPLC	reference
+Frank2009	Tab116_B02_reference	B02	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.586	nmol	HPLC	reference
+Frank2009	Tab116_B02_reference	B02	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.86	nmol	HPLC	reference
+Frank2009	Tab116_B03_reference	B03	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.00535	nmol	HPLC	reference
+Frank2009	Tab116_B03_reference	B03	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.00353	nmol	HPLC	reference
+Frank2009	Tab116_B03_reference	B03	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.00577	nmol	HPLC	reference
+Frank2009	Tab116_B04_reference	B04	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0161	nmol	HPLC	reference
+Frank2009	Tab116_B04_reference	B04	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0197	nmol	HPLC	reference
+Frank2009	Tab116_B04_reference	B04	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0174	nmol	HPLC	reference
+Frank2009	Tab116_B05_reference	B05	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.00153	nmol	HPLC	reference
+Frank2009	Tab116_B05_reference	B05	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0011	nmol	HPLC	reference
+Frank2009	Tab116_B05_reference	B05	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.00095	nmol	HPLC	reference
+Frank2009	Tab116_B06_reference	B06	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	6.49	nmol	HPLC	reference
+Frank2009	Tab116_B06_reference	B06	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	27.9	nmol	HPLC	reference
+Frank2009	Tab116_B06_reference	B06	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	31.5	nmol	HPLC	reference
+Frank2009	Tab116_B07_reference	B07	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0331	nmol	HPLC	reference
+Frank2009	Tab116_B07_reference	B07	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0427	nmol	HPLC	reference
+Frank2009	Tab116_B07_reference	B07	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0474	nmol	HPLC	reference
+Frank2009	Tab116_B08_reference	B08	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.00612	nmol	HPLC	reference
+Frank2009	Tab116_B08_reference	B08	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0208	nmol	HPLC	reference
+Frank2009	Tab116_B08_reference	B08	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0511	nmol	HPLC	reference
+Frank2009	Tab116_B09_reference	B09	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.013	nmol	HPLC	reference
+Frank2009	Tab116_B09_reference	B09	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0107	nmol	HPLC	reference
+Frank2009	Tab116_B09_reference	B09	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0181	nmol	HPLC	reference
+Frank2009	Tab116_B10_reference	B10	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0219	nmol	HPLC	reference
+Frank2009	Tab116_B10_reference	B10	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0222	nmol	HPLC	reference
+Frank2009	Tab116_B10_reference	B10	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0287	nmol	HPLC	reference
+Frank2009	Tab116_B11_reference	B11	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0216	nmol	HPLC	reference
+Frank2009	Tab116_B11_reference	B11	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0447	nmol	HPLC	reference
+Frank2009	Tab116_B11_reference	B11	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0517	nmol	HPLC	reference
+Frank2009	Tab116_B12_reference	B12	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0364	nmol	HPLC	reference
+Frank2009	Tab116_B12_reference	B12	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.104	nmol	HPLC	reference
+Frank2009	Tab116_B12_reference	B12	1	cumulative amount	dtf+dtfglu	urine	CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.136	nmol	HPLC	reference
+Frank2009	Tab116_B01_test	B01	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0451	nmol	HPLC	test
+Frank2009	Tab116_B01_test	B01	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0527	nmol	HPLC	test
+Frank2009	Tab116_B01_test	B01	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0694	nmol	HPLC	test
+Frank2009	Tab116_B02_test	B02	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.183	nmol	HPLC	test
+Frank2009	Tab116_B02_test	B02	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.625	nmol	HPLC	test
+Frank2009	Tab116_B02_test	B02	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.834	nmol	HPLC	test
+Frank2009	Tab116_B03_test	B03	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	na	nmol	HPLC	test
+Frank2009	Tab116_B03_test	B03	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	na	nmol	HPLC	test
+Frank2009	Tab116_B03_test	B03	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.00112	nmol	HPLC	test
+Frank2009	Tab116_B04_test	B04	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0379	nmol	HPLC	test
+Frank2009	Tab116_B04_test	B04	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0371	nmol	HPLC	test
+Frank2009	Tab116_B04_test	B04	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0282	nmol	HPLC	test
+Frank2009	Tab116_B05_test	B05	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.00333	nmol	HPLC	test
+Frank2009	Tab116_B05_test	B05	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.00172	nmol	HPLC	test
+Frank2009	Tab116_B05_test	B05	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0011	nmol	HPLC	test
+Frank2009	Tab116_B06_test	B06	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	9.66	nmol	HPLC	test
+Frank2009	Tab116_B06_test	B06	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	30.2	nmol	HPLC	test
+Frank2009	Tab116_B06_test	B06	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	32.5	nmol	HPLC	test
+Frank2009	Tab116_B07_test	B07	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.00548	nmol	HPLC	test
+Frank2009	Tab116_B07_test	B07	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0133	nmol	HPLC	test
+Frank2009	Tab116_B07_test	B07	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0207	nmol	HPLC	test
+Frank2009	Tab116_B08_test	B08	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0278	nmol	HPLC	test
+Frank2009	Tab116_B08_test	B08	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.121	nmol	HPLC	test
+Frank2009	Tab116_B08_test	B08	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.13	nmol	HPLC	test
+Frank2009	Tab116_B09_test	B09	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0064	nmol	HPLC	test
+Frank2009	Tab116_B09_test	B09	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.00577	nmol	HPLC	test
+Frank2009	Tab116_B09_test	B09	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0103	nmol	HPLC	test
+Frank2009	Tab116_B10_test	B10	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0708	nmol	HPLC	test
+Frank2009	Tab116_B10_test	B10	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.093	nmol	HPLC	test
+Frank2009	Tab116_B10_test	B10	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.101	nmol	HPLC	test
+Frank2009	Tab116_B11_test	B11	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0043	nmol	HPLC	test
+Frank2009	Tab116_B11_test	B11	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0429	nmol	HPLC	test
+Frank2009	Tab116_B11_test	B11	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0433	nmol	HPLC	test
+Frank2009	Tab116_B12_test	B12	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	4	hr	timecourse	0.0426	nmol	HPLC	test
+Frank2009	Tab116_B12_test	B12	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	8	hr	timecourse	0.0426	nmol	HPLC	test
+Frank2009	Tab116_B12_test	B12	1	cumulative amount	dtf+dtfglu	urine	NR_B, CAF, DEX, DIG, MEP ,MID_PO_ABC, MID_IV, TOL	12	hr	timecourse	0.0665	nmol	HPLC	test
